@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Nine Spirits Woods",
+    "displayName": "Rừng Cửu Linh",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1633,7 +1633,7 @@
         },
         {
             "id": 2,
-            "name": "First Visit Event",
+            "name": "Sự kiện ghé thăm lần đầu",
             "note": "",
             "pages": [
                 {
@@ -1696,14 +1696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What spiritual power... I never knew such a place"
+                                "\\N<Shizune>“Sức mạnh tâm linh gì vậy... Tôi chưa bao giờ biết một nơi như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "existed.”"
+                                "đã tồn tại.”"
                             ]
                         },
                         {
@@ -1789,7 +1789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I’ll give one more explanation to be safe...”"
+                                "\\N<Dosui>“Tôi sẽ đưa ra thêm một lời giải thích để đảm bảo an toàn…”"
                             ]
                         },
                         {
@@ -1806,14 +1806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I need you to find \\c[10]3 Medicinal Herbs With White"
+                                "\\N<Dosui>“Tôi cần bạn tìm \\c[10]3 Dược Liệu Trắng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Flowers\\c[0]. Be careful not to make a mistake.”"
+                                "Flowers\\c[0]. Cẩn thận kẻo phạm sai lầm.”"
                             ]
                         },
                         {
@@ -1830,21 +1830,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“They’re unique herbs that don’t grow all in one place,"
+                                "\\N<Dosui>“Chúng là những loại thảo mộc độc đáo không mọc ở một nơi,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "but I’m sure you’ll find three of them deep in the"
+                                "nhưng tôi chắc chắn bạn sẽ tìm thấy ba trong số chúng ở sâu trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "forest.”"
+                                "rừng.\""
                             ]
                         },
                         {
@@ -1868,7 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Got it.”"
+                                "\\N<Shizune>“Đã hiểu.”"
                             ]
                         },
                         {
@@ -1892,14 +1892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Oh, one more thing. Watch out for the animals. As I"
+                                "\\N<Dosui>“Ồ, còn một điều nữa. Hãy coi chừng các loài động vật. Như tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "said before we came here, they’ve gone berserk.”"
+                                "đã nói trước khi chúng ta đến đây, họ đã trở nên điên loạn.”"
                             ]
                         },
                         {
@@ -1916,14 +1916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“...Well, I’ll be heading back... Are you sure you’ll"
+                                "\\N<Dosui>“...Chà, tôi sẽ quay lại... Bạn có chắc là mình sẽ quay lại không?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be okay on your own?”"
+                                "một mình có ổn không?”"
                             ]
                         },
                         {
@@ -1947,14 +1947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I already said I’ll be fine. Just go back and wait for"
+                                "\\N<Shizune>“Tôi đã nói là tôi sẽ ổn thôi. Chỉ cần quay lại và chờ đợi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me.”"
+                                "Tôi.\""
                             ]
                         },
                         {
@@ -1978,14 +1978,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh heh. Such confidence... All right. I’ll take your"
+                                "\\N<Dosui>“He he. Sự tự tin như vậy... Được rồi. Tôi sẽ đưa bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "word for it...”"
+                                "từ cho nó…”"
                             ]
                         },
                         {
@@ -2044,14 +2044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now then, I just gotta find 3 \\c[10]Medicinal Herbs"
+                                "\\N<Shizune>“Bây giờ tôi chỉ cần tìm 3 loại Dược liệu \\c[10]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With White Flowers\\c[0].”"
+                                "Với Flowers\\c[0] màu trắng.”"
                             ]
                         },
                         {
@@ -2068,7 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I just want to get this done quickly.”"
+                                "\\N<Shizune>“Tôi chỉ muốn hoàn thành việc này một cách nhanh chóng.”"
                             ]
                         },
                         {
@@ -2448,7 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Can’t go back until I gather enough medicinal herbs.”"
+                                "\\N<Shizune>“Không thể quay lại cho đến khi tôi thu thập đủ dược liệu.”"
                             ]
                         },
                         {
@@ -2570,7 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Can’t go back until I gather enough medicinal herbs.”"
+                                "\\N<Shizune>“Không thể quay lại cho đến khi tôi thu thập đủ dược liệu.”"
                             ]
                         },
                         {
@@ -2692,7 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Can’t go back until I gather enough medicinal herbs.”"
+                                "\\N<Shizune>“Không thể quay lại cho đến khi tôi thu thập đủ dược liệu.”"
                             ]
                         },
                         {

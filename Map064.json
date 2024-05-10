@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Nine Spirits Woods Depths",
+    "displayName": "Độ sâu rừng Cửu Linh",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4867,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“There’s a force field. Wonder who put it here.”"
+                                "\\N<Shizune>“Có một trường lực. Không biết ai đã đặt nó ở đây.”"
                             ]
                         },
                         {
@@ -5149,7 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“There’s a force field. Wonder who put it here.”"
+                                "\\N<Shizune>“Có một trường lực. Không biết ai đã đặt nó ở đây.”"
                             ]
                         },
                         {
@@ -5391,7 +5391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There’s a force field..."
+                                "Có một trường lực..."
                             ]
                         },
                         {
@@ -5666,7 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“There’s a force field. Wonder who put it here.”"
+                                "\\N<Shizune>“Có một trường lực. Không biết ai đã đặt nó ở đây.”"
                             ]
                         },
                         {
@@ -5908,7 +5908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There’s a force field..."
+                                "Có một trường lực..."
                             ]
                         },
                         {
@@ -6001,7 +6001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I think that’s enough.”"
+                                "\\N<Shizune>“Tôi nghĩ thế là đủ rồi.”"
                             ]
                         },
                         {
@@ -6028,14 +6028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What is this herb used for? I sense some Obscenities"
+                                "\\N<Shizune>“Thảo mộc này dùng để làm gì? Tôi cảm nhận được một số điều tục tĩu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "in it...”"
+                                "trong đó...\""
                             ]
                         },
                         {
@@ -6052,7 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Mmm.”"
+                                "\\N<Shizune>“...Ừm.”"
                             ]
                         },
                         {
@@ -6076,7 +6076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hm...? It smells pretty good.”"
+                                "\\N<Shizune>“Hửm...? Nó có mùi khá thơm.”"
                             ]
                         },
                         {
@@ -6100,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mmm... I feel like I recognize this scent...”"
+                                "\\N<Shizune>“Mmm... tôi cảm thấy như mình nhận ra mùi hương này…”"
                             ]
                         },
                         {
@@ -6136,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6259,7 +6259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...What...!?”"
+                                "\\N<Shizune>“...Cái gì...!?”"
                             ]
                         },
                         {
@@ -6283,7 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>“Ooh ooh ah ah!!”"
+                                "\\N<???>“Ồ ồ ồ à ồ!!”"
                             ]
                         },
                         {
@@ -6307,7 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Huh!? From behind...!?”"
+                                "\\N<Shizune>“Hả!? Từ phía sau...!?\""
                             ]
                         },
                         {
@@ -6382,7 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -6428,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ Ôi ôi ôi ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -6521,7 +6521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-Ah...! Don’t grope my breasts...! ♡”"
+                                "\\N<Shizune>“A-À...! Đừng sờ ngực tôi...! ♡”"
                             ]
                         },
                         {
@@ -6550,7 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6606,7 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!?”"
+                                "\\N<Shizune>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkeys>“Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkeys>“Ồ ồ ồ à ồ! ♡ ♡”"
                             ]
                         },
                         {
@@ -6656,7 +6656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“D-Don’t tell me they’re teaming up...!”"
+                                "\\N<Shizune>“Đ-Đừng nói với tôi là họ đang hợp tác với nhau nhé…!”"
                             ]
                         },
                         {
@@ -6689,7 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Dammit...! G-Get away from me...!”"
+                                "\\N<Shizune>“Chết tiệt...! Đ-Tránh xa tôi ra...!”"
                             ]
                         },
                         {
@@ -6765,7 +6765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -6811,7 +6811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkeys>“Ooh ooh ah ah! Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkeys>“Ồ ồ ồ à ồ! Ồ ồ ồ ồ ồ ồ ồ ồ! ♡ ♡”"
                             ]
                         },
                         {
@@ -6844,7 +6844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“G-Gotta get it off me somehow... Mn! ♡”"
+                                "\\N<Shizune>“G-Phải lấy nó ra khỏi tôi bằng cách nào đó… Mn! ♡”"
                             ]
                         },
                         {
@@ -6861,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-If this keeps up...!”"
+                                "\\N<Shizune>“N-Nếu chuyện này cứ tiếp tục…!”"
                             ]
                         },
                         {
@@ -6885,7 +6885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>“Hold it right there! Perverted monkeys!!”"
+                                "\\N<???>“Giữ nó ngay tại đó! Lũ khỉ biến thái!!”"
                             ]
                         },
                         {
@@ -7313,7 +7313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boom*"
+                                "*bùm*"
                             ]
                         },
                         {
@@ -7385,7 +7385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You...!? Why are you here...!?”"
+                                "\\N<Shizune>“C-Bạn...!? Tại sao bạn ở đây...!?\""
                             ]
                         },
                         {
@@ -7516,14 +7516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I noticed that the animals were acting stranger than"
+                                "\\N<Dosui>“Tôi nhận thấy rằng các con vật có hành động kỳ lạ hơn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "usual when I was on my way down from the mountains.”"
+                                "thường lệ khi tôi đang trên đường từ trên núi xuống.”"
                             ]
                         },
                         {
@@ -7540,14 +7540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“And then came back out of worry that something bad"
+                                "\\N<Dosui>“Và sau đó quay lại vì lo lắng rằng có điều gì đó không ổn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "happened to you...”"
+                                "đã xảy đến với bạn...\""
                             ]
                         },
                         {
@@ -7564,14 +7564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Anyhow, let’s get rid of them swiftly. Your flames"
+                                "\\N<Dosui>“Dù sao đi nữa, hãy loại bỏ chúng nhanh chóng. Ngọn lửa của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "will surely scare them off.”"
+                                "chắc chắn sẽ khiến họ sợ hãi.”"
                             ]
                         },
                         {
@@ -7626,7 +7626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Y-You’re right!”"
+                                "\\N<Shizune>“...Y-Bạn nói đúng!”"
                             ]
                         },
                         {
@@ -7650,7 +7650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“How dare you be so cowardly as to gang up on me...!?”"
+                                "\\N<Shizune>“Sao ngươi dám hèn nhát đến mức tấn công ta...!?”"
                             ]
                         },
                         {
@@ -7724,7 +7724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*whoosh*"
+                                "*vù*"
                             ]
                         },
                         {
@@ -7811,7 +7811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Looks like they’re running away.”"
+                                "\\N<Dosui>“Có vẻ như họ đang bỏ chạy.”"
                             ]
                         },
                         {
@@ -7828,14 +7828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I’m not surprised... Monkeys are easily scared by"
+                                "\\N<Dosui>“Tôi không ngạc nhiên... Khỉ rất dễ sợ hãi trước"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fire.”"
+                                "ngọn lửa.\""
                             ]
                         },
                         {
@@ -7859,14 +7859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah... I know the Obscenities are affecting them, but"
+                                "\\N<Shizune>“Hah... Tôi biết những lời tục tĩu đang ảnh hưởng đến họ, nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "why did they have to put me through that...?”"
+                                "tại sao họ lại bắt tôi phải trải qua chuyện đó…?”"
                             ]
                         },
                         {
@@ -7921,7 +7921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Are you okay?”"
+                                "\\N<Shizune>“...Bạn ổn chứ?”"
                             ]
                         },
                         {
@@ -7976,14 +7976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Yep! Don’t count me out for a second. I’m an exorcist,"
+                                "\\N<Dosui>“Đúng! Đừng coi thường tôi dù chỉ một giây. Tôi là một nhà Trừ tà,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "just like you.”"
+                                "giống như bạn.\""
                             ]
                         },
                         {
@@ -8007,7 +8007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay... That’s good...”"
+                                "\\N<Shizune>“O-Được rồi... Tốt quá…”"
                             ]
                         },
                         {
@@ -8031,14 +8031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Oh, you seem to have gathered enough medicinal herbs!"
+                                "\\N<Dosui>“Ồ, có vẻ như bạn đã thu thập đủ dược liệu rồi!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thanks. ♪”"
+                                "Cảm ơn. ♪”"
                             ]
                         },
                         {
@@ -8065,7 +8065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I’ll hold on to them, then.”"
+                                "\\N<Dosui>“Vậy thì tôi sẽ giữ chúng.”"
                             ]
                         },
                         {
@@ -8089,14 +8089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Was there any point in asking me to get them when"
+                                "\\N<Shizune>“Có ích gì khi yêu cầu tôi lấy chúng khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you ended up following suit, anyways?”"
+                                "dù sao thì cuối cùng bạn cũng làm theo à?”"
                             ]
                         },
                         {
@@ -8120,21 +8120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Don’t think like that. I appreciate you lending a"
+                                "\\N<Dosui>“Đừng nghĩ như vậy. Tôi đánh giá cao việc bạn cho mượn một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hand. Besides, you did a good job at gathering ones"
+                                "tay. Ngoài ra, bạn đã làm rất tốt việc thu thập chúng."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that appear high-quality.”"
+                                "có vẻ chất lượng cao.”"
                             ]
                         },
                         {
@@ -8158,7 +8158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...I-Is that so?”"
+                                "\\N<Shizune>“...T-Vậy à?”"
                             ]
                         },
                         {
@@ -8182,7 +8182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Yes! I apologize for putting you in harm’s way.”"
+                                "\\N<Dosui>“Có! Tôi xin lỗi vì đã khiến bạn gặp nguy hiểm.”"
                             ]
                         },
                         {
@@ -8206,7 +8206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -8223,14 +8223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Well, um... This did serve as a good learning"
+                                "\\N<Shizune>“Chà, ừm... Đây quả thực là một bài học tốt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "experience...”"
+                                "kinh nghiệm...\""
                             ]
                         },
                         {
@@ -8254,7 +8254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“For once, your assistance is appreciated. Thanks.”"
+                                "\\N<Shizune>“Lần này chúng tôi đánh giá cao sự hỗ trợ của bạn. Cảm ơn.\""
                             ]
                         },
                         {
@@ -8278,7 +8278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh heh. ♪ Now we’re even. ♪”"
+                                "\\N<Dosui>“Heh heh. ♪ Bây giờ chúng ta hòa nhau. ♪”"
                             ]
                         },
                         {
@@ -8295,7 +8295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“All right! Let’s head back!”"
+                                "\\N<Dosui>“Được rồi! Chúng ta hãy quay trở lại thôi!”"
                             ]
                         },
                         {
@@ -8319,7 +8319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay.”"
+                                "\\N<Shizune>“...Được rồi.”"
                             ]
                         },
                         {
@@ -8359,7 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Never imagined Dosui would help me out.)"
+                                "\\N<Shizune>(Chưa bao giờ tưởng tượng Dosui sẽ giúp tôi.)"
                             ]
                         },
                         {
@@ -8376,7 +8376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I thought all the men here were the worst...)"
+                                "\\N<Shizune>(Tôi nghĩ tất cả đàn ông ở đây đều tệ nhất...)"
                             ]
                         },
                         {
@@ -8400,14 +8400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(B-But they’re better people than I thought... even if"
+                                "\\N<Shizune>(B-Nhưng họ là những người tốt hơn tôi nghĩ... ngay cả khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "they do ogle and make inappropriate comments.)"
+                                "họ làm điều đó và đưa ra những nhận xét không phù hợp.)"
                             ]
                         },
                         {
@@ -8436,7 +8436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -8616,7 +8616,7 @@
         },
         {
             "id": 7,
-            "name": "Monkey 1",
+            "name": "Khỉ 1",
             "note": "",
             "pages": [
                 {
@@ -8727,7 +8727,7 @@
         },
         {
             "id": 8,
-            "name": "Monkey 2",
+            "name": "Khỉ 2",
             "note": "",
             "pages": [
                 {
@@ -8838,7 +8838,7 @@
         },
         {
             "id": 9,
-            "name": "Monkey 3",
+            "name": "Khỉ 3",
             "note": "",
             "pages": [
                 {
@@ -8949,7 +8949,7 @@
         },
         {
             "id": 10,
-            "name": "Monkey 4",
+            "name": "Khỉ 4",
             "note": "",
             "pages": [
                 {
@@ -9213,7 +9213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“The final battle awaits...”"
+                                "\\N<Kaori>“Trận chiến cuối cùng đang chờ…”"
                             ]
                         },
                         {
@@ -9242,7 +9242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Advancing will start the last battle."
+                                "Tiến lên sẽ bắt đầu trận chiến cuối cùng."
                             ]
                         },
                         {
@@ -9259,14 +9259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The game will end after the battle. Please make sure"
+                                "Trò chơi sẽ kết thúc sau trận chiến. Làm ơn chắc chắn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "not to leave any unfinished business."
+                                "không để lại bất kỳ công việc còn dang dở nào."
                             ]
                         },
                         {
@@ -9274,8 +9274,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Advance (Battle With Defeat Sex Scene Ahead)",
-                                    "Leave"
+                                    "Advance (Trận chiến với cảnh sex thất bại phía trước)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -9288,7 +9288,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Advance (Battle With Defeat Sex Scene Ahead)"
+                                "Advance (Trận chiến với cảnh sex thất bại phía trước)"
                             ]
                         },
                         {
@@ -9317,7 +9317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Are you sure?"
+                                "Bạn có chắc không?"
                             ]
                         },
                         {
@@ -9325,8 +9325,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Advance (Battle With Defeat Sex Scene Ahead)",
-                                    "Leave"
+                                    "Advance (Trận chiến với cảnh sex thất bại phía trước)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -9339,7 +9339,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Advance (Battle With Defeat Sex Scene Ahead)"
+                                "Advance (Trận chiến với cảnh sex thất bại phía trước)"
                             ]
                         },
                         {
@@ -9406,7 +9406,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -9460,7 +9460,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -9569,7 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It’s finally time...”"
+                                "\\N<Shizune>“Cuối cùng cũng đến lúc…”"
                             ]
                         },
                         {
@@ -9598,7 +9598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Advancing will start the last battle."
+                                "Tiến lên sẽ bắt đầu trận chiến cuối cùng."
                             ]
                         },
                         {
@@ -9615,14 +9615,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The game will end after the battle. Please make sure"
+                                "Trò chơi sẽ kết thúc sau trận chiến. Làm ơn chắc chắn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "not to leave any unfinished business."
+                                "không để lại bất kỳ công việc còn dang dở nào."
                             ]
                         },
                         {
@@ -9630,8 +9630,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Advance (Battle With Defeat Sex Scene Ahead)",
-                                    "Leave"
+                                    "Advance (Trận chiến với cảnh sex thất bại phía trước)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -9644,7 +9644,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Advance (Battle With Defeat Sex Scene Ahead)"
+                                "Advance (Trận chiến với cảnh sex thất bại phía trước)"
                             ]
                         },
                         {
@@ -9673,7 +9673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Are you sure?"
+                                "Bạn có chắc không?"
                             ]
                         },
                         {
@@ -9681,8 +9681,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Advance (Battle With Defeat Sex Scene Ahead)",
-                                    "Leave"
+                                    "Advance (Trận chiến với cảnh sex thất bại phía trước)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -9695,7 +9695,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Advance (Battle With Defeat Sex Scene Ahead)"
+                                "Advance (Trận chiến với cảnh sex thất bại phía trước)"
                             ]
                         },
                         {
@@ -9788,7 +9788,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -9842,7 +9842,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -9969,7 +9969,7 @@
         },
         {
             "id": 13,
-            "name": "Force Field Destruction",
+            "name": "Phá hủy trường lực",
             "note": "",
             "pages": [
                 {
@@ -10061,7 +10061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...The time has come, at last...”"
+                                "\\N<Shizune>“...Cuối cùng thì thời cơ cũng đã đến…”"
                             ]
                         },
                         {
@@ -10085,7 +10085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Shizune, are you prepared?”"
+                                "\\N<Kaori>“Shizune, bạn đã chuẩn bị xong chưa?”"
                             ]
                         },
                         {
@@ -10102,7 +10102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Yes. Ready when you are.”"
+                                "\\N<Shizune>“Có. Sẵn sàng khi bạn sẵn sàng.”"
                             ]
                         },
                         {
@@ -10126,7 +10126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Then... let us shatter the force field.”"
+                                "\\N<Kaori>“Vậy thì... chúng ta hãy phá vỡ trường lực.”"
                             ]
                         },
                         {
@@ -10166,7 +10166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...Onward.”"
+                                "\\N<Kaori>“...Trở đi.”"
                             ]
                         },
                         {
@@ -10206,7 +10206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’ll never forget the humiliation I’ve been through.)"
+                                "\\N<Shizune>(Tôi sẽ không bao giờ quên nỗi nhục nhã mà tôi đã trải qua.)"
                             ]
                         },
                         {
@@ -10230,7 +10230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Just you wait... Muramara!)"
+                                "\\N<Shizune>(Đợi đã... Muramara!)"
                             ]
                         },
                         {
@@ -10358,7 +10358,7 @@
         },
         {
             "id": 14,
-            "name": "Event Use Kaori",
+            "name": "Sử dụng sự kiện Kaori",
             "note": "",
             "pages": [
                 {
@@ -10418,7 +10418,7 @@
         },
         {
             "id": 15,
-            "name": "Event Use Shizune",
+            "name": "Sử dụng sự kiện Shizune",
             "note": "",
             "pages": [
                 {

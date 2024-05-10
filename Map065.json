@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1549,7 +1549,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Wh-Why does this even exist...?\""
+                                "\"T-Tại sao thứ này lại tồn tại...?\""
                             ]
                         },
                         {
@@ -1560,7 +1560,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Nothing but creepy details are on it...\""
+                                "\"Không có gì ngoài những chi tiết rùng rợn trên đó...\""
                             ]
                         },
                         {
@@ -1571,7 +1571,7 @@
                                 17,
                                 0,
                                 4,
-                                "\"Hates men who eye up her thicc body.\""
+                                "\"Ghét những người đàn ông để mắt tới thân hình săn chắc của cô.\""
                             ]
                         },
                         {
@@ -1582,7 +1582,7 @@
                                 18,
                                 0,
                                 4,
-                                "\"Like, really, really hates them.\""
+                                "\"Giống như, thực sự, thực sự ghét họ.\""
                             ]
                         },
                         {
@@ -1604,7 +1604,7 @@
                                 22,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -1615,7 +1615,7 @@
                                 24,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -1714,7 +1714,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"M-My numbers must be visible to Shizune as well...\""
+                                "\"M-Số của tôi chắc chắn cũng được Shizune nhìn thấy...\""
                             ]
                         },
                         {
@@ -1725,7 +1725,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I know it’s needed info, but it’s still embarrassing...\""
+                                "\"Tôi biết đó là thông tin cần thiết, nhưng vẫn thấy xấu hổ...\""
                             ]
                         },
                         {
@@ -1736,7 +1736,7 @@
                                 37,
                                 0,
                                 4,
-                                "\"Loves her husband, who has left the world before her.\""
+                                "\"Yêu chồng, người đã rời bỏ thế giới trước cô.\""
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                                 38,
                                 0,
                                 4,
-                                "\"Never thought about dating another man.\""
+                                "\"Chưa bao giờ nghĩ đến việc hẹn hò với người đàn ông khác.\""
                             ]
                         },
                         {
@@ -1883,14 +1883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man>“Apparently, apparitions have been appearing around"
+                                "\\N<Man>“Rõ ràng, các hiện tượng đã xuất hiện xung quanh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here lately...”"
+                                "gần đây ở đây…”"
                             ]
                         },
                         {
@@ -1898,8 +1898,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Purify (♡)",
-                                    "Back"
+                                    "Thanh lọc (♡)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -1912,7 +1912,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Purify (♡)"
+                                "Thanh lọc (♡)"
                             ]
                         },
                         {
@@ -1920,10 +1920,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Breast Grope",
-                                    "Tit Job",
-                                    "Sex",
-                                    "Back"
+                                    "Vú Mò mẫm",
+                                    "Titjob",
+                                    "Tình dục",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -1936,7 +1936,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Breast Grope"
+                                "Vú Mò mẫm"
                             ]
                         },
                         {
@@ -1949,7 +1949,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "Tit Job"
+                                "Titjob"
                             ]
                         },
                         {
@@ -1962,7 +1962,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "Sex"
+                                "Tình dục"
                             ]
                         },
                         {
@@ -1975,7 +1975,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -1998,7 +1998,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {

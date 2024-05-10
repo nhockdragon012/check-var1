@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Nine Spirits Woods",
+    "displayName": "Rừng Cửu Linh",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4261,7 +4261,7 @@
         null,
         {
             "id": 1,
-            "name": "Forest Entrance Event",
+            "name": "Sự kiện vào rừng",
             "note": "",
             "pages": [
                 {
@@ -4350,14 +4350,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Th-This forest... contains an awful amount of"
+                                "\\N<Shizune>“Đ-Khu rừng này... chứa một lượng khủng khiếp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obscenities...”"
+                                "Tục tĩu…”"
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Maybe that’s why the animals are acting strange...”"
+                                "\\N<Shizune>\"Có lẽ đó là lý do tại sao các loài động vật lại hành động kỳ lạ...\""
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“At any rate, avoiding them may be for the best.”"
+                                "\\N<Shizune>“Dù sao đi nữa, tránh chúng có lẽ là điều tốt nhất.”"
                             ]
                         },
                         {
@@ -4585,7 +4585,7 @@
         },
         {
             "id": 2,
-            "name": "Monkey A",
+            "name": "Khỉ A",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1023>",
             "pages": [
                 {
@@ -4636,7 +4636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah!! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à à!! ♡ ♡”"
                             ]
                         },
                         {
@@ -4695,7 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡ ♡"
+                                "*bụp* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -4745,7 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“P-Perverted monkey...!!”"
+                                "\\N<Shizune>“P-Con khỉ biến thái…!!”"
                             ]
                         },
                         {
@@ -4795,7 +4795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bam*"
+                                "*bùm*"
                             ]
                         },
                         {
@@ -4812,7 +4812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah...”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à …”"
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
         },
         {
             "id": 8,
-            "name": "Monkey A",
+            "name": "Khỉ A",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1024>",
             "pages": [
                 {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah...! ♡”"
+                                "\\N<Excited Monkey>“Ồ ôi ôi à ừ...! ♡”"
                             ]
                         },
                         {
@@ -5555,7 +5555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡ ♡"
+                                "*bụp* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -5589,7 +5589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ Ôi ôi ôi ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*pinch* ♡ ♡"
+                                "*véo* ♡ ♡"
                             ]
                         },
                         {
@@ -5651,7 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ngh...! ♡ N-Not my nipples...! ♡”"
+                                "\\N<Shizune>“Ngh...! ♡ K-Không phải núm vú của tôi...! ♡”"
                             ]
                         },
                         {
@@ -5684,7 +5684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“L-Let go of me!! ♡”"
+                                "\\N<Shizune>“L-Thả tôi ra!! ♡”"
                             ]
                         },
                         {
@@ -5734,7 +5734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bam*"
+                                "*bùm*"
                             ]
                         },
                         {
@@ -5751,7 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♪”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♪”"
                             ]
                         },
                         {
@@ -5809,7 +5809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Gosh... I can’t let my guard down around them.”"
+                                "\\N<Shizune>“Chúa ơi... Tôi không thể mất cảnh giác khi ở gần họ được.”"
                             ]
                         },
                         {
@@ -5865,14 +5865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Th-That monkey... forced those sounds out of me by"
+                                "\\N<Shizune>(Th-Con khỉ đó... ép tôi phát ra những âm thanh đó bằng cách"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "just touching me...! ♡)"
+                                "vừa chạm vào tôi...! ♡)"
                             ]
                         },
                         {
@@ -5896,14 +5896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Maybe the Obscenities are affecting them... I’d better"
+                                "\\N<Shizune>(Có lẽ những lời tục tĩu đang ảnh hưởng đến họ... Tốt hơn hết là tôi nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be careful out here...)"
+                                "hãy cẩn thận ở đây...)"
                             ]
                         },
                         {
@@ -6058,7 +6058,7 @@
         },
         {
             "id": 9,
-            "name": "Monkey A",
+            "name": "Khỉ A",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1025>",
             "pages": [
                 {
@@ -6109,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ ♡”"
                             ]
                         },
                         {
@@ -6168,7 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squeeze* ♡ ♡"
+                                "*bóp* ♡ ♡"
                             ]
                         },
                         {
@@ -6202,7 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh... ah ah... ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ôi... à à... ♡ ♡”"
                             ]
                         },
                         {
@@ -6247,7 +6247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squeeze* ♡ ♡"
+                                "*bóp* ♡ ♡"
                             ]
                         },
                         {
@@ -6297,7 +6297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You...! ♡”"
+                                "\\N<Shizune>“C-Bạn...! ♡”"
                             ]
                         },
                         {
@@ -6347,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bam*"
+                                "*bùm*"
                             ]
                         },
                         {
@@ -6364,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah...!”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ ồ ồ ồ ồ ồ ồ...!”"
                             ]
                         },
                         {
@@ -6438,7 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Can’t believe a monkey groped my breasts...”"
+                                "\\N<Shizune>“Không thể tin được một con khỉ đã sờ ngực tôi…”"
                             ]
                         },
                         {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I gotta end this quickly and get away from here...”"
+                                "\\N<Shizune>“Tôi phải kết thúc chuyện này nhanh chóng và rời khỏi đây…”"
                             ]
                         },
                         {
@@ -6675,7 +6675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This must be one of the medicinal herbs...”"
+                                "\\N<Shizune>“Đây chắc hẳn là một trong những loại dược liệu…”"
                             ]
                         },
                         {
@@ -6713,7 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“That’s \\V[204] down... Need to gather more.”"
+                                "\\N<Shizune>“Đó là \\V[204] đã thất bại… Cần thu thập thêm.”"
                             ]
                         },
                         {
@@ -6923,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This must be one of the medicinal herbs...”"
+                                "\\N<Shizune>“Đây chắc hẳn là một trong những loại dược liệu…”"
                             ]
                         },
                         {
@@ -6961,7 +6961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“That’s \\V[204] down... Need to gather more.”"
+                                "\\N<Shizune>“Đó là \\V[204] đã thất bại… Cần thu thập thêm.”"
                             ]
                         },
                         {
@@ -7171,14 +7171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This looks to be another medicinal herb... but I have"
+                                "\\N<Shizune>“Đây có vẻ là một loại dược thảo khác... nhưng tôi có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "a feeling it’s not quite the same as the others.”"
+                                "một cảm giác nó không hoàn toàn giống với những cái khác.”"
                             ]
                         },
                         {
@@ -7195,7 +7195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Maybe I should take it with me, anyways...”"
+                                "\\N<Shizune>“Dù sao thì có lẽ tôi nên mang nó theo…”"
                             ]
                         },
                         {
@@ -7203,8 +7203,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Obtain Medicinal Herb (♡)",
-                                    "Back"
+                                    "Thu được dược thảo (♡)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -7217,7 +7217,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Obtain Medicinal Herb (♡)"
+                                "Thu được dược thảo (♡)"
                             ]
                         },
                         {
@@ -7250,7 +7250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*zoom*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -7362,7 +7362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -7396,7 +7396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Wh-Where did this one come from...!? ♡”"
+                                "\\N<Shizune>“Cái-Cái này đến từ đâu vậy...!? ♡”"
                             ]
                         },
                         {
@@ -7413,7 +7413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ Ôi ôi ôi ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -7446,7 +7446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“L-Let go of me...! You...!”"
+                                "\\N<Shizune>“L-Thả tôi ra…! Bạn...!\""
                             ]
                         },
                         {
@@ -7517,7 +7517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey B>“Ooh ooh ah ah... ♡ ♡”"
+                                "\\N<Excited Monkey B>“Ồ ồ ồ à à... ♡ ♡”"
                             ]
                         },
                         {
@@ -7550,7 +7550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“A-Another one...!?”"
+                                "\\N<Shizune>“A-Lại một cái nữa...!?”"
                             ]
                         },
                         {
@@ -7567,7 +7567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“What’s with them...!? Th-They’re not even humans...”"
+                                "\\N<Shizune>“Có chuyện gì với họ vậy...!? Đ-Họ thậm chí còn không phải là con người…”"
                             ]
                         },
                         {
@@ -7584,7 +7584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey B>“Ooh ooh ah ah! ♡ ♡ ♡”"
+                                "\\N<Excited Monkey B>“Ồ ồ ồ à ồ! ♡ ♡ ♡”"
                             ]
                         },
                         {
@@ -7629,7 +7629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -7675,7 +7675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Th-They’re grabbing too hard...! ♡”"
+                                "\\N<Shizune>“Đ-Họ nắm quá mạnh…! ♡”"
                             ]
                         },
                         {
@@ -7692,7 +7692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ ♡”"
                             ]
                         },
                         {
@@ -7756,7 +7756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ ♡"
+                                "*bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -7773,7 +7773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“J-Just how perverted are these monkeys...? Ahn! ♡ ♡”"
+                                "\\N<Shizune>“J-Những con khỉ này biến thái đến mức nào vậy…? À! ♡ ♡”"
                             ]
                         },
                         {
@@ -7806,14 +7806,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Seriously... Why are they only aiming for my"
+                                "\\N<Shizune>(Nghiêm túc mà nói... Tại sao họ chỉ nhắm tới tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "breasts...!? ♡)"
+                                "ngực...!? ♡)"
                             ]
                         },
                         {
@@ -7863,7 +7863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...! ♡ Getting carried away...!”"
+                                "\\N<Shizune>“Hừm...! ♡ Quá phấn khích...!”"
                             ]
                         },
                         {
@@ -7896,7 +7896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“ENOUGH!!”"
+                                "\\N<Shizune>“Đủ rồi!!”"
                             ]
                         },
                         {
@@ -7946,7 +7946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*whoosh*"
+                                "*vù*"
                             ]
                         },
                         {
@@ -8086,7 +8086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh... ah ah...”"
+                                "\\N<Excited Monkey>“Ồ ôi... à à…”"
                             ]
                         },
                         {
@@ -8126,7 +8126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“F-Finally, they’ve let go...”"
+                                "\\N<Shizune>“F-Cuối cùng, họ cũng buông tay…”"
                             ]
                         },
                         {
@@ -8150,7 +8150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I’ll give them hell if they come near me again...!”"
+                                "\\N<Shizune>“Tôi sẽ cho họ địa ngục nếu họ đến gần tôi lần nữa…!”"
                             ]
                         },
                         {
@@ -8183,7 +8183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡ Ooh ooh ah ah! ♡ ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡ Ôi ôi ôi ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -8200,7 +8200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The monkey appeared to be making fun of Shizune...!"
+                                "Con khỉ dường như đang giễu cợt Shizune...!"
                             ]
                         },
                         {
@@ -8217,7 +8217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Excited Monkey>“Ooh ooh ah ah! ♡”"
+                                "\\N<Excited Monkey>“Ồ ồ ồ à ồ! ♡”"
                             ]
                         },
                         {
@@ -8301,7 +8301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Ah! Hey! Wait...!”"
+                                "\\N<Shizune>“À! Chào! Chờ đợi...!\""
                             ]
                         },
                         {
@@ -8325,7 +8325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“That perverted monkey...! It’s lucky it’s so fast...!”"
+                                "\\N<Shizune>“Con khỉ biến thái đó...! Thật may là nó nhanh như vậy...!”"
                             ]
                         },
                         {
@@ -8342,7 +8342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Still...”"
+                                "\\N<Shizune>“Vẫn…”"
                             ]
                         },
                         {
@@ -8366,14 +8366,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I-It looked like it was making fun of my breast"
+                                "\\N<Shizune>“T-Trông như nó đang trêu đùa cặp vú của tôi vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "size...”"
+                                "kích cỡ...\""
                             ]
                         },
                         {
@@ -8397,14 +8397,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Aaah... Just thinking about it pisses me off...! How"
+                                "\\N<Shizune>“Aaah... Chỉ nghĩ đến thôi cũng thấy bực mình rồi...! Làm sao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "dare that obscene animal do that to me...!?”"
+                                "Con vật tục tĩu đó dám làm vậy với tôi sao…!?”"
                             ]
                         },
                         {
@@ -8428,7 +8428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“This all happened because I picked the wrong herb...”"
+                                "\\N<Shizune>“Tất cả chuyện này xảy ra vì tôi đã chọn nhầm loại thảo mộc…”"
                             ]
                         },
                         {
@@ -8452,7 +8452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...I shouldn’t let my guard down anymore.”"
+                                "\\N<Shizune>“...Tôi không nên mất cảnh giác nữa.”"
                             ]
                         },
                         {
@@ -8474,7 +8474,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Didn’t think I’d be sexually harassed by a monkey...!\""
+                                "\"Không ngờ mình lại bị một con khỉ quấy rối tình dục...!\""
                             ]
                         },
                         {
@@ -8485,7 +8485,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"I even made weird noises... This really sucks...\""
+                                "\"Tôi thậm chí còn tạo ra những tiếng động kỳ lạ... Điều này thực sự tệ hại...\""
                             ]
                         },
                         {
@@ -8530,7 +8530,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -8547,14 +8547,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...This probably isn’t the right one. I need to pay"
+                                "\\N<Shizune>“...Đây có lẽ không phải là cái đúng. Tôi cần phải trả tiền"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "attention more.”"
+                                "chú ý nhiều hơn.”"
                             ]
                         },
                         {
@@ -8708,7 +8708,7 @@
         },
         {
             "id": 13,
-            "name": "Monkey 1",
+            "name": "Khỉ 1",
             "note": "",
             "pages": [
                 {
@@ -8819,7 +8819,7 @@
         },
         {
             "id": 14,
-            "name": "Monkey 2",
+            "name": "Khỉ 2",
             "note": "",
             "pages": [
                 {
@@ -8930,7 +8930,7 @@
         },
         {
             "id": 15,
-            "name": "Gathering End",
+            "name": "Tập hợp kết thúc",
             "note": "",
             "pages": [
                 {

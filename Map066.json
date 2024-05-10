@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1363,7 +1363,7 @@
         null,
         {
             "id": 1,
-            "name": "Middle-Aged Man",
+            "name": "Người đàn ông trung niên",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1015>",
             "pages": [
                 {
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oh, Busty Babe! It’s been a while. ♡”"
+                                "\\N<Middle-Aged Man>“Ồ, em yêu ngực khủng! Đã được một thời gian rồi. ♡”"
                             ]
                         },
                         {
@@ -1422,14 +1422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You’re even sexier than you were when we last met..."
+                                "\\N<Middle-Aged Man>“Bạn thậm chí còn quyến rũ hơn cả lần cuối chúng ta gặp nhau..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ Wanna have some fun? ♡”"
+                                "♡ Muốn vui vẻ chút không? ♡”"
                             ]
                         },
                         {
@@ -1437,8 +1437,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -1451,7 +1451,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)"
+                                "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)"
                             ]
                         },
                         {
@@ -1512,7 +1512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Shizune>“S-Sounds good to me... ♡”"
+                                "\\N<Shizune>“S-Nghe có vẻ hay đấy... ♡”"
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oooh...! Seriously...? ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Nghiêm túc...? ♡”"
                             ]
                         },
                         {
@@ -1546,7 +1546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Let’s get straight to it, then. ♡”"
+                                "\\N<Middle-Aged Man>“Vậy hãy đi thẳng vào vấn đề. ♡”"
                             ]
                         },
                         {
@@ -1569,7 +1569,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -1647,7 +1647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oh...! That’s quite an outfit... ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Đó đúng là một bộ trang phục... ♡”"
                             ]
                         },
                         {
@@ -1664,14 +1664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Heh heh... I can’t say no when you entice me this"
+                                "\\N<Middle-Aged Man>“Heh heh... Tôi không thể nói không khi bạn dụ dỗ tôi thế này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "much... I’ll give you a good fucking. ♡”"
+                                "nhiều... tôi sẽ cho bạn một trận thật vui. ♡”"
                             ]
                         },
                         {
@@ -1679,8 +1679,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify (♡)",
-                                    "Ignore"
+                                    "en(v[1]>74)Thanh lọc (♡)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -1693,7 +1693,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify (♡)"
+                                "en(v[1]>74)Thanh lọc (♡)"
                             ]
                         },
                         {
@@ -1754,7 +1754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Shizune>“S-Sounds good to me... ♡”"
+                                "\\N<Shizune>“S-Nghe có vẻ hay đấy... ♡”"
                             ]
                         },
                         {
@@ -1771,7 +1771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oooh...! Seriously...? ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Nghiêm túc...? ♡”"
                             ]
                         },
                         {
@@ -1788,7 +1788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Let’s get straight to it, then. ♡”"
+                                "\\N<Middle-Aged Man>“Vậy hãy đi thẳng vào vấn đề. ♡”"
                             ]
                         },
                         {
@@ -1811,7 +1811,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -1889,7 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Whoa...! Just how much of a slut are you? ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Bạn là một con đĩ đến mức nào vậy? ♡”"
                             ]
                         },
                         {
@@ -1906,7 +1906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You came to get fucked by me, didn’t you? ♡”"
+                                "\\N<Middle-Aged Man>“Bạn đến để bị tôi làm tình phải không? ♡”"
                             ]
                         },
                         {
@@ -1914,8 +1914,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify (♡)",
-                                    "Ignore"
+                                    "en(v[1]>74)Thanh lọc (♡)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -1928,7 +1928,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify (♡)"
+                                "en(v[1]>74)Thanh lọc (♡)"
                             ]
                         },
                         {
@@ -1989,7 +1989,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Shizune>“S-Sounds good to me... ♡”"
+                                "\\N<Shizune>“S-Nghe có vẻ hay đấy... ♡”"
                             ]
                         },
                         {
@@ -2006,7 +2006,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oooh...! Seriously...? ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Nghiêm túc...? ♡”"
                             ]
                         },
                         {
@@ -2023,7 +2023,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Let’s get straight to it, then. ♡”"
+                                "\\N<Middle-Aged Man>“Vậy hãy đi thẳng vào vấn đề. ♡”"
                             ]
                         },
                         {
@@ -2046,7 +2046,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -2124,7 +2124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "MEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW!"
+                                "MEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW!"
                             ]
                         },
                         {
@@ -2263,9 +2263,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Martial Arts Uniform",
-                                    "Nude"
+                                    "Trang phục nữ tư tế",
+                                    "Đồng phục võ thuật",
+                                    "khỏa thân"
                                 ],
                                 1,
                                 0,
@@ -2278,7 +2278,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -2376,7 +2376,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Martial Arts Uniform"
+                                "Đồng phục võ thuật"
                             ]
                         },
                         {
@@ -2474,7 +2474,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -2653,7 +2653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“It’s my turn, I suppose. ♪”"
+                                "\\N<Kaori>“Tôi đoán là đến lượt tôi rồi. ♪”"
                             ]
                         },
                         {
@@ -2820,7 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Guess it’s my turn.”"
+                                "\\N<Shizune>“Đoán đến lượt tôi rồi.”"
                             ]
                         },
                         {

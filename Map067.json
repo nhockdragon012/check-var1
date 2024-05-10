@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1363,7 +1363,7 @@
         null,
         {
             "id": 1,
-            "name": "Bureau",
+            "name": "Cục",
             "note": "",
             "pages": [
                 {
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“How about a change of clothes?”"
+                                "\\N<Shizune>“Thay quần áo thì sao?”"
                             ]
                         },
                         {
@@ -1420,12 +1420,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Uniform",
-                                    "School Swimsuit",
-                                    "Martial Arts Uniform",
-                                    "if(s[50])Wedding Dress",
-                                    "Nude"
+                                    "Trang phục nữ tư tế",
+                                    "Trang phục thường ngày",
+                                    "Đồ bơi",
+                                    "Đồng phục võ thuật",
+                                    "if(s[50])Váy cưới",
+                                    "khỏa thân"
                                 ],
                                 5,
                                 0,
@@ -1438,7 +1438,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -1523,7 +1523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Phew... This is a little too small for me, I think...”"
+                                "\\N<Shizune>“Phew... Cái này hơi quá nhỏ đối với tôi, tôi nghĩ vậy…”"
                             ]
                         },
                         {
@@ -1543,7 +1543,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Uniform"
+                                "Trang phục thường ngày"
                             ]
                         },
                         {
@@ -1642,7 +1642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Ngh... It’s pretty tight around my breasts...”"
+                                "\\N<Shizune>“Ngh... Nó khá chật quanh ngực tôi…”"
                             ]
                         },
                         {
@@ -1662,7 +1662,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "School Swimsuit"
+                                "Đồ bơi"
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Feels weird to wear this in the house...”"
+                                "\\N<Shizune>“Cảm thấy kỳ lạ khi mặc cái này trong nhà…”"
                             ]
                         },
                         {
@@ -1767,7 +1767,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "Martial Arts Uniform"
+                                "Đồng phục võ thuật"
                             ]
                         },
                         {
@@ -1852,14 +1852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“C-Can’t help but... think of THOSE guys... when I wear"
+                                "\\N<Shizune>“C-Không thể không… nghĩ đến NHỮNG NGƯỜI ĐÓ… khi tôi mặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this...”"
+                                "cái này...\""
                             ]
                         },
                         {
@@ -1879,7 +1879,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "if(s[50])Wedding Dress"
+                                "if(s[50])Váy cưới"
                             ]
                         },
                         {
@@ -1892,7 +1892,7 @@
                             "indent": 0,
                             "parameters": [
                                 5,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -1993,14 +1993,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“J-Just want to take a quick breather from wearing"
+                                "\\N<Shizune>“J-Chỉ muốn xả hơi sau khi mặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "clothes...”"
+                                "quần áo...\""
                             ]
                         },
                         {
@@ -2025,9 +2025,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[51])American School Clothes",
-                                    "Cow Swimsuit",
-                                    "Back"
+                                    "if(s[51])Quần áo đi học Mỹ",
+                                    "Áo tắm bò",
+                                    "Quay lại"
                                 ],
                                 2,
                                 -1,
@@ -2040,7 +2040,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "if(s[51])American School Clothes"
+                                "if(s[51])Quần áo đi học Mỹ"
                             ]
                         },
                         {
@@ -2129,7 +2129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“W-Wonder why I’m even wearing something like this...”"
+                                "\\N<Shizune>“W-Không hiểu tại sao tôi lại mặc thứ như thế này…”"
                             ]
                         },
                         {
@@ -2149,7 +2149,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Cow Swimsuit"
+                                "Áo tắm bò"
                             ]
                         },
                         {
@@ -2238,7 +2238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“W-Wonder why I’m even wearing something like this...”"
+                                "\\N<Shizune>“W-Không hiểu tại sao tôi lại mặc thứ như thế này…”"
                             ]
                         },
                         {
@@ -2258,7 +2258,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -2642,7 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“It’s my turn, I suppose. ♪”"
+                                "\\N<Kaori>“Tôi đoán là đến lượt tôi rồi. ♪”"
                             ]
                         },
                         {
@@ -2809,7 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Guess it’s my turn.”"
+                                "\\N<Shizune>“Đoán đến lượt tôi rồi.”"
                             ]
                         },
                         {
@@ -2936,7 +2936,7 @@
         },
         {
             "id": 6,
-            "name": "Bureau",
+            "name": "Cục",
             "note": "",
             "pages": [
                 {
@@ -3029,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What should I wear?”"
+                                "\\N<Kaori>“Tôi nên mặc gì?”"
                             ]
                         },
                         {
@@ -3044,11 +3044,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Magical Girl Clothes",
-                                    "Cow Swimsuit",
-                                    "Nude",
-                                    "Back"
+                                    "Trang phục nữ tư tế",
+                                    "Quần áo cô gái phép thuật",
+                                    "Áo tắm bò",
+                                    "khỏa thân",
+                                    "Quay lại"
                                 ],
                                 4,
                                 0,
@@ -3061,7 +3061,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -3146,14 +3146,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Hmm... I’ve been cutting back on snacking... and yet I"
+                                "\\N<Kaori>“Hmm... Tôi đã cắt giảm việc ăn vặt... vậy mà tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "feel like I’m getting a little too big again...”"
+                                "cảm giác như mình lại trở nên quá lớn một lần nữa…”"
                             ]
                         },
                         {
@@ -3173,7 +3173,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Magical Girl Clothes"
+                                "Quần áo cô gái phép thuật"
                             ]
                         },
                         {
@@ -3274,7 +3274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I would just like to try it on...”"
+                                "\\N<Kaori>“T-tôi chỉ muốn thử nó…”"
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Cow Swimsuit"
+                                "Áo tắm bò"
                             ]
                         },
                         {
@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Wha-What an embarrassing swimsuit... ♡”"
+                                "\\N<Kaori>“Cái-Thật là đồ bơi đáng xấu hổ... ♡”"
                             ]
                         },
                         {
@@ -3408,7 +3408,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -3509,14 +3509,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Mmm... I cannot let Shizune or Gonzo see me like"
+                                "\\N<Kaori>“Mmm... Tôi không thể để Shizune hoặc Gonzo nhìn thấy tôi như thế này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this...”"
+                                "cái này...\""
                             ]
                         },
                         {
@@ -3536,7 +3536,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
