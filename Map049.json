@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "Dirt2",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Sex Fiend Den",
+    "displayName": "Tình Yêu Quỷ Den",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5287,7 +5287,7 @@
         null,
         {
             "id": 1,
-            "name": "Sex Fiend 1",
+            "name": "Kẻ tình dục 1",
             "note": "",
             "pages": [
                 {
@@ -5357,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5439,7 +5439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡"
+                                "*bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -5472,7 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“St-Stop it...!”"
+                                "\\N<Kaori>“Đ-Dừng lại đi...!”"
                             ]
                         },
                         {
@@ -5522,7 +5522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Wahahahaha...”"
+                                "\\N<Sex Fiend>“Wahahahaha…”"
                             ]
                         },
                         {
@@ -5778,7 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A jar filled with a suspicious fluid..."
+                                "Một cái lọ chứa đầy chất lỏng đáng ngờ..."
                             ]
                         },
                         {
@@ -5802,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Is this... some sort of medicine?”"
+                                "\\N<Kaori>“Đây có phải là... một loại thuốc nào đó không?”"
                             ]
                         },
                         {
@@ -5833,7 +5833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gaze* ♡"
+                                "*nhìn* ♡"
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-It also seems to contain severe Obscenities...”"
+                                "\\N<Kaori>“T-Nó dường như cũng chứa những nội dung Tục tĩu nghiêm trọng…”"
                             ]
                         },
                         {
@@ -5898,14 +5898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(A drug with this many Obscenities would even get to an"
+                                "\\N<Kaori>(Một loại thuốc có nhiều Nội dung tục tĩu như thế này thậm chí sẽ đạt đến mức"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exorcist if consumed...)"
+                                "Trừ tà nếu bị tiêu thụ...)"
                             ]
                         },
                         {
@@ -5922,7 +5922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...I should dispose of it.”"
+                                "\\N<Kaori>“...Tôi nên vứt bỏ nó.”"
                             ]
                         },
                         {
@@ -5997,7 +5997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A jar filled with a suspicious fluid..."
+                                "Một cái lọ chứa đầy chất lỏng đáng ngờ..."
                             ]
                         },
                         {
@@ -6032,7 +6032,7 @@
         },
         {
             "id": 3,
-            "name": "Sex Fiend 2",
+            "name": "Tình dục Quái vật 2",
             "note": "",
             "pages": [
                 {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*pinch* ♡ ♡"
+                                "*véo* ♡ ♡"
                             ]
                         },
                         {
@@ -6200,7 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -6217,7 +6217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn...! ♡ L-Let go of me...!”"
+                                "\\N<Kaori>“Ừm...! ♡ Đ-Thả tôi ra...!”"
                             ]
                         },
                         {
@@ -6267,7 +6267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Heh...!”"
+                                "\\N<Sex Fiend>“Hả...!”"
                             ]
                         },
                         {
@@ -6421,7 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“These traces must belong to Muramara.”"
+                                "\\N<Kaori>“Những dấu vết này phải thuộc về Muramara.”"
                             ]
                         },
                         {
@@ -6438,7 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I may find some clues if I search this place.”"
+                                "\\N<Kaori>“Tôi có thể tìm thấy một số manh mối nếu tìm kiếm ở nơi này.”"
                             ]
                         },
                         {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Now to use an Art to investigate.”"
+                                "\\N<Kaori>“Bây giờ hãy sử dụng Nghệ thuật để điều tra.”"
                             ]
                         },
                         {
@@ -6495,7 +6495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Muramara’s thoughts flow into Kaori..."
+                                "Suy nghĩ của Muramara chảy vào Kaori..."
                             ]
                         },
                         {
@@ -6512,14 +6512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ ♡ The Obscenities in this city are on the"
+                                "\\N<Muramara>“Wahaha! ♡ ♡ Sự tục tĩu ở thành phố này đang gia tăng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "rise. ♡”"
+                                "tăng lên. ♡”"
                             ]
                         },
                         {
@@ -6536,21 +6536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“At this rate, I’ll surely be able to fuck those busty"
+                                "\\N<Muramara>“Với tốc độ này, tôi chắc chắn sẽ có thể đụ những cặp vú đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "priestesses. The mother-daughter duo will soon become"
+                                "các nữ tu sĩ. Bộ đôi mẹ con sẽ sớm trở thành"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "whores who fawn on my cock. ♡”"
+                                "những con điếm nịnh nọt trên cặc tôi. ♡”"
                             ]
                         },
                         {
@@ -6567,7 +6567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“All big titties belong to me...! ♡ ♡”"
+                                "\\N<Muramara>“Tất cả cặp vú lớn đều thuộc về tôi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -6607,7 +6607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...H-How dare he...!?”"
+                                "\\N<Kaori>“...H-Sao hắn dám...!?”"
                             ]
                         },
                         {
@@ -6631,14 +6631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“As I thought, Sex Fiends’ thoughts are nothing but"
+                                "\\N<Kaori>“Đúng như tôi nghĩ, suy nghĩ của Sex Fiends chẳng là gì ngoài"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "despicable...!”"
+                                "đáng khinh...!\""
                             ]
                         },
                         {
@@ -6788,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Is this... a red cloth?”"
+                                "\\N<Kaori>“Đây có phải là... một tấm vải màu đỏ?”"
                             ]
                         },
                         {
@@ -6812,7 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch*"
+                                "*nghẹn ngào*"
                             ]
                         },
                         {
@@ -6836,7 +6836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ugh... It’s sticking to my hand...”"
+                                "\\N<Kaori>“Ugh... Nó dính vào tay tôi…”"
                             ]
                         },
                         {
@@ -6853,7 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Why is it so sticky and smelly...?”"
+                                "\\N<Kaori>“Tại sao nó dính và có mùi như vậy…?”"
                             ]
                         },
                         {
@@ -6870,7 +6870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Anyhow, I’ll use an Art to investigate.”"
+                                "\\N<Kaori>“D-Dù sao đi nữa, tôi sẽ sử dụng Nghệ thuật để điều tra.”"
                             ]
                         },
                         {
@@ -6903,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Muramara’s thoughts flow into Kaori..."
+                                "Suy nghĩ của Muramara chảy vào Kaori..."
                             ]
                         },
                         {
@@ -6920,7 +6920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Hee-hee! ♡ This cloth sure takes me back...”"
+                                "\\N<Muramara>“Hee-hee! ♡ Tấm vải này chắc chắn sẽ đưa tôi quay trở lại…”"
                             ]
                         },
                         {
@@ -6937,7 +6937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“It’s a piece of clothing from the clothes Kaori wore"
+                                "\\N<Muramara>“Đó là một mảnh quần áo từ bộ quần áo Kaori mặc"
                             ]
                         },
                         {
@@ -6968,14 +6968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’ll jack off with this cloth while thinking about her"
+                                "\\N<Muramara>“Tôi sẽ mặc bộ đồ này khi nghĩ về cô ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "huge boobs, I guess. ♡”"
+                                "cặp vú khổng lồ, tôi đoán vậy. ♡”"
                             ]
                         },
                         {
@@ -7023,7 +7023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I need to get rid of this... This thing...!”"
+                                "\\N<Kaori>“T-tôi cần phải loại bỏ thứ này… Thứ này…!”"
                             ]
                         },
                         {
@@ -7063,7 +7063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ugh... And clean my hands while I’m at it...”"
+                                "\\N<Kaori>“Ugh... Và hãy rửa tay cho tôi khi tôi làm việc đó…”"
                             ]
                         },
                         {
@@ -7103,7 +7103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Whew... All clean.”"
+                                "\\N<Kaori>“Ồ...Tất cả đều sạch sẽ.”"
                             ]
                         },
                         {
@@ -7253,7 +7253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Do these belong to Muramara?”"
+                                "\\N<Kaori>“Những thứ này có thuộc về Muramara không?”"
                             ]
                         },
                         {
@@ -7270,7 +7270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Looks like a bunch of books...”"
+                                "\\N<Kaori>“Trông giống như một đống sách…”"
                             ]
                         },
                         {
@@ -7294,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Some of these may have been stolen from my house...!”"
+                                "\\N<Kaori>“Một số trong số này có thể đã bị đánh cắp khỏi nhà tôi...!”"
                             ]
                         },
                         {
@@ -7318,7 +7318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Let’s see...”"
+                                "\\N<Kaori>“Hãy xem…”"
                             ]
                         },
                         {
@@ -7342,14 +7342,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...B-Busty MILF Bondage Training In Hot Springs"
+                                "\\N<Kaori>“...Đào tạo trói buộc MILF B-Busty ở suối nước nóng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Inn...?”"
+                                "Nhà trọ...?\""
                             ]
                         },
                         {
@@ -7366,7 +7366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-It’s just a porn magazine...!”"
+                                "\\N<Kaori>“Đ-Nó chỉ là một tạp chí khiêu dâm mà thôi…!”"
                             ]
                         },
                         {
@@ -7390,14 +7390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“G-Gosh...! Why must Sex Fiend be like this...? There"
+                                "\\N<Kaori>“Trời ơi...! Tại sao Sex Fiend lại phải như thế này...? Ở đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "are so many of them...”"
+                                "có rất nhiều người trong số họ…”"
                             ]
                         },
                         {
@@ -7414,14 +7414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...It’d be a good idea to quit flipping through"
+                                "\\N<Kaori>“...Bạn nên dừng việc lướt qua"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "these.”"
+                                "những cái này.\""
                             ]
                         },
                         {
@@ -7438,21 +7438,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I’ve never seen such a big collection of obscene"
+                                "\\N<Kaori>“T-tôi chưa bao giờ thấy một bộ sưu tập nội dung tục tĩu lớn như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "books... I wouldn’t be surprised if I found more"
+                                "sách... Tôi sẽ không ngạc nhiên nếu tôi tìm thấy thêm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "strange things now...”"
+                                "những điều kỳ lạ bây giờ…”"
                             ]
                         },
                         {
@@ -7973,7 +7973,7 @@
         },
         {
             "id": 12,
-            "name": "Entrance Event",
+            "name": "Sự kiện tuyển sinh",
             "note": "",
             "pages": [
                 {
@@ -8076,14 +8076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“These Obscenities and this spiritual power... I’m"
+                                "\\N<Kaori>“Những lời tục tĩu và sức mạnh tâm linh này... Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "positive they belong to Muramara...!”"
+                                "khẳng định họ thuộc về Muramara…!”"
                             ]
                         },
                         {
@@ -8100,21 +8100,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“It would seem he turned this place into his"
+                                "\\N<Kaori>“Có vẻ như anh ấy đã biến nơi này thành của mình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "stronghold. I should keep an eye out for any other Sex"
+                                "thành trì. Tôi nên để mắt tới bất kỳ giới tính nào khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fiends as I advance.”"
+                                "Những kẻ thù khi tôi tiến lên.”"
                             ]
                         },
                         {
@@ -8437,7 +8437,7 @@
         },
         {
             "id": 15,
-            "name": "Combat Introduction",
+            "name": "Giới thiệu chiến đấu",
             "note": "",
             "pages": [
                 {
@@ -8495,7 +8495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...These Obscenities...”"
+                                "\\N<Kaori>“...Những lời tục tĩu này…”"
                             ]
                         },
                         {
@@ -8613,7 +8613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I’ve finally found you... Muramara!”"
+                                "\\N<Kaori>“Cuối cùng tôi đã tìm thấy bạn… Muramara!”"
                             ]
                         },
                         {
@@ -8677,14 +8677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“WHA-WHAT!? Didn’t think you yourself would come find"
+                                "\\N<Muramara>“CÁ-CÁI GÌ!? Không nghĩ tới chính ngươi sẽ tới tìm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me...”"
+                                "Tôi...\""
                             ]
                         },
                         {
@@ -8708,14 +8708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“There’s no escape for you anymore... I will never"
+                                "\\N<Kaori>“Anh không còn lối thoát nữa... Tôi sẽ không bao giờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "forgive you for what you did to my daughter!”"
+                                "tha thứ cho những gì bạn đã làm với con gái tôi!"
                             ]
                         },
                         {
@@ -8739,14 +8739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♪ What else was I supposed to do when her"
+                                "\\N<Muramara>“Wahaha! ♪ Tôi phải làm gì khác khi cô ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "giant jugs were jiggling so much? ♡”"
+                                "những chiếc bình khổng lồ lắc lư nhiều đến thế? ♡”"
                             ]
                         },
                         {
@@ -8794,21 +8794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Not just looks and talent but even sexiness seems to"
+                                "\\N<Muramara>“Không chỉ ngoại hình, tài năng mà ngay cả vẻ gợi cảm cũng vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "run in your family. You and your daughter are so"
+                                "chạy trong gia đình bạn. Anh và con gái anh như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "similar. ♡”"
+                                "tương tự. ♡”"
                             ]
                         },
                         {
@@ -8832,14 +8832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“St-Stop it! You can insult me, but don’t speak a word"
+                                "\\N<Kaori>“Đ-Dừng lại đi! Bạn có thể xúc phạm tôi, nhưng đừng nói một lời"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "about Shizune...!”"
+                                "về Shizune…!”"
                             ]
                         },
                         {
@@ -8863,14 +8863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’m just telling the truth. ♪ One day, I will make"
+                                "\\N<Muramara>“Tôi chỉ nói sự thật. ♪ Một ngày nào đó, tôi sẽ làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you and your daughter bend over before me an— ♡”"
+                                "cậu và con gái cậu cúi xuống trước mặt tôi và— ♡”"
                             ]
                         },
                         {
@@ -8980,7 +8980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Ack... Y-You didn’t even let me finish!”"
+                                "\\N<Muramara>“Ack... Y-Bạn thậm chí còn không để tôi nói hết!”"
                             ]
                         },
                         {
@@ -9004,7 +9004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I will exorcise you... here and now...!”"
+                                "\\N<Kaori>“Tôi sẽ Trừ tà cho bạn… ở đây và bây giờ…!”"
                             ]
                         },
                         {
@@ -9028,7 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! Like I’d just let you do that!”"
+                                "\\N<Muramara>“Wahaha! Làm như tôi để cậu làm điều đó ấy!”"
                             ]
                         },
                         {
@@ -9045,14 +9045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I have a dream, and that dream is to get lots of busty"
+                                "\\N<Muramara>“Tôi có một ước mơ, và ước mơ đó là có được nhiều cặp vú khủng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "women like you two and make love to them all the time."
+                                "phụ nữ thích hai bạn và làm tình với họ mọi lúc."
                             ]
                         },
                         {
@@ -9083,7 +9083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha-What a vile imagination you have...!”"
+                                "\\N<Kaori>“Cái-Bạn có trí tưởng tượng thật tệ hại…!”"
                             ]
                         },
                         {
@@ -9107,14 +9107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I could only seal you away when I was a student... but"
+                                "\\N<Kaori>“Lần trước tôi chỉ có thể phong ấn bạn đi… nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "now I can make you disappear completely...!”"
+                                "bây giờ tôi có thể làm cho bạn biến mất hoàn toàn ...!"
                             ]
                         },
                         {
@@ -9147,7 +9147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“E-Even I know I shouldn’t get hit by that...”"
+                                "\\N<Muramara>“E-Ngay cả tôi cũng biết mình không nên bị trúng đòn đó…”"
                             ]
                         },
                         {
@@ -9164,7 +9164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Good thing I have my Cursed Talisman of Transfer...”"
+                                "\\N<Muramara>“Thật may là tôi có Bùa dịch chuyển bị nguyền rủa…”"
                             ]
                         },
                         {
@@ -9181,14 +9181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Tsk! It’s out of juice from when I used it at the"
+                                "\\N<Muramara>“Chậc! Nó đã hết nước từ khi tôi sử dụng nó ở"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "school...!”"
+                                "trường học...!\""
                             ]
                         },
                         {
@@ -9212,7 +9212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Resign yourself, Muramara!”"
+                                "\\N<Kaori>“Hãy từ chức đi, Muramara!”"
                             ]
                         },
                         {
@@ -9236,7 +9236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Ugh... Fine... I’ll just have to use THAT.”"
+                                "\\N<Muramara>“Ugh... Được rồi... Tôi sẽ phải sử dụng ĐÓ.”"
                             ]
                         },
                         {
@@ -9253,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“...COME ON OUT!!!”"
+                                "\\N<Muramara>“...ĐI RA!!!”"
                             ]
                         },
                         {
@@ -9277,7 +9277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha-What are you...!?”"
+                                "\\N<Kaori>“Bạn-Bạn là gì...!?”"
                             ]
                         },
                         {
@@ -9360,7 +9360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wha-What on earth is that...!?)"
+                                "\\N<Kaori>(Cái-Cái quái gì vậy...!?)"
                             ]
                         },
                         {
@@ -9384,7 +9384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Hey! I’m your master, got it?”"
+                                "\\N<Muramara>“Này! Tôi là chủ nhân của bạn, hiểu không?"
                             ]
                         },
                         {
@@ -9401,7 +9401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Now, do what I say...”"
+                                "\\N<Muramara>“Bây giờ, hãy làm theo những gì tôi bảo…”"
                             ]
                         },
                         {
@@ -9449,14 +9449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>“Huh!? Why do I have to take orders from a worm like"
+                                "\\N<???>“Hả!? Tại sao tôi phải nhận lệnh từ một con sâu như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you?”"
+                                "Bạn?\""
                             ]
                         },
                         {
@@ -9473,7 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wha...!? Watch your mouth!”"
+                                "\\N<Muramara>“Cái gì...!? Cẩn thận mồm miệng!\""
                             ]
                         },
                         {
@@ -9506,14 +9506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I thought he summoned an ally of his... but they don’t"
+                                "\\N<Kaori>(Tôi tưởng anh ấy đã triệu tập một đồng minh của mình... nhưng họ không triệu tập"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "seem to be working together.)"
+                                "dường như đang làm việc cùng nhau.)"
                             ]
                         },
                         {
@@ -9537,7 +9537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’m the one who freed you from the seal, Lewd Oni!”"
+                                "\\N<Muramara>“Tôi là người đã giải thoát anh khỏi phong ấn, Quỷ Dâm Dục!”"
                             ]
                         },
                         {
@@ -9554,7 +9554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“So what?”"
+                                "\\N<Quỷ Dâm Dục>“Vậy thì sao?”"
                             ]
                         },
                         {
@@ -9571,14 +9571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I don’t care about anything other than assaulting"
+                                "\\N<Quỷ Dâm Dục>“Tôi không quan tâm đến bất cứ điều gì khác ngoài việc tấn công"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "women. ♡”"
+                                "phụ nữ. ♡”"
                             ]
                         },
                         {
@@ -9595,14 +9595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“And I’m way more powerful than you, so I have no"
+                                "\\N<Quỷ Dâm Dục>“Và tôi mạnh hơn bạn rất nhiều nên tôi không có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "reason to obey you whatsoever.”"
+                                "lý do để vâng lời bạn bất cứ điều gì."
                             ]
                         },
                         {
@@ -9619,7 +9619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Sh-Shit...! Looking down on me...!”"
+                                "\\N<Muramara>“Chết tiệt...! Nhìn xuống tôi...!”"
                             ]
                         },
                         {
@@ -9636,7 +9636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>(I knew I should have taken the time to summon...)"
+                                "\\N<Muramara>(Tôi biết lẽ ra tôi nên dành thời gian để triệu hồi...)"
                             ]
                         },
                         {
@@ -9653,14 +9653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>(Still, I won’t get anything out of regretting... Just"
+                                "\\N<Muramara>(Tuy nhiên, tôi sẽ không nhận được gì ngoài sự hối tiếc... Chỉ là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have to make do...)"
+                                "phải làm gì...)"
                             ]
                         },
                         {
@@ -9677,14 +9677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Anyways, I’ll leave this woman to you... I’m outta"
+                                "\\N<Muramara>“Dù sao thì, tôi sẽ để người phụ nữ này cho bạn… Tôi ra ngoài rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here. ♪”"
+                                "đây. ♪”"
                             ]
                         },
                         {
@@ -9701,14 +9701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Kaori! Don’t you dare let Lewd Oni get the better of"
+                                "\\N<Muramara>“Kaori! Bạn không dám để Quỷ Dâm Dục thắng được sao?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you! You and your daughter belong to me! ♡”"
+                                "Bạn! Cô và con gái cô là của tôi! ♡”"
                             ]
                         },
                         {
@@ -9725,7 +9725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Can’t wait to see you both again. ♡”"
+                                "\\N<Muramara>“Rất mong được gặp lại cả hai bạn. ♡”"
                             ]
                         },
                         {
@@ -9749,7 +9749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“H-Hold it right there...!”"
+                                "\\N<Kaori>“H-Giữ nó ngay tại đó...!”"
                             ]
                         },
                         {
@@ -9773,7 +9773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha...”"
+                                "\\N<Muramara>“Wahaha…”"
                             ]
                         },
                         {
@@ -9858,7 +9858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“...Looks like the hindrance is gone.”"
+                                "\\N<Quỷ Dâm Dục>“...Có vẻ như chướng ngại vật đã biến mất.”"
                             ]
                         },
                         {
@@ -9875,14 +9875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh. ♡ It’s been a while since I’ve had a"
+                                "\\N<Quỷ Dâm Dục>“Heh heh heh. ♡ Đã lâu rồi tôi mới có một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "human. ♡ And this one has some unusually large tits."
+                                "nhân loại. ♡ Và em này có cặp vú to bất thường."
                             ]
                         },
                         {
@@ -9906,7 +9906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’ll definitely knock you up...! ♡ ♡”"
+                                "\\N<Quỷ Dâm Dục>“Tôi chắc chắn sẽ đánh gục bạn…! ♡ ♡”"
                             ]
                         },
                         {
@@ -9930,14 +9930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Must chase after Muramara while there are still traces"
+                                "\\N<Kaori>“Phải đuổi theo Muramara khi vẫn còn dấu vết"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of him left!”"
+                                "của anh ấy đã rời đi!"
                             ]
                         },
                         {
@@ -9954,14 +9954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I don’t know you very well, but if you are a Sex Fiend"
+                                "\\N<Kaori>“Tôi không biết rõ về bạn, nhưng nếu bạn là một Kẻ cuồng tình dục"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that threatens the lives of people...”"
+                                "đe dọa đến tính mạng con người…”"
                             ]
                         },
                         {
@@ -9985,7 +9985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I will exorcise you!”"
+                                "\\N<Kaori>“Tôi sẽ Trừ tà cho bạn!”"
                             ]
                         },
                         {
@@ -10009,7 +10009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ Might be worth making you yield to me."
+                                "\\N<Quỷ Dâm Dục>“He he he he! ♡ Có thể đáng để khiến bạn nhường nhịn tôi."
                             ]
                         },
                         {
@@ -10033,7 +10033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Now... Come at me!!”"
+                                "\\N<Quỷ Dâm Dục>“Bây giờ... Hãy đến với tôi!!”"
                             ]
                         },
                         {
@@ -10158,7 +10158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Lewd Oni>“Ugh... Y-You’re strong...!”"
+                                "\\N<Quỷ Dâm Dục>“Ugh... Đ-Bạn mạnh mẽ quá…!”"
                             ]
                         },
                         {
@@ -10182,7 +10182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...That’s it for you!”"
+                                "\\N<Kaori>“...Đó là dành cho bạn!”"
                             ]
                         },
                         {
@@ -10206,7 +10206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Lewd Oni>“W-Wait! I was just summoned by him...”"
+                                "\\N<Quỷ Dâm Dục>“C-Đợi đã! Tôi vừa được anh ấy triệu tập…”"
                             ]
                         },
                         {
@@ -10246,7 +10246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Lewd Oni>“AAAAAAAAAGH!!!”"
+                                "\\N<Quỷ Dâm Dục>“AAAAAAAAAAGH!!!”"
                             ]
                         },
                         {
@@ -10314,14 +10314,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...That was an awfully powerful Sex Fiend. To think"
+                                "\\N<Kaori>“...Đó là một con Sex Fiend cực kỳ mạnh mẽ. Để nghĩ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "he’d call upon a Sex Fiend with that much strength...”"
+                                "anh ta sẽ triệu hồi một Sex Fiend với sức mạnh lớn như vậy…”"
                             ]
                         },
                         {
@@ -10338,14 +10338,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Even if Muramara couldn’t control that apparition, he"
+                                "\\N<Kaori>“Ngay cả khi Muramara không thể kiểm soát được sự hiện hình đó, anh ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "still isn’t to be underestimated...”"
+                                "vẫn không thể đánh giá thấp được…”"
                             ]
                         },
                         {
@@ -10362,21 +10362,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Who knows what will happen if I leave him to do as he"
+                                "\\N<Kaori>“Ai biết được điều gì sẽ xảy ra nếu tôi để anh ấy làm như anh ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "wishes...? I must put a stop to him before it’s too"
+                                "mong muốn...? Tôi phải ngăn chặn anh ta trước khi điều đó xảy ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "late...”"
+                                "muộn...\""
                             ]
                         },
                         {
@@ -10400,14 +10400,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...That said, there’s no more spiritual power here for"
+                                "\\N<Kaori>“...Điều đó nói lên rằng, ở đây không còn sức mạnh tâm linh nào nữa cho"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "me to trace back to him.”"
+                                "tôi để lần theo dấu vết của anh ấy.”"
                             ]
                         },
                         {
@@ -10431,21 +10431,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“As unfortunate as it is, I shouldn’t push myself too"
+                                "\\N<Kaori>“Thật không may, tôi cũng không nên thúc ép bản thân"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "hard... I should head home after investigating this"
+                                "khó quá... Tôi nên về nhà sau khi điều tra chuyện này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "place a bit and then send letters to the exorcists.”"
+                                "đặt một chút rồi gửi thư cho các nhà diệt quỷ.”"
                             ]
                         },
                         {
@@ -10482,7 +10482,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"Who knew there’d be such a strong Sex Fiend...?\""
+                                "\"Ai biết được sẽ có một Sex Fiend mạnh mẽ như vậy...?\""
                             ]
                         },
                         {
@@ -10493,7 +10493,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I dread to think what would’ve happened if I lost...\""
+                                "\"Tôi sợ hãi khi nghĩ điều gì sẽ xảy ra nếu tôi thua...\""
                             ]
                         },
                         {
@@ -10504,7 +10504,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Head Home & Check On Shizune\""
+                                "\"Về nhà và kiểm tra Shizune\""
                             ]
                         },
                         {
@@ -10700,21 +10700,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“This is the hole Muramara used to escape. It’s too"
+                                "\\N<Kaori>“Đây là cái lỗ mà Muramara dùng để trốn thoát. Nó quá"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "narrow for a human to crawl in... I have to find some"
+                                "chật hẹp để con người có thể bò vào... Tôi phải tìm một ít"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "other way.”"
+                                "cách khác.\""
                             ]
                         },
                         {
@@ -10756,7 +10756,7 @@
         },
         {
             "id": 17,
-            "name": "Defeat Event",
+            "name": "Sự kiện đánh bại",
             "note": "",
             "pages": [
                 {
@@ -10893,14 +10893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ So much for being the strongest"
+                                "\\N<Quỷ Dâm Dục>“He he he he! ♡ Quá nhiều để trở thành người mạnh nhất"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exorcist...”"
+                                "thầy Trừ tà…”"
                             ]
                         },
                         {
@@ -10917,7 +10917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“You’re just a human bitch... ♡”"
+                                "\\N<Quỷ Dâm Dục>“Mày chỉ là một con người khốn nạn... ♡”"
                             ]
                         },
                         {
@@ -10941,7 +10941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Ngh... Not here...!)"
+                                "\\N<Kaori>(Ngh... Không có ở đây...!)"
                             ]
                         },
                         {
@@ -10965,7 +10965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ It’s been a while since I’ve mated! ♡"
+                                "\\N<Quỷ Dâm Dục>“He he he he! ♡ Đã lâu rồi tôi mới giao phối! ♡"
                             ]
                         },
                         {
@@ -11076,7 +11076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lewd Oni approached Kaori as his penis became erect...!"
+                                "Quỷ Dâm Dục tiếp cận Kaori khi dương vật của anh ấy cương cứng lên...!"
                             ]
                         },
                         {
@@ -11100,7 +11100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“D-Don’t do it...! Stay away...!”"
+                                "\\N<Kaori>“Đ-Đừng làm vậy...! Tránh xa ra...!”"
                             ]
                         },
                         {
@@ -11124,7 +11124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Quiet! Behave! ♡”"
+                                "\\N<Quỷ Dâm Dục>“Im lặng! Ứng xử! ♡”"
                             ]
                         },
                         {
@@ -11148,7 +11148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“N-No...”"
+                                "\\N<Kaori>“K-Không…”"
                             ]
                         },
                         {
@@ -11203,7 +11203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*tear*"
+                                "*xé*"
                             ]
                         },
                         {
@@ -11269,7 +11269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Oh...! ♡ You have big fucking tits. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Ồ...! ♡ Bạn có cặp vú to khủng khiếp. ♡”"
                             ]
                         },
                         {
@@ -11286,7 +11286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Raping you will be worthwhile, it seems. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Có vẻ như việc cưỡng hiếp bạn sẽ đáng giá. ♡”"
                             ]
                         },
                         {
@@ -11310,7 +11310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“D-Don’t look at me...!”"
+                                "\\N<Kaori>“Đ-Đừng nhìn tôi...!”"
                             ]
                         },
                         {
@@ -11327,7 +11327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(A-At this rate, Lewd Oni will...)"
+                                "\\N<Kaori>(A-Cứ thế này, Oni dâm dục sẽ...)"
                             ]
                         },
                         {
@@ -11344,7 +11344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I must find an opening somehow...)"
+                                "\\N<Kaori>(Tôi phải tìm cách nào đó mở ra...)"
                             ]
                         },
                         {
@@ -11368,14 +11368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Alright! Guess I’ll just ram it in there... A male"
+                                "\\N<Quỷ Dâm Dục>“Được rồi! Đoán là tôi sẽ đâm nó vào đó... Một con đực"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "human’s is nothing compared to mine. Brace yourself."
+                                "của con người chẳng là gì so với của tôi. Hãy chuẩn bị tinh thần."
                             ]
                         },
                         {
@@ -11406,7 +11406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-You mustn’t... Let go of me...!”"
+                                "\\N<Kaori>“A-Anh không được…Thả tôi ra…!”"
                             ]
                         },
                         {
@@ -11435,7 +11435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kaori resisted fiercely but could not escape from Lewd"
+                                "Kaori chống cự quyết liệt nhưng không thể thoát khỏi Dâm dục"
                             ]
                         },
                         {
@@ -11459,7 +11459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I had a feeling that wouldn’t be enough...!)"
+                                "\\N<Kaori>(Tôi-tôi có cảm giác như thế là chưa đủ...!)"
                             ]
                         },
                         {
@@ -11476,21 +11476,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I cannot outmatch him in strength... so I have no"
+                                "\\N<Kaori>(Tôi không thể vượt qua anh ta về sức mạnh... nên tôi không có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "choice but to endure until I recover my spiritual"
+                                "sự lựa chọn nhưng phải chịu đựng cho đến khi tôi hồi phục tinh thần"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "power...)"
+                                "quyền lực...)"
                             ]
                         },
                         {
@@ -11507,14 +11507,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“You’re finally behaving... I assume you’ve realized"
+                                "\\N<Quỷ Dâm Dục>“Cuối cùng thì bạn cũng cư xử đúng mực… Tôi cho rằng bạn đã nhận ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’re no match for me. ♡”"
+                                "bạn không phù hợp với tôi. ♡”"
                             ]
                         },
                         {
@@ -11531,14 +11531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’m gonna rape the fuck out of you for all the trouble"
+                                "\\N<Quỷ Dâm Dục>“Tôi sẽ hiếp dâm bạn vì tất cả những rắc rối"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’ve caused me! ♡”"
+                                "bạn đã gây ra cho tôi! ♡”"
                             ]
                         },
                         {
@@ -11555,7 +11555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“You’ll be my sex slave soon enough. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Em sẽ sớm trở thành nô lệ tình dục của anh thôi. ♡”"
                             ]
                         },
                         {
@@ -11572,7 +11572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I... will never succumb to a Sex Fiend...!”"
+                                "\\N<Kaori>“T-tôi... sẽ không bao giờ khuất phục trước một con quỷ tình dục...!”"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh. We’ll see how long your cockiness lasts.”"
+                                "\\N<Quỷ Dâm Dục>“Heh heh. Chúng ta sẽ xem sự tự mãn của bạn kéo dài được bao lâu.”"
                             ]
                         },
                         {
@@ -11606,21 +11606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Hah...! How humiliating... Still, I have to put up"
+                                "\\N<Kaori>(Hah...! Thật nhục nhã... Dù vậy, tôi vẫn phải chịu đựng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with this... and prepare to fight back with some sort"
+                                "với cái này... và chuẩn bị đánh trả bằng cách nào đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of Ar—)"
+                                "của Ar—)"
                             ]
                         },
                         {
@@ -11637,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Alright! ♡ I’mma slam it right in you! ♡”"
+                                "\\N<Quỷ Dâm Dục>“Được rồi! ♡ Tôi sẽ đập thẳng vào người bạn! ♡”"
                             ]
                         },
                         {
@@ -11654,7 +11654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch* ♡"
+                                "*nghẹn ngào* ♡"
                             ]
                         },
                         {
@@ -11688,14 +11688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wait...! There’s no way something that big can"
+                                "\\N<Kaori>“Đợi đã...! Không thể nào có chuyện lớn như vậy được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fit...!!”"
+                                "phù hợp...!!\""
                             ]
                         },
                         {
@@ -11806,7 +11806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch* ♡ ♡"
+                                "*nghẹt thở* ♡ ♡"
                             ]
                         },
                         {
@@ -11878,7 +11878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Damn... ♡ I never get tired of humans’ pussies. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Chết tiệt... ♡ Tôi chưa bao giờ chán cái lồn của con người. ♡”"
                             ]
                         },
                         {
@@ -11895,7 +11895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(M-My insides... are being overwhelmed...! ♡)"
+                                "\\N<Kaori>(M-Bên trong tôi... đang bị choáng ngợp...! ♡)"
                             ]
                         },
                         {
@@ -11912,7 +11912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ What’s wrong? Already broken?”"
+                                "\\N<Quỷ Dâm Dục>“Heh heh heh! ♡ Có chuyện gì vậy? Đã hỏng chưa?”"
                             ]
                         },
                         {
@@ -11929,7 +11929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AGH! O-OUCH! ♡”"
+                                "\\N<Kaori>“AGH! ỐI! ♡”"
                             ]
                         },
                         {
@@ -11946,14 +11946,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“That’s understandable. ♡ You’ve probably never seen a"
+                                "\\N<Quỷ Dâm Dục>“Điều đó có thể hiểu được. ♡ Có lẽ bạn chưa bao giờ nhìn thấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "cock this big, let alone had one slammed into you. ♡”"
+                                "con cặc to thế này, huống chi là có một con đập vào người bạn. ♡”"
                             ]
                         },
                         {
@@ -11970,14 +11970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Mine’s incomparable to the little wieners mere humans"
+                                "\\N<Quỷ Dâm Dục>“Của tôi không thể so sánh được với những con người nhỏ bé"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have. ♡”"
+                                "có. ♡”"
                             ]
                         },
                         {
@@ -11994,7 +11994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“P-Pull out...! ♡ I-I CANNOT HANDLE THIS! ♡”"
+                                "\\N<Kaori>“P-Kéo ra...! ♡ T-TÔI KHÔNG THỂ XỬ LÝ VIỆC NÀY! ♡”"
                             ]
                         },
                         {
@@ -12011,7 +12011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Okay, okay. I’ll pull it out, as you wish. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Được rồi, được rồi. Tôi sẽ kéo nó ra, như bạn muốn. ♡”"
                             ]
                         },
                         {
@@ -12028,7 +12028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“And then slam it back in... ♡”"
+                                "\\N<Quỷ Dâm Dục>“Và rồi đập nó trở lại... ♡”"
                             ]
                         },
                         {
@@ -12045,7 +12045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What...?”"
+                                "\\N<Kaori>“Cái gì...?”"
                             ]
                         },
                         {
@@ -12078,7 +12078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡"
+                                "*đổ* ♡"
                             ]
                         },
                         {
@@ -12095,7 +12095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAHN! ♡ ♡ AH! ♡ ♡ AH! ♡ ♡”"
+                                "\\N<Kaori>“AAAHN! ♡ ♡ À! ♡ ♡ À! ♡ ♡”"
                             ]
                         },
                         {
@@ -12112,7 +12112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Did you really think I was going to stop? ♡”"
+                                "\\N<Quỷ Dâm Dục>“Bạn có thực sự nghĩ rằng tôi sẽ dừng lại không? ♡”"
                             ]
                         },
                         {
@@ -12129,14 +12129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’m gonna do whatever I want to you, whether you like"
+                                "\\N<Quỷ Dâm Dục>“Tôi sẽ làm bất cứ điều gì tôi muốn với bạn, dù bạn thích"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it or not. ♡”"
+                                "Nó hay không. ♡”"
                             ]
                         },
                         {
@@ -12153,7 +12153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! ♡ ♡ STOP! AAAH! ♡ ♡”"
+                                "\\N<Kaori>“À! ♡ ♡ DỪNG LẠI! AAAH! ♡ ♡”"
                             ]
                         },
                         {
@@ -12170,7 +12170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12187,7 +12187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! AAAAH! ♡ ♡ YOU’RE STRETCHING ME OUT! ♡ ♡”"
+                                "\\N<Kaori>“À! AAAA! ♡ ♡ BẠN ĐANG GIẢI QUYẾT TÔI! ♡ ♡”"
                             ]
                         },
                         {
@@ -12204,7 +12204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“You’re moaning pretty vulgarly for a priestess. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Bạn đang rên rỉ khá thô tục đối với một nữ tu sĩ. ♡”"
                             ]
                         },
                         {
@@ -12221,14 +12221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Just shows that even an almighty priestess is just"
+                                "\\N<Quỷ Dâm Dục>“Chỉ cho thấy rằng ngay cả một nữ tu sĩ toàn năng cũng chỉ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "another bitch when she’s getting plowed. ♡”"
+                                "một con chó cái khác khi cô ấy đang bị cày. ♡”"
                             ]
                         },
                         {
@@ -12261,7 +12261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ngh...! D-Do not call me THAT! ♡”"
+                                "\\N<Kaori>“Ngh...! Đ-Đừng gọi tôi như vậy! ♡”"
                             ]
                         },
                         {
@@ -12278,7 +12278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“You should just give in and become my cum hole. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Bạn chỉ nên nhượng bộ và trở thành lỗ đít của tôi. ♡”"
                             ]
                         },
                         {
@@ -12295,7 +12295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wh-Who on earth... would become that...!? MNNN! ♡ ♡”"
+                                "\\N<Kaori>“Ai-Ai... lại trở thành thứ đó...!? MNNN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12312,14 +12312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Think you can endure this? ♡ I only need to move a"
+                                "\\N<Quỷ Dâm Dục>“Bạn nghĩ bạn có thể chịu đựng được điều này không? ♡ Tôi chỉ cần di chuyển một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "little for you to let out sexy moans. ♡”"
+                                "ít để bạn có thể phát ra những tiếng rên rỉ gợi cảm. ♡”"
                             ]
                         },
                         {
@@ -12336,14 +12336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-A priestess of the Ayatsuji family... would never"
+                                "\\N<Kaori>“A-Một nữ tư tế của gia đình Ayatsuji... sẽ không bao giờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yield to a Sex Fiend...! ♡ ♡”"
+                                "nhường chỗ cho một kẻ cuồng tình dục...! ♡ ♡”"
                             ]
                         },
                         {
@@ -12360,14 +12360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Shut up! A bitch like you just needs to moan as I slam"
+                                "\\N<Quỷ Dâm Dục>“Im đi! Một con khốn như bạn chỉ cần rên rỉ khi tôi đóng sầm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "my cock into her and make her tits jiggle! ♡”"
+                                "con cặc của tôi vào trong cô ấy và làm cho ngực cô ấy lắc lư! ♡”"
                             ]
                         },
                         {
@@ -12384,7 +12384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12417,7 +12417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! ♡ ♡ AH! ♡ ♡ AAAHN! ♡ ♡”"
+                                "\\N<Kaori>“À! ♡ ♡ À! ♡ ♡ AAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12434,14 +12434,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Say it again! I dare you! What was that about"
+                                "\\N<Quỷ Dâm Dục>“Nói lại đi! Tao thách mày! Cái này là về cái gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "priestesses of the Ayatsuji family?”"
+                                "nữ tư tế của gia đình Ayatsuji?”"
                             ]
                         },
                         {
@@ -12474,14 +12474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mmm...! ♡ I-I would never... lose to a... Sex"
+                                "\\N<Kaori>“Ừm...! ♡ Tôi-tôi sẽ không bao giờ... thua một... Sex"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fiend...! ♡ ♡”"
+                                "Quái vật...! ♡ ♡”"
                             ]
                         },
                         {
@@ -12498,7 +12498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I won’t forgive you... no matter wha— ♡”"
+                                "\\N<Kaori>“T-tôi sẽ không tha thứ cho anh... dù thế nào đi nữa— ♡”"
                             ]
                         },
                         {
@@ -12515,7 +12515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12565,7 +12565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh! ♡ All that resisting for nothing. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Heh heh! ♡ Mọi sự chống cự đều vô ích. ♡”"
                             ]
                         },
                         {
@@ -12582,7 +12582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’d better fix that loud mouth of yours first. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Tốt hơn hết tôi nên sửa cái miệng to mồm đó của bạn trước đã. ♡”"
                             ]
                         },
                         {
@@ -12599,7 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAHN! ♡ ♡ AH! ♡ ♡ AAAHN! ♡ ♡”"
+                                "\\N<Kaori>“AAAHN! ♡ ♡ À! ♡ ♡ AAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12616,7 +12616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12633,7 +12633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAHN! ♡ AH! ♡ AH! ♡ AAAH! ♡ ♡”"
+                                "\\N<Kaori>“AAAHN! ♡ À! ♡ À! ♡ Ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -12650,7 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Hey. Hey. Just how many times do you plan on cumming?”"
+                                "\\N<Quỷ Dâm Dục>“Này. Chào. Cậu định xuất tinh bao nhiêu lần vậy?”"
                             ]
                         },
                         {
@@ -12667,7 +12667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Hurry up and yield to me. Become my mate. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Nhanh lên và nhường cho tôi. Trở thành bạn đời của tôi. ♡”"
                             ]
                         },
                         {
@@ -12684,7 +12684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“N-Never in a million years will I b— AAAAAHN! ♡ ♡”"
+                                "\\N<Kaori>“N-Không bao giờ trong một triệu năm nữa tôi sẽ b— AAAAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12701,14 +12701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ I wasn’t expecting you to last this"
+                                "\\N<Quỷ Dâm Dục>“He he he he! ♡ Tôi không mong đợi bạn sẽ chịu đựng được điều này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "long. ♡ I’m so into your huge tits and big ass. ♡”"
+                                "dài. ♡ Tôi rất thích cặp vú khủng và cặp mông to của bạn. ♡”"
                             ]
                         },
                         {
@@ -12725,7 +12725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’d better mark you as mine as soon as I can. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Tốt hơn hết tôi nên đánh dấu bạn là của tôi ngay khi có thể. ♡”"
                             ]
                         },
                         {
@@ -12758,7 +12758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha-What are y— AHN! ♡”"
+                                "\\N<Kaori>“Cái-Cái gì vậy— AHN! ♡”"
                             ]
                         },
                         {
@@ -12775,7 +12775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12792,7 +12792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Here! I’ll give you my seed! ♡ ♡”"
+                                "\\N<Quỷ Dâm Dục>“Đây! Tôi sẽ cho bạn hạt giống của tôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -12842,7 +12842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -12920,7 +12920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ ♡"
+                                "*phóng* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -12937,7 +12937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAAAAAAAHN! ♡ ♡”"
+                                "\\N<Kaori>“AAAAAAAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12980,7 +12980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡"
+                                "*phóng* ♡ ♡"
                             ]
                         },
                         {
@@ -12997,7 +12997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Haaah... ♡ ♡ I can’t stop...! ♡”"
+                                "\\N<Quỷ Dâm Dục>“Haaah... ♡ ♡ Tôi không thể dừng lại được...! ♡”"
                             ]
                         },
                         {
@@ -13057,7 +13057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡"
+                                "*phóng* ♡ ♡"
                             ]
                         },
                         {
@@ -13074,7 +13074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! AH! AH! ♡ ♡”"
+                                "\\N<Kaori>“À! AH! AH! ♡ ♡”"
                             ]
                         },
                         {
@@ -13103,7 +13103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gush* ♡ ♡"
+                                "*phù* ♡ ♡"
                             ]
                         },
                         {
@@ -13120,7 +13120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAH! S-SO HOT! ♡ ♡”"
+                                "\\N<Kaori>“AAA! H-HẤP DẪN! ♡ ♡”"
                             ]
                         },
                         {
@@ -13137,7 +13137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Phew. ♡ That took a lot out of me. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Phôi. ♡ Điều đó khiến tôi mất rất nhiều thứ. ♡”"
                             ]
                         },
                         {
@@ -13154,7 +13154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Mating with a human is still the best. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Giao phối với con người vẫn là tốt nhất. ♡”"
                             ]
                         },
                         {
@@ -13187,7 +13187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“NGH! Haaah...! Haaah...! ♡”"
+                                "\\N<Kaori>“NGH! Haa...! Haa...! ♡”"
                             ]
                         },
                         {
@@ -13204,7 +13204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh... Now’s not the time to be dumbfounded..."
+                                "\\N<Quỷ Dâm Dục>“Heh heh... Bây giờ không phải là lúc chết lặng..."
                             ]
                         },
                         {
@@ -13270,14 +13270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When Lewd Oni used an Art, a bewitching crest appeared"
+                                "Khi Quỷ Dâm Dục sử dụng Art, một biểu tượng mê hoặc xuất hiện"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "on Kaori’s lower body..."
+                                "ở phần dưới cơ thể của Kaori..."
                             ]
                         },
                         {
@@ -13294,7 +13294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...All of a sudden... my body feels so hot...! ♡ ♡”"
+                                "\\N<Kaori>“...Đột nhiên... cơ thể tôi nóng quá...! ♡ ♡”"
                             ]
                         },
                         {
@@ -13311,7 +13311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha-What did you do to... me...!? ♡”"
+                                "\\N<Kaori>“Anh-Anh đã làm gì với… tôi…!? ♡”"
                             ]
                         },
                         {
@@ -13328,14 +13328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Hee-hee-hee. ♡ Your jugs must be too big for you to"
+                                "\\N<Quỷ Dâm Dục>“Hee-hee-hee. ♡ Cái bình của bạn chắc phải quá lớn để bạn có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "see it. ♡”"
+                                "nhìn thấy nó. ♡”"
                             ]
                         },
                         {
@@ -13352,7 +13352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I placed the Cursed Crest of Sex Fiends on you. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Tôi đã đặt Biểu tượng bị nguyền rủa của Yêu quái Tình dục cho bạn. ♡”"
                             ]
                         },
                         {
@@ -13369,21 +13369,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“The more a human feels pleasure while this is on them,"
+                                "\\N<Quỷ Dâm Dục>“Con người càng cảm thấy thích thú khi điều này xảy ra với họ,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the more inclined they are to do what I say. It’s a"
+                                "họ càng có xu hướng làm theo những gì tôi nói. Nó là một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "masterpiece. ♡”"
+                                "kiệt tác. ♡”"
                             ]
                         },
                         {
@@ -13400,7 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Hah...! Y-You’re playing dirty...! ♡”"
+                                "\\N<Kaori>“Hah...! A-Anh đang chơi bẩn đấy...! ♡”"
                             ]
                         },
                         {
@@ -13417,14 +13417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Are Sex Fiends unable to commit to fair"
+                                "\\N<Kaori>“A-Are Sex Fiends không thể cam kết công bằng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fights...? ♡”"
+                                "đánh nhau...? ♡”"
                             ]
                         },
                         {
@@ -13441,14 +13441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“What are you talking about? We just fought, and you"
+                                "\\N<Quỷ Dâm Dục>“Bạn đang nói về cái gì vậy? Chúng ta vừa cãi nhau, còn bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "lost to me. ♡”"
+                                "thua tôi rồi. ♡”"
                             ]
                         },
                         {
@@ -13481,7 +13481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-Yes, but...! ♡”"
+                                "\\N<Kaori>“V-Đúng, nhưng...! ♡”"
                             ]
                         },
                         {
@@ -13514,14 +13514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“If we fight again... I will surely come out on"
+                                "\\N<Kaori>“Nếu chúng ta chiến đấu một lần nữa... tôi chắc chắn sẽ ra sân"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "top...!”"
+                                "đứng đầu...!\""
                             ]
                         },
                         {
@@ -13538,14 +13538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“That’s exactly why I placed this cursed crest. ♡ Good"
+                                "\\N<Quỷ Dâm Dục>“Đó chính xác là lý do tại sao tôi đặt gia huy bị nguyền rủa này. ♡ Tốt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "grief. Talk about stupidity. ♡”"
+                                "nỗi buồn. Nói về sự ngu ngốc. ♡”"
                             ]
                         },
                         {
@@ -13562,14 +13562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-You can try all you want! A priestess of the"
+                                "\\N<Kaori>“Y-Bạn có thể thử tất cả những gì bạn muốn! Một nữ tu sĩ của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ayatsuji family will never give in...!”"
+                                "Gia đình Ayatsuji sẽ không bao giờ nhượng bộ...!”"
                             ]
                         },
                         {
@@ -13586,14 +13586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh! Let’s see if you can keep talking like that"
+                                "\\N<Quỷ Dâm Dục>“He he! Hãy xem liệu bạn có thể tiếp tục nói chuyện như vậy không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "when I pound your pussy while you’re like this. ♡”"
+                                "khi tôi đập vào âm hộ của bạn trong khi bạn đang như thế này. ♡”"
                             ]
                         },
                         {
@@ -13610,7 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Do make this entertaining for me, will you...? ♡”"
+                                "\\N<Quỷ Dâm Dục>“Bạn làm điều này mang tính giải trí cho tôi nhé, được không...? ♡”"
                             ]
                         },
                         {
@@ -13669,7 +13669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch* ♡ ♡ ♡"
+                                "*nghẹt thở* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -13741,14 +13741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Hey, c’mon now. Don’t you think you’re moaning a bit"
+                                "\\N<Quỷ Dâm Dục>“Này, thôi nào. Bạn không nghĩ rằng bạn đang rên rỉ một chút sao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "too loudly? ♡”"
+                                "quá ồn ào? ♡”"
                             ]
                         },
                         {
@@ -13765,7 +13765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Try harder. ♡ Busty priestess. ♡”"
+                                "\\N<Quỷ Dâm Dục>“Cố gắng hơn nữa. ♡ Nữ tu sĩ ngực khủng. ♡”"
                             ]
                         },
                         {
@@ -13798,7 +13798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AHN! I-I have to withstand th— AH! ♡ ♡”"
+                                "\\N<Kaori>“AHN! T-tôi phải chịu đựng được— AH! ♡ ♡”"
                             ]
                         },
                         {
@@ -13820,7 +13820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -13853,7 +13853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAHN! ♡ AH! ♡ AAAH! ♡ ♡”"
+                                "\\N<Kaori>“AAAHN! ♡ À! ♡ Ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -13870,7 +13870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(At this rate... I’ll...! ♡ ♡)"
+                                "\\N<Kaori>(Cứ thế này...tôi sẽ...! ♡ ♡)"
                             ]
                         },
                         {
@@ -13928,7 +13928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few hours later..."
+                                "...Một vài tiếng sau..."
                             ]
                         },
                         {
@@ -14004,7 +14004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -14021,7 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAHN! ♡ ♡ AH! ♡ AH! ♡ AHN! ♡ ♡”"
+                                "\\N<Kaori>“AAAHN! ♡ ♡ À! ♡ À! ♡ AHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -14038,7 +14038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I’M LOSING MY MIND! ♡ ♡ STOP! AAAHN! ♡ ♡”"
+                                "\\N<Kaori>“TÔI ĐANG MẤT TÂM TRÍ! ♡ ♡ DỪNG LẠI! AAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -14055,7 +14055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Here! ♡ One more load for you! ♡”"
+                                "\\N<Quỷ Dâm Dục>“Đây! ♡ Thêm một tải nữa dành cho bạn! ♡”"
                             ]
                         },
                         {
@@ -14133,7 +14133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ *spurt* ♡ ♡ ♡"
+                                "*phóng* ♡ ♡ *phóng* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -14167,14 +14167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I’ve lost count of how many times I’ve cummed. ♡ I"
+                                "\\N<Quỷ Dâm Dục>“Tôi không đếm được mình đã xuất tinh bao nhiêu lần. ♡ tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "haven’t gotten this riled up in a long time. ♡”"
+                                "đã lâu rồi chúng ta chưa làm điều này sôi nổi lên. ♡”"
                             ]
                         },
                         {
@@ -14191,14 +14191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“And it sounds like you no longer have the willpower to"
+                                "\\N<Quỷ Dâm Dục>“Và có vẻ như bạn không còn ý chí để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "resist the cursed crest... Heh heh! ♡”"
+                                "chống lại ấn chú bị nguyền rủa... Heh heh! ♡”"
                             ]
                         },
                         {
@@ -14215,7 +14215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! ♡ I-I... away... now... gotta...! ♡ ♡”"
+                                "\\N<Kaori>“À! ♡ Tôi-tôi... đi... bây giờ... phải...! ♡ ♡”"
                             ]
                         },
                         {
@@ -14232,7 +14232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Heh heh heh! ♡ I don’t even know what you’re saying."
+                                "\\N<Quỷ Dâm Dục>“Heh heh heh! ♡ Tôi thậm chí còn không biết bạn đang nói gì."
                             ]
                         },
                         {
@@ -14298,7 +14298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch* ♡ ♡"
+                                "*nghẹt thở* ♡ ♡"
                             ]
                         },
                         {
@@ -14353,14 +14353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AHN! ♡ ♡ YOU’RE STILL GOING! ♡ ♡ AAAAAH! I’M GONNA"
+                                "\\N<Kaori>“AHN! ♡ ♡ BẠN VẪN ĐI! ♡ ♡ AAAAAH! TÔI SẼ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "CUM! ♡ ♡”"
+                                "KÊ! ♡ ♡”"
                             ]
                         },
                         {
@@ -14410,7 +14410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Such lewd moans... And you call yourself a priestess?"
+                                "\\N<Quỷ Dâm Dục>“Những tiếng rên rỉ dâm đãng như vậy ... Và bạn tự gọi mình là nữ tu sĩ?"
                             ]
                         },
                         {
@@ -14434,21 +14434,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Doubt you’ll ever recover now that you’ve been"
+                                "\\N<Quỷ Dâm Dục>“Bây giờ bạn có thể nghi ngờ rằng bạn sẽ hồi phục sau khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "corrupted this much. ♡ This is why I can’t stop"
+                                "hỏng nhiều thế này. ♡ Đây là lý do tại sao tôi không thể dừng lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "breaking humans. ♡”"
+                                "phá vỡ con người. ♡”"
                             ]
                         },
                         {
@@ -14481,7 +14481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“TH-THIS CANNOT BE HAPPENING! ♡ ♡”"
+                                "\\N<Kaori>“Đ- ĐIỀU NÀY KHÔNG THỂ XẢY RA! ♡ ♡”"
                             ]
                         },
                         {
@@ -14514,7 +14514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! ♡ ♡ SH-SHIZUNE! ♡ ♡ I’M SORR— AAAH! ♡ ♡”"
+                                "\\N<Kaori>“À! ♡ ♡ SH-SHIZUNE! ♡ ♡ TÔI XIN LỖI— AAAH! ♡ ♡”"
                             ]
                         },
                         {
@@ -14531,14 +14531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I don’t know who that is, but you’re better off not"
+                                "\\N<Quỷ Dâm Dục>“Tôi không biết đó là ai, nhưng tốt hơn hết bạn đừng nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hoping for help to come. ♡”"
+                                "mong sự giúp đỡ sẽ đến. ♡”"
                             ]
                         },
                         {
@@ -14555,14 +14555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Well, if another priestess does come, I’ll just make"
+                                "\\N<Quỷ Dâm Dục>“Chà, nếu một nữ tu sĩ khác đến, tôi sẽ chỉ làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "her mine too. ♡”"
+                                "của cô ấy cũng vậy. ♡”"
                             ]
                         },
                         {
@@ -14612,7 +14612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“I ain’t stopping until you get pregnant. Get ready. ♡"
+                                "\\N<Quỷ Dâm Dục>“Tôi sẽ không dừng lại cho đến khi bạn có thai. Chuẩn bị. ♡"
                             ]
                         },
                         {
@@ -14636,7 +14636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Lewd Oni>“Forever and ever... you will be my cum hole. ♡ ♡”"
+                                "\\N<Quỷ Dâm Dục>“Mãi mãi và mãi mãi... em sẽ là lỗ đít của anh. ♡ ♡”"
                             ]
                         },
                         {
@@ -14653,7 +14653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bùm* ♡ *bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -14686,7 +14686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AAAAAHN! ♡ ♡ AH! ♡ AAAAAAAH! ♡ ♡ ♡”"
+                                "\\N<Kaori>“AAAAHN! ♡ ♡ À! ♡ AAAAAAAH! ♡ ♡ ♡”"
                             ]
                         },
                         {
@@ -14763,7 +14763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -14780,7 +14780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Shizune... Dear... I’m sorry...! ♡ ♡”"
+                                "\\N<Kaori>“Shizune... Em yêu... Anh xin lỗi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -14797,7 +14797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I... turned into a Sex Fiend’s mate...! ♡ ♡”"
+                                "\\N<Kaori>“Tôi... đã trở thành bạn đời của Sex Fiend...! ♡ ♡”"
                             ]
                         },
                         {
@@ -14843,14 +14843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "GAME OVER"
+                                "TRÒ CHƠI KẾT THÚC"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Returning to the time before the start of the battle."
+                                "Quay trở lại thời điểm trước khi trận chiến bắt đầu."
                             ]
                         },
                         {
@@ -15137,7 +15137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can escape from the cave."
+                                "Có thể thoát khỏi hang động."
                             ]
                         },
                         {
@@ -15145,8 +15145,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Go Outside",
-                                    "Leave"
+                                    "Đi ra ngoài",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -15159,7 +15159,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Go Outside"
+                                "Đi ra ngoài"
                             ]
                         },
                         {
@@ -15196,7 +15196,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -15241,7 +15241,7 @@
         },
         {
             "id": 20,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

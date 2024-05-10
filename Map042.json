@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1718,7 +1718,7 @@
         null,
         {
             "id": 2,
-            "name": "Sex Status For Shizune",
+            "name": "Tình Trạng Tình Dục Cho Shizune",
             "note": "",
             "pages": [
                 {
@@ -1831,7 +1831,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Wh-Why does this even exist...?\""
+                                "\"T-Tại sao thứ này lại tồn tại...?\""
                             ]
                         },
                         {
@@ -1842,7 +1842,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Nothing but creepy details are on it...\""
+                                "\"Không có gì ngoài những chi tiết rùng rợn trên đó...\""
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                                 17,
                                 0,
                                 4,
-                                "\"Hates men who eye up her thicc body.\""
+                                "\"Ghét những người đàn ông để mắt tới thân hình săn chắc của cô.\""
                             ]
                         },
                         {
@@ -1864,7 +1864,7 @@
                                 18,
                                 0,
                                 4,
-                                "\"Like, really, really hates them.\""
+                                "\"Giống như, thực sự, thực sự ghét họ.\""
                             ]
                         },
                         {
@@ -1893,7 +1893,7 @@
                                 22,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -1904,7 +1904,7 @@
                                 24,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -2003,7 +2003,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"Mmm... They must be visible to Shizune as well...\""
+                                "\"Mmm... Shizune chắc chắn cũng có thể nhìn thấy chúng...\""
                             ]
                         },
                         {
@@ -2014,7 +2014,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I know it’s needed info, but it’s still embarrassing...\""
+                                "\"Tôi biết đó là thông tin cần thiết, nhưng vẫn thấy xấu hổ...\""
                             ]
                         },
                         {
@@ -2025,7 +2025,7 @@
                                 37,
                                 0,
                                 4,
-                                "\"Loves her husband, who has left the world before her.\""
+                                "\"Yêu chồng, người đã rời bỏ thế giới trước cô.\""
                             ]
                         },
                         {
@@ -2036,7 +2036,7 @@
                                 38,
                                 0,
                                 4,
-                                "\"Never thought about dating another man.\""
+                                "\"Chưa bao giờ nghĩ đến việc hẹn hò với người đàn ông khác.\""
                             ]
                         },
                         {
@@ -2047,7 +2047,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"I should head to the school at night to investigate.\""
+                                "\"Tôi nên đến trường vào ban đêm để điều tra.\""
                             ]
                         },
                         {
@@ -2142,7 +2142,7 @@
         null,
         {
             "id": 4,
-            "name": "Bureau",
+            "name": "Cục",
             "note": "",
             "pages": [
                 {
@@ -2184,7 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“How about a change of clothes?”"
+                                "\\N<Shizune>“Thay quần áo thì sao?”"
                             ]
                         },
                         {
@@ -2199,10 +2199,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Uniform",
-                                    "Nude",
-                                    "Cancel"
+                                    "Trang phục nữ tư tế",
+                                    "Trang phục thường ngày",
+                                    "khỏa thân",
+                                    "Hủy bỏ"
                                 ],
                                 3,
                                 0,
@@ -2215,7 +2215,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -2305,7 +2305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Phew... This is a little too small for me, I think...”"
+                                "\\N<Shizune>“Phew... Cái này hơi quá nhỏ đối với tôi, tôi nghĩ vậy…”"
                             ]
                         },
                         {
@@ -2325,7 +2325,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Uniform"
+                                "Trang phục thường ngày"
                             ]
                         },
                         {
@@ -2424,7 +2424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Ngh... It’s pretty tight around my breasts...”"
+                                "\\N<Shizune>“Ngh... Nó khá chật quanh ngực tôi…”"
                             ]
                         },
                         {
@@ -2444,7 +2444,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -2550,14 +2550,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“J-Just want to take a quick breather from wearing"
+                                "\\N<Shizune>“J-Chỉ muốn xả hơi sau khi mặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "clothes...”"
+                                "quần áo...\""
                             ]
                         },
                         {
@@ -2577,7 +2577,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "Cancel"
+                                "Hủy bỏ"
                             ]
                         },
                         {
@@ -2655,7 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“How about a change of clothes?”"
+                                "\\N<Shizune>“Thay quần áo thì sao?”"
                             ]
                         },
                         {
@@ -2670,11 +2670,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Uniform",
-                                    "Nude",
-                                    "School Swimsuit",
-                                    "Cancel"
+                                    "Trang phục nữ tư tế",
+                                    "Trang phục thường ngày",
+                                    "khỏa thân",
+                                    "Đồ bơi",
+                                    "Hủy bỏ"
                                 ],
                                 4,
                                 0,
@@ -2687,7 +2687,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -2777,7 +2777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Phew... This is a little too small for me, I think...”"
+                                "\\N<Shizune>“Phew... Cái này hơi quá nhỏ đối với tôi, tôi nghĩ vậy…”"
                             ]
                         },
                         {
@@ -2797,7 +2797,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Uniform"
+                                "Trang phục thường ngày"
                             ]
                         },
                         {
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Ngh... It’s pretty tight around my breasts...”"
+                                "\\N<Shizune>“Ngh... Nó khá chật quanh ngực tôi…”"
                             ]
                         },
                         {
@@ -2916,7 +2916,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -3022,14 +3022,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“J-Just want to take a quick breather from wearing"
+                                "\\N<Shizune>“J-Chỉ muốn xả hơi sau khi mặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "clothes...”"
+                                "quần áo...\""
                             ]
                         },
                         {
@@ -3049,7 +3049,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "School Swimsuit"
+                                "Đồ bơi"
                             ]
                         },
                         {
@@ -3148,7 +3148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Feels weird to wear this in the house...”"
+                                "\\N<Shizune>“Cảm thấy kỳ lạ khi mặc cái này trong nhà…”"
                             ]
                         },
                         {
@@ -3168,7 +3168,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "Cancel"
+                                "Hủy bỏ"
                             ]
                         },
                         {

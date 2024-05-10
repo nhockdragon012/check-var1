@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1809,9 +1809,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Chat",
-                                    "Purify (♡)",
-                                    "Back"
+                                    "Trò chuyện",
+                                    "Thanh lọc (♡)",
+                                    "Quay lại"
                                 ],
                                 2,
                                 0,
@@ -1824,7 +1824,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Chat"
+                                "Trò chuyện"
                             ]
                         },
                         {
@@ -1837,7 +1837,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Purify (♡)"
+                                "Thanh lọc (♡)"
                             ]
                         },
                         {
@@ -1854,7 +1854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hey... I have an idea...”"
+                                "\\N<Shizune>“Này... Tôi có ý kiến…”"
                             ]
                         },
                         {
@@ -1862,10 +1862,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Show Boobs ♡",
-                                    "Lend Boobs ♡",
-                                    "Tit Job ♡",
-                                    "Sex ♡"
+                                    "Khoe ngực ♡",
+                                    "Cho mượn ngực ♡",
+                                    "Công việc ngực ♡",
+                                    "Tình dục ♡"
                                 ],
                                 1,
                                 0,
@@ -1878,7 +1878,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Show Boobs ♡"
+                                "Khoe ngực ♡"
                             ]
                         },
                         {
@@ -1891,7 +1891,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "Lend Boobs ♡"
+                                "Cho mượn ngực ♡"
                             ]
                         },
                         {
@@ -1904,7 +1904,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "Tit Job ♡"
+                                "Công việc ngực ♡"
                             ]
                         },
                         {
@@ -1917,7 +1917,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "Sex ♡"
+                                "Tình dục ♡"
                             ]
                         },
                         {
@@ -1940,7 +1940,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -2132,8 +2132,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>30)Tit Job (♡)",
-                                    "Refuse"
+                                    "Công việc en(v[1]>30)Tit (♡)",
+                                    "Từ chối"
                                 ],
                                 1,
                                 0,
@@ -2146,7 +2146,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>30)Tit Job (♡)"
+                                "Công việc en(v[1]>30)Tit (♡)"
                             ]
                         },
                         {
@@ -2159,7 +2159,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Refuse"
+                                "Từ chối"
                             ]
                         },
                         {
@@ -2240,7 +2240,7 @@
                                 19,
                                 0,
                                 4,
-                                " \"\\\\C[18]Red Text\\\\C[0]\""
+                                " \"\\\\C[18]Văn bản màu đỏ\\\\C[0]\""
                             ]
                         },
                         {

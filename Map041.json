@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1363,7 +1363,7 @@
         null,
         {
             "id": 1,
-            "name": "Sex Status",
+            "name": "Tình trạng giới tính",
             "note": "",
             "pages": [
                 {
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can raise Sex Status."
+                                "Có thể nâng cao Trạng thái giới tính."
                             ]
                         },
                         {
@@ -1413,12 +1413,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Jacked Off To",
-                                    "Lewd",
-                                    "Sexual Status Display",
-                                    "Age Of Last Sex Partner",
-                                    "Story Progression",
-                                    "Comment"
+                                    "Jacked tắt để",
+                                    "dâm dục",
+                                    "Hiển thị trạng thái tình dục",
+                                    "Tuổi của bạn tình cuối cùng",
+                                    "Diễn biến câu chuyện",
+                                    "Bình luận"
                                 ],
                                 1,
                                 0,
@@ -1431,7 +1431,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Jacked Off To"
+                                "Jacked tắt để"
                             ]
                         },
                         {
@@ -1455,7 +1455,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Lewd"
+                                "dâm dục"
                             ]
                         },
                         {
@@ -1479,7 +1479,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Sexual Status Display"
+                                "Hiển thị trạng thái tình dục"
                             ]
                         },
                         {
@@ -1503,7 +1503,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "Age Of Last Sex Partner"
+                                "Tuổi của bạn tình cuối cùng"
                             ]
                         },
                         {
@@ -1527,7 +1527,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "Story Progression"
+                                "Diễn biến câu chuyện"
                             ]
                         },
                         {
@@ -1538,7 +1538,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Break Yurunaka’s Collar Bone\""
+                                "\"Bẻ gãy xương quai xanh của Yurunaka\""
                             ]
                         },
                         {
@@ -1551,7 +1551,7 @@
                             "indent": 0,
                             "parameters": [
                                 5,
-                                "Comment"
+                                "Bình luận"
                             ]
                         },
                         {
@@ -1562,7 +1562,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Hm, this function hasn’t been implemented, it seems.\""
+                                "\"Hm, có vẻ như chức năng này chưa được triển khai.\""
                             ]
                         },
                         {
@@ -1573,7 +1573,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"What on earth could this be used for...?\""
+                                "\"Cái này có thể dùng để làm cái quái gì...?\""
                             ]
                         },
                         {
@@ -1809,7 +1809,7 @@
         },
         {
             "id": 5,
-            "name": "Penis",
+            "name": "dương vật",
             "note": "",
             "pages": [
                 {
@@ -1842,12 +1842,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Beloved - Takeo",
-                                    "Beloved - Ryoya",
-                                    "Beloved - None",
-                                    "Number of Sexual Partners 1",
-                                    "First Sexual Partner - Ryoya",
-                                    "Back"
+                                    "Người Yêu - Takeo",
+                                    "Người Yêu - Ryoya",
+                                    "Người yêu - Không có",
+                                    "Số bạn tình 1",
+                                    "Bạn tình đầu tiên - Ryoya",
+                                    "Quay lại"
                                 ],
                                 5,
                                 0,
@@ -1860,7 +1860,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Beloved - Takeo"
+                                "Người Yêu - Takeo"
                             ]
                         },
                         {
@@ -1884,7 +1884,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Beloved - Ryoya"
+                                "Người Yêu - Ryoya"
                             ]
                         },
                         {
@@ -1908,7 +1908,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Beloved - None"
+                                "Người yêu - Không có"
                             ]
                         },
                         {
@@ -1932,7 +1932,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "Number of Sexual Partners 1"
+                                "Số bạn tình 1"
                             ]
                         },
                         {
@@ -1945,7 +1945,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "First Sexual Partner - Ryoya"
+                                "Bạn tình đầu tiên - Ryoya"
                             ]
                         },
                         {
@@ -1969,7 +1969,7 @@
                             "indent": 0,
                             "parameters": [
                                 5,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -2014,7 +2014,7 @@
         },
         {
             "id": 6,
-            "name": "Sex Status",
+            "name": "Tình trạng giới tính",
             "note": "",
             "pages": [
                 {
@@ -2056,7 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pubic Hair Switch"
+                                "Công tắc lông mu"
                             ]
                         },
                         {
@@ -2064,8 +2064,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Display",
-                                    "Hidden Display"
+                                    "Trưng bày",
+                                    "Hiển thị ẩn"
                                 ],
                                 1,
                                 0,
@@ -2078,7 +2078,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Display"
+                                "Trưng bày"
                             ]
                         },
                         {
@@ -2102,7 +2102,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Hidden Display"
+                                "Hiển thị ẩn"
                             ]
                         },
                         {
@@ -2158,7 +2158,7 @@
         },
         {
             "id": 7,
-            "name": "Sex Status For Shizune",
+            "name": "Tình Trạng Tình Dục Cho Shizune",
             "note": "",
             "pages": [
                 {
@@ -2260,7 +2260,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Wh-Why does this even exist...?\""
+                                "\"T-Tại sao thứ này lại tồn tại...?\""
                             ]
                         },
                         {
@@ -2271,7 +2271,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Nothing but creepy details are on it...\""
+                                "\"Không có gì ngoài những chi tiết rùng rợn trên đó...\""
                             ]
                         },
                         {
@@ -2282,7 +2282,7 @@
                                 17,
                                 0,
                                 4,
-                                "\"Hates men who eye up her thicc body.\""
+                                "\"Ghét những người đàn ông để mắt tới thân hình săn chắc của cô.\""
                             ]
                         },
                         {
@@ -2293,7 +2293,7 @@
                                 18,
                                 0,
                                 4,
-                                "\"Like, really, really hates them.\""
+                                "\"Giống như, thực sự, thực sự ghét họ.\""
                             ]
                         },
                         {
@@ -2328,7 +2328,7 @@
         },
         {
             "id": 8,
-            "name": "Sex Status For Kaori",
+            "name": "Tình Trạng Tình Dục Cho Kaori",
             "note": "",
             "pages": [
                 {
@@ -2375,7 +2375,7 @@
                                 22,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -2386,7 +2386,7 @@
                                 24,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -2485,7 +2485,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"Mmm... They must be visible to Shizune as well...\""
+                                "\"Mmm... Shizune chắc chắn cũng có thể nhìn thấy chúng...\""
                             ]
                         },
                         {
@@ -2496,7 +2496,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I know it’s needed info, but it’s still embarrassing...\""
+                                "\"Tôi biết đó là thông tin cần thiết, nhưng vẫn thấy xấu hổ...\""
                             ]
                         },
                         {
@@ -2507,7 +2507,7 @@
                                 37,
                                 0,
                                 4,
-                                "\"Loves her husband, who has left the world before her.\""
+                                "\"Yêu chồng, người đã rời bỏ thế giới trước cô.\""
                             ]
                         },
                         {
@@ -2518,7 +2518,7 @@
                                 38,
                                 0,
                                 4,
-                                "\"Never thought about dating another man.\""
+                                "\"Chưa bao giờ nghĩ đến việc hẹn hò với người đàn ông khác.\""
                             ]
                         },
                         {
