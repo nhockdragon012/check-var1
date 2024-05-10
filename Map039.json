@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "Cobblestones3",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Science Room",
+    "displayName": "Phòng học bỏ hoang",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -438,6 +438,13 @@
         0,
         0,
         0,
+        3146,
+        0,
+        3150,
+        0,
+        3438,
+        0,
+        3822,
         0,
         0,
         0,
@@ -448,44 +455,27 @@
         0,
         0,
         0,
+        3822,
+        0,
+        0,
+        0,
+        3145,
+        3149,
         0,
         0,
         0,
         0,
         0,
+        3147,
+        3137,
+        3137,
+        3137,
+        3149,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3954,
-        3940,
-        3956,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3146,
         0,
         3954,
         3940,
@@ -493,10 +483,51 @@
         0,
         0,
         0,
+        3522,
+        3508,
+        3524,
+        0,
+        3954,
+        3940,
+        3956,
+        0,
+        3434,
         0,
         0,
         0,
         0,
+        3123,
+        3149,
+        3936,
+        3920,
+        3944,
+        0,
+        0,
+        0,
+        3504,
+        3488,
+        3512,
+        0,
+        3936,
+        3920,
+        3944,
+        0,
+        3436,
+        0,
+        0,
+        0,
+        0,
+        3148,
+        0,
+        3936,
+        3920,
+        3944,
+        0,
+        3051,
+        3053,
+        3528,
+        3496,
+        3512,
         0,
         3936,
         3920,
@@ -507,6 +538,17 @@
         0,
         0,
         0,
+        3818,
+        3150,
+        3936,
+        3920,
+        3944,
+        0,
+        0,
+        0,
+        0,
+        3528,
+        3526,
         0,
         3936,
         3920,
@@ -517,45 +559,13 @@
         0,
         0,
         0,
+        3808,
         0,
+        3960,
+        3948,
+        3958,
         0,
-        3936,
-        3920,
-        3944,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3936,
-        3920,
-        3944,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3936,
-        3920,
-        3944,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3936,
-        3920,
-        3944,
-        0,
-        0,
-        0,
+        3530,
         0,
         0,
         0,
@@ -570,46 +580,44 @@
         0,
         0,
         0,
+        3793,
+        3812,
+        3139,
+        3137,
+        3141,
         0,
-        3960,
-        3948,
-        3958,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3520,
         0,
         0,
         0,
         0,
         0,
         0,
+        3426,
+        3412,
+        3428,
         0,
         0,
         0,
         0,
         0,
+        3816,
+        3814,
+        3148,
+        0,
+        3148,
+        0,
+        3529,
+        3521,
+        3525,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3435,
+        3425,
+        3421,
+        3420,
+        3422,
+        3437,
         0,
         0,
         0,
@@ -622,15 +630,7 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3532,
         0,
         0,
         0,
@@ -1927,7 +1927,7 @@
         null,
         {
             "id": 1,
-            "name": "Muramara Battle Event",
+            "name": "Sự kiện trận chiến Muramara",
             "note": "",
             "pages": [
                 {
@@ -1990,7 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I knew it... It’s the same as before...”"
+                                "\\N<Shizune>“Tôi biết rồi... Nó vẫn giống như trước đây…”"
                             ]
                         },
                         {
@@ -2014,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You’re here, aren’t you!? Show yourself!”"
+                                "\\N<Shizune>“Bạn ở đây phải không!? Thể hiện bản thân bạn!\""
                             ]
                         },
                         {
@@ -2149,7 +2149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I won’t fall for the same trick twice...!”"
+                                "\\N<Shizune>“Tôi sẽ không mắc cùng một thủ thuật hai lần…!”"
                             ]
                         },
                         {
@@ -2182,7 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Ahaha! ♪ Figures you wouldn’t be that foolish... ♪”"
+                                "\\N<Muramara>“Ahaha! ♪ Tôi nghĩ bạn sẽ không ngu ngốc đến thế... ♪”"
                             ]
                         },
                         {
@@ -2206,7 +2206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Why are you here?”"
+                                "\\N<Shizune>“...Tại sao bạn lại ở đây?”"
                             ]
                         },
                         {
@@ -2230,21 +2230,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I turn humans’ desires into power... And this place"
+                                "\\N<Muramara>“Ta biến ham muốn của con người thành sức mạnh... Và nơi này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tends to be where desires gather the most. At least,"
+                                "có xu hướng là nơi tập trung nhiều ham muốn nhất. Ít nhất,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "when compared to the other parts of this city. ♡”"
+                                "khi so sánh với các khu vực khác của thành phố này. ♡”"
                             ]
                         },
                         {
@@ -2268,7 +2268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...You can find humans anywhere, though.”"
+                                "\\N<Shizune>“...Tuy nhiên, bạn có thể tìm thấy con người ở bất cứ đâu.”"
                             ]
                         },
                         {
@@ -2292,7 +2292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Why are you so obsessed with us!?”"
+                                "\\N<Shizune>“Tại sao bạn lại bị ám ảnh bởi chúng tôi như vậy !?”"
                             ]
                         },
                         {
@@ -2316,14 +2316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Ahaha... I see putting two and two together isn’t your"
+                                "\\N<Muramara>“Ahaha... Tôi thấy việc ghép hai và hai lại với nhau không phải là của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "forte. ♡”"
+                                "sở trường. ♡”"
                             ]
                         },
                         {
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“The places you go to are full of desires. ♡”"
+                                "\\N<Muramara>“Những nơi bạn đến tràn đầy khao khát. ♡”"
                             ]
                         },
                         {
@@ -2364,7 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Huh? What’s that supposed to mean?”"
+                                "\\N<Shizune>“...Hả? Điều đó có nghĩa là gì?”"
                             ]
                         },
                         {
@@ -2388,7 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You should already know what I mean.”"
+                                "\\N<Muramara>“Bạn hẳn đã biết ý tôi rồi.”"
                             ]
                         },
                         {
@@ -2405,14 +2405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Haven’t you noticed how guys ogle you on a daily"
+                                "\\N<Muramara>“Bạn không nhận thấy cách các chàng trai theo dõi bạn hàng ngày"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "basis...? ♪”"
+                                "nền tảng...? ♪”"
                             ]
                         },
                         {
@@ -2452,7 +2452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!?”"
+                                "\\N<Shizune>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -2476,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Also, I’m just a sucker for busty women. ♪”"
+                                "\\N<Muramara>“Ngoài ra, tôi chỉ là một kẻ mê mẩn những phụ nữ có vòng một. ♪”"
                             ]
                         },
                         {
@@ -2493,14 +2493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“And since you gals have such big melons... ♡ I’d do"
+                                "\\N<Muramara>“Và vì các bạn có quả dưa to như vậy... ♡ Tôi sẽ làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anything to make you mine... ♡ ♡”"
+                                "bất cứ điều gì khiến em là của anh... ♡ ♡”"
                             ]
                         },
                         {
@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“M-Melons...!?”"
+                                "\\N<Shizune>“M-Dưa...!?”"
                             ]
                         },
                         {
@@ -2564,7 +2564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You don’t need to talk anymore.”"
+                                "\\N<Shizune>“A-Anh không cần nói chuyện nữa.”"
                             ]
                         },
                         {
@@ -2588,21 +2588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“The only thing a dirty apparition like you needs... is"
+                                "\\N<Shizune>“Điều duy nhất mà một bóng ma bẩn thỉu như bạn cần... là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to be exorcised and exterminated in the blink of an"
+                                "bị Trừ tà và tiêu diệt trong chớp mắt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "eye...!”"
+                                "mắt...!\""
                             ]
                         },
                         {
@@ -2626,7 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! I’d like to see you try. ♪”"
+                                "\\N<Muramara>“Wahaha! Tôi muốn thấy bạn thử. ♪”"
                             ]
                         },
                         {
@@ -2643,7 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You can’t possibly put up a fight against... moi..."
+                                "\\N<Muramara>“Bạn không thể chiến đấu chống lại... moi..."
                             ]
                         },
                         {
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah...! Prepare yourself! Muramara!”"
+                                "\\N<Shizune>“Hah...! Chuẩn bị cho mình! Muramara!”"
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This won’t be like last time...!”"
+                                "\\N<Shizune>“Lần này sẽ không giống lần trước…!”"
                             ]
                         },
                         {
@@ -2895,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“D-Damn it...”"
+                                "\\N<Muramara>“Đ-Chết tiệt…”"
                             ]
                         },
                         {
@@ -2919,14 +2919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I thought you were just a third-rate, busty priestess,"
+                                "\\N<Muramara>“Tôi tưởng bạn chỉ là một nữ tu sĩ hạng ba, ngực khủng,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "but you’re surprisingly good...”"
+                                "nhưng bạn lại giỏi một cách đáng ngạc nhiên…”"
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah...! Hah...!”"
+                                "\\N<Shizune>“Hah...! Ha...!”"
                             ]
                         },
                         {
@@ -2967,14 +2967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This is the power of a priestess of the Ayatsuji"
+                                "\\N<Shizune>“Đây là sức mạnh của nữ tu sĩ Ayatsuji"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family...!”"
+                                "gia đình...!\""
                             ]
                         },
                         {
@@ -2998,7 +2998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Give up! Muramara!”"
+                                "\\N<Shizune>“Bỏ cuộc! Muramara!”"
                             ]
                         },
                         {
@@ -3062,7 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I can’t maintain my spiritual power...!”"
+                                "\\N<Shizune>“Tôi không thể duy trì sức mạnh tâm linh của mình…!”"
                             ]
                         },
                         {
@@ -3095,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“W-Wahaha! You’re already out of juice, I see. ♪”"
+                                "\\N<Muramara>“W-Wahaha! Tôi hiểu là bạn đã hết nước trái cây rồi. ♪”"
                             ]
                         },
                         {
@@ -3112,7 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You can’t beat me like that, can you?”"
+                                "\\N<Muramara>“Anh không thể đánh tôi như vậy được phải không?”"
                             ]
                         },
                         {
@@ -3136,7 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Cr-Crap... He’s going to get me again...)"
+                                "\\N<Shizune>(Cr-Crap... Anh ta sắp bắt được tôi lần nữa...)"
                             ]
                         },
                         {
@@ -3177,14 +3177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“A-As much as I’d love to fully enjoy sucking on the"
+                                "\\N<Muramara>“A-Tôi rất muốn tận hưởng trọn vẹn việc bú mút"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "titties of a weakened priestess...”"
+                                "ngực của một nữ tu sĩ suy yếu…”"
                             ]
                         },
                         {
@@ -3201,7 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I also took quite a lot of damage...”"
+                                "\\N<Muramara>“Tôi cũng chịu khá nhiều sát thương…”"
                             ]
                         },
                         {
@@ -3218,7 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“So... I’mma make my escape for today. ♪”"
+                                "\\N<Muramara>“Vậy... hôm nay tôi sẽ trốn thoát. ♪”"
                             ]
                         },
                         {
@@ -3249,7 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“R-Running away again, huh...? Coward...!”"
+                                "\\N<Shizune>“R-Lại chạy trốn à…? Nhát gan...!\""
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♪ I just don’t have enough Obscenities yet..."
+                                "\\N<Muramara>“Wahaha! ♪ Tôi vẫn chưa có đủ Tục tĩu..."
                             ]
                         },
                         {
@@ -3297,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“The next time we meet, I’ll dote on you in full. ♪”"
+                                "\\N<Muramara>“Lần tới chúng ta gặp nhau, tôi sẽ hết lòng yêu mến bạn. ♪”"
                             ]
                         },
                         {
@@ -3356,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“H-He got away...!”"
+                                "\\N<Shizune>“H-Anh ấy đã chạy trốn…!”"
                             ]
                         },
                         {
@@ -3373,7 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“But now... I’ve hurt him...”"
+                                "\\N<Shizune>“Nhưng bây giờ... tôi đã làm tổn thương anh ấy…”"
                             ]
                         },
                         {
@@ -3390,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“He shouldn’t be able to cause trouble for a while...”"
+                                "\\N<Shizune>“Anh ta lẽ ra không thể gây rắc rối trong một thời gian…”"
                             ]
                         },
                         {
@@ -3421,14 +3421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Just... gotta... get... home... and... tell..."
+                                "\\N<Shizune>“Chỉ cần... phải... về... về nhà... và... kể..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother...”"
+                                "Mẹ...\""
                             ]
                         },
                         {
@@ -3469,7 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*crash*"
+                                "*tai nạn*"
                             ]
                         },
                         {
@@ -3534,7 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -3657,7 +3657,7 @@
         },
         {
             "id": 3,
-            "name": "Muramara Defeat Event",
+            "name": "Sự kiện đánh bại Muramara",
             "note": "",
             "pages": [
                 {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha...! I guess I win! ♪”"
+                                "\\N<Muramara>“Wahaha...! Tôi đoán là tôi thắng! ♪”"
                             ]
                         },
                         {
@@ -3849,14 +3849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Even Kaori was unable to fully seal me away. Did you"
+                                "\\N<Muramara>“Ngay cả Kaori cũng không thể phong ấn tôi hoàn toàn được. Bạn đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "really think a busty girl could beat me? ♪”"
+                                "thực sự nghĩ rằng một cô gái vú to có thể đánh bại tôi? ♪”"
                             ]
                         },
                         {
@@ -3880,14 +3880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Sh-Shut it! You attacked me in such an obscene"
+                                "\\N<Shizune>“C-Im đi! Bạn đã tấn công tôi một cách tục tĩu như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "manner...!”"
+                                "thái độ...!\""
                             ]
                         },
                         {
@@ -3911,14 +3911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Heh heh heh! ♪ It’s not my fault you kept leaving"
+                                "\\N<Muramara>“He he he he! ♪ Không phải lỗi của tôi khi bạn cứ rời đi ♪"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yourself wide-open. ♪”"
+                                "bản thân bạn cởi mở. ♪”"
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...!”"
+                                "\\N<Shizune>“Hừm...!”"
                             ]
                         },
                         {
@@ -3966,14 +3966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Hee-hee... Looks like you don’t have the strength to"
+                                "\\N<Muramara>“Hee-hee... Có vẻ như bạn không còn sức để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "resist anymore...”"
+                                "chống cự nữa…”"
                             ]
                         },
                         {
@@ -3990,7 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“And no one will get in the way this time...”"
+                                "\\N<Muramara>“Và lần này sẽ không có ai cản đường…”"
                             ]
                         },
                         {
@@ -4007,7 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’m going to fully enjoy those huge tits of yours! ♡”"
+                                "\\N<Muramara>“Tôi sẽ tận hưởng trọn vẹn cặp vú khổng lồ đó của bạn! ♡”"
                             ]
                         },
                         {
@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(N-No...! My body won’t...!)"
+                                "\\N<Shizune>(K-Không...! Cơ thể tôi sẽ không...!)"
                             ]
                         },
                         {
@@ -4072,7 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Well... without further ado... ♡”"
+                                "\\N<Muramara>“Chà... không cần chần chừ gì nữa... ♡\""
                             ]
                         },
                         {
@@ -4230,7 +4230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡"
+                                "*bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -4264,14 +4264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Haaaaah... ♡ They really are goddamn huge... Women of"
+                                "\\N<Muramara>“Haaaaah... ♡ Họ thực sự to lớn quá... Phụ nữ của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the Ayatsuji family all have gigantic melons. ♡”"
+                                "gia đình Ayatsuji đều có những quả dưa khổng lồ. ♡”"
                             ]
                         },
                         {
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“G-Get your dirty hands off me...! You creep...!”"
+                                "\\N<Shizune>“G-Bỏ bàn tay bẩn thỉu của anh ra khỏi tôi…! Đồ khốn nạn...!”"
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Good grief... you are one cocky bitch. ♡”"
+                                "\\N<Muramara>“Thật tiếc... bạn là một con khốn tự mãn. ♡”"
                             ]
                         },
                         {
@@ -4338,14 +4338,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“And yet you entice men with these. ♡ Letting them"
+                                "\\N<Muramara>“Tuy nhiên, bạn lại lôi kéo đàn ông bằng những thứ này. ♡ Để họ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jiggle for all to see... ♡”"
+                                "lắc lư cho mọi người cùng xem... ♡”"
                             ]
                         },
                         {
@@ -4378,7 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“B-Back to talking about my breasts again...!”"
+                                "\\N<Shizune>“B-Quay lại nói về cặp vú của tôi nữa…!”"
                             ]
                         },
                         {
@@ -4395,7 +4395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll never forgive you... Muramara...!!”"
+                                "\\N<Shizune>“Tôi sẽ không bao giờ tha thứ cho anh… Muramara…!!”"
                             ]
                         },
                         {
@@ -4412,7 +4412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ Well, before you get all crabby...”"
+                                "\\N<Muramara>“Wahaha! ♡ Chà, trước khi bạn trở nên cáu kỉnh…”"
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You gotta take care of THIS. ♡”"
+                                "\\N<Muramara>“Bạn phải quan tâm đến ĐIỀU NÀY. ♡”"
                             ]
                         },
                         {
@@ -4446,14 +4446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Squeezing Shizune’s breasts, Muramara skillfully"
+                                "Siết ngực Shizune, Muramara điêu luyện"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "removes his loincloth and shows her his erect penis..."
+                                "cởi khố và cho cô ấy xem dương vật đang cương cứng của anh ấy..."
                             ]
                         },
                         {
@@ -4486,7 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!? I-Is that...!?”"
+                                "\\N<Shizune>“Cái gì...!? Đ-Đó là...!?”"
                             ]
                         },
                         {
@@ -4503,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ Have you never seen a cock before?”"
+                                "\\N<Muramara>“Wahaha! ♡ Bạn chưa bao giờ nhìn thấy một con con cặc trước đây à?”"
                             ]
                         },
                         {
@@ -4536,7 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-AAAH!! PUT THAT THING AWAY!!”"
+                                "\\N<Shizune>“A-AAAH!! ĐẶT ĐIỀU ĐÓ ĐI ĐI!!”"
                             ]
                         },
                         {
@@ -4553,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Shut it! ♡ My patience has already run out! ♡”"
+                                "\\N<Muramara>“Im đi! ♡ Sự kiên nhẫn của tôi đã cạn kiệt rồi! ♡”"
                             ]
                         },
                         {
@@ -4570,7 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Take responsibility for turning me on! ♡ ♡”"
+                                "\\N<Muramara>“Hãy chịu trách nhiệm về việc bật tôi lên! ♡ ♡”"
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“N-NO!!”"
+                                "\\N<Shizune>“K-KHÔNG!!”"
                             ]
                         },
                         {
@@ -4702,7 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Woohoo! ♡ That’s what I like to see! ♡ ♡”"
+                                "\\N<Muramara>“Woohoo! ♡ Đó là điều tôi muốn thấy! ♡ ♡”"
                             ]
                         },
                         {
@@ -4736,14 +4736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“So this is what your tits look like."
+                                "\\N<Muramara>“Vậy ngực của bạn trông như thế này."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ ♡ Wahaha! ♡ Looking tasty! ♡ ♡”"
+                                "♡ ♡ Wahaha! ♡ Nhìn ngon quá! ♡ ♡”"
                             ]
                         },
                         {
@@ -4777,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Well... I’ll get straight to it...! ♡”"
+                                "\\N<Muramara>“Chà... tôi sẽ nói thẳng vấn đề...! ♡”"
                             ]
                         },
                         {
@@ -4841,7 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*splish* ♡ ♡ ♡"
+                                "*tung* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -4858,7 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“EEK! Wha-What are you doing...!?”"
+                                "\\N<Shizune>“EEK! C-Anh đang làm gì vậy...!?”"
                             ]
                         },
                         {
@@ -4918,7 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ ♡"
+                                "*bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -4935,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“DAMN! ♡ ♡ They’re soft as fuck! ♡ ♡”"
+                                "\\N<Muramara>“CHẾT! ♡ ♡ Chúng thật mềm mại! ♡ ♡”"
                             ]
                         },
                         {
@@ -4952,7 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’m the first one to get a tit job from you! ♡ ♡”"
+                                "\\N<Muramara>“Tôi là người đầu tiên nhận được công việc ăn miếng trả miếng từ bạn! ♡ ♡”"
                             ]
                         },
                         {
@@ -4969,7 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“AH!!! Wha-What nonsense are you spouting...!?”"
+                                "\\N<Shizune>“À!!! C-Anh đang nói điều vớ vẩn gì thế...!?”"
                             ]
                         },
                         {
@@ -4986,14 +4986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! You must know what a tit job is. Just look at"
+                                "\\N<Muramara>“Wahaha! Bạn phải biết công việc ăn miếng trả miếng là gì. Chỉ cần nhìn vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "how big your tits are. ♡”"
+                                "ngực của bạn lớn đến mức nào. ♡”"
                             ]
                         },
                         {
@@ -5010,7 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’d better teach you thoroughly. ♡”"
+                                "\\N<Muramara>“Tốt hơn hết tôi nên dạy bạn kỹ lưỡng. ♡”"
                             ]
                         },
                         {
@@ -5043,7 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You sleazebag...!! Ngh...!”"
+                                "\\N<Shizune>“C-Đồ khốn kiếp…!! Ngh...!”"
                             ]
                         },
                         {
@@ -5091,7 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *rub* ♡ *rub* ♡ ♡"
+                                "*bụp* ♡ *xoa* ♡ *xoa* ♡ ♡"
                             ]
                         },
                         {
@@ -5108,14 +5108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ ♡ A sassy girl’s glare never fails to"
+                                "\\N<Muramara>“Wahaha! ♡ ♡ Ánh nhìn chằm chằm của một cô gái ngổ ngáo không bao giờ thất bại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "amaze me... ♡ ♡”"
+                                "làm tôi ngạc nhiên... ♡ ♡”"
                             ]
                         },
                         {
@@ -5132,14 +5132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“C’mon! C’mon! ♡ Why don’t you try to do something if"
+                                "\\N<Muramara>“Nào! Thôi nào! ♡ Tại sao bạn không thử làm điều gì đó nếu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you find this frustrating? ♡ ♡”"
+                                "bạn thấy điều này thật khó chịu? ♡ ♡”"
                             ]
                         },
                         {
@@ -5187,7 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ *rub* ♡ *rub* ♡"
+                                "*bụp* ♡ *bụp* ♡ *xoa* ♡ *xoa* ♡"
                             ]
                         },
                         {
@@ -5220,7 +5220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ugh...! Gr-Gross...!!”"
+                                "\\N<Shizune>“Ờ...! T-Tệ quá...!!”"
                             ]
                         },
                         {
@@ -5237,7 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Why... are you doing this...!!?”"
+                                "\\N<Shizune>“Tại sao... bạn lại làm điều này...!!?”"
                             ]
                         },
                         {
@@ -5254,14 +5254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha. ♪ This is your fault for having such an"
+                                "\\N<Muramara>“Wahaha. ♪ Đây là lỗi của bạn khi có một hành động như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "arousing body. ♡”"
+                                "kích thích cơ thể. ♡”"
                             ]
                         },
                         {
@@ -5278,14 +5278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“No wonder all the perverts in this city have their"
+                                "\\N<Muramara>“Thảo nào tất cả những kẻ biến thái ở thành phố này đều có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "eyes on you...”"
+                                "để mắt tới cậu…”"
                             ]
                         },
                         {
@@ -5302,21 +5302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Bet they want to rip off your clothes to uncover your"
+                                "\\N<Muramara>“Cá là họ muốn xé quần áo của bạn để lộ ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "huge tits and have their way with them and your"
+                                "cặp vú khổng lồ và làm theo cách của họ với họ và của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "pussy...! ♡”"
+                                "con khốn...! ♡”"
                             ]
                         },
                         {
@@ -5333,14 +5333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wouldn’t be surprised if they jacked off every day,"
+                                "\\N<Muramara>“Sẽ không ngạc nhiên nếu họ xuất hiện hàng ngày,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fantasizing about raping you... ♡”"
+                                "đang tưởng tượng về việc cưỡng hiếp em... ♡”"
                             ]
                         },
                         {
@@ -5421,7 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *rub* ♡ *boing* ♡ *boing* ♡"
+                                "*bụp* ♡ *xoa* ♡ *bùm* ♡ *bùm* ♡"
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Aaaaah... ♡ This feels outstanding... ♡ ♡”"
+                                "\\N<Muramara>“Aaaaah... ♡ Cảm giác thật tuyệt vời... ♡ ♡\""
                             ]
                         },
                         {
@@ -5455,7 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You’re enjoying this too, aren’t you...? ♡”"
+                                "\\N<Muramara>“Bạn cũng thích điều này phải không...? ♡”"
                             ]
                         },
                         {
@@ -5503,7 +5503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ ♡"
+                                "*bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5536,7 +5536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wh-Who’d ever enj— HYA! ♡”"
+                                "\\N<Shizune>“Ai-Ai đã từng thích— HYA! ♡”"
                             ]
                         },
                         {
@@ -5553,7 +5553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ Your boobs sure are sensitive. ♡”"
+                                "\\N<Muramara>“Wahaha! ♡ Ngực của bạn chắc chắn rất nhạy cảm. ♡”"
                             ]
                         },
                         {
@@ -5570,7 +5570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Is a tit job enough to bring you pleasure? ♡”"
+                                "\\N<Muramara>“Công việc ăn miếng trả miếng có đủ mang lại cho bạn niềm vui không? ♡”"
                             ]
                         },
                         {
@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ ♡"
+                                "*bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5651,7 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Ah...! ♡ ♡ Stop...! MN! ♡”"
+                                "\\N<Shizune>“...À...! ♡ ♡ Dừng lại...! MN! ♡”"
                             ]
                         },
                         {
@@ -5668,21 +5668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I didn’t expect you to moan so cutely. ♡ You really"
+                                "\\N<Muramara>“Không ngờ em lại rên rỉ dễ thương đến thế. ♡ Bạn thực sự"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "are just like your mother when it comes to anything"
+                                "giống như mẹ của bạn khi nói đến bất cứ điều gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "other than your personality... ♡ ♡”"
+                                "ngoài tính cách của bạn... ♡ ♡”"
                             ]
                         },
                         {
@@ -5699,7 +5699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...My mother...!? NGH! ♡ ♡”"
+                                "\\N<Shizune>“...Mẹ tôi...!? NGH! ♡ ♡”"
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ *rub* ♡ *rub* ♡"
+                                "*bụp* ♡ *bụp* ♡ *xoa* ♡ *xoa* ♡"
                             ]
                         },
                         {
@@ -5780,7 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ugh...! A mere fiend like you... could never...! ♡”"
+                                "\\N<Shizune>“Ờ...! Một kẻ ác độc như ngươi... không bao giờ có thể...! ♡”"
                             ]
                         },
                         {
@@ -5797,7 +5797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ You’re free to resist more, y’know?”"
+                                "\\N<Muramara>“Wahaha! ♡ Cậu có thể thoải mái kháng cự hơn nữa, biết không?”"
                             ]
                         },
                         {
@@ -5814,14 +5814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I just love making busty women, who desperately"
+                                "\\N<Muramara>“Tôi chỉ thích làm những phụ nữ ngực khủng, những người tuyệt vọng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "struggle, submit to me with my cock! ♡”"
+                                "đấu tranh, phục tùng tôi với con cặc của tôi! ♡”"
                             ]
                         },
                         {
@@ -5854,7 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Qu-Quiet, you...!!”"
+                                "\\N<Shizune>“...Qu-Im đi, ngươi...!!”"
                             ]
                         },
                         {
@@ -5871,7 +5871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ Yeah, like that! You’re doing great. ♡ ♡”"
+                                "\\N<Muramara>“Wahaha! ♡ Ừ, như thế đó! Bạn đang làm rất tốt. ♡ ♡”"
                             ]
                         },
                         {
@@ -5919,7 +5919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rub* ♡ *rub* ♡ *squish* ♡ ♡"
+                                "*chà* ♡ *chà* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5936,14 +5936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Mmm...! ♡ I would have liked to enjoy your huge boobs"
+                                "\\N<Muramara>“Ừm...! ♡ Tôi rất muốn được thưởng thức cặp vú khổng lồ của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for a lot longer, but... ♡”"
+                                "lâu hơn rất nhiều, nhưng... ♡”"
                             ]
                         },
                         {
@@ -5960,14 +5960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“The badonkers of a certain cocky priestess... have a"
+                                "\\N<Muramara>“Những kẻ xấu xa của một nữ tu sĩ tự mãn nào đó... có một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "nice hold on my cock right now...! ♡ ♡”"
+                                "tốt lắm hãy giữ lấy con cặc của tôi ngay bây giờ...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5984,7 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I-I can’t wait any longer! ♡ ♡”"
+                                "\\N<Muramara>“T-tôi không thể đợi được nữa! ♡ ♡”"
                             ]
                         },
                         {
@@ -6017,7 +6017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“D-Don’t...! Stop...! Get awa— AHN! ♡ ♡”"
+                                "\\N<Shizune>“Đ-Đừng...! Dừng lại...! Tránh ra— AHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -6065,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ *squish* ♡ *rub* ♡ ♡"
+                                "*bụp* ♡ *bụp* ♡ *bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -6098,7 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah... Hah... Haaah... ♡ ♡”"
+                                "\\N<Shizune>“Hah... Hah... Haaah... ♡ ♡\""
                             ]
                         },
                         {
@@ -6115,14 +6115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha! ♡ ♡ You’ve got a nice look on your"
+                                "\\N<Muramara>“Wahaha! ♡ ♡ Bạn có một diện mạo đẹp đấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "face. ♡ ♡ I can tell you’re frantic. ♡ ♡”"
+                                "khuôn mặt. ♡ ♡ Tôi có thể nói rằng bạn đang rất điên cuồng. ♡ ♡”"
                             ]
                         },
                         {
@@ -6139,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wonder how long you’ll last. ♡”"
+                                "\\N<Muramara>“Tự hỏi bạn sẽ tồn tại được bao lâu. ♡”"
                             ]
                         },
                         {
@@ -6172,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Dammit...! If this keeps up...!)"
+                                "\\N<Shizune>(Chết tiệt...! Nếu chuyện này cứ tiếp diễn...!)"
                             ]
                         },
                         {
@@ -6189,7 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I have to find an opening...!)"
+                                "\\N<Shizune>(T-tôi phải tìm một lối mở...!)"
                             ]
                         },
                         {
@@ -6237,7 +6237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡ *rub* ♡ *squelch* ♡"
+                                "*bụp* ♡ *bụp* ♡ *xoa* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -6254,7 +6254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Haaaaah... Your tits are fucking sweet. ♡”"
+                                "\\N<Muramara>“Haaaaah... Vú của bạn thật ngọt ngào. ♡”"
                             ]
                         },
                         {
@@ -6271,7 +6271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You’ve got the best jugs, really... ♡ ♡”"
+                                "\\N<Muramara>“Bạn thực sự có những chiếc bình tốt nhất... ♡ ♡”"
                             ]
                         },
                         {
@@ -6304,7 +6304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn...! Hah...! ♡”"
+                                "\\N<Shizune>“Mn...! Ha...! ♡”"
                             ]
                         },
                         {
@@ -6321,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Sadly... this will all be over soon...! ♡”"
+                                "\\N<Muramara>“Đáng buồn thay... chuyện này sẽ sớm kết thúc...! ♡”"
                             ]
                         },
                         {
@@ -6354,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ah! ♡ No! ♡ Quit it...! ♡”"
+                                "\\N<Shizune>“À! ♡ Không! ♡ Thôi đi...! ♡”"
                             ]
                         },
                         {
@@ -6402,14 +6402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squelch* ♡ *squelch* ♡ *squelch* ♡ *rub* ♡"
+                                "*tít* ♡ *tít* ♡ *tít* ♡ *xoa* ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -6442,7 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“AHN! ♡ ♡ AH! ♡ Ngh...! ♡ ♡ MN! ♡ ♡”"
+                                "\\N<Shizune>“AHN! ♡ ♡ À! ♡ Ngh...! ♡ ♡ MN! ♡ ♡”"
                             ]
                         },
                         {
@@ -6490,7 +6490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rub* ♡ *squish* ♡ *boing* ♡ *boing* ♡"
+                                "*chà* ♡ *bụp* ♡ *boing* ♡ *boing* ♡"
                             ]
                         },
                         {
@@ -6523,7 +6523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“NGH! MN! ♡ ♡ AH! Hah...! ♡ ♡”"
+                                "\\N<Shizune>“NGH! MN! ♡ ♡ À! Ha...! ♡ ♡”"
                             ]
                         },
                         {
@@ -6540,7 +6540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Mmm...! ♡ ♡ I’m gonna cum! ♡ ♡”"
+                                "\\N<Muramara>“Ừm...! ♡ ♡ Tôi sắp xuất tinh rồi! ♡ ♡”"
                             ]
                         },
                         {
@@ -6588,7 +6588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*splash* ♡ *splish* ♡ *splash* ♡ *splish* ♡ ♡"
+                                "*té nước* ♡ *tung* ♡ *tung* ♡ *tung* ♡ ♡"
                             ]
                         },
                         {
@@ -6621,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“No...! Don’t...!!”"
+                                "\\N<Shizune>“Không...! Đừng...!!\""
                             ]
                         },
                         {
@@ -6699,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ *spurt* ♡ ♡ ♡ *spurt* ♡ ♡"
+                                "*phóng* ♡ ♡ *phun* ♡ ♡ ♡ *phun* ♡ ♡"
                             ]
                         },
                         {
@@ -6716,7 +6716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“NOOOOOOOOOOO!!!”"
+                                "\\N<Shizune>“KHÔNGÔOOOOOOOO!!!”"
                             ]
                         },
                         {
@@ -6771,7 +6771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ *spurt* ♡ *spurt* ♡ ♡"
+                                "*phóng* ♡ ♡ *phóng* ♡ *phun* ♡ ♡"
                             ]
                         },
                         {
@@ -6788,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahahaha! ♡ ♡ I’m finally doing it. ♡ ♡”"
+                                "\\N<Muramara>“Wahahaha! ♡ ♡ Cuối cùng thì tôi cũng làm được rồi. ♡ ♡”"
                             ]
                         },
                         {
@@ -6805,14 +6805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“My cum’s all over the Ayatsuji brat who underestimated"
+                                "\\N<Muramara>“Tinh của tôi bắn khắp người cô gái Ayatsuji đã đánh giá thấp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me... ♡ ♡”"
+                                "tôi... ♡ ♡”"
                             ]
                         },
                         {
@@ -6867,7 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -6884,14 +6884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“I’ve dirtied your pretty face and your sexy jugs..."
+                                "\\N<Muramara>“Tôi đã làm bẩn khuôn mặt xinh đẹp và chiếc bình gợi cảm của bạn..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with my semen. ♡ ♡”"
+                                "với tinh dịch của tôi. ♡ ♡”"
                             ]
                         },
                         {
@@ -6924,7 +6924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Eek...! Disgusting...! And stinky...!”"
+                                "\\N<Shizune>“Ế...! Kinh tởm...! Và hôi thối...!”"
                             ]
                         },
                         {
@@ -6941,7 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wahaha... Hey... How do you feel...? ♡ ♡”"
+                                "\\N<Muramara>“Wahaha... Này... Bạn cảm thấy thế nào...? ♡ ♡”"
                             ]
                         },
                         {
@@ -6958,7 +6958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“The sleazebag you looked down on... did THIS to you."
+                                "\\N<Muramara>“Cái túi nhếch nhác mà bạn coi thường… đã làm ĐIỀU ĐIỀU NÀY với bạn."
                             ]
                         },
                         {
@@ -6982,7 +6982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“DAMMIT!!”"
+                                "\\N<Shizune>“CHÚT ĐỐI!!"
                             ]
                         },
                         {
@@ -7015,7 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I’ll never ever... forgive you...!!”"
+                                "\\N<Shizune>“T-tôi sẽ không bao giờ… tha thứ cho anh…!!”"
                             ]
                         },
                         {
@@ -7032,14 +7032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“You’ve already said that before. ♡ That didn’t stop"
+                                "\\N<Muramara>“Bạn đã nói điều đó trước đây rồi. ♡ Điều đó vẫn chưa dừng lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me from fondling you then, now did it? ♡”"
+                                "Hồi đó tôi đã vuốt ve em rồi phải không? ♡”"
                             ]
                         },
                         {
@@ -7072,7 +7072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You...!!”"
+                                "\\N<Shizune>“Bạn...!!”"
                             ]
                         },
                         {
@@ -7089,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Making fun of people without any sign of regret...!!”"
+                                "\\N<Shizune>“Chế giễu mọi người mà không hề tỏ ra hối hận…!!”"
                             ]
                         },
                         {
@@ -7106,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Because you were immersed in fooling around...!”"
+                                "\\N<Shizune>“Bởi vì bạn đã đắm chìm trong trò đùa…!”"
                             ]
                         },
                         {
@@ -7139,7 +7139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You didn’t even notice... THIS!!!”"
+                                "\\N<Shizune>“Bạn thậm chí còn không nhận thấy… ĐIỀU NÀY!!!”"
                             ]
                         },
                         {
@@ -7207,7 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shizune’s spiritual power intensified rapidly...!"
+                                "Linh lực của Shizune tăng lên nhanh chóng...!"
                             ]
                         },
                         {
@@ -7224,7 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“What...!?”"
+                                "\\N<Muramara>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -7241,7 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“Wh-When did you...!?”"
+                                "\\N<Muramara>“C-Cậu... khi nào vậy??”"
                             ]
                         },
                         {
@@ -7265,14 +7265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ve been charging up my spiritual power when you were"
+                                "\\N<Shizune>“Tôi đã nạp sức mạnh tâm linh của mình khi bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "preoccupied with your perverted acts...!”"
+                                "bận tâm đến những hành động biến thái của mình…!”"
                             ]
                         },
                         {
@@ -7289,14 +7289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll exorcise you completely... so that you’ll never"
+                                "\\N<Shizune>“Tôi sẽ Trừ tà cho bạn hoàn toàn... để bạn sẽ không bao giờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "harm any humans again...!”"
+                                "lại làm hại con người nữa...!”"
                             ]
                         },
                         {
@@ -7320,7 +7320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Take this!!!”"
+                                "\\N<Shizune>“Lấy cái này!!!”"
                             ]
                         },
                         {
@@ -7344,7 +7344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muramara>“O-Oh, fuck!!”"
+                                "\\N<Muramara>“Ô-Ôi, chết tiệt!!"
                             ]
                         },
                         {
@@ -7416,7 +7416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“He’s gone... but...”"
+                                "\\N<Shizune>“Anh ấy đã đi rồi... nhưng…”"
                             ]
                         },
                         {
@@ -7433,7 +7433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I didn’t finish him off...”"
+                                "\\N<Shizune>“Tôi không kết liễu anh ta…”"
                             ]
                         },
                         {
@@ -7457,7 +7457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Crap...!! He got away again...!”"
+                                "\\N<Shizune>“Tệ thật...!! Anh ta lại bỏ trốn nữa rồi...!”"
                             ]
                         },
                         {
@@ -7474,7 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“E-Even though he did so much to me...”"
+                                "\\N<Shizune>“E-Mặc dù anh ấy đã làm rất nhiều điều với tôi…”"
                             ]
                         },
                         {
@@ -7498,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-Am I really that weak...!!?”"
+                                "\\N<Shizune>“A-Tôi thực sự yếu đến thế sao…!!?”"
                             ]
                         },
                         {
@@ -7515,7 +7515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I can’t beli—... Ugh...!”"
+                                "\\N<Shizune>“Tôi không thể tin được—... Ugh...!”"
                             ]
                         },
                         {
@@ -7553,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“M-My consciousness is fading...”"
+                                "\\N<Shizune>“M-Ý thức của tôi đang mờ dần…”"
                             ]
                         },
                         {
@@ -7570,14 +7570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Maybe I... u-used up too much of my spiritual"
+                                "\\N<Shizune>“Có lẽ tôi... bạn đã sử dụng quá nhiều tinh thần của mình rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "power...”"
+                                "quyền lực...\""
                             ]
                         },
                         {
@@ -7594,7 +7594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“N-No...! I... still... have... to...”"
+                                "\\N<Shizune>“K-Không...! Tôi... vẫn... phải......\""
                             ]
                         },
                         {
@@ -7611,7 +7611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Get... him...”"
+                                "\\N<Shizune>“Bắt… hắn…”"
                             ]
                         },
                         {
@@ -7652,7 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*crash*"
+                                "*tai nạn*"
                             ]
                         },
                         {
@@ -7717,7 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -7791,7 +7791,7 @@
         },
         {
             "id": 4,
-            "name": "Flame",
+            "name": "Ngọn lửa",
             "note": "",
             "pages": [
                 {
@@ -7851,7 +7851,7 @@
         },
         {
             "id": 5,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {

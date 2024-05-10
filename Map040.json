@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1363,7 +1363,7 @@
         null,
         {
             "id": 1,
-            "name": "Switch",
+            "name": "Công tắc",
             "note": "",
             "pages": [
                 {
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mysterious Woman>“You can switch to Kaori!”"
+                                "\\N<Mysterious Woman>“Bạn có thể chuyển sang Kaori!”"
                             ]
                         },
                         {
@@ -1413,8 +1413,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Switch Characters",
-                                    "Leave"
+                                    "Chuyển đổi nhân vật",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -1427,7 +1427,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Switch Characters"
+                                "Chuyển đổi nhân vật"
                             ]
                         },
                         {
@@ -1497,7 +1497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mysterious Woman>“Have fun! Kaori!”"
+                                "\\N<Mysterious Woman>“Chúc vui vẻ! Kaori!”"
                             ]
                         },
                         {
@@ -1521,7 +1521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“M-Me...?”"
+                                "\\N<Kaori>“M-Tôi...?”"
                             ]
                         },
                         {
@@ -1541,7 +1541,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -1715,7 +1715,7 @@
         },
         {
             "id": 3,
-            "name": "Bureau",
+            "name": "Cục",
             "note": "",
             "pages": [
                 {
@@ -1757,7 +1757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What should I wear?”"
+                                "\\N<Kaori>“Tôi nên mặc gì?”"
                             ]
                         },
                         {
@@ -1772,9 +1772,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Priestess Outfit",
-                                    "Nude",
-                                    "Cancel"
+                                    "Trang phục nữ tư tế",
+                                    "khỏa thân",
+                                    "Hủy bỏ"
                                 ],
                                 2,
                                 0,
@@ -1787,7 +1787,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Priestess Outfit"
+                                "Trang phục nữ tư tế"
                             ]
                         },
                         {
@@ -1877,14 +1877,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Hmm... I’ve been cutting back on snacking... and yet I"
+                                "\\N<Kaori>“Hmm... Tôi đã cắt giảm việc ăn vặt... vậy mà tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "feel like I’m getting a little too big again...”"
+                                "cảm giác như mình lại trở nên quá lớn một lần nữa…”"
                             ]
                         },
                         {
@@ -1904,7 +1904,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Nude"
+                                "khỏa thân"
                             ]
                         },
                         {
@@ -2010,14 +2010,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Mmm... I cannot let Shizune or Gonzo see me like"
+                                "\\N<Kaori>“Mmm... Tôi không thể để Shizune hoặc Gonzo nhìn thấy tôi như thế này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this... I’d better get changed quick...”"
+                                "cái này... tốt nhất là tôi nên thay đồ nhanh lên…”"
                             ]
                         },
                         {
@@ -2037,7 +2037,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Cancel"
+                                "Hủy bỏ"
                             ]
                         },
                         {
@@ -2124,7 +2124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lewd Increase"
+                                "Tăng dâm dục"
                             ]
                         },
                         {
@@ -2132,8 +2132,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Plus 10",
-                                    "Refuse"
+                                    "Cộng thêm 10",
+                                    "Từ chối"
                                 ],
                                 1,
                                 0,
@@ -2146,7 +2146,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Plus 10"
+                                "Cộng thêm 10"
                             ]
                         },
                         {
@@ -2181,7 +2181,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Refuse"
+                                "Từ chối"
                             ]
                         },
                         {
@@ -2227,7 +2227,7 @@
         null,
         {
             "id": 6,
-            "name": "Kaori Script 50",
+            "name": "Tập lệnh Kaori 50",
             "note": "",
             "pages": [
                 {
