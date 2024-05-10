@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -4488,14 +4488,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Hotel Entrance,25"
+                                "thông tin:Khách sạn,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,20"
+                                "thông tin di chuyển:25,20"
                             ]
                         },
                         {
@@ -4721,14 +4721,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:School Route,25"
+                                "thông tin:Đường, 25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {
@@ -4870,14 +4870,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Shrine,25"
+                                "thông tin:Đền thờ,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {
@@ -4959,14 +4959,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Shrine,25"
+                                "thông tin:Đền thờ,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {
@@ -4974,9 +4974,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Shrine",
-                                    "Shizune’s House 2F",
-                                    "Back"
+                                    "Đền thờ",
+                                    "Nhà của Shizune 2F",
+                                    "Quay lại"
                                 ],
                                 2,
                                 0,
@@ -4989,7 +4989,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Shrine"
+                                "Đền thờ"
                             ]
                         },
                         {
@@ -5026,7 +5026,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Shizune’s House 2F"
+                                "Nhà của Shizune 2F"
                             ]
                         },
                         {
@@ -5063,7 +5063,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -5359,14 +5359,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Residential Area,25"
+                                "thông tin:Cư dân,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,0"
+                                "thông tin di chuyển:25,0"
                             ]
                         },
                         {
@@ -5676,14 +5676,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Park,25"
+                                "thông tin:Park,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {
@@ -6161,14 +6161,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Downtown,35"
+                                "thông tin:Trung tâm thành phố,35"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,0"
+                                "thông tin di chuyển:25,0"
                             ]
                         },
                         {
@@ -7179,14 +7179,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Apparition Forest,25"
+                                "thông tin:Rừng,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,0"
+                                "thông tin di chuyển:25,0"
                             ]
                         },
                         {
@@ -7784,14 +7784,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Sex Fiend Den,25"
+                                "thông tin:Den,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {
@@ -7972,14 +7972,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Department Store,25"
+                                "thông tin:Cửa hàng,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,20"
+                                "thông tin di chuyển:25,20"
                             ]
                         },
                         {
@@ -8061,14 +8061,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Department Store,25"
+                                "thông tin:Cửa hàng,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,20"
+                                "thông tin di chuyển:25,20"
                             ]
                         },
                         {
@@ -8150,14 +8150,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Department Store,25"
+                                "thông tin:Cửa hàng,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:25,20"
+                                "thông tin di chuyển:25,20"
                             ]
                         },
                         {
@@ -9385,14 +9385,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:Nine Spirits Woods,25"
+                                "thông tin:Rừng,25"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "infomove:0,0"
+                                "thông tin di chuyển:0,0"
                             ]
                         },
                         {

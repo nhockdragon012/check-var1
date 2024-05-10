@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1363,7 +1363,7 @@
         null,
         {
             "id": 1,
-            "name": "Door",
+            "name": "Cửa",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1001>",
             "pages": [
                 {
