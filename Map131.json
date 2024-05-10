@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Bathhouse",
+    "displayName": "Nhà tắm",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1423,7 +1423,7 @@
         },
         {
             "id": 2,
-            "name": "Men’s Baths Entrance",
+            "name": "Lối vào phòng tắm nam",
             "note": "",
             "pages": [
                 {
@@ -1488,14 +1488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hold on... This is the way to the men’s baths... Never"
+                                "\\N<Shizune>“Đợi đã… Đây là đường đến nhà tắm nam… Không bao giờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "in a million years will I go in there...”"
+                                "một triệu năm nữa tôi sẽ vào đó…”"
                             ]
                         },
                         {
@@ -1624,14 +1624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“This is for men... I shouldn’t step foot in"
+                                "\\N<Kaori>“Cái này dành cho nam giới… Tôi không nên bước chân vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here...”"
+                                "đây...\""
                             ]
                         },
                         {
@@ -1753,14 +1753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I gotta speak to the attendant to enter the women’s"
+                                "\\N<Shizune>“Tôi phải nói chuyện với người phục vụ để vào khu vực dành cho nữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "baths.”"
+                                "tắm.”"
                             ]
                         },
                         {
@@ -1873,14 +1873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I must speak to the attendant to enter the women’s"
+                                "\\N<Kaori>“Tôi phải nói chuyện với người phục vụ để vào khu vực dành cho nữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "baths.”"
+                                "tắm.”"
                             ]
                         },
                         {
@@ -2028,7 +2028,7 @@
         },
         {
             "id": 4,
-            "name": "Owner",
+            "name": "Người sở hữu",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1261>",
             "pages": [
                 {
@@ -2070,7 +2070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“Oh, wanna take a bath?”"
+                                "\\N<Dude>“Ồ, muốn đi tắm à?”"
                             ]
                         },
                         {
@@ -2094,14 +2094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I could take a bath at home... but I see nothing wrong"
+                                "\\N<Shizune>(Tôi có thể tắm ở nhà... nhưng tôi thấy không có gì sai cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with going to a bathhouse every once in a while.)"
+                                "với việc thỉnh thoảng vào nhà tắm.)"
                             ]
                         },
                         {
@@ -2109,8 +2109,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(s[11])Enter (Needed Costume: Uniform)",
-                                    "Leave"
+                                    "en(s[11])Enter (Trang phục cần thiết: Đồng phục)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -2123,7 +2123,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(s[11])Enter (Needed Costume: Uniform)"
+                                "en(s[11])Enter (Trang phục cần thiết: Đồng phục)"
                             ]
                         },
                         {
@@ -2149,7 +2149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Yes, please.”"
+                                "\\N<Shizune>“...Vâng, làm ơn.”"
                             ]
                         },
                         {
@@ -2173,14 +2173,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Okay-dokey. Here’s what you’ll need for your bath. The"
+                                "\\N<Dude>“Được rồi. Đây là những gì bạn cần cho bồn tắm của mình. Các"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "entrance is on the right.”"
+                                "lối vào ở bên phải.”"
                             ]
                         },
                         {
@@ -2211,7 +2211,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -2296,7 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“Oh, wanna take a bath?”"
+                                "\\N<Dude>“Ồ, muốn đi tắm à?”"
                             ]
                         },
                         {
@@ -2320,14 +2320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I could also take a bath at home, but there’s nothing"
+                                "\\N<Kaori>(Tôi cũng có thể tắm ở nhà, nhưng không có gì cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wrong with going to a bathhouse from time to time...)"
+                                "thỉnh thoảng đi tắm là sai...)"
                             ]
                         },
                         {
@@ -2335,8 +2335,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(s[17])Enter (Needed Costume: Priestess Outfit)",
-                                    "Leave"
+                                    "en(s[17])Enter (Trang phục cần thiết: Trang phục nữ tư tế)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -2349,7 +2349,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(s[17])Enter (Needed Costume: Priestess Outfit)"
+                                "en(s[17])Enter (Trang phục cần thiết: Trang phục nữ tư tế)"
                             ]
                         },
                         {
@@ -2382,7 +2382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Yes. I would love that. ♪”"
+                                "\\N<Kaori>“...Có. Tôi rất thích điều đó. ♪”"
                             ]
                         },
                         {
@@ -2406,14 +2406,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Okay-dokey. Here’s what you’ll need for your bath. The"
+                                "\\N<Dude>“Được rồi. Đây là những gì bạn cần cho bồn tắm của mình. Các"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "entrance is on the right.”"
+                                "lối vào ở bên phải.”"
                             ]
                         },
                         {
@@ -2444,7 +2444,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -2529,7 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“The entrance is on the right.”"
+                                "\\N<Dude>“Lối vào ở bên phải.”"
                             ]
                         },
                         {
@@ -2830,14 +2830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I already said I’m going to take a bath here, so I"
+                                "\\N<Shizune>“Tôi đã nói là tôi sẽ đi tắm ở đây rồi, nên tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "should head to the women’s bath.”"
+                                "nên đi tới phòng tắm nữ.”"
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“This is the exit...”"
+                                "\\N<Kaori>“Đây là lối ra…”"
                             ]
                         },
                         {
@@ -2974,14 +2974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I’ve already spoken to the attendant, so I should"
+                                "\\N<Kaori>“Tôi đã nói chuyện với người phục vụ rồi, vì vậy tôi nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "relax in the bathhouse. ♪”"
+                                "thư giãn trong nhà tắm. ♪”"
                             ]
                         },
                         {
@@ -3054,7 +3054,7 @@
         },
         {
             "id": 6,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -3121,7 +3121,7 @@
         },
         {
             "id": 7,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

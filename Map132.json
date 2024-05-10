@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Bathhouse (Inside)",
+    "displayName": "Nhà tắm (Bên trong)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -4199,7 +4199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I gotta take off my clothes before I enter.”"
+                                "\\N<Shizune>“Tôi phải cởi quần áo trước khi vào.”"
                             ]
                         },
                         {
@@ -4312,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I just took one.”"
+                                "\\N<Shizune>“Tôi vừa lấy một cái.”"
                             ]
                         },
                         {
@@ -4425,14 +4425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I must take off my clothes before I enter the bathing"
+                                "\\N<Kaori>“Tôi phải cởi quần áo trước khi vào tắm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "area.”"
+                                "khu vực.\""
                             ]
                         },
                         {
@@ -4545,7 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I just took a bath.”"
+                                "\\N<Kaori>“Tôi vừa mới tắm.”"
                             ]
                         },
                         {
@@ -4742,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I shouldn’t go back yet.”"
+                                "\\N<Shizune>“Tôi chưa nên quay lại.”"
                             ]
                         },
                         {
@@ -4855,7 +4855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I cannot go back yet...”"
+                                "\\N<Kaori>“Tôi chưa thể quay lại…”"
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
         },
         {
             "id": 5,
-            "name": "Bathhouse Male Customer 1",
+            "name": "Nhà tắm Nam Khách hàng 1",
             "note": "",
             "pages": [
                 {
@@ -5072,7 +5072,7 @@
         },
         {
             "id": 6,
-            "name": "Bathhouse Male Customer 2",
+            "name": "Nhà tắm Nam Khách hàng 2",
             "note": "",
             "pages": [
                 {
@@ -5132,7 +5132,7 @@
         },
         {
             "id": 7,
-            "name": "Bathhouse Male Customer 3",
+            "name": "Nhà tắm Nam Khách hàng 3",
             "note": "",
             "pages": [
                 {
@@ -5192,7 +5192,7 @@
         },
         {
             "id": 8,
-            "name": "Bathhouse Male Customer 4",
+            "name": "Nhà tắm Nam Khách hàng 4",
             "note": "",
             "pages": [
                 {
@@ -5252,7 +5252,7 @@
         },
         {
             "id": 9,
-            "name": "Bathhouse Male Customer 5",
+            "name": "Nhà tắm Nam Khách hàng 5",
             "note": "",
             "pages": [
                 {
@@ -5312,7 +5312,7 @@
         },
         {
             "id": 10,
-            "name": "Bathhouse Male Customer 6",
+            "name": "Nhà tắm Khách hàng Nam 6",
             "note": "",
             "pages": [
                 {
@@ -5372,7 +5372,7 @@
         },
         {
             "id": 11,
-            "name": "Bathhouse Male Customer 7",
+            "name": "Nhà tắm Nam Khách hàng 7",
             "note": "",
             "pages": [
                 {
@@ -5432,7 +5432,7 @@
         },
         {
             "id": 12,
-            "name": "Bathhouse Male Customer 8",
+            "name": "Nhà tắm Khách hàng Nam 8",
             "note": "",
             "pages": [
                 {
@@ -5492,7 +5492,7 @@
         },
         {
             "id": 13,
-            "name": "Bathhouse Female Customer 1",
+            "name": "Nhà tắm Nữ Khách hàng 1",
             "note": "",
             "pages": [
                 {
@@ -5534,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Oh no... I’m getting wrinkles again.”"
+                                "\\N<Female Customer>“Ồ không... Tôi lại thấy nếp nhăn rồi.”"
                             ]
                         },
                         {
@@ -5569,7 +5569,7 @@
         },
         {
             "id": 14,
-            "name": "Bathhouse Female Customer 2",
+            "name": "Nhà tắm Nữ Khách hàng 2",
             "note": "",
             "pages": [
                 {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Mm-hmm! ♪”"
+                                "\\N<Female Customer>“Ừm-hmm! ♪”"
                             ]
                         },
                         {
@@ -5646,7 +5646,7 @@
         },
         {
             "id": 15,
-            "name": "Bathhouse Female Customer 3",
+            "name": "Nhà tắm Nữ Khách Hàng 3",
             "note": "",
             "pages": [
                 {
@@ -5688,14 +5688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“I feel like the woman who was sitting next to me kept"
+                                "\\N<Female Customer>“Tôi có cảm giác như người phụ nữ ngồi cạnh tôi đang giữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ogling me...”"
+                                "đang yêu tôi…”"
                             ]
                         },
                         {
@@ -5730,7 +5730,7 @@
         },
         {
             "id": 16,
-            "name": "Suspicious Woman",
+            "name": "Người phụ nữ đáng ngờ",
             "note": "",
             "pages": [
                 {
@@ -5772,7 +5772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -5796,14 +5796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(She’s just staying still... Is she waiting for"
+                                "\\N<Shizune>(Cô ấy chỉ đứng yên... Có phải cô ấy đang đợi không?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "someone?)"
+                                "người nào đó?)"
                             ]
                         },
                         {
@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -5902,14 +5902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(She hasn’t moved an inch... Perhaps she is waiting for"
+                                "\\N<Kaori>(Cô ấy không hề di chuyển một inch nào... Có lẽ cô ấy đang đợi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "somebody.)"
+                                "có ai.)"
                             ]
                         },
                         {
@@ -5951,7 +5951,7 @@
         },
         {
             "id": 17,
-            "name": "Bathhouse Female Customer 5",
+            "name": "Nhà tắm Nữ Khách hàng 5",
             "note": "",
             "pages": [
                 {
@@ -5993,7 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer A>“See, I told you... It’s been there the whole time.”"
+                                "\\N<Female Customer A>“Thấy chưa, tôi đã nói với bạn rồi… Nó ở đó suốt mà.”"
                             ]
                         },
                         {
@@ -6010,7 +6010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer B>“Hmm... Maybe we should tell an employee...”"
+                                "\\N<Female Customer B>“Hmm... Có lẽ chúng ta nên nói với một nhân viên…”"
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
         },
         {
             "id": 18,
-            "name": "Bathhouse Female Customer 6",
+            "name": "Nhà tắm Nữ Khách hàng 6",
             "note": "",
             "pages": [
                 {
@@ -6087,7 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer A>“See, I told you... It’s been there the whole time.”"
+                                "\\N<Female Customer A>“Thấy chưa, tôi đã nói với bạn rồi… Nó ở đó suốt mà.”"
                             ]
                         },
                         {
@@ -6104,7 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer B>“Hmm... Maybe we should tell an employee...”"
+                                "\\N<Female Customer B>“Hmm... Có lẽ chúng ta nên nói với một nhân viên…”"
                             ]
                         },
                         {
@@ -6172,8 +6172,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Prepare To Bathe (♡)",
-                                    "Back"
+                                    "Chuẩn bị tắm (♡)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -6186,7 +6186,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Prepare To Bathe (♡)"
+                                "Chuẩn bị tắm (♡)"
                             ]
                         },
                         {
@@ -6220,7 +6220,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -6289,8 +6289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Get Dressed (♡)",
-                                    "Leave"
+                                    "Thay đồ (♡)",
+                                    "Rời khỏi"
                                 ],
                                 1,
                                 0,
@@ -6303,7 +6303,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Get Dressed (♡)"
+                                "Thay đồ (♡)"
                             ]
                         },
                         {
@@ -6337,7 +6337,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Leave"
+                                "Rời khỏi"
                             ]
                         },
                         {
@@ -6382,7 +6382,7 @@
         },
         {
             "id": 20,
-            "name": "Bathhouse Voyeurism Event",
+            "name": "Sự kiện mãn nhãn trong nhà tắm",
             "note": "",
             "pages": [
                 {
@@ -6436,7 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Well, I should get undressed and head to the baths...”"
+                                "\\N<Shizune>“Chà, tôi nên cởi quần áo và đi vào phòng tắm…”"
                             ]
                         },
                         {
@@ -6565,7 +6565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6594,7 +6594,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "ZZZZZ-skirtonly",
+                                "ZZZZZ-hada",
                                 0,
                                 0,
                                 0,
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -6648,7 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Whew...”"
+                                "\\N<Shizune>“Ồ…”"
                             ]
                         },
                         {
@@ -6689,7 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6697,7 +6697,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "ZZZZZ-skirtonly",
+                                "ZZZZZ-hada",
                                 0,
                                 0,
                                 0,
@@ -6768,7 +6768,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "ZZZZZ-skirtonly",
+                                "ZZZZZ-hada",
                                 0,
                                 0,
                                 0,
@@ -6793,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I feel like someone’s watching me...)"
+                                "\\N<Shizune>(Tôi có cảm giác như ai đó đang theo dõi mình...)"
                             ]
                         },
                         {
@@ -6810,7 +6810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Must be my imagination.)"
+                                "\\N<Shizune>(...Chắc là do tôi tưởng tượng.)"
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Alright.”"
+                                "\\N<Shizune>“...Được rồi.”"
                             ]
                         },
                         {
@@ -6934,7 +6934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Time to freshen up.”"
+                                "\\N<Shizune>“Đã đến lúc làm mới.”"
                             ]
                         },
                         {
@@ -7010,7 +7010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -7057,14 +7057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew... That was relaxing... Sometimes, this sort of"
+                                "\\N<Shizune>“Phew... Thật là thư giãn... Đôi khi, kiểu này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thing isn’t so bad. ♪”"
+                                "mọi chuyện không tệ lắm. ♪”"
                             ]
                         },
                         {
@@ -7088,14 +7088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now that I’ve finished bathing, I should get dressed"
+                                "\\N<Shizune>“Tắm xong rồi, tôi nên mặc quần áo vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "in the locker room.”"
+                                "trong phòng thay đồ.”"
                             ]
                         },
                         {
@@ -7233,7 +7233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Just gotta dry my body and put on some clothes...”"
+                                "\\N<Shizune>\"Chỉ cần lau khô người và mặc quần áo vào...\""
                             ]
                         },
                         {
@@ -7386,7 +7386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(That woman was here before... I think...)"
+                                "\\N<Shizune>(Người phụ nữ đó đã từng ở đây... tôi nghĩ...)"
                             ]
                         },
                         {
@@ -7403,7 +7403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Maybe I’m being paranoid...)"
+                                "\\N<Shizune>(Có lẽ tôi đang bị hoang tưởng...)"
                             ]
                         },
                         {
@@ -7465,7 +7465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Anyways, I’ll get dressed...)"
+                                "\\N<Shizune>(Dù sao thì tôi cũng sẽ mặc quần áo...)"
                             ]
                         },
                         {
@@ -7489,7 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -7544,7 +7544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Something smells fishy...)"
+                                "\\N<Shizune>(...Có mùi tanh...)"
                             ]
                         },
                         {
@@ -7561,14 +7561,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Why would she stay in the changing room for so long"
+                                "\\N<Shizune>(Tại sao cô ấy lại ở trong phòng thay đồ lâu như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "instead of taking a bath...?)"
+                                "thay vì tắm...?)"
                             ]
                         },
                         {
@@ -7585,7 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(What on earth is she up to...?)"
+                                "\\N<Shizune>(Cô ấy đang làm cái quái gì vậy...?)"
                             ]
                         },
                         {
@@ -7653,7 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-Is that a... camera...!?)"
+                                "\\N<Shizune>(Đ-đó có phải là... máy ảnh không...!?)"
                             ]
                         },
                         {
@@ -7670,14 +7670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I didn’t see it behind the towel, but this is"
+                                "\\N<Shizune>(Tôi không nhìn thấy nó đằng sau chiếc khăn, nhưng đây là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "obviously a lens...)"
+                                "rõ ràng là một ống kính...)"
                             ]
                         },
                         {
@@ -7694,7 +7694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Don’t tell me it’s been recording me...!)"
+                                "\\N<Shizune>(Đừng nói với tôi là nó đang ghi âm tôi nhé...!)"
                             ]
                         },
                         {
@@ -7711,7 +7711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Why would a woman do such a thing...?)"
+                                "\\N<Shizune>(Tại sao một người phụ nữ lại làm một việc như vậy...?)"
                             ]
                         },
                         {
@@ -7735,7 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Th-There must be some reason...)"
+                                "\\N<Shizune>(H-Chắc chắn phải có lý do nào đó...)"
                             ]
                         },
                         {
@@ -7743,9 +7743,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Question",
-                                    "Overlook (♡)",
-                                    "en(v[1]>74)Pose Lewdly (♡) (Needed Lewd: 75 Or More)"
+                                    "Câu hỏi",
+                                    "Bỏ Qua (♡)",
+                                    "en(v[1]>74)Tư thế dâm dục (♡) (Dâm dục cần thiết: 75 trở lên)"
                                 ],
                                 -1,
                                 0,
@@ -7758,7 +7758,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Question"
+                                "Câu hỏi"
                             ]
                         },
                         {
@@ -7782,7 +7782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Hey, you...!”"
+                                "\\N<Shizune>“...Này, bạn...!”"
                             ]
                         },
                         {
@@ -7846,7 +7846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“Y-Yes!?”"
+                                "\\N<Suspicious Woman>“V-Có!?”"
                             ]
                         },
                         {
@@ -7870,7 +7870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“This is a camera, isn’t it...!!?”"
+                                "\\N<Shizune>“Đây là máy ảnh phải không…!!?”"
                             ]
                         },
                         {
@@ -7918,7 +7918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Wh-Why are you recording me...!?”"
+                                "\\N<Shizune>“Sao-Sao cậu lại ghi âm tôi…!?”"
                             ]
                         },
                         {
@@ -7942,7 +7942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“Th-That’s not a camera... It’s just a... Uh...!”"
+                                "\\N<Suspicious Woman>“Đ-Đó không phải là máy ảnh... Nó chỉ là... Uh...!\""
                             ]
                         },
                         {
@@ -7966,14 +7966,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I’m reporting you to an employee...! Don’t even think"
+                                "\\N<Shizune>“Tôi đang báo cáo bạn với một nhân viên...! Thậm chí đừng nghĩ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "about running away...!”"
+                                "về việc chạy trốn…!”"
                             ]
                         },
                         {
@@ -7997,7 +7997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -8099,7 +8099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -8128,7 +8128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hey... Do something about that woman!”"
+                                "\\N<Shizune>“Này... Làm gì đó với người phụ nữ đó đi!”"
                             ]
                         },
                         {
@@ -8152,14 +8152,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Umm... I’d rather not make a ruckus out of this whole"
+                                "\\N<Dude>“Umm... Tôi không muốn làm ầm ĩ chuyện này lên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ordeal...”"
+                                "thử thách...\""
                             ]
                         },
                         {
@@ -8176,7 +8176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“And I didn’t find any evidence of voyeurism, so...”"
+                                "\\N<Dude>“Và tôi không tìm thấy bất kỳ bằng chứng nào về hành vi thị dâm, nên…”"
                             ]
                         },
                         {
@@ -8200,14 +8200,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“She obviously deleted the footage while I was"
+                                "\\N<Shizune>“Rõ ràng là cô ấy đã xóa đoạn phim khi tôi đang"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "away...!”"
+                                "xa...!\""
                             ]
                         },
                         {
@@ -8231,14 +8231,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Hmm... I can at least file a police report. Just don’t"
+                                "\\N<Dude>“Hmm... Ít nhất tôi có thể nộp báo cáo cho cảnh sát. Chỉ cần đừng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "tell anyone about this, please...”"
+                                "hãy kể cho bất cứ ai về chuyện này, làm ơn…”"
                             ]
                         },
                         {
@@ -8262,7 +8262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Huh...!?”"
+                                "\\N<Shizune>“Hả...!?”"
                             ]
                         },
                         {
@@ -8286,7 +8286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Fine... Be careful in the future.”"
+                                "\\N<Shizune>“Được rồi... Hãy cẩn thận trong tương lai.”"
                             ]
                         },
                         {
@@ -8310,7 +8310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“I will. Sorry for the inconvenience...”"
+                                "\\N<Dude>“Tôi sẽ làm vậy. Xin lỗi vì sự bất tiện...\""
                             ]
                         },
                         {
@@ -8365,7 +8365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Gosh... Can’t believe that happened...”"
+                                "\\N<Shizune>“Chúa ơi... Không thể tin được điều đó đã xảy ra…”"
                             ]
                         },
                         {
@@ -8382,7 +8382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“What the hell was her objective...?”"
+                                "\\N<Shizune>\"Mục tiêu của cô ấy là cái quái gì vậy...?\""
                             ]
                         },
                         {
@@ -8399,14 +8399,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Was she planning on selling the recording online or"
+                                "\\N<Shizune>“Cô ấy định bán bản ghi âm trực tuyến hay"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "something...?”"
+                                "thứ gì đó...?\""
                             ]
                         },
                         {
@@ -8430,14 +8430,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...I shudder to think what would have happened if I"
+                                "\\N<Shizune>“...Tôi rùng mình khi nghĩ điều gì sẽ xảy ra nếu tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "hadn’t noticed it...”"
+                                "đã không nhận ra nó…”"
                             ]
                         },
                         {
@@ -8454,7 +8454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I don’t think I’ll be coming here anytime soon...”"
+                                "\\N<Shizune>“Tôi không nghĩ mình sẽ đến đây sớm…”"
                             ]
                         },
                         {
@@ -8516,7 +8516,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Why would a woman record me...?\""
+                                "\"Tại sao một người phụ nữ lại ghi âm tôi...?\""
                             ]
                         },
                         {
@@ -8527,7 +8527,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Maybe she was going to sell the footage...\""
+                                "\"Có lẽ cô ấy định bán đoạn phim...\""
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Overlook (♡)"
+                                "Bỏ Qua (♡)"
                             ]
                         },
                         {
@@ -8580,7 +8580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I can sense a hint of Obscenities...)"
+                                "\\N<Shizune>(Tôi có thể cảm nhận được một chút Tục tĩu...)"
                             ]
                         },
                         {
@@ -8597,7 +8597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Is that why she’s doing this...?)"
+                                "\\N<Shizune>(Đó có phải là lý do tại sao cô ấy làm điều này...?)"
                             ]
                         },
                         {
@@ -8621,7 +8621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I’d rather not be recorded...!)"
+                                "\\N<Shizune>(Tôi không muốn bị ghi lại...!)"
                             ]
                         },
                         {
@@ -8645,14 +8645,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(But I don’t want to cause a scene. I’ll just pretend I"
+                                "\\N<Shizune>(Nhưng tôi không muốn gây ra cảnh tượng nào. Tôi sẽ chỉ giả vờ như tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "didn’t see anything...)"
+                                "không thấy gì cả...)"
                             ]
                         },
                         {
@@ -8700,7 +8700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -8724,14 +8724,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "Cut-In Display"
+                                "Màn hình cắt trong"
                             ]
                         },
                         {
@@ -8785,7 +8785,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -8819,7 +8819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Gotta aim the camera... at my... boobs...! ♡)"
+                                "\\N<Shizune>(Phải nhắm máy ảnh... vào... ngực của tôi...! ♡)"
                             ]
                         },
                         {
@@ -8836,7 +8836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(W-Wonder what she’ll do with the video...)"
+                                "\\N<Shizune>(W-Không biết cô ấy sẽ làm gì với video...)"
                             ]
                         },
                         {
@@ -8853,7 +8853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(What if she shows it to people...!? ♡)"
+                                "\\N<Shizune>(Nếu cô ấy cho mọi người xem thì sao...!? ♡)"
                             ]
                         },
                         {
@@ -8870,7 +8870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(That would be so...! ♡)"
+                                "\\N<Shizune>(Chắc là vậy...! ♡)"
                             ]
                         },
                         {
@@ -8894,7 +8894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -8911,7 +8911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -9040,7 +9040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(It’s aimed d-down there...!)"
+                                "\\N<Shizune>(Nó nhắm d-dưới đó...!)"
                             ]
                         },
                         {
@@ -9057,7 +9057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(E-Even my private part’s being...)"
+                                "\\N<Shizune>(E-Kể cả phần riêng tư của tôi cũng bị...)"
                             ]
                         },
                         {
@@ -9074,7 +9074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Recorded so closely...! ♡)"
+                                "\\N<Shizune>(Ghi rất kỹ...! ♡)"
                             ]
                         },
                         {
@@ -9108,7 +9108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I-I need to get dressed quick...)"
+                                "\\N<Shizune>(T-tôi cần mặc quần áo nhanh...)"
                             ]
                         },
                         {
@@ -9144,7 +9144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -9246,7 +9246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -9300,7 +9300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -9324,14 +9324,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I didn’t think a woman would do something like"
+                                "\\N<Shizune>“Tôi không nghĩ một người phụ nữ sẽ làm những việc như thế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "that...”"
+                                "cái đó...\""
                             ]
                         },
                         {
@@ -9348,14 +9348,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I can’t blame her if she’s affected by the"
+                                "\\N<Shizune>“Tôi không thể trách cô ấy nếu cô ấy bị ảnh hưởng bởi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Obscenities...”"
+                                "Tục tĩu…”"
                             ]
                         },
                         {
@@ -9379,14 +9379,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Now that I think about it, other people might have"
+                                "\\N<Shizune>“Bây giờ tôi nghĩ về điều đó, những người khác có thể có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "gone through the same thing...”"
+                                "đã trải qua điều tương tự…”"
                             ]
                         },
                         {
@@ -9403,7 +9403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I-I probably shouldn’t have overlooked it...”"
+                                "\\N<Shizune>“T-tôi có lẽ không nên bỏ qua nó…”"
                             ]
                         },
                         {
@@ -9420,14 +9420,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Anyways, I didn’t have a choice this time... uh..."
+                                "\\N<Shizune>“...Dù sao thì lần này tôi không có lựa chọn nào khác... uh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I guess...”"
+                                "Tôi đoán...\""
                             ]
                         },
                         {
@@ -9483,7 +9483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I-I am a bit worried, though...)"
+                                "\\N<Shizune>(Tuy nhiên, tôi hơi lo lắng...)"
                             ]
                         },
                         {
@@ -9507,14 +9507,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Who knows what would happen if she u-uploaded it to"
+                                "\\N<Shizune>(Ai biết chuyện gì sẽ xảy ra nếu cô ấy tải nó lên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "the internet and sold it...!? ♡)"
+                                "lên mạng và bán nó...!? ♡)"
                             ]
                         },
                         {
@@ -9531,7 +9531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I hope she doesn’t do that...!)"
+                                "\\N<Shizune>(Tôi hy vọng cô ấy không làm vậy...!)"
                             ]
                         },
                         {
@@ -9618,7 +9618,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"I-I knew I shouldn’t have overlooked it...\""
+                                "\"Tôi-tôi biết tôi không nên bỏ qua nó...\""
                             ]
                         },
                         {
@@ -9629,7 +9629,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"I’m too worried and excited to stay sane...! ♡\""
+                                "\"Tôi quá lo lắng và vui mừng để giữ được tỉnh táo...! ♡\""
                             ]
                         },
                         {
@@ -9642,7 +9642,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "en(v[1]>74)Pose Lewdly (♡) (Needed Lewd: 75 Or More)"
+                                "en(v[1]>74)Tư thế dâm dục (♡) (Dâm dục cần thiết: 75 trở lên)"
                             ]
                         },
                         {
@@ -9697,7 +9697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(W-Wonder what she’ll do after getting the video...)"
+                                "\\N<Shizune>(W-Không biết cô ấy sẽ làm gì sau khi lấy được video...)"
                             ]
                         },
                         {
@@ -9714,7 +9714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(...She might sell it... or just post it online...!)"
+                                "\\N<Shizune>(...Cô ấy có thể bán nó... hoặc chỉ đăng nó lên mạng...!)"
                             ]
                         },
                         {
@@ -9731,7 +9731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Then... a bunch of men... will see... all of me...!"
+                                "\\N<Shizune>(Rồi... một đám đàn ông... sẽ nhìn thấy... toàn bộ tôi...!"
                             ]
                         },
                         {
@@ -9762,7 +9762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -9786,7 +9786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Ah...”"
+                                "\\N<Shizune>“À…”"
                             ]
                         },
                         {
@@ -9803,7 +9803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Whoops... I dropped my towel... ♡”"
+                                "\\N<Shizune>“Rất tiếc... tôi làm rơi khăn tắm của mình... ♡”"
                             ]
                         },
                         {
@@ -9857,7 +9857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Huff... ♡”"
+                                "\\N<Shizune>“...Hù... ♡”"
                             ]
                         },
                         {
@@ -9891,7 +9891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -9925,7 +9925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(The camera’s so close to me...! ♡)"
+                                "\\N<Shizune>(Máy ảnh ở rất gần tôi...! ♡)"
                             ]
                         },
                         {
@@ -9942,7 +9942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(It’s capturing every inch of my butt and pussy...! ♡"
+                                "\\N<Shizune>(Nó đang chụp từng inch mông và âm hộ của tôi...! ♡"
                             ]
                         },
                         {
@@ -9966,7 +9966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(All while I’m squatting so lewdly...)"
+                                "\\N<Shizune>(Trong lúc tôi đang ngồi xổm một cách dâm đãng...)"
                             ]
                         },
                         {
@@ -9983,7 +9983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I-It’s like I’m being filmed for porn...! ♡)"
+                                "\\N<Shizune>(T-Giống như tôi đang bị quay phim khiêu dâm vậy...! ♡)"
                             ]
                         },
                         {
@@ -10000,7 +10000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Huff...”"
+                                "\\N<Shizune>“...Hù…”"
                             ]
                         },
                         {
@@ -10047,7 +10047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -10173,7 +10173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -10227,7 +10227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I-I acted ridiculous when faced with such a thing...!"
+                                "\\N<Shizune>“T-tôi đã hành động thật lố bịch khi đối mặt với chuyện như vậy…!"
                             ]
                         },
                         {
@@ -10258,14 +10258,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Still... I have heard that men are less affected by"
+                                "\\N<Shizune>“Vẫn... Tôi nghe nói rằng đàn ông ít bị ảnh hưởng bởi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "the Obscenities when they relieve themselves...”"
+                                "những điều tục tĩu khi họ giải tỏa…”"
                             ]
                         },
                         {
@@ -10282,14 +10282,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I hope plenty of men can relieve themselves of the"
+                                "\\N<Shizune>“Tôi hy vọng nhiều người đàn ông có thể giải tỏa được nỗi đau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Obscenities through pictures and videos of me... ♡”"
+                                "Những lời tục tĩu qua hình ảnh và video của tôi... ♡”"
                             ]
                         },
                         {
@@ -10313,7 +10313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Wait, what am I thinking...?”"
+                                "\\N<Shizune>“...Đợi đã, tôi đang nghĩ gì vậy…?”"
                             ]
                         },
                         {
@@ -10330,7 +10330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“The Obscenities might be making me lose my mind... ♡”"
+                                "\\N<Shizune>“Những lời tục tĩu có thể khiến tôi mất trí... ♡”"
                             ]
                         },
                         {
@@ -10373,7 +10373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Shizune’s Lewd rose by 10..."
+                                "Dâm dục của Shizune đã tăng 10..."
                             ]
                         },
                         {
@@ -10464,7 +10464,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"I practically posed for the camera... ♡\""
+                                "\"Thực tế là tôi đã tạo dáng trước ống kính... ♡\""
                             ]
                         },
                         {
@@ -10475,7 +10475,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"So many men are going to see me acting so lewd...! ♡\""
+                                "\"Rất nhiều người đàn ông sẽ thấy tôi hành động dâm đãng như vậy...! ♡\""
                             ]
                         },
                         {
@@ -10565,7 +10565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Now I ought to get undressed and head to a bath.”"
+                                "\\N<Kaori>“Bây giờ tôi phải cởi quần áo và đi tắm.”"
                             ]
                         },
                         {
@@ -10687,7 +10687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Huff...”"
+                                "\\N<Kaori>“Hù…”"
                             ]
                         },
                         {
@@ -10711,7 +10711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -10782,7 +10782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -10799,7 +10799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Whew...”"
+                                "\\N<Kaori>“Ồ…”"
                             ]
                         },
                         {
@@ -10840,7 +10840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -10926,7 +10926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I can feel someone watching me...)"
+                                "\\N<Kaori>(Tôi có thể cảm thấy ai đó đang theo dõi mình...)"
                             ]
                         },
                         {
@@ -10943,7 +10943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...Must be my imagination.)"
+                                "\\N<Kaori>(...Chắc là do tôi tưởng tượng.)"
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -11115,14 +11115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Whew... That felt great... Sometimes, this kind of"
+                                "\\N<Kaori>“Chà... Cảm giác thật tuyệt... Đôi khi, kiểu này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thing is not so bad. ♪”"
+                                "sự việc không đến nỗi tệ. ♪”"
                             ]
                         },
                         {
@@ -11146,14 +11146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Now that I have finished bathing, I should get dressed"
+                                "\\N<Kaori>“Tắm xong rồi nên mặc quần áo vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "in the locker room.”"
+                                "trong phòng thay đồ.”"
                             ]
                         },
                         {
@@ -11302,7 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Must dry my body and change into my clothes.”"
+                                "\\N<Kaori>“Phải lau khô người và thay quần áo.”"
                             ]
                         },
                         {
@@ -11455,14 +11455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I feel like that woman has been here since I started"
+                                "\\N<Kaori>(Tôi có cảm giác như người phụ nữ đó đã ở đây kể từ khi tôi bắt đầu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "bathing...)"
+                                "tắm...)"
                             ]
                         },
                         {
@@ -11479,7 +11479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Perhaps I’m imagining things...)"
+                                "\\N<Kaori>(Có lẽ tôi đang tưởng tượng ra mọi thứ...)"
                             ]
                         },
                         {
@@ -11541,7 +11541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Anyhow, I should get dressed...)"
+                                "\\N<Kaori>(Dù sao thì tôi cũng nên mặc quần áo vào...)"
                             ]
                         },
                         {
@@ -11565,7 +11565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -11620,7 +11620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...Something smells off...)"
+                                "\\N<Kaori>(...Có mùi gì đó...)"
                             ]
                         },
                         {
@@ -11637,14 +11637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Is there a reason why she stayed in the changing"
+                                "\\N<Kaori>(Có lý do gì khiến cô ấy ở lại phòng thay đồ không?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "room for so long instead of taking a bath...?)"
+                                "phòng quá lâu thay vì đi tắm...?)"
                             ]
                         },
                         {
@@ -11661,7 +11661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(What is she doing...?)"
+                                "\\N<Kaori>(Cô ấy đang làm gì vậy...?)"
                             ]
                         },
                         {
@@ -11729,7 +11729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wha...!? I-Is that a camera...!?)"
+                                "\\N<Kaori>(Cái...!? Đ-Đó có phải là máy ảnh không...!?)"
                             ]
                         },
                         {
@@ -11746,14 +11746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(It was cleverly covered with a towel... but I can"
+                                "\\N<Kaori>(Nó được che một cách khéo léo bằng một chiếc khăn... nhưng tôi có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "see my reflection in the lens...!)"
+                                "hãy nhìn hình ảnh phản chiếu của tôi trong ống kính...!)"
                             ]
                         },
                         {
@@ -11770,7 +11770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(D-Does this mean I’m being recorded...!?)"
+                                "\\N<Kaori>(D-Điều này có nghĩa là tôi đang bị ghi âm...!?)"
                             ]
                         },
                         {
@@ -11787,7 +11787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I never expected a woman to do such a thing...!)"
+                                "\\N<Kaori>(T-tôi chưa bao giờ mong đợi một người phụ nữ lại làm một việc như vậy...!)"
                             ]
                         },
                         {
@@ -11811,7 +11811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Sh-She must have her reasons...)"
+                                "\\N<Kaori>(Su-Cô ấy chắc chắn có lý do của mình...)"
                             ]
                         },
                         {
@@ -11819,9 +11819,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Question",
-                                    "Overlook (♡)",
-                                    "en(v[21]>74)Pose Lewdly (♡) (Needed Lewd: 75 Or More)"
+                                    "Câu hỏi",
+                                    "Bỏ Qua (♡)",
+                                    "en(v[21]>74)Tư thế dâm dục (♡) (Dâm dục cần thiết: 75 trở lên)"
                                 ],
                                 -1,
                                 0,
@@ -11834,7 +11834,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Question"
+                                "Câu hỏi"
                             ]
                         },
                         {
@@ -11851,7 +11851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...U-Um... Excuse me...”"
+                                "\\N<Kaori>“...U-Ừm... Xin lỗi…”"
                             ]
                         },
                         {
@@ -11915,7 +11915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“Y-Yes!?”"
+                                "\\N<Suspicious Woman>“V-Có!?”"
                             ]
                         },
                         {
@@ -11939,7 +11939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Th-That’s a camera... isn’t it?”"
+                                "\\N<Kaori>“Đ-Đó là một chiếc máy ảnh... phải không?”"
                             ]
                         },
                         {
@@ -11987,7 +11987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Have you been... r-recording me...?”"
+                                "\\N<Kaori>“Bạn đã... r-ghi âm tôi...?”"
                             ]
                         },
                         {
@@ -12011,7 +12011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“Th-That’s not a camera... It’s just a... Uh...!”"
+                                "\\N<Suspicious Woman>“Đ-Đó không phải là máy ảnh... Nó chỉ là... Uh...!\""
                             ]
                         },
                         {
@@ -12035,14 +12035,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Oh...! D-Don’t try to escape! That isn’t something one"
+                                "\\N<Kaori>“Ồ...! Đ-Đừng cố trốn thoát! Đó không phải là một cái gì đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ought to do...!”"
+                                "nên làm...!”"
                             ]
                         },
                         {
@@ -12066,7 +12066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I’ll talk to an employee.”"
+                                "\\N<Kaori>“Tôi-tôi sẽ nói chuyện với nhân viên.”"
                             ]
                         },
                         {
@@ -12090,7 +12090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -12169,7 +12169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -12198,7 +12198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Um... Can I ask how you are going to handle this?”"
+                                "\\N<Kaori>“Ừm... Tôi có thể hỏi bạn định xử lý việc này như thế nào không?”"
                             ]
                         },
                         {
@@ -12222,14 +12222,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Umm... I’d rather not make a ruckus out of this whole"
+                                "\\N<Dude>“Umm... Tôi không muốn làm ầm ĩ chuyện này lên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ordeal...”"
+                                "thử thách...\""
                             ]
                         },
                         {
@@ -12246,7 +12246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“And I didn’t find any evidence of voyeurism, so...”"
+                                "\\N<Dude>“Và tôi không tìm thấy bất kỳ bằng chứng nào về hành vi thị dâm, nên…”"
                             ]
                         },
                         {
@@ -12270,14 +12270,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“B-But... she could’ve deleted the video while I was"
+                                "\\N<Kaori>“N-Nhưng... cô ấy có thể xóa video khi tôi đang"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "away...”"
+                                "xa...\""
                             ]
                         },
                         {
@@ -12301,14 +12301,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Hmm... I can at least file a police report. Just don’t"
+                                "\\N<Dude>“Hmm... Ít nhất tôi có thể nộp báo cáo cho cảnh sát. Chỉ cần đừng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "tell anyone about this, please...”"
+                                "hãy kể cho bất cứ ai về chuyện này, làm ơn…”"
                             ]
                         },
                         {
@@ -12332,7 +12332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“R-Really...?”"
+                                "\\N<Kaori>“R-Thật sao...?”"
                             ]
                         },
                         {
@@ -12356,21 +12356,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Okay. I’ve used this bathhouse many times in the"
+                                "\\N<Kaori>“...Được rồi. Tôi đã sử dụng nhà tắm này nhiều lần trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "past, and I would like you to make sure something like"
+                                "quá khứ và tôi muốn bạn đảm bảo điều gì đó như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this doesn’t happen again...”"
+                                "chuyện này sẽ không xảy ra nữa…”"
                             ]
                         },
                         {
@@ -12394,7 +12394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“I will. Sorry for the inconvenience...”"
+                                "\\N<Dude>“Tôi sẽ làm vậy. Xin lỗi vì sự bất tiện...\""
                             ]
                         },
                         {
@@ -12449,14 +12449,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“T-To think a woman would record me... I’m still taken"
+                                "\\N<Kaori>“T-Nghĩ đến một người phụ nữ sẽ ghi âm tôi… Tôi vẫn bị thu hút"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "aback...”"
+                                "sửng sốt…”"
                             ]
                         },
                         {
@@ -12473,14 +12473,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“W-Wonder what was the purpose of that... Perhaps she"
+                                "\\N<Kaori>“C-Không biết mục đích của việc đó là gì… Có lẽ cô ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "was going to sell it without my knowledge...”"
+                                "định bán nó mà tôi không hề hay biết…”"
                             ]
                         },
                         {
@@ -12497,14 +12497,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Who knows what would have occurred if I had not"
+                                "\\N<Kaori>“...Ai biết được điều gì sẽ xảy ra nếu tôi không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "noticed it...?”"
+                                "để ý nó...?\""
                             ]
                         },
                         {
@@ -12528,14 +12528,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I’m a fan of this place... but I doubt I’ll be using"
+                                "\\N<Kaori>“Tôi là người hâm mộ địa điểm này... nhưng tôi không chắc mình sẽ sử dụng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "it again for a while...”"
+                                "một lúc nữa…”"
                             ]
                         },
                         {
@@ -12597,7 +12597,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"A-A woman recorded me... w-without my permission...\""
+                                "\"A-Một người phụ nữ đã ghi âm tôi... mà không có sự cho phép của tôi...\""
                             ]
                         },
                         {
@@ -12608,7 +12608,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"And there’s a chance that wasn’t the first time...\""
+                                "\"Và có khả năng đó không phải là lần đầu tiên...\""
                             ]
                         },
                         {
@@ -12621,7 +12621,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Overlook (♡)"
+                                "Bỏ Qua (♡)"
                             ]
                         },
                         {
@@ -12661,7 +12661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(...I’m sensing a tiny amount of Obscenities...)"
+                                "\\N<Kaori>(...Tôi đang cảm nhận được một lượng nhỏ Tục tĩu...)"
                             ]
                         },
                         {
@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(...Could she be afflicted with the Obscenities...?)"
+                                "\\N<Kaori>(...Liệu cô ấy có bị ảnh hưởng bởi Tục tĩu không...?)"
                             ]
                         },
                         {
@@ -12702,21 +12702,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Under normal circumstances, r-recording without"
+                                "\\N<Kaori>(Trong trường hợp bình thường, ghi r mà không cần"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "permission is wrong... And I should put a stop to"
+                                "sự cho phép là sai... Và tôi nên dừng lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this...)"
+                                "cái này...)"
                             ]
                         },
                         {
@@ -12733,7 +12733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(But... I wouldn’t call these circumstances normal...)"
+                                "\\N<Kaori>(Nhưng... tôi sẽ không gọi những trường hợp này là bình thường...)"
                             ]
                         },
                         {
@@ -12750,14 +12750,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I-I can only pretend I didn’t see it and let it"
+                                "\\N<Kaori>(Tôi-tôi chỉ có thể giả vờ như không nhìn thấy và để nó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "continue to record me...! ♡)"
+                                "tiếp tục ghi âm cho tôi nhé...! ♡)"
                             ]
                         },
                         {
@@ -12812,7 +12812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -12836,14 +12836,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "Cut-In Display"
+                                "Màn hình cắt trong"
                             ]
                         },
                         {
@@ -12897,7 +12897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -12931,7 +12931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Must aim the camera... at my... breasts...! ♡)"
+                                "\\N<Kaori>(Phải nhắm máy ảnh... vào... ngực của tôi...! ♡)"
                             ]
                         },
                         {
@@ -12948,7 +12948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I wonder what that woman will do with the footage...)"
+                                "\\N<Kaori>(Không biết người phụ nữ đó sẽ làm gì với đoạn phim...)"
                             ]
                         },
                         {
@@ -12965,7 +12965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(She could upload it to the internet...! ♡)"
+                                "\\N<Kaori>(Cô ấy có thể tải nó lên internet...! ♡)"
                             ]
                         },
                         {
@@ -12982,7 +12982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(That would be so...! ♡)"
+                                "\\N<Kaori>(Chắc là vậy...! ♡)"
                             ]
                         },
                         {
@@ -13006,7 +13006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Suspicious Woman>“...”"
+                                "\\N<Suspicious Woman>“…”"
                             ]
                         },
                         {
@@ -13023,7 +13023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -13152,7 +13152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I-It’s getting a close-up of my private area...! ♡)"
+                                "\\N<Kaori>(Đ-Nó đang quay cận cảnh vùng kín của tôi...! ♡)"
                             ]
                         },
                         {
@@ -13169,7 +13169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Even such a precious part... isn’t spared...)"
+                                "\\N<Kaori>(Ngay cả một phần quý giá như vậy... cũng không được tha...)"
                             ]
                         },
                         {
@@ -13186,7 +13186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(It’s recording so closely...! ♡)"
+                                "\\N<Kaori>(Đang ghi rất gần...! ♡)"
                             ]
                         },
                         {
@@ -13220,7 +13220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I’d better get dressed quickly...)"
+                                "\\N<Kaori>(Tốt nhất là tôi nên mặc quần áo nhanh lên...)"
                             ]
                         },
                         {
@@ -13256,7 +13256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -13335,7 +13335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -13389,7 +13389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -13406,7 +13406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Cannot believe a woman did th-that to me...”"
+                                "\\N<Kaori>“Không thể tin được một người phụ nữ lại làm điều đó với tôi…”"
                             ]
                         },
                         {
@@ -13423,7 +13423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“The Obscenities are to blame, not her...”"
+                                "\\N<Kaori>“Những lời tục tĩu là đáng trách, không phải cô ấy…”"
                             ]
                         },
                         {
@@ -13440,14 +13440,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Now that I think about it, other people might have"
+                                "\\N<Kaori>“...Bây giờ tôi nghĩ về điều đó, những người khác có thể có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "had similar experiences...”"
+                                "có những trải nghiệm tương tự…”"
                             ]
                         },
                         {
@@ -13471,7 +13471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I should’ve reported it to an employee...”"
+                                "\\N<Kaori>“Đáng lẽ tôi nên báo cáo điều đó với nhân viên…”"
                             ]
                         },
                         {
@@ -13495,14 +13495,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...That said... I have no choice other than to"
+                                "\\N<Kaori>“...Điều đó nói lên...Tôi không có lựa chọn nào khác ngoài việc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "tolerate it... because of the Obscenities...”"
+                                "hãy chịu đựng nó... vì những lời tục tĩu…”"
                             ]
                         },
                         {
@@ -13542,7 +13542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Still, it could’ve taken photos and videos of me...)"
+                                "\\N<Kaori>(Tuy nhiên, nó có thể đã chụp ảnh và quay video về tôi...)"
                             ]
                         },
                         {
@@ -13566,7 +13566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Th-They could be posted online or sold... ♡)"
+                                "\\N<Kaori>(Th-Chúng có thể được đăng lên mạng hoặc bán... ♡)"
                             ]
                         },
                         {
@@ -13590,14 +13590,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(...Mmm... I hope that doesn’t end up being the"
+                                "\\N<Kaori>(...Mmm... Tôi hy vọng điều đó không trở thành"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "case...)"
+                                "trường hợp...)"
                             ]
                         },
                         {
@@ -13684,7 +13684,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"I knew I should have been more careful...\""
+                                "\"Tôi biết lẽ ra tôi nên cẩn thận hơn...\""
                             ]
                         },
                         {
@@ -13695,7 +13695,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"Ugh, this anxiety and excitement make me feel weird. ♡\""
+                                "\"Ugh, sự lo lắng và phấn khích này khiến tôi cảm thấy kỳ lạ. ♡\""
                             ]
                         },
                         {
@@ -13708,7 +13708,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "en(v[21]>74)Pose Lewdly (♡) (Needed Lewd: 75 Or More)"
+                                "en(v[21]>74)Tư thế dâm dục (♡) (Dâm dục cần thiết: 75 trở lên)"
                             ]
                         },
                         {
@@ -13763,14 +13763,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Wha-What will happen after she gets her hands on the"
+                                "\\N<Kaori>(C-Chuyện gì sẽ xảy ra sau khi cô ấy chạm tay vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "footage...?)"
+                                "cảnh quay...?)"
                             ]
                         },
                         {
@@ -13787,14 +13787,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(...I have a feeling she’s going to sell it and post it"
+                                "\\N<Kaori>(...Tôi có cảm giác cô ấy sẽ bán nó và đăng nó lên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "online.)"
+                                "trực tuyến.)"
                             ]
                         },
                         {
@@ -13811,14 +13811,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(If she does do that... many men are going to see my"
+                                "\\N<Kaori>(Nếu cô ấy làm vậy... nhiều người đàn ông sẽ nhìn thấy tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "b-body...! ♡)"
+                                "b-cơ thể...! ♡)"
                             ]
                         },
                         {
@@ -13842,7 +13842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -13859,7 +13859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Oops... I dropped my towel...”"
+                                "\\N<Kaori>“Rất tiếc... tôi làm rơi khăn tắm…”"
                             ]
                         },
                         {
@@ -13948,7 +13948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Huff... ♡”"
+                                "\\N<Kaori>“...Hù... ♡”"
                             ]
                         },
                         {
@@ -13982,7 +13982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -14016,7 +14016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Th-The camera is so close to me...! ♡)"
+                                "\\N<Kaori>(Th-Máy ảnh ở gần tôi quá...! ♡)"
                             ]
                         },
                         {
@@ -14033,7 +14033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(My precious part... is right below...! ♡)"
+                                "\\N<Kaori>(Phần quý giá của tôi... nằm ngay bên dưới...! ♡)"
                             ]
                         },
                         {
@@ -14050,7 +14050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(And I’m squatting... in such a lewd fashion...)"
+                                "\\N<Kaori>(Và tôi đang ngồi xổm... một cách dâm đãng...)"
                             ]
                         },
                         {
@@ -14067,7 +14067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(N-Now’s her chance to get a good angle of me...! ♡)"
+                                "\\N<Kaori>(N-Bây giờ là cơ hội để cô ấy chụp được một góc đẹp của tôi...! ♡)"
                             ]
                         },
                         {
@@ -14101,14 +14101,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I’m posing like this... with my legs... spread a"
+                                "\\N<Kaori>(Tôi đang tạo dáng như thế này... bằng chân... dang rộng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "little...! ♡ Every inch of me is being captured...! ♡"
+                                "nhỏ bé...! ♡ Mỗi centimet của tôi đều bị thu hút...! ♡"
                             ]
                         },
                         {
@@ -14132,7 +14132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I-I cannot take any more of this...! ♡)"
+                                "\\N<Kaori>(T-tôi không thể chịu đựng thêm được nữa...! ♡)"
                             ]
                         },
                         {
@@ -14149,7 +14149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Huff...”"
+                                "\\N<Kaori>“...Hù…”"
                             ]
                         },
                         {
@@ -14196,7 +14196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -14299,7 +14299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -14353,14 +14353,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I behaved absurdly even though I was being"
+                                "\\N<Kaori>“Tôi-tôi đã cư xử vô lý mặc dù tôi đang bị"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "recorded...! ♡”"
+                                "đã ghi lại...! ♡”"
                             ]
                         },
                         {
@@ -14384,21 +14384,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...St-Still... it is true that men can reduce the"
+                                "\\N<Kaori>“...St-Vẫn... đúng là đàn ông có thể giảm bớt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "amount of Obscenities within them by relieving"
+                                "số lượng Tục tĩu bên trong chúng bằng cách giảm bớt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "themselves...”"
+                                "chúng tôi...\""
                             ]
                         },
                         {
@@ -14422,14 +14422,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I do not mind... if videos and pictures of me help"
+                                "\\N<Kaori>“Tôi không phiền... nếu video và hình ảnh của tôi giúp được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "many men relieve themselves of the Obscenities... ♡”"
+                                "nhiều người đàn ông giải tỏa được những điều tục tĩu... ♡”"
                             ]
                         },
                         {
@@ -14453,7 +14453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...Th-This won’t do... What am I thinking...?”"
+                                "\\N<Kaori>“...Đ-Điều này không được...Tôi đang nghĩ gì thế này...?\""
                             ]
                         },
                         {
@@ -14470,14 +14470,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...I suppose even I’m susceptible to the"
+                                "\\N<Kaori>“...Tôi cho rằng ngay cả tôi cũng dễ bị ảnh hưởng bởi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Obscenities... ♡”"
+                                "Tục tĩu... ♡”"
                             ]
                         },
                         {
@@ -14520,7 +14520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kaori’s Lewd rose by 10..."
+                                "Dâm dục của Kaori đã tăng 10..."
                             ]
                         },
                         {
@@ -14611,7 +14611,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Though I was being recorded... I did that...! ♡\""
+                                "\"Mặc dù tôi đang bị ghi hình... tôi đã làm điều đó...! ♡\""
                             ]
                         },
                         {
@@ -14622,7 +14622,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"How could I spread my legs so wide...!? ♡\""
+                                "\"Làm sao tôi có thể dang rộng chân ra như vậy...!? ♡\""
                             ]
                         },
                         {
@@ -15033,7 +15033,7 @@
         },
         {
             "id": 22,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -15100,7 +15100,7 @@
         },
         {
             "id": 23,
-            "name": "Female Customer 7",
+            "name": "Khách Hàng Nữ 7",
             "note": "",
             "pages": [
                 {
@@ -15142,14 +15142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“I saw someone squatting in the locker room earlier..."
+                                "\\N<Female Customer>“Lúc nãy tôi thấy ai đó đang ngồi xổm trong phòng thay đồ..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wonder why she was so close to one of the lockers...”"
+                                "Tự hỏi tại sao cô ấy lại ở gần một trong những tủ đựng đồ như vậy…”"
                             ]
                         },
                         {
@@ -15184,7 +15184,7 @@
         },
         {
             "id": 24,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

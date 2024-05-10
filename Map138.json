@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -2377,7 +2377,7 @@
         null,
         {
             "id": 1,
-            "name": "Middle-Aged",
+            "name": "Trung niên",
             "note": "",
             "pages": [
                 {
@@ -2711,7 +2711,7 @@
         },
         {
             "id": 5,
-            "name": "Unsightly Man",
+            "name": "Người đàn ông khó coi",
             "note": "",
             "pages": [
                 {
@@ -2822,7 +2822,7 @@
         },
         {
             "id": 6,
-            "name": "Schoolboy A",
+            "name": "người đàn ông A",
             "note": "",
             "pages": [
                 {
@@ -2844,7 +2844,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B1_seito",
+                        "characterName": "B1_otoko",
                         "direction": 2,
                         "pattern": 1,
                         "characterIndex": 3
@@ -2933,7 +2933,7 @@
         },
         {
             "id": 7,
-            "name": "Schoolboy A",
+            "name": "người đàn ông A",
             "note": "",
             "pages": [
                 {
@@ -2955,7 +2955,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B1_seito",
+                        "characterName": "B1_otoko",
                         "direction": 8,
                         "pattern": 1,
                         "characterIndex": 6
@@ -3044,7 +3044,7 @@
         },
         {
             "id": 8,
-            "name": "Sex Event 2",
+            "name": "Sự Kiện Tình Dục 2",
             "note": "",
             "pages": [
                 {
@@ -3194,14 +3194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“T-Taking their sweet time... Not only is this taking a"
+                                "\\N<Ugly Middle-Aged Man>“T-Tận dụng thời gian ngọt ngào của họ... Việc này không chỉ lấy đi một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "while, but there are a lot of people here...”"
+                                "nhưng ở đây có rất nhiều người…”"
                             ]
                         },
                         {
@@ -3218,7 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“H-Hey... Are the rumors true...?”"
+                                "\\N<Man A>“H-Này... Tin đồn có đúng không…?”"
                             ]
                         },
                         {
@@ -3235,7 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“Maybe... You saw the pictures, didn’t you...?”"
+                                "\\N<Man B>“Có lẽ… Bạn đã xem những bức ảnh, phải không…?”"
                             ]
                         },
                         {
@@ -3252,7 +3252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Hey... you sure you weren’t dreaming or something?”"
+                                "\\N<Unsightly Man>“Này... bạn có chắc là mình không mơ hay gì đó không?”"
                             ]
                         },
                         {
@@ -3300,14 +3300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“Man...! I-I’m really telling the truth...! I didn’t"
+                                "\\N<Ugly Middle-Aged Man>“Người đàn ông...! T-Tôi thực sự đang nói sự thật...! Tôi đã không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "believe it at first too, but...”"
+                                "lúc đầu cũng tin vào điều đó, nhưng…”"
                             ]
                         },
                         {
@@ -3333,21 +3333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“H-Hmm... I heard that a student was doing something"
+                                "\\N<Dude>“H-Hmm... Tôi đã theo dõi những tin đồn ở đây..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "outrageous... but it turned out to be a malicious"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "hoax...”"
+                                "nhưng hóa ra đó là một trò lừa bịp độc hại…”"
                             ]
                         },
                         {
@@ -3364,7 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>(First of all... my Shizune would never do that...)"
+                                "\\N<Dude>(Trước hết... Shizune sẽ không bao giờ làm điều đó...)"
                             ]
                         },
                         {
@@ -3381,7 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Hmm... W-Wanna leave...?”"
+                                "\\N<Man A>“Hmm...W-Muốn rời đi...?”"
                             ]
                         },
                         {
@@ -3398,7 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“Well... I don’t mind staying with these old guys...”"
+                                "\\N<Man B>“Chà... tôi không ngại ở lại với những ông già này đâu…”"
                             ]
                         },
                         {
@@ -3415,7 +3408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Alright... I’m going...”"
+                                "\\N<Unsightly Man>“Được rồi... tôi đi đây…”"
                             ]
                         },
                         {
@@ -3437,7 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>“We apologize for the wait. ♪”"
+                                "\\N<???>“Chúng tôi xin lỗi vì đã chờ đợi. ♪”"
                             ]
                         },
                         {
@@ -3629,14 +3622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Today, we will strive to soothe all of you... I’m"
+                                "\\N<Shizune>“Hôm nay, chúng tôi sẽ cố gắng xoa dịu tất cả các bạn... Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shizune, and this is...”"
+                                "Shizune, và đây là…”"
                             ]
                         },
                         {
@@ -3660,14 +3653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“My name is Kaori... We came to soothe you all with our"
+                                "\\N<Kaori>“Tên tôi là Kaori... Chúng tôi đến để xoa dịu tất cả các bạn bằng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "boobs... ♡”"
+                                "ngực... ♡”"
                             ]
                         },
                         {
@@ -3691,7 +3684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Wha-What...!? ♡”"
+                                "\\N<Unsightly Man>“Cái-Cái gì...!? ♡”"
                             ]
                         },
                         {
@@ -3708,7 +3701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“Huh!? Huh!? Unbelievable... Huh!? ♡”"
+                                "\\N<Ugly Middle-Aged Man>“Hả!? Huh!? Không thể tin được... Hả!? ♡”"
                             ]
                         },
                         {
@@ -3725,7 +3718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“S-Seriously...!? What’s with their sexy clothes...!?"
+                                "\\N<Man A>“C-Nghiêm túc đấy...!? Bộ quần áo gợi cảm của họ là sao vậy...!?"
                             ]
                         },
                         {
@@ -3749,14 +3742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“They’re covering their faces... but I can clearly tell"
+                                "\\N<Man B>“Họ đang che mặt... nhưng tôi có thể biết rõ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that’s the real... Shizune... ♡”"
+                                "đó là sự thật... Shizune... ♡”"
                             ]
                         },
                         {
@@ -3773,7 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Sh-Shizune... and... her m-mother...!?”"
+                                "\\N<Dude>“Sh-Shizune... và...mẹ cô ấy...!?\""
                             ]
                         },
                         {
@@ -3790,14 +3783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“H-Hold up... I don’t remember seeing that other busty"
+                                "\\N<Ugly Middle-Aged Man>“H-Đợi đã... Tôi không nhớ đã nhìn thấy cặp vú khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "woman... Are they sisters...? ♡”"
+                                "người phụ nữ... Họ là chị em à...? ♡”"
                             ]
                         },
                         {
@@ -3814,7 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“F-Fucking sisters would be a dream come true... ♡”"
+                                "\\N<Unsightly Man>“F-Chị em chết tiệt sẽ là một giấc mơ trở thành hiện thực... ♡”"
                             ]
                         },
                         {
@@ -3838,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha...! Sadly, we are not sisters...”"
+                                "\\N<Kaori>“Haha...! Đáng tiếc, chúng ta không phải chị em…”"
                             ]
                         },
                         {
@@ -3878,7 +3871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll just say... we’re related... ♡”"
+                                "\\N<Shizune>“Tôi sẽ chỉ nói… chúng ta có họ hàng với nhau… ♡”"
                             ]
                         },
                         {
@@ -3902,7 +3895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“I-Is that really Shizune’s...!? ♡”"
+                                "\\N<Man A>“Đ-Đó có thực sự là của Shizune không...!? ♡”"
                             ]
                         },
                         {
@@ -3919,14 +3912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Th-This is a grave situation...! Doing it with a"
+                                "\\N<Dude>“Đ-Đây là một tình huống nghiêm trọng…! Làm điều đó với một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mother and daughter... What a shameful act...! ♡”"
+                                "hai mẹ con... Thật là một hành động đáng xấu hổ...! ♡”"
                             ]
                         },
                         {
@@ -3974,14 +3967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“As a teacher... I must take responsibility and"
+                                "\\N<Dude>“Tôi phải chịu trách nhiệm và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "investigate further...! ♡ ♡”"
+                                "điều tra thêm...! ♡ ♡”"
                             ]
                         },
                         {
@@ -4005,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Oh dear. ♡ Are you up first? Please come here, then."
+                                "\\N<Kaori>“Ôi trời. ♡ Bạn dậy trước phải không? Vậy xin hãy đến đây."
                             ]
                         },
                         {
@@ -4067,7 +4060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“H-Hey! No fair!”"
+                                "\\N<Ugly Middle-Aged Man>“H-Này! Không công bằng!\""
                             ]
                         },
                         {
@@ -4107,14 +4100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“We will be sure to please each and every one of you..."
+                                "\\N<Shizune>“Chúng tôi chắc chắn sẽ làm hài lòng mọi người trong số các bạn..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please wait. ♡”"
+                                "Vui lòng chờ. ♡”"
                             ]
                         },
                         {
@@ -4138,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“...So be it... Patience is a virtue...!”"
+                                "\\N<Ugly Middle-Aged Man>“...Vậy thì... Kiên nhẫn là một đức tính tốt...!”"
                             ]
                         },
                         {
@@ -4160,7 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...Now then...”"
+                                "\\N<Kaori>“...Giờ thì…”"
                             ]
                         },
                         {
@@ -4177,7 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Enjoy this busty schoolgirl’s M-cup-sized boobs... ♡”"
+                                "\\N<Shizune>“Hãy tận hưởng cặp vú cỡ M của cô gái ngực khủng này... ♡”"
                             ]
                         },
                         {
@@ -4194,7 +4187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“And this busty mommy’s P-cup-sized boobs... ♡”"
+                                "\\N<Kaori>“Và cặp vú cỡ P của bà mẹ ngực khủng này... ♡”"
                             ]
                         },
                         {
@@ -4211,7 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune & Kaori>“With your cock... ♡ ♡”"
+                                "\\N<Shizune & Kaori>“Với con cặc của bạn... ♡ ♡”"
                             ]
                         },
                         {
@@ -4275,7 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡ ♡"
+                                "*bụp* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -4292,7 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Oooooh...!!! ♡ ♡”"
+                                "\\N<Dude>“Ồ...!!! ♡ ♡”"
                             ]
                         },
                         {
@@ -4309,7 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Wha...!? Do my eyes deceive me...!? ♡ ♡”"
+                                "\\N<Dude>“Cái gì...!? Đôi mắt của tôi có đánh lừa tôi không...!? ♡ ♡”"
                             ]
                         },
                         {
@@ -4342,7 +4335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha... Here’s your reward for working hard every day."
+                                "\\N<Kaori>“Haha... Đây là phần thưởng cho việc bạn làm việc chăm chỉ mỗi ngày."
                             ]
                         },
                         {
@@ -4366,21 +4359,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...You may have always leered at me... but you’ve"
+                                "\\N<Shizune>“...Có thể bạn đã luôn nhìn chằm chằm vào tôi... nhưng bạn đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "refrained from laying a finger on my body. This is your"
+                                "kiềm chế không đặt một ngón tay lên cơ thể tôi. Đây là của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "reward for that. ♡”"
+                                "phần thưởng cho điều đó. ♡”"
                             ]
                         },
                         {
@@ -4397,14 +4390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Whoa! I can’t get enough of you... and your mother!"
+                                "\\N<Dude>“Ồ! Tôi không thể hiểu đủ về bạn... và mẹ bạn!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ ♡ Who knew I could be this happy...!? ♡”"
+                                "♡ ♡ Ai biết được tôi có thể hạnh phúc thế này...!? ♡”"
                             ]
                         },
                         {
@@ -4421,14 +4414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha. ♡ If you think you’re happy now... just wait"
+                                "\\N<Shizune>“Haha. ♡ Nếu bây giờ bạn nghĩ mình đang hạnh phúc... hãy đợi nhé"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "until we do this. ♡”"
+                                "cho đến khi chúng ta làm điều này. ♡”"
                             ]
                         },
                         {
@@ -4492,7 +4485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rub* ♡ *boing* ♡ *boing* ♡ *boing* ♡"
+                                "*chà* ♡ *boing* ♡ *boing* ♡ *boing* ♡"
                             ]
                         },
                         {
@@ -4509,7 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Oh...! Oooh! ♡ ♡ My cock’s gone numb...! ♡ ♡”"
+                                "\\N<Dude>“Ồ...! Ôi! ♡ ♡ Con cặc của tôi tê cứng rồi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -4526,14 +4519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Aaah... Someone looks joyful. ♡ We’re nothing but"
+                                "\\N<Kaori>“Aaah... Có người trông vui vẻ quá. ♡ Chúng ta chẳng là gì ngoài"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "glad to see you this happy. ♡”"
+                                "rất vui khi thấy bạn hạnh phúc thế này. ♡”"
                             ]
                         },
                         {
@@ -4550,14 +4543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Yeah. ♡ Good thing your long-awaited fantasy came"
+                                "\\N<Shizune>“Ừ. ♡ Thật may là giấc mơ mà bạn chờ đợi từ lâu đã đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "true... ♡”"
+                                "đúng là... ♡”"
                             ]
                         },
                         {
@@ -4605,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *rub* ♡ *rub* ♡ *rub* ♡"
+                                "*bụp* ♡ *xoa* ♡ *xoa* ♡ *xoa* ♡"
                             ]
                         },
                         {
@@ -4622,7 +4615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Haaah...! ♡ I-I can’t endure this one bit...! ♡”"
+                                "\\N<Dude>“Haaah...! ♡ T-tôi không thể chịu đựng được chút nào...! ♡”"
                             ]
                         },
                         {
@@ -4655,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha...! That’s okay... ♡ Go ahead...”"
+                                "\\N<Kaori>“Haha...! Không sao đâu... ♡ Cứ tiếp tục đi...\""
                             ]
                         },
                         {
@@ -4672,7 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Cum on my daughter’s tits. ♡”"
+                                "\\N<Kaori>“Hãy xuất tinh vào ngực của con gái tôi. ♡”"
                             ]
                         },
                         {
@@ -4689,7 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Cum on my mommy’s tits. ♡”"
+                                "\\N<Shizune>“Hãy xuất tinh vào ngực của mẹ tôi. ♡”"
                             ]
                         },
                         {
@@ -4706,7 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune & Kaori>“Fully cover us with your semen, please. ♡”"
+                                "\\N<Shizune & Kaori>“Làm ơn hãy che chở chúng tôi hoàn toàn bằng tinh dịch của bạn. ♡”"
                             ]
                         },
                         {
@@ -4754,7 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ *boing* ♡ *squish* ♡ *squish* ♡ ♡"
+                                "*bùm* ♡ *bùm* ♡ *bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -4771,7 +4764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“Aaah...! This is too much...! I’m cumming...!! ♡ ♡”"
+                                "\\N<Dude>“Aaah...! Quá nhiều rồi...! Tôi đang xuất tinh...!! ♡ ♡”"
                             ]
                         },
                         {
@@ -4830,7 +4823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -4847,7 +4840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Aaahn! ♡ What an awful lot of cum... ♡”"
+                                "\\N<Kaori>“Aaahn! ♡ Đúng là nhiều kinh khủng... ♡”"
                             ]
                         },
                         {
@@ -4906,7 +4899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -4923,7 +4916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn...! So much hot stuff... on my breasts... ♡”"
+                                "\\N<Shizune>“Mn...! Có quá nhiều thứ nóng bỏng... trên ngực của tôi... ♡”"
                             ]
                         },
                         {
@@ -4982,7 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -4999,7 +4992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Teacher>“I-I’m in heaven... This is the best...! ♡ ♡”"
+                                "\\N<Dude>“T-Tôi đang ở trên thiên đường... Đây là điều tuyệt vời nhất...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5016,7 +5009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha... I’m just glad you’re happy. ♡”"
+                                "\\N<Shizune>“Haha... Tôi rất vui vì bạn hạnh phúc. ♡”"
                             ]
                         },
                         {
@@ -5033,14 +5026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“You deserve to use our boobs a lot if they bring you"
+                                "\\N<Kaori>“Bạn xứng đáng được sử dụng cặp vú của chúng tôi rất nhiều nếu họ mang đến cho bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "such joy. ♡”"
+                                "niềm vui như vậy. ♡”"
                             ]
                         },
                         {
@@ -5062,7 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...Who’s next...?”"
+                                "\\N<Kaori>“...Ai tiếp theo...?”"
                             ]
                         },
                         {
@@ -5079,14 +5072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“M-Me...! This is my first time coming here, so I"
+                                "\\N<Unsightly Man>“M-Tôi...! Đây là lần đầu tiên tôi đến đây nên tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "should get to call dibs...!”"
+                                "nên gọi dibs...!”"
                             ]
                         },
                         {
@@ -5103,14 +5096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha... No need to rush. We’ll please all of you in"
+                                "\\N<Shizune>“Haha... Không cần phải vội. Chúng tôi sẽ làm hài lòng tất cả các bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "order... ♡”"
+                                "gọi món... ♡”"
                             ]
                         },
                         {
@@ -5127,7 +5120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“...I-I should’ve said something too...”"
+                                "\\N<Man A>“...T-tôi cũng nên nói điều gì đó…”"
                             ]
                         },
                         {
@@ -5144,7 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“Relax. We’ll get our turn...”"
+                                "\\N<Man B>“Thư giãn. Chúng ta sẽ đến lượt mình…”"
                             ]
                         },
                         {
@@ -5161,7 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“I-I’ll help myself, then... ♡”"
+                                "\\N<Unsightly Man>“T-tôi sẽ tự giúp mình, vậy thì... ♡”"
                             ]
                         },
                         {
@@ -5211,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5228,7 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Oh...! Oooh...! ♡ ♡”"
+                                "\\N<Unsightly Man>“Ồ...! Ôi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5245,7 +5238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Here are the boobs you’ve been staring at for so long."
+                                "\\N<Shizune>“Đây là cặp vú mà bạn đã ngắm nhìn bấy lâu nay."
                             ]
                         },
                         {
@@ -5269,14 +5262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha... Gentlemen always loosen up when we do this for"
+                                "\\N<Kaori>“Haha... Các quý ông luôn thoải mái khi chúng tôi làm điều này vì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "them. ♡”"
+                                "họ. ♡”"
                             ]
                         },
                         {
@@ -5293,21 +5286,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Heh heh... I-I bet... Who wouldn’t when they’re"
+                                "\\N<Unsightly Man>“Heh heh... T-tôi cá... Ai sẽ không khi họ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "getting a tit job from such a beautiful, busty"
+                                "nhận được một công việc ngực từ một cô gái xinh đẹp, ngực khủng như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mother-daughter duo...? ♡”"
+                                "bộ đôi mẹ con...? ♡”"
                             ]
                         },
                         {
@@ -5371,7 +5364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *boing* ♡ *boing* ♡ *boing* ♡"
+                                "*bụp* ♡ *boing* ♡ *boing* ♡ *boing* ♡"
                             ]
                         },
                         {
@@ -5388,7 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Aaah...! This rocks...! ♡ ♡”"
+                                "\\N<Unsightly Man>“Aa...! Những hòn đá này...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5405,7 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha. ♡ How about this!? ♡ And this! ♡”"
+                                "\\N<Kaori>“Haha. ♡ Thế này thì sao!? ♡ Và cái này! ♡”"
                             ]
                         },
                         {
@@ -5422,14 +5415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Look...! Our boobs are covering your cock more and"
+                                "\\N<Shizune>“Nhìn này...! cặp vú của chúng tôi đang bao phủ vòi nước của bạn nhiều hơn và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "more... ♡”"
+                                "thêm... ♡”"
                             ]
                         },
                         {
@@ -5477,7 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5494,7 +5487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Agh...! F-Fuck...! I’m already gonna... cum...! ♡”"
+                                "\\N<Unsightly Man>“Agh...! Đ-Chết tiệt...! Tôi sắp... ra rồi...! ♡”"
                             ]
                         },
                         {
@@ -5511,7 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“It’d be a waste to cum now, though...! ♡”"
+                                "\\N<Unsightly Man>“Tuy nhiên, bây giờ sẽ rất lãng phí nếu xuất tinh ...! ♡”"
                             ]
                         },
                         {
@@ -5528,7 +5521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...Not to worry. ♡”"
+                                "\\N<Kaori>“...Đừng lo lắng. ♡”"
                             ]
                         },
                         {
@@ -5545,7 +5538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“We’ll let you cum over and over again until nightfall."
+                                "\\N<Shizune>“Chúng tôi sẽ cho bạn xuất tinh nhiều lần cho đến khi màn đêm buông xuống."
                             ]
                         },
                         {
@@ -5569,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“R-Really!? D-Don’t mind if I do, then...! ♡ ♡”"
+                                "\\N<Unsightly Man>“R-Thật sao!? Đ-Đừng bận tâm nếu tôi làm vậy, vậy thì...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5617,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ *boing* ♡ *squish* ♡ *squish* ♡ ♡"
+                                "*bùm* ♡ *bùm* ♡ *bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5634,7 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Whoa...! I-I’ll get it all over you...! ♡ ♡”"
+                                "\\N<Unsightly Man>“Ồ...! T-tôi sẽ bắn hết vào người cậu...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5693,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -5710,7 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn...! ♡ You’re a rather lively one... ♡”"
+                                "\\N<Shizune>“Mn...! ♡ Bạn là một người khá sôi nổi... ♡”"
                             ]
                         },
                         {
@@ -5753,7 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -5770,14 +5763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“This shows just how much fatigue you’ve built up..."
+                                "\\N<Kaori>“Điều này cho thấy mức độ mệt mỏi của bạn..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mn! ♡”"
+                                "ừm! ♡”"
                             ]
                         },
                         {
@@ -5820,7 +5813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -5837,7 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“Hah...! ♡ My hips are giving out...! ♡”"
+                                "\\N<Unsightly Man>“Hah...! ♡ Hông tôi đang nhũn ra...! ♡”"
                             ]
                         },
                         {
@@ -5859,7 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...All right... Next...”"
+                                "\\N<Kaori>“...Được rồi... Tiếp theo…”"
                             ]
                         },
                         {
@@ -5876,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Oh, you’re wearing my school’s uniform... ♡”"
+                                "\\N<Shizune>“...Ồ... ♡”"
                             ]
                         },
                         {
@@ -5893,7 +5886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“My! ♡ Are you her classmate?”"
+                                "\\N<Kaori>“Tôi! ♡ Các bạn có biết nhau không?”"
                             ]
                         },
                         {
@@ -5910,7 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Um... Y-Yes...”"
+                                "\\N<Man A>“Ừm... Đ-Có…”"
                             ]
                         },
                         {
@@ -5944,14 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Then... please come over... I’ll relieve you as a"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "busty classmate should... ♡”"
+                                "\\N<Shizune>“Vậy thì... xin hãy lại đây... Tôi sẽ giúp bạn nhẹ nhõm... ♡”"
                             ]
                         },
                         {
@@ -5968,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“L-Lucky... ♡”"
+                                "\\N<Man B>“L-May mắn... ♡”"
                             ]
                         },
                         {
@@ -5985,7 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“S-Seriously...!? Seriously...!? ♡”"
+                                "\\N<Man A>“Đ-Nghiêm túc đấy...!? Nghiêm túc...!? ♡”"
                             ]
                         },
                         {
@@ -6002,14 +5988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha. ♡ Don’t be in such a panic. These boobs aren’t"
+                                "\\N<Kaori>“Haha. ♡ Đừng hoảng sợ như vậy. Những cặp vú này không phải"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "going anywhere. ♡”"
+                                "đi mọi nơi. ♡”"
                             ]
                         },
                         {
@@ -6026,14 +6012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Why...! It’s already rock-hard. ♡ We aroused you that"
+                                "\\N<Shizune>“Tại sao...! Nó đã cứng như đá rồi. ♡ Chúng tôi đã khơi dậy bạn điều đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "much, huh...? ♡”"
+                                "nhiều nhỉ...? ♡”"
                             ]
                         },
                         {
@@ -6050,14 +6036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Well... I’ll let you experience the boobs that always"
+                                "\\N<Shizune>“Chà... tôi sẽ cho bạn trải nghiệm cặp vú luôn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "catch your attention... ♡”"
+                                "thu hút sự chú ý của bạn... ♡”"
                             ]
                         },
                         {
@@ -6107,7 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡ ♡"
+                                "*bụp* ♡ ♡ ♡"
                             ]
                         },
                         {
@@ -6124,7 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Aaah...! ♡ Sh-Shizune is... actually... ♡”"
+                                "\\N<Man A>“Aa...! ♡ Sh-Shizune là... thực ra... ♡”"
                             ]
                         },
                         {
@@ -6141,14 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Haha! ♡ To think you would get a tit job from your"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "classmate and her mommy...”"
+                                "\\N<Shizune>“...Haha! ♡ Nghĩ đến việc bạn sẽ nhận được công việc ngực từ một người mà tôi biết... cộng với mẹ cô ấy…”"
                             ]
                         },
                         {
@@ -6165,14 +6144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“You know, this sort of thing would never happen... if"
+                                "\\N<Kaori>“Bạn biết đấy, chuyện như thế này sẽ không bao giờ xảy ra... nếu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it weren’t for Tit Jobism... ♡”"
+                                "nó không dành cho Chủ nghĩa công việc ngực... ♡”"
                             ]
                         },
                         {
@@ -6189,7 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Yeah. ♡ You’d better join if you like this... ♡”"
+                                "\\N<Shizune>“Ừ. ♡ Tốt nhất bạn nên tham gia nếu bạn thích điều này... ♡”"
                             ]
                         },
                         {
@@ -6253,7 +6232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ *squish* ♡ *rub* ♡ *rub* ♡"
+                                "*boing* ♡ *bụp* ♡ *chà* ♡ *chà* ♡"
                             ]
                         },
                         {
@@ -6270,14 +6249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Aaah...! ♡ I-I will! ♡ I’ll join! ♡ I-If it means I"
+                                "\\N<Man A>“Aaah...! ♡ Tôi-tôi sẽ làm vậy! ♡ Tôi sẽ tham gia! ♡ N-Nếu điều đó có nghĩa là tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "get to enjoy this daily... ♡”"
+                                "hãy tận hưởng điều này hàng ngày... ♡”"
                             ]
                         },
                         {
@@ -6294,14 +6273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I don’t know if I’ll be able to please you personally"
+                                "\\N<Shizune>“Tôi không biết liệu tôi có thể làm hài lòng cá nhân bạn hay không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "every day...”"
+                                "Hằng ngày...\""
                             ]
                         },
                         {
@@ -6318,14 +6297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...But I can at least give you a taste of pleasure"
+                                "\\N<Shizune>“...Nhưng ít nhất tôi có thể cho bạn nếm trải niềm vui"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that no one else can provide to make up for it. ♡”"
+                                "mà không ai khác có thể cung cấp để bù đắp cho nó. ♡”"
                             ]
                         },
                         {
@@ -6342,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“It is our duty to grant gentlemen’s wishes... ♡”"
+                                "\\N<Kaori>“Nhiệm vụ của chúng tôi là đáp ứng mong muốn của các quý ông... ♡”"
                             ]
                         },
                         {
@@ -6390,7 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ *boing* ♡ *squish* ♡ *squish* ♡"
+                                "*bùm* ♡ *bùm* ♡ *bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -6407,7 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Shit...! Th-This is... unbearable...! ♡”"
+                                "\\N<Man A>“Chết tiệt...! Đ-Điều này thật...không thể chịu nổi...! ♡”"
                             ]
                         },
                         {
@@ -6424,7 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It’s okay... Go on... Please cum on our jugs. ♡”"
+                                "\\N<Shizune>“Không sao đâu... Tiếp tục đi... Hãy xuất tinh vào bình của chúng tôi. ♡”"
                             ]
                         },
                         {
@@ -6441,14 +6420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Fulfill every schoolboy’s fantasy... of covering your"
+                                "\\N<Kaori>“Thỏa mãn ước mơ... che phủ của mọi người"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "busty classmate with cum. ♡”"
+                                "phụ nữ busty với kiêm. ♡”"
                             ]
                         },
                         {
@@ -6496,7 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ *boing* ♡ *squish* ♡ *squish* ♡ ♡"
+                                "*bùm* ♡ *bùm* ♡ *bụp* ♡ *bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -6513,14 +6492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Oooh...! I’ve been dreaming of this for so long! ♡"
+                                "\\N<Man A>“Ồ...! Tôi đã mơ về điều này rất lâu rồi! ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cumming...! ♡ ♡”"
+                                "Xuất tinh...! ♡ ♡”"
                             ]
                         },
                         {
@@ -6579,7 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -6596,7 +6575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ahn! ♡ It’s flailing between our boobs... ♡”"
+                                "\\N<Kaori>“À! ♡ Nó đang vùng vẫy giữa ngực của chúng ta... ♡”"
                             ]
                         },
                         {
@@ -6639,7 +6618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -6656,14 +6635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha...! You must’ve had quite a lot of cum ready to"
+                                "\\N<Shizune>“Haha...! Chắc hẳn bạn đã có khá nhiều tinh trùng sẵn sàng để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "go... ♡”"
+                                "đi... ♡”"
                             ]
                         },
                         {
@@ -6706,7 +6685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -6723,7 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Aaah... I’d die to be this happy any day... ♡ ♡”"
+                                "\\N<Man A>“Aaah... Ngày nào tôi cũng vui chết được như thế này… ♡ ♡”"
                             ]
                         },
                         {
@@ -6740,7 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha... You must be exaggerating. ♡”"
+                                "\\N<Kaori>“Haha... Chắc hẳn bạn đang phóng đại rồi. ♡”"
                             ]
                         },
                         {
@@ -6757,14 +6736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“We’ll continue pleasing you and the others... so you"
+                                "\\N<Shizune>“Chúng tôi sẽ tiếp tục làm hài lòng bạn và những người khác... vì vậy bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "may actually feel good enough to die, you know? Haha!"
+                                "thực sự có thể cảm thấy đủ tốt để chết, bạn biết không? Haha!"
                             ]
                         },
                         {
@@ -6793,7 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now... let’s keep this train a-rolling... ♡”"
+                                "\\N<Shizune>“Bây giờ... hãy tiếp tục cho chuyến tàu này tiếp tục chạy... ♡\""
                             ]
                         },
                         {
@@ -6810,7 +6789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Haha...! Wonder how many rounds we can get in... ♡”"
+                                "\\N<Kaori>“Haha...! Tự hỏi chúng ta có thể tham gia được bao nhiêu vòng... ♡”"
                             ]
                         },
                         {
@@ -6827,7 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“I-I’m next...!”"
+                                "\\N<Ugly Middle-Aged Man>“Tôi-tôi là người tiếp theo…!”"
                             ]
                         },
                         {
@@ -6844,7 +6823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“I could cum on those titties all day... ♡”"
+                                "\\N<Unsightly Man>“Tôi có thể xuất tinh vào cặp vú đó cả ngày... ♡”"
                             ]
                         },
                         {
@@ -6861,14 +6840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“Guess I’m last, then... Well, at least there’ll be"
+                                "\\N<Man B>“Đoán là tôi là người cuối cùng thì… Chà, ít nhất sẽ có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "multiple rounds. ♡”"
+                                "nhiều vòng. ♡”"
                             ]
                         },
                         {
@@ -6885,7 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“I-I’ll get another go at those boobs...! ♡”"
+                                "\\N<Man A>“T-Tôi sẽ thử lại cặp vú đó…! ♡”"
                             ]
                         },
                         {
@@ -6936,7 +6915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few hours later..."
+                                "...Một vài tiếng sau..."
                             ]
                         },
                         {
@@ -7000,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*jiggle* ♡ *jiggle* ♡ *jiggle* ♡"
+                                "*đung đưa* ♡ *đung đưa* ♡ *đung đưa* ♡"
                             ]
                         },
                         {
@@ -7048,7 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -7065,7 +7044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“Ah... Oooh...! I’m being milked...! ♡ ♡”"
+                                "\\N<Ugly Middle-Aged Man>“À... Ối...! Tôi đang được vắt sữa...! ♡ ♡”"
                             ]
                         },
                         {
@@ -7082,7 +7061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Alright. ♡ That’s the end of round twelve. ♡”"
+                                "\\N<Shizune>“Được rồi. ♡ Thế là kết thúc hiệp 12. ♡”"
                             ]
                         },
                         {
@@ -7099,14 +7078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“You’re all full of energy, aren’t you? ♡ You seemed"
+                                "\\N<Kaori>“Mọi người đều tràn đầy năng lượng phải không? ♡ Có vẻ như bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to be awfully tired...”"
+                                "mệt quá…”"
                             ]
                         },
                         {
@@ -7123,14 +7102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Rest assured that we will squeeze out all that fatigue"
+                                "\\N<Shizune>“Yên tâm chúng tôi sẽ vắt kiệt mọi mệt mỏi đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and soothe you all... Haha! ♡”"
+                                "và xoa dịu tất cả các bạn... Haha! ♡”"
                             ]
                         },
                         {
@@ -7147,7 +7126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“H-Hey... I don’t get this chance often...”"
+                                "\\N<Ugly Middle-Aged Man>“H-Này... Tôi không thường xuyên có cơ hội này…”"
                             ]
                         },
                         {
@@ -7164,7 +7143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“So I want to have s-sex... ♡”"
+                                "\\N<Ugly Middle-Aged Man>“Vậy là tôi muốn quan hệ tình dục... ♡”"
                             ]
                         },
                         {
@@ -7197,7 +7176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Sorry, but no can do...”"
+                                "\\N<Kaori>“Xin lỗi, nhưng không thể…”"
                             ]
                         },
                         {
@@ -7214,14 +7193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Our duty is to simply relieve everybody with our"
+                                "\\N<Shizune>“Nhiệm vụ của chúng tôi chỉ đơn giản là giúp mọi người giải tỏa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "boobs...”"
+                                "ngực…”"
                             ]
                         },
                         {
@@ -7238,14 +7217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...You’re welcome to use ours as much as you want... I"
+                                "\\N<Kaori>“...Bạn có thể sử dụng sản phẩm của chúng tôi bao nhiêu tùy thích... Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hope they’re enough to satisfy you. ♡”"
+                                "hy vọng chúng đủ làm bạn hài lòng. ♡”"
                             ]
                         },
                         {
@@ -7262,7 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ugly Middle-Aged Man>“F-Fine... ♡”"
+                                "\\N<Ugly Middle-Aged Man>“F-Được rồi... ♡”"
                             ]
                         },
                         {
@@ -7279,7 +7258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unsightly Man>“E-Even prostitutes don’t provide such a good time. ♡”"
+                                "\\N<Unsightly Man>“E-Ngay cả gái mại dâm cũng không mang lại khoảng thời gian vui vẻ như vậy. ♡”"
                             ]
                         },
                         {
@@ -7296,7 +7275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Maybe I’ll invite some friends next time... ♡”"
+                                "\\N<Man A>“Có lẽ lần sau tôi sẽ mời vài người bạn… ♡”"
                             ]
                         },
                         {
@@ -7313,14 +7292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy B>“Idiot... It’d definitely be more fun to keep this kind"
+                                "\\N<Man B>“Đồ ngốc... Giữ kiểu này chắc chắn sẽ vui hơn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of stuff a secret and take pictures for ourselves. ♡”"
+                                "những thứ bí mật và chụp ảnh cho chính chúng ta. ♡”"
                             ]
                         },
                         {
@@ -7337,7 +7316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Schoolboy A>“Tr-True... Heh heh heh... ♡”"
+                                "\\N<Man A>“Tr-Đúng... Heh heh heh... ♡”"
                             ]
                         },
                         {
@@ -7354,7 +7333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay. ♡”"
+                                "\\N<Shizune>“...Được rồi. ♡”"
                             ]
                         },
                         {
@@ -7371,14 +7350,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Looks like everyone still needs to let off some"
+                                "\\N<Kaori>“Có vẻ như mọi người vẫn cần xả hơi một chút"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "steam... ♡”"
+                                "hơi nước... ♡”"
                             ]
                         },
                         {
@@ -7395,7 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Which means, this schoolgirl’s M-cup-sized-boobs..."
+                                "\\N<Shizune>“...Có nghĩa là, cặp vú cỡ M này..."
                             ]
                         },
                         {
@@ -7419,7 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...And this busty mommy’s P-cup-sized boobs... ♡”"
+                                "\\N<Kaori>“...Và cặp vú cỡ P của bà mẹ ngực khủng này... ♡\""
                             ]
                         },
                         {
@@ -7436,14 +7415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune & Kaori>“Still need to be used to please you with plenty of"
+                                "\\N<Shizune & Kaori>“Vẫn cần được sử dụng để làm hài lòng bạn với nhiều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tit jobs... ♡ ♡”"
+                                "công việc ngực... ♡ ♡”"
                             ]
                         },
                         {
@@ -7526,7 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -7586,7 +7565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“H-Huh?”"
+                                "\\N<Shizune>“H-Hả?”"
                             ]
                         },
                         {
@@ -7634,7 +7613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mother... Why are we here...?”"
+                                "\\N<Shizune>“Mẹ... Tại sao chúng ta lại ở đây...?”"
                             ]
                         },
                         {
@@ -7689,7 +7668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“W-Weren’t you the one who called me over...?”"
+                                "\\N<Kaori>“C-không phải cậu là người đã gọi tôi tới sao…?”"
                             ]
                         },
                         {
@@ -7713,7 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Whatever happened to that man...?”"
+                                "\\N<Kaori>“Chuyện gì đã xảy ra với người đàn ông đó vậy...?”"
                             ]
                         },
                         {
@@ -7737,7 +7716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You met that man too...?”"
+                                "\\N<Shizune>“Bạn cũng gặp người đàn ông đó à…?”"
                             ]
                         },
                         {
@@ -7761,7 +7740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“U-Ugh... My head feels kinda fuzzy...”"
+                                "\\N<Shizune>“U-Ugh... Đầu tôi hơi choáng váng…”"
                             ]
                         },
                         {
@@ -7785,7 +7764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mine too... And I’m rather tired for some reason...”"
+                                "\\N<Kaori>“Của tôi nữa... Và tôi hơi mệt vì lý do nào đó…”"
                             ]
                         },
                         {
@@ -7887,7 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Hm? Something’s on the ground.”"
+                                "\\N<Shizune>“...Hm? Có thứ gì đó ở trên mặt đất.”"
                             ]
                         },
                         {
@@ -7927,14 +7906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Wha-What’s with these weird, disgraceful"
+                                "\\N<Shizune>“...Cái quái gì thế này, đáng hổ thẹn thế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "costumes...?”"
+                                "trang phục...?”"
                             ]
                         },
                         {
@@ -7974,7 +7953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“W-Well... they sure are something...”"
+                                "\\N<Kaori>“Ch-Chà... chúng chắc chắn là thứ gì đó…”"
                             ]
                         },
                         {
@@ -7998,7 +7977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -8022,7 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -8046,7 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I’m imagining things... right...?)"
+                                "\\N<Shizune>(T-tôi đang tưởng tượng ra mọi thứ... phải không...?)"
                             ]
                         },
                         {
@@ -8070,7 +8049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I had a feeling this would happen...)"
+                                "\\N<Kaori>(Tôi có cảm giác điều này sẽ xảy ra...)"
                             ]
                         },
                         {
@@ -8087,7 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune & Kaori>(...I can sense our spiritual power on them...)"
+                                "\\N<Shizune & Kaori>(...Tôi có thể cảm nhận được sức mạnh tâm linh của chúng ta trên chúng...)"
                             ]
                         },
                         {
@@ -8104,21 +8083,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Th-They might be a clue to what mysterious event had"
+                                "\\N<Kaori>“Th-Chúng có thể là manh mối cho sự kiện bí ẩn nào đã xảy ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "occurred... We should take them with us, just in"
+                                "đã xảy ra... Chúng ta nên mang chúng theo, chỉ trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "case...”"
+                                "trường hợp...\""
                             ]
                         },
                         {
@@ -8142,7 +8121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Yeah... We’ve got no other choice...”"
+                                "\\N<Shizune>“Ừ... Chúng tôi không còn lựa chọn nào khác…”"
                             ]
                         },
                         {
@@ -8190,7 +8169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“W-Well... let’s go home, Mother...”"
+                                "\\N<Shizune>“Ch-Ừ... về nhà thôi mẹ…”"
                             ]
                         },
                         {
@@ -8245,7 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-Yes... Let’s do that.”"
+                                "\\N<Kaori>“V-Vâng... Hãy làm điều đó.”"
                             ]
                         },
                         {
@@ -8301,7 +8280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Looking at these costumes puts me in a weird mood...)"
+                                "\\N<Shizune>(Nhìn những bộ trang phục này khiến tôi có tâm trạng kỳ lạ...)"
                             ]
                         },
                         {
@@ -8318,7 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Nothing should’ve happened...)"
+                                "\\N<Shizune>(Đáng lẽ không có chuyện gì xảy ra...)"
                             ]
                         },
                         {
@@ -8335,7 +8314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I really hope nothing happened...)"
+                                "\\N<Shizune>(Tôi thực sự hy vọng không có chuyện gì xảy ra...)"
                             ]
                         },
                         {
@@ -8405,7 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -8561,7 +8540,7 @@
         },
         {
             "id": 9,
-            "name": "Teacher",
+            "name": "Anh bạn",
             "note": "",
             "pages": [
                 {
@@ -8583,7 +8562,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B3_sensei",
+                        "characterName": "B3_otona",
                         "direction": 2,
                         "pattern": 1,
                         "characterIndex": 0

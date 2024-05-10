@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -1883,7 +1883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“No need to go here.”"
+                                "\\N<Kaori>“Không cần phải đến đây.”"
                             ]
                         },
                         {
@@ -1991,7 +1991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“No need to go here.”"
+                                "\\N<Kaori>“Không cần phải đến đây.”"
                             ]
                         },
                         {
@@ -2099,7 +2099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“No need to go here.”"
+                                "\\N<Kaori>“Không cần phải đến đây.”"
                             ]
                         },
                         {
