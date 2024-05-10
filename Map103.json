@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Department Store 3F",
+    "displayName": "Cửa hàng bách hóa 3F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2689,7 +2689,7 @@
         },
         {
             "id": 4,
-            "name": "Goro",
+            "name": "goro",
             "note": "",
             "pages": [
                 {
@@ -2750,7 +2750,7 @@
         null,
         {
             "id": 6,
-            "name": "NPC 1 Male Customer 2",
+            "name": "NPC 1 Khách hàng nam 2",
             "note": "",
             "pages": [
                 {
@@ -2792,7 +2792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“I-It’s about to begin...! Can’t wait to see Mary...!”"
+                                "\\N<Male Customer A>“N-Nó sắp bắt đầu rồi…! Nóng lòng muốn gặp Mary...!”"
                             ]
                         },
                         {
@@ -2809,14 +2809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“I saw a lot of people posting about this. Events like"
+                                "\\N<Male Customer B>“Tôi thấy rất nhiều người đăng bài về điều này. Sự kiện như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this are hidden gems. ♡”"
+                                "đây là những viên ngọc ẩn ♡”"
                             ]
                         },
                         {
@@ -2884,7 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“I-It’s about to begin...! Can’t wait to see Mary...!”"
+                                "\\N<Male Customer A>“N-Nó sắp bắt đầu rồi…! Nóng lòng muốn gặp Mary...!”"
                             ]
                         },
                         {
@@ -2901,14 +2901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“I saw a lot of people posting about this. Events like"
+                                "\\N<Male Customer B>“Tôi thấy rất nhiều người đăng bài về điều này. Sự kiện như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this are hidden gems. ♡”"
+                                "đây là những viên ngọc ẩn ♡”"
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“Man, didn’t think such a busty actress would play"
+                                "\\N<Male Customer A>“Trời ạ, không nghĩ một nữ diễn viên vú to như vậy lại đóng vai"
                             ]
                         },
                         {
@@ -3000,14 +3000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“The real Mary doesn’t have breasts that big... but I"
+                                "\\N<Male Customer B>“Mary thật không có ngực to đến thế... nhưng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wouldn’t mind watching this one, either. ♡”"
+                                "cũng sẽ không phiền khi xem cái này. ♡”"
                             ]
                         },
                         {
@@ -3042,7 +3042,7 @@
         },
         {
             "id": 7,
-            "name": "NPC 3 Male Customer 2",
+            "name": "NPC 3 Nam Khách Hàng 2",
             "note": "",
             "pages": [
                 {
@@ -3084,7 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“I-It’s about to begin...! Can’t wait to see Mary...!”"
+                                "\\N<Male Customer A>“N-Nó sắp bắt đầu rồi…! Nóng lòng muốn gặp Mary...!”"
                             ]
                         },
                         {
@@ -3101,14 +3101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“I saw a lot of people posting about this. Events like"
+                                "\\N<Male Customer B>“Tôi thấy rất nhiều người đăng bài về điều này. Sự kiện như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this are hidden gems. ♡”"
+                                "đây là những viên ngọc ẩn ♡”"
                             ]
                         },
                         {
@@ -3176,7 +3176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“I-It’s about to begin...! Can’t wait to see Mary...!”"
+                                "\\N<Male Customer A>“N-Nó sắp bắt đầu rồi…! Nóng lòng muốn gặp Mary...!”"
                             ]
                         },
                         {
@@ -3193,14 +3193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“I saw a lot of people posting about this. Events like"
+                                "\\N<Male Customer B>“Tôi thấy rất nhiều người đăng bài về điều này. Sự kiện như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this are hidden gems. ♡”"
+                                "đây là những viên ngọc ẩn ♡”"
                             ]
                         },
                         {
@@ -3268,7 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer A>“Man, didn’t think such a busty actress would play"
+                                "\\N<Male Customer A>“Trời ạ, không nghĩ một nữ diễn viên vú to như vậy lại đóng vai"
                             ]
                         },
                         {
@@ -3292,14 +3292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer B>“The real Mary doesn’t have breasts that big... but I"
+                                "\\N<Male Customer B>“Mary thật không có ngực to đến thế... nhưng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wouldn’t mind watching this one, either. ♡”"
+                                "cũng sẽ không phiền khi xem cái này. ♡”"
                             ]
                         },
                         {
@@ -3334,7 +3334,7 @@
         },
         {
             "id": 8,
-            "name": "NPC 3 Mother",
+            "name": "Mẹ NPC 3",
             "note": "",
             "pages": [
                 {
@@ -3476,7 +3476,7 @@
         },
         {
             "id": 9,
-            "name": "NPC 4 Boy 1",
+            "name": "NPC 4 Cậu Bé 1",
             "note": "",
             "pages": [
                 {
@@ -3618,7 +3618,7 @@
         },
         {
             "id": 10,
-            "name": "NPC 6 Male Customer 4",
+            "name": "NPC 6 Khách hàng nam 4",
             "note": "",
             "pages": [
                 {
@@ -3660,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Hahaha... Isn’t this camera amazing...?”"
+                                "\\N<Male Customer>“Hahaha... Chiếc máy ảnh này không tuyệt vời sao…?”"
                             ]
                         },
                         {
@@ -3684,7 +3684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“It sure does look expensive...”"
+                                "\\N<Kaori>“Nó chắc chắn trông đắt tiền…”"
                             ]
                         },
                         {
@@ -3708,14 +3708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“I can take high-quality pictures of Mary with this..."
+                                "\\N<Male Customer>“Tôi có thể chụp ảnh Mary chất lượng cao bằng..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaah... Can’t the event start any sooner...?”"
+                                "Aaah... Sự kiện không thể bắt đầu sớm hơn được sao...?\""
                             ]
                         },
                         {
@@ -3791,14 +3791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>(N-Now that I think about it, this woman has some"
+                                "\\N<Male Customer>(N-Giờ tôi nghĩ lại, người phụ nữ này có một số"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "amazing boobs herself...)"
+                                "cặp vú tuyệt vời của chính cô ấy...)"
                             ]
                         },
                         {
@@ -3815,14 +3815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>(I’d love to take a picture of her wearing a sexy"
+                                "\\N<Male Customer>(Tôi muốn chụp ảnh cô ấy mặc đồ gợi cảm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "costume... ♡)"
+                                "trang phục... ♡)"
                             ]
                         },
                         {
@@ -3921,14 +3921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>(N-Now that I think about it, this woman has some"
+                                "\\N<Male Customer>(N-Giờ tôi nghĩ lại, người phụ nữ này có một số"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "amazing boobs herself...)"
+                                "cặp vú tuyệt vời của chính cô ấy...)"
                             ]
                         },
                         {
@@ -3945,14 +3945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>(I’d love to take a picture of her wearing a sexy"
+                                "\\N<Male Customer>(Tôi muốn chụp ảnh cô ấy mặc đồ gợi cảm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "costume... ♡)"
+                                "trang phục... ♡)"
                             ]
                         },
                         {
@@ -4051,14 +4051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“That event was the greatest... I’ve never been excited"
+                                "\\N<Male Customer>“Sự kiện đó là sự kiện tuyệt vời nhất... Tôi chưa bao giờ hào hứng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "by Mary so much. ♡”"
+                                "bởi Mary rất nhiều. ♡”"
                             ]
                         },
                         {
@@ -4082,14 +4082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Glad to hear it. It was a bit embarrassing, but... I’m"
+                                "\\N<Kaori>“Rất vui được nghe điều đó. Có một chút xấu hổ, nhưng... tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "happy to know everything went well. ♪”"
+                                "rất vui khi biết mọi việc diễn ra tốt đẹp. ♪”"
                             ]
                         },
                         {
@@ -4165,7 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Seriously... I’mma treasure this photo. ♡”"
+                                "\\N<Male Customer>“Nghiêm túc mà nói... Tôi sẽ trân trọng bức ảnh này. ♡”"
                             ]
                         },
                         {
@@ -4205,14 +4205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I’m embarrassed to hear that... but I appreciate the"
+                                "\\N<Kaori>“Tôi-tôi rất xấu hổ khi nghe điều đó... nhưng tôi đánh giá cao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thought.”"
+                                "nghĩ.\""
                             ]
                         },
                         {
@@ -4254,7 +4254,7 @@
         },
         {
             "id": 11,
-            "name": "NPC 5 Girl",
+            "name": "Cô gái NPC 5",
             "note": "",
             "pages": [
                 {
@@ -4396,7 +4396,7 @@
         },
         {
             "id": 12,
-            "name": "NPC 7 Boy 2",
+            "name": "NPC 7 Cậu Bé 2",
             "note": "",
             "pages": [
                 {
@@ -4473,7 +4473,7 @@
         },
         {
             "id": 13,
-            "name": "NPC 8 Female Customer 2",
+            "name": "NPC 8 Nữ Khách Hàng 2",
             "note": "",
             "pages": [
                 {
@@ -4581,7 +4581,7 @@
         },
         {
             "id": 14,
-            "name": "NPC 9 Female Customer 1",
+            "name": "NPC 9 Nữ Khách Hàng 1",
             "note": "",
             "pages": [
                 {
@@ -4689,7 +4689,7 @@
         },
         {
             "id": 15,
-            "name": "NPC 10 Male Customer 1",
+            "name": "NPC 10 Khách hàng nam 1",
             "note": "",
             "pages": [
                 {
@@ -4731,7 +4731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“I love Mary. I’ve been dying to watch today’s event."
+                                "\\N<Male Customer>“Tôi yêu Mary. Tôi rất muốn xem sự kiện ngày hôm nay."
                             ]
                         },
                         {
@@ -4755,14 +4755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“How can that girl be willing to wear such a"
+                                "\\N<Male Customer>“Sao cô gái đó có thể sẵn lòng mặc đồ như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "costume...? Heh heh! ♡”"
+                                "trang phục...? Heh heh! ♡”"
                             ]
                         },
                         {
@@ -4830,7 +4830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Heh heh... Well, hello there. ♡”"
+                                "\\N<Male Customer>“Heh heh... Chà, xin chào. ♡”"
                             ]
                         },
                         {
@@ -4847,14 +4847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“I had the time of my life watching the lady’s boobs"
+                                "\\N<Male Customer>“Tôi đã có khoảng thời gian trong đời khi ngắm nhìn cặp vú của phụ nữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jiggle during the last event. ♡”"
+                                "lắc lư trong sự kiện cuối cùng. ♡”"
                             ]
                         },
                         {
@@ -4871,7 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Can I get your phone number...? Hee-hee! ♡”"
+                                "\\N<Male Customer>“Tôi có thể lấy số điện thoại của bạn không...? Hi hi! ♡”"
                             ]
                         },
                         {
@@ -4911,7 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry. I’m a bit busy at the moment...”"
+                                "\\N<Kaori>“X-Xin lỗi. dạo này tôi hơi bận…”"
                             ]
                         },
                         {
@@ -4994,7 +4994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Man... Your boobs are out of this world. ♡”"
+                                "\\N<Male Customer>“Trời ạ... cặp vú của bạn nằm ngoài thế giới này rồi. ♡”"
                             ]
                         },
                         {
@@ -5034,7 +5034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Ahaha...”"
+                                "\\N<Kaori>“A-Ahaha…”"
                             ]
                         },
                         {
@@ -5609,7 +5609,7 @@
         },
         {
             "id": 17,
-            "name": "Magical Girl Kaori",
+            "name": "Cô Gái Phép Thuật Kaori",
             "note": "",
             "pages": [
                 {
@@ -5775,7 +5775,7 @@
         null,
         {
             "id": 22,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -5900,7 +5900,7 @@
         },
         {
             "id": 23,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {
@@ -6025,7 +6025,7 @@
         },
         {
             "id": 24,
-            "name": "Sex Event_Goro Event 2",
+            "name": "Giới tính Event_Goro Sự kiện 2",
             "note": "",
             "pages": [
                 {
@@ -6122,14 +6122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Now then, I’d like to confirm something before the"
+                                "\\N<Goro>“Bây giờ, tôi muốn xác nhận điều gì đó trước khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "show starts...”"
+                                "buổi diễn bắt đầu…”"
                             ]
                         },
                         {
@@ -6153,7 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Confirm...?”"
+                                "\\N<Kaori>“Xác nhận...?”"
                             ]
                         },
                         {
@@ -6177,7 +6177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Yes... To tell the truth...”"
+                                "\\N<Goro>“Có... Nói thật…”"
                             ]
                         },
                         {
@@ -6194,21 +6194,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I carefully reviewed the footage of the last event and"
+                                "\\N<Goro>“Tôi đã xem lại cẩn thận đoạn phim về sự kiện vừa qua và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "noticed that the costume was a little too tight around"
+                                "nhận thấy rằng bộ trang phục hơi chật xung quanh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your breasts. ♡”"
+                                "ngực của bạn. ♡”"
                             ]
                         },
                         {
@@ -6225,14 +6225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Which led me to believe I should make sure you wear"
+                                "\\N<Goro>“Điều này khiến tôi tin rằng tôi nên đảm bảo bạn mặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "an outfit that fits you well... ♡”"
+                                "một bộ trang phục vừa vặn với bạn... ♡”"
                             ]
                         },
                         {
@@ -6256,7 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Really...? Thank you for going out of your way.”"
+                                "\\N<Kaori>“Thật sao...? Cảm ơn bạn đã tránh đường cho mình.”"
                             ]
                         },
                         {
@@ -6280,21 +6280,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“It’s nothing. ♡ Anyway... I need to take pictures of"
+                                "\\N<Goro>“Không có gì đâu. ♡ Dù sao... tôi cần chụp ảnh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your bare body to make clothes that fit you. Do you"
+                                "cơ thể trần của bạn để may quần áo vừa vặn với bạn. Bạn có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mind undressing? ♡”"
+                                "có phiền cởi quần áo không? ♡”"
                             ]
                         },
                         {
@@ -6334,14 +6334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“HUH!? You mean, you want to take photos of me"
+                                "\\N<Kaori>“Hả!? Ý bạn là, bạn muốn chụp ảnh tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "n-nude?”"
+                                "n-khỏa thân?”"
                             ]
                         },
                         {
@@ -6365,14 +6365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Yes. ♡ I promise not to post them anywhere online. I"
+                                "\\N<Goro>“Có. ♡ Tôi hứa sẽ không đăng chúng lên mạng ở bất cứ đâu. TÔI"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "just need them as a reference to prepare your costume."
+                                "chỉ cần chúng như một tài liệu tham khảo để chuẩn bị trang phục của bạn."
                             ]
                         },
                         {
@@ -6396,14 +6396,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“So, there’s nothing to worry about. Please let me take"
+                                "\\N<Goro>“Vì vậy, không có gì phải lo lắng cả. Xin vui lòng cho tôi lấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "some photos. ♡”"
+                                "một vài hình ảnh. ♡”"
                             ]
                         },
                         {
@@ -6443,7 +6443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“B-But...”"
+                                "\\N<Kaori>“N-Nhưng…”"
                             ]
                         },
                         {
@@ -6467,14 +6467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...I’ve never heard of anyone needing pictures of"
+                                "\\N<Kaori>(...Tôi chưa bao giờ nghe nói có ai cần ảnh của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "naked people to make clothes...)"
+                                "người trần truồng để may quần áo...)"
                             ]
                         },
                         {
@@ -6505,14 +6505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(H-He probably just wants pictures of me to do THAT"
+                                "\\N<Kaori>(H-Chắc anh ấy chỉ muốn ảnh của tôi để làm ĐÓ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "again...)"
+                                "lại...)"
                             ]
                         },
                         {
@@ -6536,21 +6536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Well... I’m not going to force you, but there’s a"
+                                "\\N<Goro>“Chà... tôi sẽ không ép buộc bạn, nhưng có một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "chance that a certain wardrobe malfunction might happen"
+                                "khả năng xảy ra trục trặc nào đó trong tủ quần áo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "on stage if you keep wearing the same costume... ♡”"
+                                "trên sân khấu nếu bạn cứ mặc cùng một bộ trang phục... ♡”"
                             ]
                         },
                         {
@@ -6567,14 +6567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“You don’t want those young ones to see your bare"
+                                "\\N<Goro>“Bạn không muốn họ nhìn thấy bạn khỏa thân"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "boobs, right...? ♡”"
+                                "ngực phải không...? ♡”"
                             ]
                         },
                         {
@@ -6638,7 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Are photos... really necessary?”"
+                                "\\N<Kaori>“A-Ảnh... có thực sự cần thiết không?”"
                             ]
                         },
                         {
@@ -6662,7 +6662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Yes... I’m asking for nothing more. ♡”"
+                                "\\N<Goro>“Có... Tôi không yêu cầu gì thêm. ♡”"
                             ]
                         },
                         {
@@ -6686,7 +6686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(H-He does have a point...)"
+                                "\\N<Kaori>(H-Anh ấy có lý...)"
                             ]
                         },
                         {
@@ -6703,7 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(And I cannot not do it after agreeing to help...)"
+                                "\\N<Kaori>(Và tôi không thể không làm điều đó sau khi đồng ý trợ giúp...)"
                             ]
                         },
                         {
@@ -6727,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Are you up for it...? Hee-hee...! ♡”"
+                                "\\N<Goro>“Bạn có sẵn sàng không...? Hi hi...! ♡”"
                             ]
                         },
                         {
@@ -6751,7 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -6775,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-You won’t show them to a-anyone... right?”"
+                                "\\N<Kaori>“A-Anh sẽ không cho ai xem chúng... phải không?”"
                             ]
                         },
                         {
@@ -6799,7 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“...Yes! Of course! I am in charge of the costumes..."
+                                "\\N<Goro>“...Có! Tất nhiên rồi! Tôi phụ trách trang phục..."
                             ]
                         },
                         {
@@ -6846,7 +6846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...I-In that case...”"
+                                "\\N<Kaori>“...I-Trong trường hợp đó…”"
                             ]
                         },
                         {
@@ -6863,7 +6863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I don’t mind...”"
+                                "\\N<Kaori>“Tôi không phiền…”"
                             ]
                         },
                         {
@@ -6887,7 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“But...! Um... Don’t stare... please... ♡”"
+                                "\\N<Kaori>“Nhưng...! Ừm... Đừng nhìn chằm chằm... làm ơn... ♡”"
                             ]
                         },
                         {
@@ -6911,7 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Heh heh heh...! ♡ You got it! ♡”"
+                                "\\N<Goro>“He he he he...! ♡ Bạn hiểu rồi! ♡”"
                             ]
                         },
                         {
@@ -6928,14 +6928,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Well then... let’s get straight to it... Take off your"
+                                "\\N<Goro>“Vậy thì... hãy đi thẳng vào vấn đề... Cởi bỏ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "clothes... ♡”"
+                                "quần áo... ♡”"
                             ]
                         },
                         {
@@ -7018,7 +7018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -7035,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Oh... Oh...!”"
+                                "\\N<Goro>“Ồ... Ồ...!”"
                             ]
                         },
                         {
@@ -7106,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -7123,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Oooh...!! ♡ ♡”"
+                                "\\N<Goro>“Ồ...!! ♡ ♡”"
                             ]
                         },
                         {
@@ -7140,7 +7140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Th-They’re way too big...! ♡ Shaking so much...! ♡”"
+                                "\\N<Goro>“Đ-Chúng lớn quá…! ♡ Run rẩy quá...! ♡”"
                             ]
                         },
                         {
@@ -7164,7 +7164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“U-Um... You said you wouldn’t stare...”"
+                                "\\N<Kaori>“U-Ừm... Anh đã nói là sẽ không nhìn chằm chằm mà…”"
                             ]
                         },
                         {
@@ -7181,7 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“S-Sorry... They’re just so captivating... ♡”"
+                                "\\N<Goro>“X-Xin lỗi... Họ thật quyến rũ... ♡\""
                             ]
                         },
                         {
@@ -7198,21 +7198,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Well then... I’d like to take pictures of your big"
+                                "\\N<Goro>“Vậy thì... Tôi muốn chụp ảnh bức ảnh to lớn của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "breasts... your butt... and your other precious"
+                                "ngực... mông của bạn... và những thứ quý giá khác của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "parts... ♡”"
+                                "các bộ phận... ♡”"
                             ]
                         },
                         {
@@ -7229,7 +7229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Need to make sure they turn out perfect... ♡”"
+                                "\\N<Goro>“Cần đảm bảo rằng chúng trở nên hoàn hảo... ♡”"
                             ]
                         },
                         {
@@ -7246,14 +7246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mmm... I-I’d appreciate it if you finished as soon as"
+                                "\\N<Kaori>“Mmm... Tôi-tôi sẽ đánh giá cao nếu bạn hoàn thành ngay khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "possible...! ♡”"
+                                "khả thi...! ♡”"
                             ]
                         },
                         {
@@ -7270,7 +7270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Okay. ♡ I’ll take them lickety-split... ♡”"
+                                "\\N<Goro>“Được rồi. ♡ Tôi sẽ chia chúng thành từng mảnh... ♡”"
                             ]
                         },
                         {
@@ -7291,7 +7291,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Breast Close-up"
+                                "Cận Cảnh Vú"
                             ]
                         },
                         {
@@ -7362,7 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -7396,7 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Hee-hee...! ♡ You really are well-endowed... ♡”"
+                                "\\N<Goro>“Hee-hee...! ♡ Bạn thực sự được trời phú cho... ♡”"
                             ]
                         },
                         {
@@ -7413,14 +7413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“P-Please don’t look at me so much...! I’m"
+                                "\\N<Kaori>“X-Xin đừng nhìn tôi nhiều quá…! Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "embarrassed...! ♡”"
+                                "lúng túng...! ♡”"
                             ]
                         },
                         {
@@ -7446,14 +7446,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Goro>“A-And let’s not forget you-know-what... ♡ It’s"
+                                "\\N<Goro>“A-Và đừng quên bạn-biết-gì... ♡ Đó là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "covered with womanly hair... ♡”"
+                                "được bao phủ bởi mái tóc nữ tính... ♡”"
                             ]
                         },
                         {
@@ -7480,14 +7480,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Goro>“A-And let’s not forget you-know-what... ♡ It’s rare"
+                                "\\N<Goro>“A-Và đừng quên bạn-biết-gì... ♡ Thật hiếm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "for a woman to have such a cleanly shaven one... ♡”"
+                                "một người phụ nữ lại được cạo râu sạch sẽ như vậy... ♡”"
                             ]
                         },
                         {
@@ -7514,7 +7514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ugh...! ♡”"
+                                "\\N<Kaori>“Ờ...! ♡”"
                             ]
                         },
                         {
@@ -7531,14 +7531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Hah...! Hah...! ♡ These will serve as a fantastic"
+                                "\\N<Goro>“Hah...! Ha...! ♡ Những thứ này sẽ rất tuyệt vời"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "reference...! ♡”"
+                                "thẩm quyền giải quyết...! ♡”"
                             ]
                         },
                         {
@@ -7607,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(He’s taking photos of... everything...! ♡)"
+                                "\\N<Kaori>(Anh ấy đang chụp ảnh... mọi thứ...! ♡)"
                             ]
                         },
                         {
@@ -7664,7 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Th-They’ll... for sure...)"
+                                "\\N<Kaori>(Đ-Họ sẽ...chắc chắn...)"
                             ]
                         },
                         {
@@ -7681,7 +7681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...Be used... ♡)"
+                                "\\N<Kaori>(...Được sử dụng... ♡)"
                             ]
                         },
                         {
@@ -7743,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -7760,14 +7760,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Phew... Th-They’re just too amazing...! ♡ I can’t"
+                                "\\N<Goro>“Phew... Đ-Họ thật quá tuyệt vời...! ♡ Tôi không thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "help myself when such t-tits are before me... ♡”"
+                                "hãy tự giúp mình khi những cặp vú như vậy đang ở trước mặt tôi... ♡”"
                             ]
                         },
                         {
@@ -7870,7 +7870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I sense a sudden increase in Obscenities...!)"
+                                "\\N<Kaori>(T-tôi cảm nhận được sự gia tăng đột ngột của Tục tĩu...!)"
                             ]
                         },
                         {
@@ -7915,7 +7915,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Breast Sucking Picture Display"
+                                "Hiển thị hình ảnh hút vú"
                             ]
                         },
                         {
@@ -7983,7 +7983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡"
+                                "*cạch* ♡"
                             ]
                         },
                         {
@@ -8029,7 +8029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Mmm! ♡ Kaori’s... tits...! ♡ Hee-hee...! ♡”"
+                                "\\N<Goro>“Ừm! ♡ Kaori... ngực...! ♡ Hee-hee...! ♡”"
                             ]
                         },
                         {
@@ -8074,7 +8074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Hey...! Goro...!”"
+                                "\\N<Kaori>“Này...! Goro...!”"
                             ]
                         },
                         {
@@ -8107,7 +8107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“C-Calm down... Ahn! ♡”"
+                                "\\N<Kaori>“C-Bình tĩnh nào... Ahn! ♡”"
                             ]
                         },
                         {
@@ -8124,14 +8124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I-I can’t! ♡ Not when you’re enticing me with your"
+                                "\\N<Goro>“T-tôi không thể! ♡ Không phải khi bạn đang dụ dỗ tôi bằng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tits...! Mmmmm! ♡”"
+                                "ngực...! Ừmmm! ♡”"
                             ]
                         },
                         {
@@ -8148,7 +8148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn...! Hey... Ahn! ♡”"
+                                "\\N<Kaori>“Ừm...! Này... Ahn! ♡”"
                             ]
                         },
                         {
@@ -8181,14 +8181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Th-The Obscenities are causing him to lose"
+                                "\\N<Kaori>(Th-Những lời tục tĩu đang khiến anh ta thua cuộc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "control...!)"
+                                "điều khiển...!)"
                             ]
                         },
                         {
@@ -8205,7 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(And even making me feel aroused...! ♡)"
+                                "\\N<Kaori>(Và thậm chí còn khiến tôi cảm thấy phấn khích...! ♡)"
                             ]
                         },
                         {
@@ -8222,7 +8222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *suck* ♡ ♡"
+                                "*sụt* ♡ *sụt* ♡ *sụt* ♡ ♡"
                             ]
                         },
                         {
@@ -8255,7 +8255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn...! Mnnnn...! ♡ ♡”"
+                                "\\N<Kaori>“Ừm...! Mnnnn...! ♡ ♡”"
                             ]
                         },
                         {
@@ -8305,7 +8305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*quiver* ♡"
+                                "*run rẩy* ♡"
                             ]
                         },
                         {
@@ -8329,7 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Oh! ♡ Y-Your body just twitched... ♡”"
+                                "\\N<Goro>“Ôi! ♡ C-Cơ thể anh vừa co giật... ♡”"
                             ]
                         },
                         {
@@ -8346,14 +8346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I must’ve made you cum... ♡ All I did was suck your"
+                                "\\N<Goro>“Chắc chắn tôi đã làm cho bạn xuất tinh... ♡ Tất cả những gì tôi làm là hút bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tits, though... ♡”"
+                                "nhưng ngực thì... ♡”"
                             ]
                         },
                         {
@@ -8370,7 +8370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ah...! ♡ P-Please don’t say that... ♡”"
+                                "\\N<Kaori>“À...! ♡ X-Xin đừng nói thế... ♡”"
                             ]
                         },
                         {
@@ -8387,14 +8387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Th-That was your way of consenting, wasn’t it...!? It"
+                                "\\N<Goro>“Đ-Đó là cách cậu đồng ý, phải không...!? Nó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "was, wasn’t it...!? ♡”"
+                                "đã, phải không...!? ♡”"
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -8468,7 +8468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Don’t tell me he’s going to force himself on me...!)"
+                                "\\N<Kaori>(Đừng nói với tôi là anh ta sẽ ép buộc tôi nhé...!)"
                             ]
                         },
                         {
@@ -8492,7 +8492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“W-Wait, please...! Stop before it’s too late...!”"
+                                "\\N<Kaori>“Đ-đợi đã, làm ơn...! Hãy dừng lại trước khi quá muộn...!”"
                             ]
                         },
                         {
@@ -8516,7 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“...I-I can’t wait any longer...! ♡”"
+                                "\\N<Goro>“...T-tôi không thể đợi được nữa...! ♡”"
                             ]
                         },
                         {
@@ -8580,14 +8580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Th-This could get really bad if he doesn’t settle down"
+                                "\\N<Kaori>(Đ-Điều này có thể trở nên thực sự tồi tệ nếu anh ấy không ổn định cuộc sống"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "soon...)"
+                                "sớm...)"
                             ]
                         },
                         {
@@ -8611,7 +8611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I must do what I can...!)"
+                                "\\N<Kaori>(Tôi phải làm những gì có thể...!)"
                             ]
                         },
                         {
@@ -8630,7 +8630,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Breast Showing Picture Display"
+                                "Hiển thị hình ảnh vú"
                             ]
                         },
                         {
@@ -8682,7 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Wha-What are you...?”"
+                                "\\N<Goro>“Bạn-Bạn là gì...?”"
                             ]
                         },
                         {
@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-If you really cannot wait... Umm...”"
+                                "\\N<Kaori>“N-Nếu bạn thực sự không thể đợi được… Umm…”"
                             ]
                         },
                         {
@@ -8716,7 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I don’t mind assisting you... ♡”"
+                                "\\N<Kaori>“T-tôi không ngại hỗ trợ bạn đâu... ♡”"
                             ]
                         },
                         {
@@ -8733,7 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Wha...!!?”"
+                                "\\N<Goro>“Cái gì...!!?”"
                             ]
                         },
                         {
@@ -8750,7 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“What do you mean, a-assisting...? ♡”"
+                                "\\N<Goro>“Ý bạn là gì, hỗ trợ...? ♡”"
                             ]
                         },
                         {
@@ -8767,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...I mean... Uh...”"
+                                "\\N<Kaori>“...Ý tôi là... Uh…”"
                             ]
                         },
                         {
@@ -8784,7 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I could sandwich it between my breasts... ♡”"
+                                "\\N<Kaori>“T-tôi có thể kẹp nó vào giữa ngực mình... ♡”"
                             ]
                         },
                         {
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Y-You’ll give me a tit job...!? For real!?”"
+                                "\\N<Goro>“A-Anh sẽ cho tôi một công việc ăn miếng trả miếng…!? Cho thật!?\""
                             ]
                         },
                         {
@@ -8818,14 +8818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“F-Feel free to do it right now, then...! I can’t wait"
+                                "\\N<Goro>“F-Hãy thoải mái làm điều đó ngay bây giờ nhé…! tôi không thể đợi được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anymore...! ♡ ♡”"
+                                "nữa không...! ♡ ♡”"
                             ]
                         },
                         {
@@ -8863,7 +8863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *slam* ♡"
+                                "*bụp* ♡ *đập* ♡"
                             ]
                         },
                         {
@@ -8928,7 +8928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(He got so t-turned-on... from just looking at me..."
+                                "\\N<Kaori>(Anh ấy phấn khích quá... chỉ vì nhìn tôi..."
                             ]
                         },
                         {
@@ -8952,7 +8952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(It’s as if it could burst at any moment...! ♡)"
+                                "\\N<Kaori>(Cứ như thể nó có thể nổ tung bất cứ lúc nào vậy...! ♡)"
                             ]
                         },
                         {
@@ -8969,7 +8969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squash* ♡ *slam* ♡ *slam* ♡"
+                                "*bụp* ♡ *đập* ♡ *đập* ♡"
                             ]
                         },
                         {
@@ -8986,14 +8986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Wow! ♡ Squeezing your tits while getting a tit job"
+                                "\\N<Goro>“Chà! ♡ Siết ngực khi nhận công việc ngực"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "feels way too good...! ♡ ♡”"
+                                "cảm thấy quá tuyệt vời...! ♡ ♡”"
                             ]
                         },
                         {
@@ -9010,14 +9010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“They’re soft and sticking to my cock... ♡ Feels like"
+                                "\\N<Goro>“Chúng mềm và dính vào cặc tôi... ♡ Cảm giác như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can cum right away. ♡ ♡”"
+                                "Tôi có thể xuất tinh ngay lập tức. ♡ ♡”"
                             ]
                         },
                         {
@@ -9050,7 +9050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Ah...! ♡”"
+                                "\\N<Kaori>“A-À...! ♡”"
                             ]
                         },
                         {
@@ -9067,14 +9067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I get to hog the boobs all the customers leer at"
+                                "\\N<Goro>“Tôi thích ngắm nhìn cặp vú của tất cả các khách hàng nhìn vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "during the show...! ♡”"
+                                "trong buổi diễn...! ♡”"
                             ]
                         },
                         {
@@ -9091,7 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slam* ♡ *slam* ♡ *squeeze* ♡"
+                                "*đập* ♡ *đập* ♡ *bóp* ♡"
                             ]
                         },
                         {
@@ -9108,7 +9108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I’ve never felt this good in my life...! ♡ ♡”"
+                                "\\N<Goro>“Tôi chưa bao giờ cảm thấy tốt như thế này trong đời…! ♡ ♡”"
                             ]
                         },
                         {
@@ -9125,7 +9125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“R-Really...?”"
+                                "\\N<Kaori>“R-Thật sao...?”"
                             ]
                         },
                         {
@@ -9142,14 +9142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Ugh... Th-This actually feels too good... I think I’m"
+                                "\\N<Goro>“Ugh... Đ-Điều này thực sự cảm thấy quá tuyệt vời... Tôi nghĩ tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "already going to cum... ♡”"
+                                "sắp xuất tinh rồi... ♡”"
                             ]
                         },
                         {
@@ -9166,7 +9166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“M-May I cum right now...? ♡”"
+                                "\\N<Goro>“M-Tôi có thể xuất tinh ngay bây giờ không...? ♡”"
                             ]
                         },
                         {
@@ -9199,7 +9199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I’d rather you not do that on me...”"
+                                "\\N<Kaori>“Tôi muốn bạn đừng làm điều đó với tôi…”"
                             ]
                         },
                         {
@@ -9216,7 +9216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“P-Please... Find it in your heart...! ♡”"
+                                "\\N<Goro>“P-Làm ơn... Hãy tìm nó trong trái tim bạn...! ♡”"
                             ]
                         },
                         {
@@ -9233,7 +9233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -9250,21 +9250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(As embarrassing as it is... it may be better to let"
+                                "\\N<Kaori>(Thật đáng xấu hổ... có lẽ tốt hơn là nên để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "him do what he wants to save him from the"
+                                "anh ấy làm những gì anh ấy muốn để cứu anh ấy khỏi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obscenities...)"
+                                "Tục tĩu...)"
                             ]
                         },
                         {
@@ -9281,14 +9281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I’m sure he doesn’t actually want to do something this"
+                                "\\N<Kaori>(Tôi chắc chắn rằng anh ấy không thực sự muốn làm điều gì đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "naughty... I-I must help him fast...)"
+                                "nghịch ngợm... M-mình phải giúp anh ấy nhanh lên...)"
                             ]
                         },
                         {
@@ -9321,7 +9321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“O-Okay... Go ahead... ♡”"
+                                "\\N<Kaori>“O-Được rồi... Tiếp tục đi... ♡”"
                             ]
                         },
                         {
@@ -9338,7 +9338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Alright...! You’re like a goddess...! ♡ ♡”"
+                                "\\N<Goro>“Được rồi...! Bạn giống như một nữ thần...! ♡ ♡”"
                             ]
                         },
                         {
@@ -9355,7 +9355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*bang* ♡ *bang* ♡ *bang* ♡"
+                                "*bụp* ♡ *bùm* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -9372,7 +9372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-It’s swelling up more now...)"
+                                "\\N<Kaori>(T-Nó sưng lên nhiều hơn rồi...)"
                             ]
                         },
                         {
@@ -9389,7 +9389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(He really is about to cum... I suppose... ♡)"
+                                "\\N<Kaori>(Anh ấy thực sự sắp xuất tinh... Tôi cho là vậy... ♡)"
                             ]
                         },
                         {
@@ -9406,14 +9406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Damn...! Aaah...! I’m gonna cum...! ♡ I’m gonna cum"
+                                "\\N<Goro>“Chết tiệt...! Aaa...! Tôi sắp xuất tinh...! ♡ Tôi sắp xuất tinh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "on your jugs...! ♡ ♡”"
+                                "trên bình của bạn...! ♡ ♡”"
                             ]
                         },
                         {
@@ -9479,7 +9479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -9496,7 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-It’s so hot...! ♡”"
+                                "\\N<Kaori>“N-Nóng quá…! ♡”"
                             ]
                         },
                         {
@@ -9539,7 +9539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -9556,14 +9556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Aaah... ♡ My semen’s getting all over your"
+                                "\\N<Goro>“Aaah... ♡ Tinh dịch của anh đang dính đầy khắp người em rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tits...! ♡ ♡”"
+                                "ngực...! ♡ ♡”"
                             ]
                         },
                         {
@@ -9606,7 +9606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -9649,7 +9649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -9666,7 +9666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“H-Heh heh... ♡ That was the best tit job ever...! ♡”"
+                                "\\N<Goro>“H-Heh heh... ♡ Đó là màn ăn miếng trả miếng tuyệt nhất từ ​​trước đến nay...! ♡”"
                             ]
                         },
                         {
@@ -9699,7 +9699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-You think so...?”"
+                                "\\N<Kaori>“A-Bạn nghĩ vậy...?”"
                             ]
                         },
                         {
@@ -9716,7 +9716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I’m glad I could be of... h-help...”"
+                                "\\N<Kaori>“Tôi rất vui vì có thể giúp... h-giúp…”"
                             ]
                         },
                         {
@@ -9733,7 +9733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Hee-hee... ♡ M-May I take one last picture? ♡”"
+                                "\\N<Goro>“Hee-hee... ♡ M-Tôi có thể chụp một bức ảnh cuối cùng được không? ♡”"
                             ]
                         },
                         {
@@ -9750,7 +9750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Huh...!? But... wh-why...?”"
+                                "\\N<Kaori>“Hả...!? Nhưng... tại-tại sao...?”"
                             ]
                         },
                         {
@@ -9767,14 +9767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“I-Isn’t it obvious? ♡ I want one so I can jerk off"
+                                "\\N<Goro>“Đ-Không rõ ràng sao? ♡ Tôi muốn một cái để có thể thủ dâm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "while imagining your semen-covered body at any time..."
+                                "trong khi tưởng tượng cơ thể đầy tinh dịch của bạn bất cứ lúc nào..."
                             ]
                         },
                         {
@@ -9815,14 +9815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I had a feeling that was why he took those"
+                                "\\N<Kaori>(Tôi-tôi có cảm giác đó là lý do tại sao anh ấy lấy những thứ đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "photos...)"
+                                "ảnh...)"
                             ]
                         },
                         {
@@ -9839,14 +9839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(But if it will help protect him from the"
+                                "\\N<Kaori>(Nhưng nếu nó giúp bảo vệ anh ta khỏi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obscenities...)"
+                                "Tục tĩu...)"
                             ]
                         },
                         {
@@ -9863,7 +9863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...D-Do as you wish... ♡”"
+                                "\\N<Kaori>“...D-Hãy làm như bạn muốn... ♡”"
                             ]
                         },
                         {
@@ -9880,7 +9880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Hee-hee-hee! ♡ Thank you. ♡”"
+                                "\\N<Goro>“Hee-hee-hee! ♡ Cảm ơn bạn. ♡”"
                             ]
                         },
                         {
@@ -9897,14 +9897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Then... I’ll take a photo of your messy body and jack"
+                                "\\N<Goro>“Vậy thì... Tôi sẽ chụp ảnh thân hình và chiếc jack luộm thuộm của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "off to it later... ♡”"
+                                "để sau đi... ♡”"
                             ]
                         },
                         {
@@ -9963,7 +9963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*click* ♡"
+                                "*nhấp chuột* ♡"
                             ]
                         },
                         {
@@ -9997,14 +9997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Hee-hee...! ♡ Perfect. ♡ I’ll jerk off to this for"
+                                "\\N<Goro>“Hee-hee...! ♡ Hoàn hảo. ♡ Tôi sẽ thích thú với điều này vì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the rest of my life...! ♡”"
+                                "những năm tháng còn lại của cuộc đời...! ♡”"
                             ]
                         },
                         {
@@ -10021,7 +10021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“U-Um... You’ve had your fill, I assume. ♡”"
+                                "\\N<Kaori>“U-Ừm... Tôi đoán là bạn đã có đủ thông tin rồi. ♡”"
                             ]
                         },
                         {
@@ -10038,7 +10038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goro>“Yes...! Thank you so much for the wonderful tit job..."
+                                "\\N<Goro>“Có...! Cảm ơn bạn rất nhiều vì công việc tuyệt vời..."
                             ]
                         },
                         {

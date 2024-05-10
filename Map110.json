@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Estate",
+    "displayName": "Tài sản",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9086,7 +9086,7 @@
         null,
         {
             "id": 6,
-            "name": "(Meditation Use) Young Disciple A",
+            "name": "(Thiền Sử) Đệ tử A",
             "note": "",
             "pages": [
                 {
@@ -9146,7 +9146,7 @@
         },
         {
             "id": 7,
-            "name": "(Meditation Use) Youthful Disciple B",
+            "name": "(Thiền) Đệ tử B",
             "note": "",
             "pages": [
                 {
@@ -9206,7 +9206,7 @@
         },
         {
             "id": 8,
-            "name": "(Meditation Use) Youthful Disciple A",
+            "name": "(Thiền Sử) Đệ tử A",
             "note": "",
             "pages": [
                 {
@@ -10398,7 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I should take the rest of the day off...”"
+                                "\\N<Shizune>“Tôi nên nghỉ nốt ngày hôm nay…”"
                             ]
                         },
                         {
@@ -10479,7 +10479,7 @@
         null,
         {
             "id": 33,
-            "name": "(Meditation Use) Young Disciple B",
+            "name": "(Thiền) Đệ tử B",
             "note": "",
             "pages": [
                 {
@@ -10539,7 +10539,7 @@
         },
         {
             "id": 34,
-            "name": "(Meditation Use) Middle-Aged Disciple A",
+            "name": "(Thiền) Đệ tử trung niên A",
             "note": "",
             "pages": [
                 {
@@ -10599,7 +10599,7 @@
         },
         {
             "id": 35,
-            "name": "(Meditation Use) Middle-Aged Disciple D",
+            "name": "(Thiền) Đệ tử trung niên D",
             "note": "",
             "pages": [
                 {
@@ -10659,7 +10659,7 @@
         },
         {
             "id": 36,
-            "name": "(Meditation Use) Middle-Aged Disciple C",
+            "name": "(Thiền) Đệ tử trung niên C",
             "note": "",
             "pages": [
                 {
@@ -10719,7 +10719,7 @@
         },
         {
             "id": 37,
-            "name": "(Meditation Use) Middle-Aged Disciple B",
+            "name": "(Thiền) Đệ tử trung niên B",
             "note": "",
             "pages": [
                 {
@@ -10779,7 +10779,7 @@
         },
         {
             "id": 38,
-            "name": "(Meditation Use) Middle-Aged Disciple E",
+            "name": "(Thiền) Đệ tử trung niên E",
             "note": "",
             "pages": [
                 {
@@ -10839,7 +10839,7 @@
         },
         {
             "id": 39,
-            "name": "(Meditation Use) Dosui",
+            "name": "(Sử dụng thiền) Dosui",
             "note": "",
             "pages": [
                 {
@@ -10899,7 +10899,7 @@
         },
         {
             "id": 40,
-            "name": "(Meditation Use) Shizune",
+            "name": "(Sử dụng thiền) Shizune",
             "note": "",
             "pages": [
                 {
@@ -10960,7 +10960,7 @@
         null,
         {
             "id": 42,
-            "name": "Seiza Event 1",
+            "name": "Sự kiện Seiza 1",
             "note": "",
             "pages": [
                 {
@@ -11166,7 +11166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Okay... Looks like everyone’s here.”"
+                                "\\N<Dosui>“Được rồi... Có vẻ như mọi người đều ở đây.”"
                             ]
                         },
                         {
@@ -11183,14 +11183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I know you members of the Dosui family know this, but"
+                                "\\N<Dosui>“Tôi biết các thành viên của gia đình Dosui biết điều này, nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I’ll explain it again for the girl’s sake.”"
+                                "Tôi sẽ giải thích lại lần nữa vì lợi ích của cô gái.”"
                             ]
                         },
                         {
@@ -11207,21 +11207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“The room up ahead is called the Sealed Fiend Room. A"
+                                "\\N<Dosui>“Căn phòng phía trước được gọi là Phòng Ma quỷ bị phong ấn. MỘT"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "powerful Sex Fiend is sealed in a hanging scroll within"
+                                "Sex Fiend mạnh mẽ bị phong ấn trong một cuộn giấy treo bên trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it.”"
+                                "Nó.\""
                             ]
                         },
                         {
@@ -11238,14 +11238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Sex Fiends can affect someone just by being near"
+                                "\\N<Dosui>“Quỷ tình dục có thể ảnh hưởng đến ai đó chỉ bằng cách ở gần"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "them...”"
+                                "họ...\""
                             ]
                         },
                         {
@@ -11262,14 +11262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Which is why you can train yourself to endure their"
+                                "\\N<Dosui>“Đó là lý do tại sao bạn có thể rèn luyện bản thân để chịu đựng chúng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "influence by meditating here.”"
+                                "ảnh hưởng bằng cách thiền định ở đây.”"
                             ]
                         },
                         {
@@ -11293,7 +11293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wait a minute... Am I going to be okay?”"
+                                "\\N<Shizune>“Đợi một chút…Tôi sẽ ổn chứ?”"
                             ]
                         },
                         {
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Yeah. As long as you follow this one rule, that is.”"
+                                "\\N<Dosui>“Ừ. Chỉ cần bạn tuân theo một quy tắc này là được.”"
                             ]
                         },
                         {
@@ -11334,14 +11334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“The Sex Fiend sealed in here has a bit of a unique"
+                                "\\N<Dosui>“Kẻ Sex Fiend bị phong ấn ở đây có một chút gì đó độc đáo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ability.”"
+                                "khả năng.\""
                             ]
                         },
                         {
@@ -11358,21 +11358,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“It can impersonate humans and make people hallucinate"
+                                "\\N<Dosui>“Nó có thể mạo danh con người và khiến con người bị ảo giác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "in a way that causes them to think someone is doing"
+                                "theo cách khiến họ nghĩ rằng ai đó đang làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "something to them.”"
+                                "điều gì đó với họ.”"
                             ]
                         },
                         {
@@ -11389,14 +11389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“And if someone reacts to those illusions, they will be"
+                                "\\N<Dosui>“Và nếu ai đó phản ứng với những ảo tưởng đó, họ sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "strongly affected by the Obscenities.”"
+                                "bị ảnh hưởng mạnh mẽ bởi những lời tục tĩu.”"
                             ]
                         },
                         {
@@ -11413,14 +11413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“So, even if you hear someone you know or feel like"
+                                "\\N<Dosui>“Vì vậy, ngay cả khi bạn nghe thấy ai đó bạn biết hoặc cảm thấy thích"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "somebody is touching you, you must never react...”"
+                                "có ai đó đang chạm vào bạn, bạn không bao giờ được phản ứng…”"
                             ]
                         },
                         {
@@ -11437,14 +11437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“You ought to follow that rule when you meditate in"
+                                "\\N<Dosui>“Bạn phải tuân theo quy tắc đó khi thiền trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this room.”"
+                                "phòng này.\""
                             ]
                         },
                         {
@@ -11468,7 +11468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...I see.”"
+                                "\\N<Shizune>“...Tôi hiểu rồi.”"
                             ]
                         },
                         {
@@ -11492,7 +11492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“So, want to give it a try?”"
+                                "\\N<Dosui>“Vậy bạn có muốn thử không?”"
                             ]
                         },
                         {
@@ -11516,7 +11516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmm... I know what the deal is, but...”"
+                                "\\N<Shizune>“Hmm... Tôi biết thỏa thuận là gì, nhưng…”"
                             ]
                         },
                         {
@@ -11540,21 +11540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I get the feeling that... you just don’t want me to"
+                                "\\N<Shizune>“Tôi có cảm giác rằng... bạn không muốn tôi làm vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "open my eyes or move so you can do something weird to"
+                                "mở mắt tôi hoặc di chuyển để bạn có thể làm điều gì đó kỳ lạ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me.”"
+                                "Tôi.\""
                             ]
                         },
                         {
@@ -11578,14 +11578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“HAHAHA! I understand why you would come to such a"
+                                "\\N<Dosui>“HAHAHA! Tôi hiểu tại sao bạn lại đến như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "conclusion.”"
+                                "Phần kết luận.\""
                             ]
                         },
                         {
@@ -11602,21 +11602,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“But you should easily be able to tell if we sneak into"
+                                "\\N<Dosui>“Nhưng bạn sẽ dễ dàng biết được liệu chúng tôi có lẻn vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this room by hearing us and sensing the movement of our"
+                                "căn phòng này bằng cách nghe thấy chúng tôi và cảm nhận được chuyển động của chúng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "spiritual power.”"
+                                "Sức mạnh tinh thần.\""
                             ]
                         },
                         {
@@ -11633,7 +11633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“An exorcist as good as you must have keen senses.”"
+                                "\\N<Dosui>“Một nhà Trừ tà giỏi như bạn phải có giác quan nhạy bén.”"
                             ]
                         },
                         {
@@ -11657,7 +11657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...That is true, maybe.”"
+                                "\\N<Shizune>“...Điều đó có thể đúng.”"
                             ]
                         },
                         {
@@ -11681,7 +11681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I can’t bring myself to trust them much, but...)"
+                                "\\N<Shizune>(Tôi không thể tin tưởng họ nhiều được, nhưng...)"
                             ]
                         },
                         {
@@ -11705,14 +11705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“What are you going to do? You know, you don’t have to"
+                                "\\N<Dosui>“Bạn định làm gì? Bạn biết đấy, bạn không cần phải"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "do it if you’re worried or scared.”"
+                                "hãy làm điều đó nếu bạn lo lắng hoặc sợ hãi.”"
                             ]
                         },
                         {
@@ -11729,14 +11729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Word has it that those with strong spiritual power"
+                                "\\N<Dosui>“Người ta đồn rằng những người có sức mạnh tâm linh mạnh mẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have a harder time.”"
+                                "gặp khó khăn hơn.”"
                             ]
                         },
                         {
@@ -11760,14 +11760,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph... A priestess of the Ayatsuji family would never"
+                                "\\N<Shizune>“Hmph... Một nữ tư tế của gia tộc Ayatsuji sẽ không bao giờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be intimidated by the likes of a Sex Fiend.”"
+                                "bị đe dọa bởi những kẻ như Sex Fiend.”"
                             ]
                         },
                         {
@@ -11791,14 +11791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll accept this challenge. I might not get an"
+                                "\\N<Shizune>“Tôi sẽ chấp nhận thử thách này. Tôi có thể không nhận được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "opportunity like this again, anyways.”"
+                                "dù sao thì cũng có cơ hội như thế này lần nữa.”"
                             ]
                         },
                         {
@@ -11822,7 +11822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh heh! I had a feeling you’d say that.”"
+                                "\\N<Dosui>“Heh heh! Tôi có cảm giác là cậu sẽ nói thế.”"
                             ]
                         },
                         {
@@ -11839,7 +11839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Well, right this way, then.”"
+                                "\\N<Dosui>“Vậy thì đi lối này.”"
                             ]
                         },
                         {
@@ -11907,14 +11907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Okay... Now I just need to let you know the signal"
+                                "\\N<Dosui>“Được rồi... Bây giờ tôi chỉ cần cho bạn biết tín hiệu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’ll hear when the meditation is over.”"
+                                "bạn sẽ nghe thấy khi buổi thiền kết thúc.”"
                             ]
                         },
                         {
@@ -11943,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*ring*"
+                                "*nhẫn*"
                             ]
                         },
                         {
@@ -11960,14 +11960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“The training is over when this bell rings three times."
+                                "\\N<Dosui>“Quá trình đào tạo kết thúc khi chuông này reo ba lần."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Only then should you move and open your eyes.”"
+                                "Chỉ khi đó bạn mới nên di chuyển và mở mắt ra.”"
                             ]
                         },
                         {
@@ -11984,21 +11984,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“This is a bell used to ward off evil spirits... No Sex"
+                                "\\N<Dosui>“Đây là chiếc chuông dùng để xua đuổi tà ma... Không Sex"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fiend can imitate the sounds it makes, so you have no"
+                                "Fiend có thể bắt chước âm thanh mà nó tạo ra, vì vậy bạn không có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "need to be wary of it.”"
+                                "cần phải cảnh giác với nó.”"
                             ]
                         },
                         {
@@ -12022,7 +12022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay. This will be a piece of cake.”"
+                                "\\N<Shizune>“...Được rồi. Đây sẽ là một miếng bánh.”"
                             ]
                         },
                         {
@@ -12046,7 +12046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“All right... That’s the spirit.”"
+                                "\\N<Dosui>“Được rồi... Đó là tinh thần.”"
                             ]
                         },
                         {
@@ -12063,21 +12063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Just be careful in there. As I said before, the more"
+                                "\\N<Dosui>“Chỉ cần cẩn thận trong đó. Như tôi đã nói trước đây, càng nhiều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "strong spiritual power someone has, the more they will"
+                                "ai đó có sức mạnh tâm linh mạnh mẽ thì họ sẽ càng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have to endure.”"
+                                "phải chịu đựng.”"
                             ]
                         },
                         {
@@ -12094,14 +12094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Apparently, Kaori had one hell of an experience the"
+                                "\\N<Dosui>“Rõ ràng, Kaori đã có một trải nghiệm khủng khiếp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "last time she was in here. ♡”"
+                                "lần trước cô ấy đã ở đây. ♡”"
                             ]
                         },
                         {
@@ -12134,7 +12134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“M-Mother did...?”"
+                                "\\N<Shizune>“M-Mẹ đã làm...?”"
                             ]
                         },
                         {
@@ -12158,14 +12158,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“You may have a hard time if you’re as talented as"
+                                "\\N<Dosui>“Bạn có thể gặp khó khăn nếu bạn tài năng như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "her...”"
+                                "cô ấy...\""
                             ]
                         },
                         {
@@ -12182,7 +12182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh heh. Stay on your guard. ♡”"
+                                "\\N<Dosui>“He he. Hãy cảnh giác. ♡”"
                             ]
                         },
                         {
@@ -12260,7 +12260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(What sort of hindrances can a Sex Fiend cause...?)"
+                                "\\N<Shizune>(Sex Fiend có thể gây ra những trở ngại gì...?)"
                             ]
                         },
                         {
@@ -12277,7 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...I’m a bit worried, but I must do this.)"
+                                "\\N<Shizune>(...Tôi hơi lo lắng, nhưng tôi phải làm điều này.)"
                             ]
                         },
                         {
@@ -12301,7 +12301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Alright... I should start by closing my eyes.)"
+                                "\\N<Shizune>(Được rồi... Tôi nên bắt đầu bằng cách nhắm mắt lại.)"
                             ]
                         },
                         {
@@ -12363,7 +12363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -12380,7 +12380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Nothing is happening to me yet.)"
+                                "\\N<Shizune>(...Chưa có gì xảy ra với tôi.)"
                             ]
                         },
                         {
@@ -12397,7 +12397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Maybe it takes time...)"
+                                "\\N<Shizune>(Có thể cần thời gian...)"
                             ]
                         },
                         {
@@ -12447,7 +12447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Huh?)"
+                                "\\N<Shizune>(...Hả?)"
                             ]
                         },
                         {
@@ -12464,7 +12464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I think I can hear people a little...)"
+                                "\\N<Shizune>(Tôi nghĩ tôi có thể nghe thấy tiếng người nói một chút...)"
                             ]
                         },
                         {
@@ -12481,14 +12481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(It could be those guys... or it could be the Sex"
+                                "\\N<Shizune>(Có thể là những kẻ đó... hoặc cũng có thể là Sex"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fiend’s illusion...)"
+                                "Ảo ảnh của ma quỷ...)"
                             ]
                         },
                         {
@@ -12505,7 +12505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Either way, I need to maintain my concentration.)"
+                                "\\N<Shizune>(Dù sao đi nữa, tôi cần duy trì sự tập trung của mình.)"
                             ]
                         },
                         {
@@ -12544,7 +12544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“...Seems as though she’s concentrating.”"
+                                "\\N<Dosui>“...Có vẻ như cô ấy đang tập trung.”"
                             ]
                         },
                         {
@@ -12561,21 +12561,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“All right... Now’s the time to use the Art of"
+                                "\\N<Dosui>“Được rồi... Bây giờ là lúc sử dụng Nghệ thuật"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seclusion. Don’t mess this up, or else we’ll get"
+                                "Cách ly. Đừng làm rối tung chuyện này lên, nếu không chúng ta sẽ gặp rắc rối"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "caught.”"
+                                "bắt gặp.\""
                             ]
                         },
                         {
@@ -12592,7 +12592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>“Yes! At last, we’re gonna do it. ♡”"
+                                "\\N<Disciple A>“Có! Cuối cùng thì chúng ta cũng sẽ làm được. ♡”"
                             ]
                         },
                         {
@@ -12609,14 +12609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple B>“I’m a bit nervous about trying to stay hidden, but"
+                                "\\N<Disciple B>“Tôi hơi lo lắng về việc cố gắng giấu kín, nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that’s what also makes this so exciting... ♡”"
+                                "đó cũng là điều khiến chuyện này trở nên thú vị... ♡”"
                             ]
                         },
                         {
@@ -12633,7 +12633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh. Leave your worries at the door.”"
+                                "\\N<Dosui>“Này. Hãy để những lo lắng của bạn ở ngoài cửa.”"
                             ]
                         },
                         {
@@ -12650,21 +12650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“The Art of Seclusion conceals one’s spiritual power"
+                                "\\N<Dosui>“Nghệ thuật ẩn dật che giấu sức mạnh tâm linh của một người"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and presence to the utmost. It’s a technique that makes"
+                                "và sự hiện diện đến mức tối đa. Đó là một kỹ thuật làm cho"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "someone less likely to be noticed.”"
+                                "một người nào đó ít có khả năng được chú ý hơn.”"
                             ]
                         },
                         {
@@ -12681,14 +12681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Besides, I developed it... She doesn’t even know about"
+                                "\\N<Dosui>“Ngoài ra, tôi đã phát triển nó... Cô ấy thậm chí còn không biết về"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "its existence, let alone is able to sense it. ♪”"
+                                "sự tồn tại của nó chứ đừng nói đến việc có thể cảm nhận được nó. ♪”"
                             ]
                         },
                         {
@@ -12705,7 +12705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple D>“Heh heh! ♡ Perfect. ♡”"
+                                "\\N<Middle-Aged Disciple D>“Heh heh! ♡ Hoàn hảo. ♡”"
                             ]
                         },
                         {
@@ -12722,7 +12722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>“That’s our teacher for you. ♡”"
+                                "\\N<Middle-Aged Disciple A>“Đó là giáo viên của chúng tôi dành cho bạn. ♡”"
                             ]
                         },
                         {
@@ -12739,14 +12739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>“W-Well, let’s get going. ♡ That busty babe is"
+                                "\\N<Middle-Aged Disciple B>“Ch-Chà, bắt đầu thôi. ♡ Cô bé vú to đó thật là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "probably getting tired of waiting. ♡”"
+                                "có lẽ chờ đợi mỏi mòn. ♡”"
                             ]
                         },
                         {
@@ -12763,7 +12763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple A>“W-We’re really doing this...!?”"
+                                "\\N<Disciple A>“C-Chúng ta thực sự đang làm việc này à...!?”"
                             ]
                         },
                         {
@@ -12965,14 +12965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>\\}“Her breasts are as big as ever... ♡ The sash is"
+                                "\\N<Middle-Aged Disciple A>\\}“Ngực cô ấy vẫn to như ngày nào... ♡ Thắt lưng là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tightly wrapped around them. ♡”"
+                                "quấn chặt quanh họ. ♡”"
                             ]
                         },
                         {
@@ -12989,7 +12989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>\\}“I can’t get enough of her thicc body. ♡”"
+                                "\\N<Middle-Aged Disciple B>\\}“Tôi không thể cưỡng lại được thân hình săn chắc của cô ấy. ♡”"
                             ]
                         },
                         {
@@ -13006,7 +13006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Okay. Without further ado... Let’s do this. ♡”"
+                                "\\N<Dosui>\\}“Được rồi. Không cần chần chừ gì nữa... Hãy làm điều này. ♡”"
                             ]
                         },
                         {
@@ -13023,7 +13023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Disciples>\\}“Y-Yes, sir...! ♡”"
+                                "\\N<Disciples>\\}“V-Vâng, thưa ngài...! ♡”"
                             ]
                         },
                         {
@@ -13068,14 +13068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>\\}“Hee-hee-hee... I never would’ve thought I’d be able"
+                                "\\N<Disciple A>\\}“Hee-hee-hee... Tôi chưa bao giờ nghĩ mình có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to jack off to Shizune before her eyes... ♡”"
+                                "để thủ dâm trước mắt Shizune... ♡”"
                             ]
                         },
                         {
@@ -13092,7 +13092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>\\}“I wouldn’t have expected any less from your Art,"
+                                "\\N<Middle-Aged Disciple C>\\}“Tôi sẽ không mong đợi gì hơn từ Nghệ thuật của bạn,"
                             ]
                         },
                         {
@@ -13116,7 +13116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -13149,7 +13149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(W-Weird... Something smells...)"
+                                "\\N<Shizune>(K-kỳ lạ... Có mùi gì đó...)"
                             ]
                         },
                         {
@@ -13166,7 +13166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(It smells like men’s sweat, I think...)"
+                                "\\N<Shizune>(Tôi nghĩ nó có mùi như mồ hôi đàn ông...)"
                             ]
                         },
                         {
@@ -13183,7 +13183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Maybe the sealed Sex Fiend is coming out...)"
+                                "\\N<Shizune>(Có lẽ Sex Fiend bị phong ấn sắp xuất hiện...)"
                             ]
                         },
                         {
@@ -13200,14 +13200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Looks like she’s perceiving something a little..."
+                                "\\N<Dosui>\\}“Có vẻ như cô ấy đang nhận ra điều gì đó hơi…"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should’ve known Kaori’s daughter had such skills.”"
+                                "Đáng lẽ phải biết con gái của Kaori có những kỹ năng như vậy.”"
                             ]
                         },
                         {
@@ -13224,14 +13224,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Still, as I thought, she has no idea that we’re"
+                                "\\N<Dosui>\\}“Tuy nhiên, như tôi nghĩ, cô ấy không biết rằng chúng tôi đang"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jerking off in front of her. ♡”"
+                                "giật mình trước mặt cô. ♡”"
                             ]
                         },
                         {
@@ -13248,7 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Just stay right there while we jack off some more."
+                                "\\N<Dosui>\\}“Cứ ở yên đó trong khi chúng ta chơi thêm chút nữa."
                             ]
                         },
                         {
@@ -13288,7 +13288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew...”"
+                                "\\N<Shizune>“Phi…”"
                             ]
                         },
                         {
@@ -13305,14 +13305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(The stench is getting stronger... but I doubt I have"
+                                "\\N<Shizune>(Mùi hôi thối ngày càng nồng hơn... nhưng tôi nghi ngờ mình có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anything to worry about.)"
+                                "có gì phải lo lắng.)"
                             ]
                         },
                         {
@@ -13329,7 +13329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I have to get stronger through this training to defeat"
+                                "\\N<Shizune>(Tôi phải mạnh mẽ hơn qua khóa huấn luyện này để đánh bại"
                             ]
                         },
                         {
@@ -13353,7 +13353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -13370,14 +13370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>\\}“Shit! How could I lose to this brat in a mock"
+                                "\\N<Middle-Aged Disciple A>\\}“Chết tiệt! Làm sao tôi có thể thua người phụ nữ này một cách giả tạo được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "battle...? Get a good whiff of my cock’s odor! ♡”"
+                                "trận đánh...? Hãy ngửi mùi cặc của tôi! ♡”"
                             ]
                         },
                         {
@@ -13394,14 +13394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple A>\\}“A-Amazing... Can’t believe she doesn’t suspect a"
+                                "\\N<Disciple A>\\}“A-Thật tuyệt vời... Không thể tin được là cô ấy không nghi ngờ một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thing even when we’re doing something like this... ♡”"
+                                "ngay cả khi chúng ta đang làm những việc như thế này... ♡”"
                             ]
                         },
                         {
@@ -13418,7 +13418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“This is only the beginning. Look... ♡”"
+                                "\\N<Dosui>\\}“Đây chỉ là sự khởi đầu. Nhìn này... ♡”"
                             ]
                         },
                         {
@@ -13435,14 +13435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Man, her tits really are humongous. ♡ They’re just"
+                                "\\N<Dosui>“Trời ạ, cặp vú của cô ấy thực sự rất lớn. ♡ Họ chỉ là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "like Kaori’s. Fuck yeah. ♡”"
+                                "giống như của Kaori. Chết tiệt, vâng. ♡”"
                             ]
                         },
                         {
@@ -13475,7 +13475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Wha...!!?)"
+                                "\\N<Shizune>(Cái gì...!!?)"
                             ]
                         },
                         {
@@ -13492,14 +13492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>\\}“Sh-Shh! I know we’re using the Art of Seclusion,"
+                                "\\N<Disciple A>\\}“Suỵt! Tôi biết chúng ta đang sử dụng Nghệ thuật Tách biệt,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "but we should still keep our voices down...”"
+                                "nhưng chúng ta vẫn nên nhỏ giọng…”"
                             ]
                         },
                         {
@@ -13516,14 +13516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>\\}“It’s fine. She’ll just think it was a Sex Fiend,"
+                                "\\N<Middle-Aged Disciple B>\\}“Không sao đâu. Cô ấy sẽ chỉ nghĩ đó là một Kẻ cuồng tình dục,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anyway. ♪”"
+                                "Dẫu sao thì. ♪”"
                             ]
                         },
                         {
@@ -13556,14 +13556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I thought I heard a man’s voice... but I don’t sense"
+                                "\\N<Shizune>(Tôi-tôi tưởng tôi nghe thấy giọng đàn ông... nhưng tôi không cảm nhận được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "any person’s spiritual power or presence nearby...)"
+                                "sức mạnh tâm linh hoặc sự hiện diện của bất kỳ người nào ở gần...)"
                             ]
                         },
                         {
@@ -13580,14 +13580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Which means... the Sex Fiend is pretending to be those"
+                                "\\N<Shizune>(Có nghĩa là... Sex Fiend đang giả vờ là những thứ đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "guys and is making me hear auditory hallucinations...)"
+                                "các bạn và đang khiến tôi nghe thấy ảo giác thính giác...)"
                             ]
                         },
                         {
@@ -13604,14 +13604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple B>“Considering that she doesn’t seem good with men, I bet"
+                                "\\N<Disciple B>“Xét ​​rằng cô ấy có vẻ không hợp với đàn ông, tôi cá là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "she’s still a virgin... ♡”"
+                                "cô ấy vẫn còn trinh... ♡”"
                             ]
                         },
                         {
@@ -13628,14 +13628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>“A woman with such big titties hates men? What a joke."
+                                "\\N<Middle-Aged Disciple C>“Phụ nữ ngực to như vậy lại ghét đàn ông? Thật là một câu chuyện hài hước."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haha!”"
+                                "Ha ha!”"
                             ]
                         },
                         {
@@ -13652,21 +13652,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>“How dare a woman take such a cocky attitude toward"
+                                "\\N<Middle-Aged Disciple A>“Sao một người phụ nữ dám có thái độ tự phụ như vậy đối với"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "men...!? I’m gonna bring her to tears with my cock, no"
+                                "đàn ông...!? Tôi sẽ khiến cô ấy rơi nước mắt với con cặc của mình, không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "matter what...!”"
+                                "có vấn đề gì...!”"
                             ]
                         },
                         {
@@ -13699,14 +13699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Damn... I’ve never experienced sexual harassment as"
+                                "\\N<Shizune>(Chết tiệt... Tôi chưa bao giờ bị quấy rối tình dục như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "vile as this...)"
+                                "hèn hạ thế này...)"
                             ]
                         },
                         {
@@ -13723,21 +13723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(That said, it’s simply a Sex Fiend pretending to be"
+                                "\\N<Shizune>(Điều đó nói lên rằng đó chỉ đơn giản là một Kẻ cuồng tình dục giả vờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "those guys. No need to give it any thought... I’d"
+                                "những chàng trai ấy. Không cần phải suy nghĩ gì cả... tôi sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "better focus on meditating.)"
+                                "tốt hơn nên tập trung vào việc thiền định.)"
                             ]
                         },
                         {
@@ -13754,7 +13754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>“Hee-hee! ♡ Just how big are these melons...? ♡”"
+                                "\\N<Middle-Aged Disciple B>“Hee-hee! ♡ Những quả dưa này to cỡ nào...? ♡”"
                             ]
                         },
                         {
@@ -13771,7 +13771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -13788,7 +13788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple B>“It’s only natural for us to leer at them... ♡”"
+                                "\\N<Disciple B>“Việc chúng ta liếc nhìn họ là điều đương nhiên... ♡”"
                             ]
                         },
                         {
@@ -13805,14 +13805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple B>“Sh-She always jiggles her huge boobs... Must be trying"
+                                "\\N<Disciple B>“Su-Cô ấy lúc nào cũng lắc lư cặp vú khổng lồ của mình... Chắc chắn phải cố gắng rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to seduce us men...! ♡”"
+                                "để quyến rũ đàn ông chúng tôi...! ♡”"
                             ]
                         },
                         {
@@ -13829,14 +13829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple A>“Even in porn magazines, I’ve never seen such"
+                                "\\N<Disciple A>“Ngay cả trên các tạp chí khiêu dâm, tôi cũng chưa bao giờ thấy điều đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ridiculously large tits. ♡”"
+                                "ngực to đến nực cười. ♡”"
                             ]
                         },
                         {
@@ -13869,14 +13869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Ugh... Saying whatever it wants just because I can’t"
+                                "\\N<Shizune>(Ugh... Nói bất cứ điều gì nó muốn chỉ vì tôi không thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "put up a fight...)"
+                                "bắt đầu trận đấu...)"
                             ]
                         },
                         {
@@ -13909,14 +13909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I have to withstand this... Reacting is exactly what"
+                                "\\N<Shizune>(T-tôi phải chịu đựng điều này... Phản ứng chính xác là điều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the Sex Fiend wants me to do.)"
+                                "Sex Fiend muốn tôi làm vậy.)"
                             ]
                         },
                         {
@@ -13933,7 +13933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“She’s still trying to ignore us, it seems.”"
+                                "\\N<Dosui>“Có vẻ như cô ấy vẫn đang cố gắng phớt lờ chúng ta.”"
                             ]
                         },
                         {
@@ -13950,7 +13950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“If she won’t do anything... I’ll do that, I guess..."
+                                "\\N<Dosui>“Nếu cô ấy không làm gì cả... tôi sẽ làm điều đó, tôi đoán vậy..."
                             ]
                         },
                         {
@@ -13990,7 +13990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Wha-What is it up to now...?)"
+                                "\\N<Shizune>(Chuyện-Chuyện gì thế này...?)"
                             ]
                         },
                         {
@@ -14007,14 +14007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I should stay calm so these auditory hallucinations"
+                                "\\N<Shizune>(Tôi nên bình tĩnh để những ảo giác thính giác này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "don’t get the best of me...)"
+                                "đừng có ý tốt với tôi...)"
                             ]
                         },
                         {
@@ -14047,7 +14047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew...”"
+                                "\\N<Shizune>“Phi…”"
                             ]
                         },
                         {
@@ -14064,7 +14064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Seriously... Sex Fiends are despicable.)"
+                                "\\N<Shizune>(Nghiêm túc mà nói... Những kẻ cuồng tình dục thật đáng khinh.)"
                             ]
                         },
                         {
@@ -14097,21 +14097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(And even the guys I’m training with are vulgar and say"
+                                "\\N<Shizune>(Và ngay cả những người tôi đang tập luyện cùng cũng thô tục và nói"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "nothing but sexual comments, just like the Sex Fiend"
+                                "không có gì ngoài những bình luận mang tính chất khiêu dâm, giống như Sex Fiend"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "from before...)"
+                                "từ trước...)"
                             ]
                         },
                         {
@@ -14128,7 +14128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I just want to get this training over with...)"
+                                "\\N<Shizune>(Tôi chỉ muốn kết thúc khóa đào tạo này với...)"
                             ]
                         },
                         {
@@ -14181,7 +14181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -14198,7 +14198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Wha-What...!?)"
+                                "\\N<Shizune>(...Cái-Cái gì...!?)"
                             ]
                         },
                         {
@@ -14215,7 +14215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-It’s tugging on the sash...!?)"
+                                "\\N<Shizune>(T-Nó đang kéo dây an toàn...!?)"
                             ]
                         },
                         {
@@ -14244,7 +14244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*tug*"
+                                "*sự kéo mạnh*"
                             ]
                         },
                         {
@@ -14308,7 +14308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -14325,7 +14325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(N-Nooo...!)"
+                                "\\N<Shizune>(K-Không...!)"
                             ]
                         },
                         {
@@ -14342,14 +14342,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Hee-hee! ♡ It sure is easy to undress her when she"
+                                "\\N<Dosui>“Hee-hee! ♡ Thật dễ dàng để cởi quần áo cho cô ấy khi cô ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "doesn’t resist. ♡”"
+                                "không chống cự. ♡”"
                             ]
                         },
                         {
@@ -14366,21 +14366,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>“Keeping her eyes closed and her voice down to follow"
+                                "\\N<Middle-Aged Disciple B>“Nhắm mắt và hạ giọng theo dõi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the rules of training... This busty girl really is"
+                                "các quy tắc đào tạo... Cô gái ngực khủng này thực sự là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "serious. ♡”"
+                                "nghiêm trọng. ♡”"
                             ]
                         },
                         {
@@ -14413,7 +14413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Hmph...! Don’t spout such nonsense...)"
+                                "\\N<Shizune>(Hmph...! Đừng nói những điều vô nghĩa như vậy...)"
                             ]
                         },
                         {
@@ -14430,14 +14430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(It feels like those guys really are looking at my"
+                                "\\N<Shizune>(Có cảm giác như mấy tên đó thực sự đang nhìn vào tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "breasts...!)"
+                                "ngực...!)"
                             ]
                         },
                         {
@@ -14454,7 +14454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple D>“Whoa...! ♡ A schoolgirl’s titties... ♡ ♡”"
+                                "\\N<Middle-Aged Disciple D>“Ồ...! ♡ Cặp vú khổng lồ này... ♡ ♡”"
                             ]
                         },
                         {
@@ -14471,14 +14471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>“We get to see the sexy boobs of the woman who is so"
+                                "\\N<Middle-Aged Disciple A>“Chúng ta được nhìn thấy cặp vú gợi cảm của người phụ nữ quá"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "rude toward us. ♡”"
+                                "thô lỗ đối với chúng tôi. ♡”"
                             ]
                         },
                         {
@@ -14495,14 +14495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>“Even her areolas are huge... ♡ They’re sticking out"
+                                "\\N<Disciple A>“Ngay cả quầng vú của cô ấy cũng rất lớn... ♡ Chúng đang nhô ra ngoài"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "so much. ♡”"
+                                "rất nhiều. ♡”"
                             ]
                         },
                         {
@@ -14552,14 +14552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple A>“W-Wow... ♡ So this is what a woman’s boobs look like"
+                                "\\N<Disciple A>“W-Wow... ♡ Thì ra ngực của phụ nữ trông như thế này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "up close...! ♡ ♡”"
+                                "đến gần...! ♡ ♡”"
                             ]
                         },
                         {
@@ -14576,14 +14576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>“Hee-hee... Isn’t this brat ashamed of having tits like"
+                                "\\N<Middle-Aged Disciple C>“Hee-hee... Cô ấy không xấu hổ vì có cặp vú như thế sao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this? ♡”"
+                                "cái này? ♡”"
                             ]
                         },
                         {
@@ -14600,14 +14600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Hah... Hah... ♡ Thank goodness Kaori has such a sexy"
+                                "\\N<Dosui>“Hah... Hah... ♡ Cảm ơn Chúa, Kaori có một vẻ ngoài thật quyến rũ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "daughter. ♡”"
+                                "con gái. ♡”"
                             ]
                         },
                         {
@@ -14624,7 +14624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -14641,7 +14641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple B>“I-I’m... at my limit...! ♡”"
+                                "\\N<Disciple B>“T-tôi... đã đến giới hạn của mình rồi...! ♡”"
                             ]
                         },
                         {
@@ -14658,7 +14658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple D>“What? Pathetic...”"
+                                "\\N<Middle-Aged Disciple D>“Cái gì? Đáng thương hại...\""
                             ]
                         },
                         {
@@ -14675,7 +14675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>“Such badonkers may be too exciting for the boy. ♡”"
+                                "\\N<Middle-Aged Disciple C>“Những kẻ xấu như vậy có thể quá thú vị đối với cậu bé. ♡”"
                             ]
                         },
                         {
@@ -14692,7 +14692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“So be it. Let’s cum now, then. ♡”"
+                                "\\N<Dosui>“Như vậy đi. Hãy xuất tinh bây giờ nhé. ♡”"
                             ]
                         },
                         {
@@ -14709,7 +14709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple A>“Heh heh... Finally. ♡”"
+                                "\\N<Middle-Aged Disciple A>“Heh heh... Cuối cùng. ♡”"
                             ]
                         },
                         {
@@ -14726,14 +14726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>“Hee-hee-hee...! ♡ Gotta burn this into my memory as I"
+                                "\\N<Disciple A>“Hee-hee-hee...! ♡ Tôi phải khắc ghi điều này vào trí nhớ của mình khi tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jack off... ♡”"
+                                "cởi ra... ♡”"
                             ]
                         },
                         {
@@ -14750,7 +14750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -14783,7 +14783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(S-Something smells fishy...!)"
+                                "\\N<Shizune>(S-Có mùi tanh...!)"
                             ]
                         },
                         {
@@ -14800,7 +14800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I can barely make out a bad presence...)"
+                                "\\N<Shizune>(Tôi hầu như không thể nhận ra sự hiện diện xấu...)"
                             ]
                         },
                         {
@@ -14817,7 +14817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(And the strange stench is getting stronger...)"
+                                "\\N<Shizune>(Và mùi hôi thối lạ lùng ngày càng nồng nặc...)"
                             ]
                         },
                         {
@@ -14834,7 +14834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>“Ugh... I’m about to cum...! ♡”"
+                                "\\N<Middle-Aged Disciple C>“Ugh... tôi sắp xuất tinh rồi…! ♡”"
                             ]
                         },
                         {
@@ -14851,7 +14851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple B>“M-Me too...! ♡”"
+                                "\\N<Disciple B>“M-Tôi cũng vậy...! ♡”"
                             ]
                         },
                         {
@@ -14868,7 +14868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“All right. ♡ Let’s do this...! ♡ ♡”"
+                                "\\N<Dosui>“Được rồi. ♡ Hãy làm điều này nhé...! ♡ ♡”"
                             ]
                         },
                         {
@@ -14901,7 +14901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Huh...!? C-Come where...?)"
+                                "\\N<Shizune>(Hả...!? C-Đến đâu...?)"
                             ]
                         },
                         {
@@ -14918,7 +14918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -14935,7 +14935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Ngh... I’m cumming! ♡ ♡”"
+                                "\\N<Dosui>“Ngh... Tôi đang xuất tinh đây! ♡ ♡”"
                             ]
                         },
                         {
@@ -14994,7 +14994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ *spurt* ♡ ♡ *spurt* ♡ ♡"
+                                "*phóng* ♡ ♡ *phun* ♡ ♡ *phun* ♡ ♡"
                             ]
                         },
                         {
@@ -15028,7 +15028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(So hot...!! Wha-What’s happening...!?)"
+                                "\\N<Shizune>(Nóng quá...!! Cái-Chuyện gì đang xảy ra vậy...!?)"
                             ]
                         },
                         {
@@ -15071,7 +15071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡ *spurt* ♡ ♡ *spurt* ♡ ♡"
+                                "*phóng* ♡ ♡ *phun* ♡ ♡ *phun* ♡ ♡"
                             ]
                         },
                         {
@@ -15088,7 +15088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Disciple A>“Cumming all over her big tits is outstanding...! ♡”"
+                                "\\N<Disciple A>“Cumming khắp cặp vú lớn của cô ấy thật xuất sắc ...! ♡”"
                             ]
                         },
                         {
@@ -15105,14 +15105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple C>“How’d you like this!? ♡ ♡ Get covered with the cock"
+                                "\\N<Middle-Aged Disciple C>“Bạn có thích điều này không!? ♡ ♡ Bị bao phủ bởi con cặc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "juice of the men you hate! ♡”"
+                                "nước ép của những người đàn ông bạn ghét! ♡”"
                             ]
                         },
                         {
@@ -15171,7 +15171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ ♡"
+                                "*phóng* ♡ ♡"
                             ]
                         },
                         {
@@ -15188,7 +15188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple A>“Ugh... Th-This feels great! ♡”"
+                                "\\N<Disciple A>“Ugh... Đ-Cảm giác thật tuyệt! ♡”"
                             ]
                         },
                         {
@@ -15205,7 +15205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Youthful Disciple B>“...I can’t cum anymore...! ♡”"
+                                "\\N<Disciple B>“...Tôi không thể xuất tinh được nữa...! ♡”"
                             ]
                         },
                         {
@@ -15238,7 +15238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Wha-What the hell did it put on me...!?)"
+                                "\\N<Shizune>(Cái-Cái quái gì đã xảy ra với tôi vậy...!?)"
                             ]
                         },
                         {
@@ -15255,7 +15255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(So much stinky stuff is on my face and breasts...!)"
+                                "\\N<Shizune>(Có quá nhiều thứ hôi thối trên mặt và ngực của tôi...!)"
                             ]
                         },
                         {
@@ -15272,14 +15272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Heh heh. ♡ Thanks for going out of your way to let us"
+                                "\\N<Dosui>“Heh heh. ♡ Cảm ơn vì đã cố gắng giúp đỡ chúng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jack off to you. ♡”"
+                                "jack off cho bạn. ♡”"
                             ]
                         },
                         {
@@ -15296,14 +15296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Well, you should’ve expected something of this degree"
+                                "\\N<Dosui>“Chà, lẽ ra bạn phải mong đợi điều gì đó ở mức độ này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to happen after showing off your dirty body. ♡”"
+                                "xảy ra sau khi khoe cơ thể bẩn thỉu của bạn. ♡”"
                             ]
                         },
                         {
@@ -15336,7 +15336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Th-This...!!)"
+                                "\\N<Shizune>(Đ-Cái này...!!)"
                             ]
                         },
                         {
@@ -15353,14 +15353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(There’s no way a sealed Sex Fiend should be able to"
+                                "\\N<Shizune>(Không đời nào một Sex Fiend bị phong ấn có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "interact with me physically...!)"
+                                "tương tác với tôi về mặt thể chất...!)"
                             ]
                         },
                         {
@@ -15377,7 +15377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’d better open my eyes to see what’s going on...)"
+                                "\\N<Shizune>(Tốt nhất là tôi nên mở mắt ra để xem chuyện gì đang xảy ra...)"
                             ]
                         },
                         {
@@ -15394,7 +15394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Oh, shit... Guys, get out of the room, quick.”"
+                                "\\N<Dosui>\\}“Ôi chết tiệt… Các bạn, ra khỏi phòng nhanh lên.”"
                             ]
                         },
                         {
@@ -15411,7 +15411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Disciples>\\}“Y-Yes, sir!”"
+                                "\\N<Disciples>\\}“V-Vâng, thưa ngài!”"
                             ]
                         },
                         {
@@ -15433,7 +15433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Hm? The presence is gone...)"
+                                "\\N<Shizune>(...Hm? Sự hiện diện đã biến mất...)"
                             ]
                         },
                         {
@@ -15450,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>\\}“Now to use this Art...”"
+                                "\\N<Dosui>\\}“Bây giờ hãy sử dụng Nghệ thuật này…”"
                             ]
                         },
                         {
@@ -15496,14 +15496,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(H-Huh!? I don’t feel anything on me anymore... And my"
+                                "\\N<Shizune>(H-Huh!? Tôi không còn cảm thấy gì trên người nữa... Và của tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "clothes are back to the way they were...!)"
+                                "quần áo đã trở lại như cũ rồi...!)"
                             ]
                         },
                         {
@@ -15520,7 +15520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Wha-What the hell...? I’m so confused...)"
+                                "\\N<Shizune>(Cái-Cái quái gì vậy...? Tôi bối rối quá...)"
                             ]
                         },
                         {
@@ -15599,7 +15599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*ring* ♪"
+                                "*đổ chuông* ♪"
                             ]
                         },
                         {
@@ -15633,7 +15633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Th-The bell... That means...)"
+                                "\\N<Shizune>(Th-Cái chuông... Nghĩa là...)"
                             ]
                         },
                         {
@@ -15650,7 +15650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Okay. You may open your eyes now.”"
+                                "\\N<Dosui>“Được rồi. Bây giờ cậu có thể mở mắt ra rồi.”"
                             ]
                         },
                         {
@@ -15968,7 +15968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I knew it... My body’s the same as before...”"
+                                "\\N<Shizune>“T-tôi biết rồi... Cơ thể tôi vẫn như trước…”"
                             ]
                         },
                         {
@@ -15992,7 +15992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Hm? What’s the matter? Did the Sex Fiend get to you?”"
+                                "\\N<Dosui>“Hả? Có chuyện gì vậy? Sex Fiend có đến được với bạn không?"
                             ]
                         },
                         {
@@ -16016,7 +16016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...W-Was that really the work of a Sex Fiend?”"
+                                "\\N<Shizune>“...C-Đó có thực sự là tác phẩm của một con quỷ tình dục không?”"
                             ]
                         },
                         {
@@ -16033,7 +16033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It felt too vivid to be an illusion...”"
+                                "\\N<Shizune>“Cảm giác quá sống động để có thể là ảo ảnh…”"
                             ]
                         },
                         {
@@ -16057,7 +16057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You guys did something to me, didn’t you...?”"
+                                "\\N<Shizune>“Các người đã làm gì đó với tôi phải không…?”"
                             ]
                         },
                         {
@@ -16081,14 +16081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“I don’t know what you’re talking about. Could you be"
+                                "\\N<Dosui>“Tôi không biết bạn đang nói về cái gì. Bạn có thể là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "more specific?”"
+                                "cụ thể hơn?\""
                             ]
                         },
                         {
@@ -16105,14 +16105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“We didn’t see anything particularly strange when we"
+                                "\\N<Dosui>“Chúng tôi không thấy điều gì đặc biệt kỳ lạ khi chúng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "were standing guard on the other side of the door.”"
+                                "đang đứng gác ở phía bên kia cánh cửa.”"
                             ]
                         },
                         {
@@ -16129,7 +16129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“And you look all right to me, Girlie.”"
+                                "\\N<Dosui>“Đối với tôi thì em trông ổn đấy, Girlie.”"
                             ]
                         },
                         {
@@ -16169,7 +16169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“U-Umm...!”"
+                                "\\N<Shizune>“U-Ừm...!”"
                             ]
                         },
                         {
@@ -16193,14 +16193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Disciple B>“Heh heh. Knowing how slutty you are, you probably had"
+                                "\\N<Middle-Aged Disciple B>“Heh heh. Biết bạn đĩ đến mức nào, có lẽ bạn đã có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sexual fantasies. ♡”"
+                                "tưởng tượng tình dục. ♡”"
                             ]
                         },
                         {
@@ -16240,7 +16240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I had no such thing...!!!”"
+                                "\\N<Shizune>“Tôi không có thứ đó...!!!”"
                             ]
                         },
                         {
@@ -16264,7 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“W-Well... uh... I did think I was being undressed...”"
+                                "\\N<Shizune>“C-Chà... ừ... tôi đã nghĩ là mình đang bị cởi quần áo…”"
                             ]
                         },
                         {
@@ -16288,21 +16288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Hmm, you appear to be perfectly clothed to me,"
+                                "\\N<Dosui>“Hmm, đối với tôi bạn có vẻ ăn mặc hoàn hảo,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "though... I believe that was some kind of hallucination"
+                                "mặc dù... tôi tin rằng đó là một loại ảo giác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "brought about by the Sex Fiend.”"
+                                "do Sex Fiend mang lại.”"
                             ]
                         },
                         {
@@ -16326,7 +16326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -16343,14 +16343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I mean, he is right about everything looking the same"
+                                "\\N<Shizune>(Ý tôi là, anh ấy nói đúng về mọi thứ trông giống nhau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "as usual...)"
+                                "như thường lệ...)"
                             ]
                         },
                         {
@@ -16390,14 +16390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(And I definitely would have noticed if that awfully"
+                                "\\N<Shizune>(Và tôi chắc chắn sẽ nhận thấy nếu điều đó quá tệ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "stinky STUFF was still all over me...)"
+                                "NHỮNG thứ hôi hám vẫn còn ở khắp người tôi...)"
                             ]
                         },
                         {
@@ -16421,7 +16421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Well, this is just how this room is.”"
+                                "\\N<Dosui>“Chà, căn phòng này vốn là như thế này.”"
                             ]
                         },
                         {
@@ -16438,14 +16438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Having said that, for you to be affected so strongly"
+                                "\\N<Dosui>“Đã nói như vậy thì bạn bị ảnh hưởng mạnh mẽ như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that you mistook the Sex Fiend for us...”"
+                                "rằng bạn đã nhầm Sex Fiend với chúng tôi…”"
                             ]
                         },
                         {
@@ -16462,14 +16462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“That just shows how splendid of an exorcist you are,"
+                                "\\N<Dosui>“Điều đó chỉ cho thấy bạn là một nhà Trừ tà tuyệt vời như thế nào,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "don’t you think?”"
+                                "bạn có nghĩ thế không?”"
                             ]
                         },
                         {
@@ -16493,7 +16493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“That’s not exactly my concern at the moment...”"
+                                "\\N<Shizune>“Đó không hẳn là mối quan tâm của tôi vào lúc này…”"
                             ]
                         },
                         {
@@ -16517,21 +16517,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Anyways, you men should at least refrain from"
+                                "\\N<Shizune>“...Dù sao đi nữa, các người ít nhất cũng nên kiềm chế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "acting so vulgar if you don’t want me to be suspicious"
+                                "cư xử thật thô tục nếu bạn không muốn tôi nghi ngờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of you.”"
+                                "của bạn.\""
                             ]
                         },
                         {
@@ -16555,7 +16555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“HAHAHA! You’ve got a point!”"
+                                "\\N<Dosui>“HAHAHA! Bạn đã có lý!"
                             ]
                         },
                         {
@@ -16572,14 +16572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“You guys! As you can see, she is an amazing priestess!"
+                                "\\N<Dosui>“Các bạn! Như bạn có thể thấy, cô ấy là một nữ tu sĩ tuyệt vời!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You all better treat her with some respect, got it?”"
+                                "Tốt hơn hết các bạn nên đối xử với cô ấy một cách tôn trọng, hiểu không?"
                             ]
                         },
                         {
@@ -16596,7 +16596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Disciples>“Y-Yes, sir!”"
+                                "\\N<Disciples>“V-Vâng, thưa ngài!”"
                             ]
                         },
                         {
@@ -16629,7 +16629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Well, as long as you understand.”"
+                                "\\N<Shizune>“...Chà, miễn là bạn hiểu.”"
                             ]
                         },
                         {
@@ -16646,7 +16646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“So, what should I do now?”"
+                                "\\N<Shizune>“Vậy, tôi nên làm gì bây giờ?”"
                             ]
                         },
                         {
@@ -16670,14 +16670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“Oh, we’ll call it a day after training in the"
+                                "\\N<Dosui>“Ồ, chúng ta sẽ gọi nó là một ngày sau khi tập luyện ở"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "backyard.”"
+                                "sân sau.”"
                             ]
                         },
                         {
@@ -16694,14 +16694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dosui>“We’re going to use water, so prepare to be a bit"
+                                "\\N<Dosui>“Chúng ta sẽ sử dụng nước, vì vậy hãy chuẩn bị tinh thần một chút"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "chilly. Also, be careful not to catch a cold.”"
+                                "se se lạnh. Ngoài ra, hãy cẩn thận kẻo bị cảm lạnh.”"
                             ]
                         },
                         {
@@ -16725,7 +16725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay.”"
+                                "\\N<Shizune>“...Được rồi.”"
                             ]
                         },
                         {

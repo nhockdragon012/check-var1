@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Beauty Salon",
+    "displayName": "Thẩm mỹ viện",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2392,7 +2392,7 @@
         null,
         {
             "id": 7,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {
@@ -2517,7 +2517,7 @@
         },
         {
             "id": 8,
-            "name": "Ryoya Event 3",
+            "name": "Sự kiện Ryoya 3",
             "note": "",
             "pages": [
                 {
@@ -2591,7 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Umm... I would like to get a massage...”"
+                                "\\N<Kaori>“Ừm... Tôi muốn được mát-xa…”"
                             ]
                         },
                         {
@@ -2624,14 +2624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Man! ♡ I’ve been waiting for you. ♡ I didn’t know if"
+                                "\\N<Ryoya>“Trời ơi! ♡ Tôi đã chờ đợi bạn. ♡ Tôi không biết liệu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’d actually come back. ♡”"
+                                "bạn thực sự sẽ quay trở lại. ♡”"
                             ]
                         },
                         {
@@ -2648,14 +2648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You must’ve really enjoyed what I did last time... Heh"
+                                "\\N<Ryoya>“Chắc hẳn bạn rất thích những gì tôi đã làm lần trước… Heh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "heh. ♡”"
+                                "hê. ♡”"
                             ]
                         },
                         {
@@ -2719,14 +2719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Well, as I alluded to before, I’ve prepared a special"
+                                "\\N<Ryoya>“Chà, như tôi đã đề cập trước đó, tôi đã chuẩn bị một đặc biệt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "massage, just for you... ♡”"
+                                "mát-xa, chỉ dành cho bạn... ♡”"
                             ]
                         },
                         {
@@ -2766,7 +2766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“HUH!? N-No thank you... I’d prefer a normal one...”"
+                                "\\N<Kaori>“Hả!? K-Không, cảm ơn... Tôi thích cái bình thường hơn…”"
                             ]
                         },
                         {
@@ -2790,14 +2790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Now, now! Don’t be shy. ♡ I’ll make you cum like"
+                                "\\N<Ryoya>“Bây giờ, ngay bây giờ! Đừng ngại ngùng. ♡ Tôi sẽ làm cho bạn thích"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "crazy again. ♡”"
+                                "lại điên nữa. ♡”"
                             ]
                         },
                         {
@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha...!? ♡”"
+                                "\\N<Kaori>“Cái gì...!? ♡”"
                             ]
                         },
                         {
@@ -2877,14 +2877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I feel like he’s making some outrageous"
+                                "\\N<Kaori>(Tôi-tôi cảm thấy như anh ấy đang làm điều gì đó thái quá"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "statements...)"
+                                "các câu lệnh...)"
                             ]
                         },
                         {
@@ -2901,14 +2901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(The Obscenities must be driving him insane... I take"
+                                "\\N<Kaori>(Những lời tục tĩu chắc hẳn đã khiến anh ấy phát điên... Tôi hiểu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it he really does want to work as he always does...)"
+                                "anh ấy thực sự muốn làm việc như mọi khi...)"
                             ]
                         },
                         {
@@ -2925,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(A-Anyhow, all I have to do is endure...)"
+                                "\\N<Kaori>(D-Dù sao thì tất cả những gì tôi phải làm là chịu đựng...)"
                             ]
                         },
                         {
@@ -2942,14 +2942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I will never again let him sweep me off my feet..."
+                                "\\N<Kaori>(Tôi sẽ không bao giờ để anh ta gạt tôi ra khỏi chân mình nữa..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "like he did last time...!)"
+                                "giống như lần trước anh ấy đã làm...!)"
                             ]
                         },
                         {
@@ -2966,14 +2966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I will resist the Obscenities and pleasure with strong"
+                                "\\N<Kaori>(Tôi sẽ chống lại những lời tục tĩu và khoái cảm bằng sức mạnh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mental fortitude... to save this gentleman and defeat"
+                                "nghị lực tinh thần... để cứu quý ông này và đánh bại"
                             ]
                         },
                         {
@@ -3062,7 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*splish*"
+                                "*tung*"
                             ]
                         },
                         {
@@ -3079,14 +3079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AH! ♡ Stop...! MN! Ngh...! ♡ ♡”"
+                                "\\N<Kaori>“À! ♡ Dừng lại...! MN! Ngh...! ♡ ♡”"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Cunnilingus Picture Display"
+                                "Hiển thị hình ảnh Cunnilingus"
                             ]
                         },
                         {
@@ -3150,14 +3150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You’re the one who said you wanted the same massage as"
+                                "\\N<Ryoya>“Bạn là người nói rằng bạn muốn được mát-xa giống như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "last time...”"
+                                "lần cuối cùng...\""
                             ]
                         },
                         {
@@ -3174,7 +3174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“I knew you came here for this... ♡”"
+                                "\\N<Ryoya>“Tôi biết bạn đến đây vì chuyện này mà... ♡”"
                             ]
                         },
                         {
@@ -3207,7 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Th-That’s not true...! Y-Yo—”"
+                                "\\N<Kaori>“Đ-Điều đó không đúng…! Y-Yo—”"
                             ]
                         },
                         {
@@ -3224,7 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡"
+                                "*cạch* ♡ *cúi* ♡"
                             ]
                         },
                         {
@@ -3257,7 +3257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ngh...! Ah... ♡ ♡ I’M! ♡ ♡”"
+                                "\\N<Kaori>“Ngh...! À... ♡ ♡ Là tôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -3323,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*quiver* ♡"
+                                "*run rẩy* ♡"
                             ]
                         },
                         {
@@ -3340,14 +3340,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Would you look at that? You just came again. ♡ I lost"
+                                "\\N<Ryoya>“Bạn có nhìn vào đó không? Bạn vừa mới đến một lần nữa. ♡ Tôi đã thua"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "count of how many times you’ve done this... ♡”"
+                                "đếm xem bạn đã làm điều này bao nhiêu lần rồi... ♡”"
                             ]
                         },
                         {
@@ -3364,14 +3364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You’ve gotta be really into getting your pussy eaten"
+                                "\\N<Ryoya>“Bạn phải thực sự thích thú với việc ăn thịt âm hộ của mình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "out to cum this much. ♡”"
+                                "ra ngoài để kiêm nhiều thế này. ♡”"
                             ]
                         },
                         {
@@ -3405,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wh-Why is this happening... again...? ♡)"
+                                "\\N<Kaori>(T-Tại sao chuyện này lại xảy ra...lại...? ♡)"
                             ]
                         },
                         {
@@ -3422,7 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Mmmmm...! ♡ You’re getting real wet. ♡”"
+                                "\\N<Ryoya>“Mmmmm...! ♡ Bạn đang bị ướt thật đấy. ♡”"
                             ]
                         },
                         {
@@ -3439,14 +3439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Guess people weren’t lying when they said women with"
+                                "\\N<Ryoya>“Có lẽ mọi người không nói dối khi họ nói phụ nữ có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "big tits are sluts. ♡”"
+                                "vú to là gái điếm. ♡”"
                             ]
                         },
                         {
@@ -3479,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ah... Um... Please... quit it...! ♡”"
+                                "\\N<Kaori>“À... Ừm... Làm ơn... thôi đi...! ♡”"
                             ]
                         },
                         {
@@ -3496,7 +3496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *slurp* ♡"
+                                "*cạch* ♡ *cạch* ♡ *cạch* ♡"
                             ]
                         },
                         {
@@ -3541,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“AHN! ♡ Mn...! Mnnn...! ♡”"
+                                "\\N<Kaori>“AHN! ♡ Ừm...! Ừm...! ♡”"
                             ]
                         },
                         {
@@ -3558,21 +3558,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Why are you acting like this? I’m simply giving you a"
+                                "\\N<Ryoya>“Tại sao bạn lại hành động như vậy? Tôi chỉ đơn giản đưa cho bạn một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "massage... I can’t possibly leave things unfinished."
+                                "massage... Tôi không thể bỏ dở mọi việc được."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haha!”"
+                                "Ha ha!”"
                             ]
                         },
                         {
@@ -3589,7 +3589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Just allow your pussy to get wetter, please. ♡”"
+                                "\\N<Ryoya>“Làm ơn hãy để âm hộ của bạn ướt hơn. ♡”"
                             ]
                         },
                         {
@@ -3622,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Huh...!? Ahn...! Mnnn...! ♡”"
+                                "\\N<Kaori>“Hả...!? Ahn...! Ừm...! ♡”"
                             ]
                         },
                         {
@@ -3672,7 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*quiver* ♡"
+                                "*run rẩy* ♡"
                             ]
                         },
                         {
@@ -3689,21 +3689,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Heh heh heh! ♡ You are so sensitive, seriously. ♡"
+                                "\\N<Ryoya>“He he he he! ♡ Bạn nhạy cảm quá, nghiêm túc đấy. ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You’ve been holding your lust in for a while, haven’t"
+                                "Bạn đã kìm nén dục vọng của mình được một thời gian rồi phải không?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you? ♡”"
+                                "Bạn? ♡”"
                             ]
                         },
                         {
@@ -3720,7 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Does your husband not treat you right or something?"
+                                "\\N<Ryoya>“Chồng bạn đối xử không đúng với bạn hay sao?"
                             ]
                         },
                         {
@@ -3760,7 +3760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Uh... Um...”"
+                                "\\N<Kaori>“Ờ... Ừm…”"
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“M-My husband... passed... away...”"
+                                "\\N<Kaori>“M-Chồng tôi... đã qua đời... đã mất…”"
                             ]
                         },
                         {
@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wh-Why did I tell him that...?)"
+                                "\\N<Kaori>(Tại-Tại sao tôi lại nói với anh ấy điều đó...?)"
                             ]
                         },
                         {
@@ -3811,7 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Hmm, I see...”"
+                                "\\N<Ryoya>“Hmm, tôi hiểu rồi…”"
                             ]
                         },
                         {
@@ -3828,14 +3828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“That explains why you’re looking for a man who will do"
+                                "\\N<Ryoya>“Điều đó giải thích tại sao bạn đang tìm kiếm một người đàn ông sẽ làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "naughty things like this with you. ♡”"
+                                "những điều nghịch ngợm như thế này với bạn. ♡”"
                             ]
                         },
                         {
@@ -3868,7 +3868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Y-You’ve got the wrong idea! I didn’t come here t—”"
+                                "\\N<Kaori>“A-Bạn hiểu sai rồi! Tôi không đến đây t-”"
                             ]
                         },
                         {
@@ -3885,14 +3885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Again with that...? ♪ Why else would you keep coming"
+                                "\\N<Ryoya>“Lại chuyện đó à…? ♪ Tại sao bạn lại tiếp tục đến đây"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "back here after having many erotic things done to you?"
+                                "quay lại đây sau khi làm nhiều việc khiêu dâm với cậu à?"
                             ]
                         },
                         {
@@ -3932,7 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Uh...! ♡”"
+                                "\\N<Kaori>“Ờ...! ♡”"
                             ]
                         },
                         {
@@ -3949,14 +3949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“More importantly, it’s not fair that only you get to"
+                                "\\N<Ryoya>“Quan trọng hơn, thật không công bằng khi chỉ có bạn mới có được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have your private part pleased...”"
+                                "hãy để phần riêng tư của bạn được hài lòng…”"
                             ]
                         },
                         {
@@ -3980,7 +3980,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Cock Photo"
+                                "ảnh gà trống"
                             ]
                         },
                         {
@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*sproing* ♡"
+                                "*nhảy lên* ♡"
                             ]
                         },
                         {
@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Wha...!?”"
+                                "\\N<Kaori>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -4061,7 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What on earth are you doing...!?”"
+                                "\\N<Kaori>“Bạn đang làm cái quái gì vậy...!?”"
                             ]
                         },
                         {
@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Oh, c’mon now. ♡ You should know at this point. ♡”"
+                                "\\N<Ryoya>“Ồ, thôi nào. ♡ Bạn nên biết vào thời điểm này. ♡”"
                             ]
                         },
                         {
@@ -4095,14 +4095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“I’ve pleased you by licking your pussy, so I want you"
+                                "\\N<Ryoya>“Tôi đã làm bạn hài lòng bằng cách liếm âm hộ của bạn, vì vậy tôi muốn bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to tend to me now. ♡”"
+                                "để chăm sóc cho tôi bây giờ. ♡”"
                             ]
                         },
                         {
@@ -4119,7 +4119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I cannot just...! ♡”"
+                                "\\N<Kaori>“T-tôi không thể chỉ...! ♡”"
                             ]
                         },
                         {
@@ -4136,14 +4136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Hmm? Don’t you feel ashamed for not doing anything"
+                                "\\N<Ryoya>“Hả? Bạn không cảm thấy xấu hổ vì không làm gì cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "after I’ve worked so hard to make you cum a lot? ♡”"
+                                "sau khi tôi đã làm việc rất chăm chỉ để làm cho bạn xuất tinh nhiều? ♡”"
                             ]
                         },
                         {
@@ -4160,7 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You just gotta put it in your mouth. ♡ Please. ♡”"
+                                "\\N<Ryoya>“Bạn chỉ cần cho nó vào miệng. ♡ Làm ơn. ♡”"
                             ]
                         },
                         {
@@ -4177,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -4194,7 +4194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wh-While I’d like to refuse...)"
+                                "\\N<Kaori>(Trong khi tôi muốn từ chối...)"
                             ]
                         },
                         {
@@ -4211,14 +4211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(He may attempt to do this sort of thing to other"
+                                "\\N<Kaori>(Anh ta có thể cố gắng làm điều này với người khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "customers if I don’t purify him...)"
+                                "khách hàng nếu tôi không thanh lọc anh ta...)"
                             ]
                         },
                         {
@@ -4235,7 +4235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You’re not gonna do it, are you? I thought as much...”"
+                                "\\N<Ryoya>“Bạn sẽ không làm điều đó phải không? Tôi nghĩ rằng càng nhiều...\""
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...U-Umm...”"
+                                "\\N<Kaori>“...U-Ừm…”"
                             ]
                         },
                         {
@@ -4285,7 +4285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“You did give me a free massage, so...”"
+                                "\\N<Kaori>“Bạn đã mát-xa miễn phí cho tôi, vậy nên…”"
                             ]
                         },
                         {
@@ -4302,7 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I don’t mind... d-doing it once... ♡”"
+                                "\\N<Kaori>“Tôi không phiền... đ-làm một lần thôi... ♡”"
                             ]
                         },
                         {
@@ -4319,7 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“WHOA! ♡ For real!? YES! ♡”"
+                                "\\N<Ryoya>“Ôi! ♡ Thật sao!? ĐÚNG! ♡”"
                             ]
                         },
                         {
@@ -4352,7 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I ask that you go easy on me in exchange...”"
+                                "\\N<Kaori>“Đổi lại tôi yêu cầu bạn nhẹ tay với tôi…”"
                             ]
                         },
                         {
@@ -4369,7 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Yeah, yeah. I know. ♡”"
+                                "\\N<Ryoya>“Ừ, ừ. Tôi biết. ♡”"
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Well, shall we...? ♡”"
+                                "\\N<Ryoya>“Chà, chúng ta...? ♡”"
                             ]
                         },
                         {
@@ -4432,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Squat down in front of my cock... ♡”"
+                                "\\N<Ryoya>“Ngồi xổm xuống trước cặc của tôi... ♡”"
                             ]
                         },
                         {
@@ -4449,7 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“L-Like this...?”"
+                                "\\N<Kaori>“L-Như thế này...?”"
                             ]
                         },
                         {
@@ -4466,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Perfect...! ♡ Now, spread your legs more... ♡”"
+                                "\\N<Ryoya>“Hoàn hảo...! ♡ Bây giờ, dang rộng chân hơn nữa... ♡”"
                             ]
                         },
                         {
@@ -4483,7 +4483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What...!? Th-This is such an immodest pose...”"
+                                "\\N<Kaori>“Cái gì...!? Đ-Đây đúng là một tư thế khiếm nhã…”"
                             ]
                         },
                         {
@@ -4500,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Just deal with it. ♡ You’re already naked, anyways."
+                                "\\N<Ryoya>“Cứ giải quyết đi. ♡ Dù sao thì bạn cũng đã khỏa thân rồi."
                             ]
                         },
                         {
@@ -4541,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Am I doing it right?”"
+                                "\\N<Kaori>“A-Tôi làm đúng chứ?”"
                             ]
                         },
                         {
@@ -4558,7 +4558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Oh... Yeah. ♡ Suck my cock while you’re doing that..."
+                                "\\N<Ryoya>“Ồ... Ừ. ♡ Bú cặc của tôi khi bạn đang làm điều đó..."
                             ]
                         },
                         {
@@ -4681,7 +4681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡"
+                                "*cạch* ♡"
                             ]
                         },
                         {
@@ -4698,7 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Whoa...! ♡ You’re sucking so hard... ♡”"
+                                "\\N<Ryoya>“Ồ...! ♡ Cậu mút mạnh quá... ♡”"
                             ]
                         },
                         {
@@ -4715,14 +4715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Getting a blow job from a busty widow posing sexily"
+                                "\\N<Ryoya>“Nhận công việc bú cặc từ một góa phụ vú to đang tạo dáng gợi cảm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "feels way too good...! ♡”"
+                                "cảm thấy quá tuyệt vời...! ♡”"
                             ]
                         },
                         {
@@ -4739,7 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ngh...! Mmm...! Mmmmm...! ♡”"
+                                "\\N<Kaori>“Ngh...! Ừm...! Ừmmm...! ♡”"
                             ]
                         },
                         {
@@ -4756,7 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...H-How... can it be this... big...? ♡)"
+                                "\\N<Kaori>(...H-Sao... nó có thể... lớn thế này...? ♡)"
                             ]
                         },
                         {
@@ -4773,7 +4773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(It’s pressing against... the back... of my throat...!"
+                                "\\N<Kaori>(Nó đang ép vào... sau... họng tôi...!"
                             ]
                         },
                         {
@@ -4797,7 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“C’mon. Lick it more thoroughly.”"
+                                "\\N<Ryoya>“Nào. Liếm kỹ hơn đi.”"
                             ]
                         },
                         {
@@ -4814,7 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ngh...! Mnnn...! MNNNN! MNNNNN! ♡”"
+                                "\\N<Kaori>“Ngh...! Ừm...! MNNNN! MNNNN! ♡”"
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mmm...! Mnnn...! Mnnnn...! ♡”"
+                                "\\N<Kaori>“Ừm...! Ừm...! Mnnnn...! ♡”"
                             ]
                         },
                         {
@@ -4848,14 +4848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Holy... shit... ♡ You’re great at blowing dudes,"
+                                "\\N<Ryoya>“Chúa ơi... chết tiệt... ♡ Bạn rất giỏi thổi bay các chàng trai,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "aren’t you? ♡”"
+                                "phải không bạn? ♡”"
                             ]
                         },
                         {
@@ -4872,7 +4872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn...! I don’t know...! MNNN! Mmmmm! ♡”"
+                                "\\N<Kaori>“Ừm...! Tôi không biết...! MNNN! Ừmmm! ♡”"
                             ]
                         },
                         {
@@ -4889,7 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Did you suck your husband off often? ♡”"
+                                "\\N<Ryoya>“Bạn có thường xuyên bú cặc chồng mình không? ♡”"
                             ]
                         },
                         {
@@ -4906,14 +4906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I haven’t done this to my husband... MNNN! Th-That"
+                                "\\N<Kaori>“T-tôi chưa làm điều này với chồng tôi… MNNN! Đ-Đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "much... Mmmmm! ♡”"
+                                "nhiều... Mmmm! ♡”"
                             ]
                         },
                         {
@@ -4930,21 +4930,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Hmm... you must’ve sucked off some other guys, then."
+                                "\\N<Ryoya>“Hmm... vậy chắc hẳn bạn đã quyến rũ một số kẻ khác."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ There’s no way you got this good by just blowing"
+                                "♡ Không thể nào bạn có được điều tuyệt vời này chỉ bằng cách thổi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your husband. ♡”"
+                                "chồng của bạn. ♡”"
                             ]
                         },
                         {
@@ -4961,21 +4961,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mn...! P-Please don’t ask me that...! ♡"
+                                "\\N<Kaori>“Mn...! X-Xin đừng hỏi tôi điều đó...! ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mnnnn! ♡ Mnnn!"
+                                "Mnnnn! ♡ Ừm!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ Mnnn! ♡”"
+                                "♡ Ừm! ♡”"
                             ]
                         },
                         {
@@ -4992,21 +4992,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I cannot tell him that Muramara used to have his way"
+                                "\\N<Kaori>(T-tôi không thể nói với anh ấy rằng Muramara đã từng làm theo cách của anh ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with my mouth and breasts whenever I failed to seal him"
+                                "bằng miệng và ngực bất cứ khi nào tôi không phong ấn được anh ta"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "away...! ♡)"
+                                "xa...! ♡)"
                             ]
                         },
                         {
@@ -5023,14 +5023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Heh heh! ♡ I must be on to something if you don’t"
+                                "\\N<Ryoya>“He he! ♡ Tôi phải làm gì đó nếu bạn không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wanna answer... ♡ Sexy. ♡”"
+                                "muốn trả lời... ♡ Quyến rũ. ♡”"
                             ]
                         },
                         {
@@ -5047,14 +5047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“I gotta help teach you how to give blow jobs too,"
+                                "\\N<Ryoya>“Tôi cũng phải giúp dạy bạn cách tung đòn,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "then...!”"
+                                "sau đó...!\""
                             ]
                         },
                         {
@@ -5090,7 +5090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“NGH! ♡ MN! ♡ MMM! ♡ MNNN! ♡”"
+                                "\\N<Kaori>“NGH! ♡ MN! ♡ Ừm! ♡ MNNN! ♡”"
                             ]
                         },
                         {
@@ -5107,7 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(H-He suddenly started moving his hips...!)"
+                                "\\N<Kaori>(H-Anh ấy đột nhiên bắt đầu di chuyển hông của mình...!)"
                             ]
                         },
                         {
@@ -5124,14 +5124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Take this! ♡ And that! ♡ Use your whole throat to"
+                                "\\N<Ryoya>“Hãy lấy cái này! ♡ Và đó! ♡ Dùng toàn bộ cổ họng của bạn để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "suck me off! ♡”"
+                                "mút tôi đi! ♡”"
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“NGH! ♡ MMM! ♡ MMMMM! ♡”"
+                                "\\N<Kaori>“NGH! ♡ Ừm! ♡ MMMMMM! ♡”"
                             ]
                         },
                         {
@@ -5165,7 +5165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-It’s slamming against me...! This hurts, but...)"
+                                "\\N<Kaori>(T-Nó đang đập vào tôi...! Đau quá, nhưng...)"
                             ]
                         },
                         {
@@ -5182,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(F-For some reason... I don’t... dislike this...! ♡)"
+                                "\\N<Kaori>(F-Vì lý do nào đó... tôi không... không thích điều này...! ♡)"
                             ]
                         },
                         {
@@ -5199,7 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“NGH! ♡ MMMMM! ♡ MNNNN! ♡ MNNN! ♡”"
+                                "\\N<Kaori>“NGH! ♡ MMMMMM! ♡ MNNNN! ♡ MNNN! ♡”"
                             ]
                         },
                         {
@@ -5216,14 +5216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Oh...! ♡ I had a feeling you were a masochist. ♡ You"
+                                "\\N<Ryoya>“Ồ...! ♡ Tôi có cảm giác bạn là một kẻ bạo dâm. ♡ Bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "got even hornier when I started roughing you up. ♪”"
+                                "thậm chí còn gay gắt hơn khi tôi bắt đầu thô bạo với bạn. ♪”"
                             ]
                         },
                         {
@@ -5240,14 +5240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You’re even licking all over my cock... ♡ Doubt I’mma"
+                                "\\N<Ryoya>“Anh thậm chí còn liếm khắp cặc của tôi... ♡ Tôi nghi ngờ đấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "last much longer. ♡”"
+                                "kéo dài lâu hơn nhiều. ♡”"
                             ]
                         },
                         {
@@ -5264,7 +5264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-I’d better end this quick...)"
+                                "\\N<Kaori>(T-tôi nên kết thúc chuyện này nhanh...)"
                             ]
                         },
                         {
@@ -5281,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(T-To think I’d be treated... like an object...! ♡)"
+                                "\\N<Kaori>(Đ-Không ngờ mình lại bị đối xử... như một đồ vật...! ♡)"
                             ]
                         },
                         {
@@ -5328,7 +5328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*drip* ♡"
+                                "*nhỏ giọt* ♡"
                             ]
                         },
                         {
@@ -5345,21 +5345,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Damn... Now your pussy’s dripping wet. ♡ I don’t get"
+                                "\\N<Ryoya>“Chết tiệt... Giờ âm hộ của bạn đang ướt sũng. ♡ Tôi không hiểu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "how you can be so slutty to get off on giving a blow"
+                                "sao bạn có thể dâm đãng đến mức sẵn sàng đánh một đòn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "job. ♡”"
+                                "công việc. ♡”"
                             ]
                         },
                         {
@@ -5376,7 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn! ♡ Mn! ♡ MNNNNN! ♡ MMMMM! ♡ MMMMM! ♡”"
+                                "\\N<Kaori>“Trời! ♡ Ừm! ♡ MNNNNNN! ♡ MMMMMM! ♡ MMMMMM! ♡”"
                             ]
                         },
                         {
@@ -5393,7 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Ugh... Oooh...! Fuck! ♡ I’m about to cum! ♡”"
+                                "\\N<Ryoya>“Ờ... Ồ...! Mẹ kiếp! ♡ Tôi sắp xuất tinh rồi! ♡”"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I... I must make him cum... right away... ♡)"
+                                "\\N<Kaori>(Tôi... tôi phải làm cho anh ấy xuất tinh... ngay lập tức... ♡)"
                             ]
                         },
                         {
@@ -5427,7 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mmm! ♡ Mn! ♡ MNNNN! ♡ Mmm! ♡ Mmmmm! ♡”"
+                                "\\N<Kaori>“Ừm! ♡ Ừm! ♡ MNNNN! ♡ Ừm! ♡ Ừmmmmm! ♡”"
                             ]
                         },
                         {
@@ -5444,7 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Oooh...! I’m cumming...! I’m cumming! ♡ ♡”"
+                                "\\N<Ryoya>“Ồ...! Tôi đang xuất tinh...! Tôi đang xuất tinh! ♡ ♡”"
                             ]
                         },
                         {
@@ -5522,7 +5522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -5539,7 +5539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“NGH! Mnnn...! Mnnnnn...! ♡”"
+                                "\\N<Kaori>“NGH! Ừm...! Mnnnn...! ♡”"
                             ]
                         },
                         {
@@ -5582,7 +5582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -5599,7 +5599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Aaah... ♡ C’mon... Drink up. ♡”"
+                                "\\N<Ryoya>“Aaah... ♡ Thôi nào... Uống đi. ♡”"
                             ]
                         },
                         {
@@ -5642,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -5685,7 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Ngh...! Mnnn...! ♡”"
+                                "\\N<Kaori>“Ngh...! Ừm...! ♡”"
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mnnn...! ♡ Mmm...! ♡ Hah! ♡”"
+                                "\\N<Kaori>“Ừm...! ♡ Ừm...! ♡ Hả! ♡”"
                             ]
                         },
                         {
@@ -5769,14 +5769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Heh heh...! That was seriously out of this world... ♡"
+                                "\\N<Ryoya>“Heh heh...! Điều đó thực sự nằm ngoài thế giới này... ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was right to aim for you. ♡”"
+                                "Tôi đã đúng khi nhắm vào bạn. ♡”"
                             ]
                         },
                         {
@@ -5793,7 +5793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(A-Aim for... me...? ♡)"
+                                "\\N<Kaori>(A-Nhắm vào... tôi...? ♡)"
                             ]
                         },
                         {
@@ -5810,14 +5810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Haaah... I’m satisfied for the day, so I’m willing to"
+                                "\\N<Ryoya>“Haaah... Tôi hài lòng trong ngày hôm nay nên tôi sẵn sàng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "call it there...”"
+                                "gọi nó tới đó…”"
                             ]
                         },
                         {
@@ -5834,14 +5834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“...Come again, will you? Of course, we’ll have sex"
+                                "\\N<Ryoya>“...Lại nữa nhé? Tất nhiên là chúng ta sẽ quan hệ tình dục"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "when you do. ♡”"
+                                "khi bạn làm vậy. ♡”"
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*drip* ♡ ♡"
+                                "*nhỏ giọt* ♡ ♡"
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Haaah... The floor’s all wet now. ♡”"
+                                "\\N<Ryoya>“Haaah... Sàn nhà ướt hết rồi. ♡”"
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry...! ♡”"
+                                "\\N<Kaori>“X-Xin lỗi...! ♡”"
                             ]
                         },
                         {
@@ -5940,14 +5940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Well, who cares? ♡ Alright. That about does it for"
+                                "\\N<Ryoya>“Chà, ai quan tâm? ♡ Được rồi. Đó là về nó cho"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "today... ♡”"
+                                "hôm nay... ♡”"
                             ]
                         },
                         {
@@ -6010,14 +6010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Man, you must’ve enjoyed yourself today too. ♡ I know"
+                                "\\N<Ryoya>“Anh bạn, hôm nay chắc hẳn anh cũng rất thích thú. ♡ Tôi biết"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I had a great time. ♡”"
+                                "Tôi đã có khoảng thời gian tuyệt vời. ♡”"
                             ]
                         },
                         {
@@ -6074,14 +6074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I had no choice but to do that to purify him... but at"
+                                "\\N<Kaori>(Tôi không còn lựa chọn nào khác ngoài việc làm điều đó để thanh lọc anh ta... nhưng tại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the same time... I felt so... ♡)"
+                                "cùng lúc đó... tôi cảm thấy rất... ♡)"
                             ]
                         },
                         {
@@ -6105,7 +6105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“...You haven’t forgotten about our promise, right? ♡”"
+                                "\\N<Ryoya>“...Bạn vẫn chưa quên lời hứa của chúng ta phải không? ♡”"
                             ]
                         },
                         {
@@ -6145,7 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“U-Umm...!”"
+                                "\\N<Kaori>“U-Ừm...!”"
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“You’d better come back, got it?”"
+                                "\\N<Ryoya>“Tốt nhất là bạn nên quay lại, hiểu không?”"
                             ]
                         },
                         {
@@ -6226,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“O-Okay...! ♡”"
+                                "\\N<Kaori>“Đ-Được rồi...! ♡”"
                             ]
                         },
                         {
@@ -6259,14 +6259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“Heh heh! ♡ Thank you for coming. ♡ I look forward to"
+                                "\\N<Ryoya>“He heh! ♡ Cảm ơn bạn đã đến. ♡ Tôi rất mong chờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your next visit. ♪”"
+                                "chuyến thăm tiếp theo của bạn. ♪”"
                             ]
                         },
                         {
@@ -6283,7 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Ryoya>“I appreciate you coming today! ♡”"
+                                "\\N<Ryoya>“Tôi đánh giá cao việc bạn đến hôm nay! ♡”"
                             ]
                         },
                         {
