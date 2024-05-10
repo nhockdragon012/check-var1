@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Home",
+    "displayName": "Trang chủ",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2737,7 +2737,7 @@
         null,
         {
             "id": 1,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -4392,7 +4392,7 @@
         null,
         {
             "id": 10,
-            "name": "Fortune-Teller Last",
+            "name": "Thầy bói cuối cùng",
             "note": "",
             "pages": [
                 {
@@ -4462,14 +4462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah... Another boring day... I haven’t gone on any"
+                                "\\N<Shizune>“Hah... Lại một ngày nhàm chán nữa... Tôi chưa đi đâu cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "missions ever since I exterminated that fiend...”"
+                                "nhiệm vụ kể từ khi tôi tiêu diệt con quái vật đó…”"
                             ]
                         },
                         {
@@ -4486,7 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“All I can do is see what’s trending...”"
+                                "\\N<Shizune>“Tất cả những gì tôi có thể làm là xem xu hướng nào…”"
                             ]
                         },
                         {
@@ -4503,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -4527,14 +4527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Busty Schoolgirl ♡ Hypnotized and Tricked Into Begging"
+                                "Cô bé vú to ♡ Bị thôi miên và bị lừa ăn xin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for a Creampie ♡"
+                                "cho một chiếc bánh kem ♡"
                             ]
                         },
                         {
@@ -4558,7 +4558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Wha-What a troublesome ad...”"
+                                "\\N<Shizune>“...Qu-Thật là một quảng cáo rắc rối…”"
                             ]
                         },
                         {
@@ -4615,7 +4615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“W-Wait a sec... The hell...!!?”"
+                                "\\N<Shizune>“Đ-Đợi chút... Cái quái gì thế...!!?”"
                             ]
                         },
                         {
@@ -4684,14 +4684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hey. How about facing the camera and doing peace"
+                                "\\N<Fortune-Teller>“Này. Còn việc đối mặt với máy ảnh và làm điều hòa bình thì sao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "signs?”"
+                                "dấu hiệu?\""
                             ]
                         },
                         {
@@ -4708,7 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha...! ♡ Okey-dokey! ♡”"
+                                "\\N<Shizune>“Haha...! ♡ Được rồi! ♡”"
                             ]
                         },
                         {
@@ -4725,14 +4725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee! ♡ Why don’t you introduce yourself while"
+                                "\\N<Fortune-Teller>“Hee-hee! ♡ Tại sao bạn không giới thiệu bản thân khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’re at it? ♡”"
+                                "bạn có ở đó không? ♡”"
                             ]
                         },
                         {
@@ -4773,14 +4773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Bust size is one-hundred-and-ten, waist size is"
+                                "\\N<Shizune>“Kích thước ngực là một trăm mười, kích thước vòng eo là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sixty-one, and hip size is ninety-three...”"
+                                "sáu mươi mốt, và cỡ hông là chín mươi ba…”"
                             ]
                         },
                         {
@@ -4797,7 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“And the bra size of these big ole titties is M cup...!"
+                                "\\N<Shizune>“Và cỡ áo ngực của cặp vú to này là cúp M...!"
                             ]
                         },
                         {
@@ -4821,21 +4821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Once again, I’ve been deceived by a"
+                                "\\N<Shizune>“...Một lần nữa, tôi lại bị lừa bởi một kẻ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fortune-teller... and will now act like a fool on"
+                                "thầy bói... và bây giờ sẽ hành động như một kẻ ngốc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "camera for you porn viewers...! ♡ ♡”"
+                                "máy ảnh dành cho người xem phim khiêu dâm...! ♡ ♡”"
                             ]
                         },
                         {
@@ -4852,14 +4852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee-hee...! ♡ Are you watching at home...?"
+                                "\\N<Fortune-Teller>“Hee-hee-hee...! ♡ Bạn đang xem ở nhà à...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Enjoying seeing my big tits...? ♡”"
+                                "Shizune Vú To...? ♡”"
                             ]
                         },
                         {
@@ -4876,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Another video is already in the works...”"
+                                "\\N<Fortune-Teller>“Một video khác đang được thực hiện…”"
                             ]
                         },
                         {
@@ -4893,7 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I hope you come back to get tricked again... ♡”"
+                                "\\N<Fortune-Teller>“Mong bạn quay lại để bị lừa lần nữa… ♡”"
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha...! ♡ You betcha I’m making my way back here."
+                                "\\N<Shizune>“Haha...! ♡ Chắc chắn là tôi đang quay lại đây."
                             ]
                         },
                         {
@@ -4934,14 +4934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“All the men watching this better jack off to my porn"
+                                "\\N<Shizune>“Tất cả những người đàn ông xem bộ phim này tốt hơn nên xem phim khiêu dâm của tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "until they can’t anymore... ♡ ♡”"
+                                "cho đến khi họ không thể làm được nữa... ♡ ♡”"
                             ]
                         },
                         {
@@ -4958,14 +4958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee-hee...! ♡ The hypnosis is a huge"
+                                "\\N<Fortune-Teller>“Hee-hee-hee...! ♡ Thôi miên là rất lớn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "success...! ♡ ♡”"
+                                "thành công...! ♡ ♡”"
                             ]
                         },
                         {
@@ -4982,7 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Well then... let’s go for one more round. ♡”"
+                                "\\N<Fortune-Teller>“Vậy thì... hãy chơi thêm một hiệp nữa. ♡”"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“‘Kay! ♡”"
+                                "\\N<Shizune>“‘Được rồi! ♡”"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha-What the hell is this...!!?”"
+                                "\\N<Shizune>“Cái-Cái quái gì thế này...!!?”"
                             ]
                         },
                         {
@@ -5123,7 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Why am I doing that with him...!?”"
+                                "\\N<Shizune>“Tại sao tôi lại làm vậy với anh ấy…!?”"
                             ]
                         },
                         {
@@ -5147,14 +5147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-It’s already being sold on the internet...! I-It’s"
+                                "\\N<Shizune>“N-Nó đã được bán trên mạng rồi…! Tôi-nó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "too... late...!”"
+                                "quá muộn...!\""
                             ]
                         },
                         {
@@ -5171,7 +5171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Gr-Great...”"
+                                "\\N<Shizune>“...Gr-Tuyệt vời…”"
                             ]
                         },
                         {
@@ -5195,7 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now I have to go to his place...!”"
+                                "\\N<Shizune>“Bây giờ tôi phải đến chỗ anh ấy…!”"
                             ]
                         },
                         {
@@ -5212,7 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...And star in another porn video...! ♡ ♡”"
+                                "\\N<Shizune>“...Và đóng vai chính trong một video khiêu dâm khác...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5236,14 +5236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It is my dream to become a full-fledged pornstar,"
+                                "\\N<Shizune>“Ước mơ của tôi là trở thành một diễn viên khiêu dâm chính thức,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "after all...! ♡”"
+                                "sau tất cả...! ♡”"
                             ]
                         },
                         {
@@ -5306,7 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ending - Hypnotically Trained Porn Actress"
+                                "Kết thúc - Nữ diễn viên khiêu dâm được đào tạo thôi miên"
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Can’t believe he posted porn of me without permission!\""
+                                "\"Không thể tin được là anh ấy đã đăng nội dung khiêu dâm của tôi mà không được phép!\""
                             ]
                         },
                         {
@@ -5348,7 +5348,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"I’d have complied as much as he wanted if asked! ♡\""
+                                "\"Tôi sẽ tuân thủ nhiều như anh ấy muốn nếu được yêu cầu! ♡\""
                             ]
                         },
                         {
@@ -5359,7 +5359,7 @@
                                 4,
                                 0,
                                 4,
-                                "\"Fortune-Teller\""
+                                "\"Thầy bói\""
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                                 17,
                                 0,
                                 4,
-                                "\"A fortune-teller who successfully hypnotized Shizune.\""
+                                "\"Một thầy bói đã thôi miên thành công Shizune.\""
                             ]
                         },
                         {
@@ -5381,7 +5381,7 @@
                                 18,
                                 0,
                                 4,
-                                "\"Enjoys her jugs as he gets a rise out of her.\""
+                                "\"Thưởng thức bình của cô ấy khi anh ấy thoát khỏi cô ấy.\""
                             ]
                         },
                         {

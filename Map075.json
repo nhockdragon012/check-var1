@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Hotel Interior",
+    "displayName": "Nội thất khách sạn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3348,7 +3348,7 @@
         },
         {
             "id": 4,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -3415,7 +3415,7 @@
         },
         {
             "id": 5,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

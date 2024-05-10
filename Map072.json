@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Hotel Entrance",
+    "displayName": "Lối vào khách sạn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3487,7 +3487,7 @@
         null,
         {
             "id": 1,
-            "name": "Middle-Aged Man",
+            "name": "Người đàn ông trung niên",
             "note": "",
             "pages": [
                 {
@@ -3538,7 +3538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oh, Busty Babe! It’s been a while. ♡”"
+                                "\\N<Middle-Aged Man>“Ồ, em yêu ngực khủng! Đã được một thời gian rồi. ♡”"
                             ]
                         },
                         {
@@ -3555,14 +3555,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You’re even sexier than you were when we last met..."
+                                "\\N<Middle-Aged Man>“Bạn thậm chí còn quyến rũ hơn cả lần cuối chúng ta gặp nhau..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "♡ Wanna have some fun? ♡”"
+                                "♡ Muốn vui vẻ chút không? ♡”"
                             ]
                         },
                         {
@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(He seems to be affected by the Obscenities...)"
+                                "\\N<Shizune>(Anh ta có vẻ bị ảnh hưởng bởi những lời tục tĩu...)"
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Whoa...! That’s quite a look. ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Đó là một cái nhìn khá. ♡”"
                             ]
                         },
                         {
@@ -3655,21 +3655,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You’ve gotta be a whore if you’re wearing that. ♡"
+                                "\\N<Middle-Aged Man>“Bạn chắc hẳn là một con điếm nếu bạn mặc thứ đó. ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I’ll fuck you real nice in the hotel over there, just"
+                                "Tôi sẽ đụ bạn thật ngon ở khách sạn đằng kia, chỉ là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "for you. ♡”"
+                                "cho bạn. ♡”"
                             ]
                         },
                         {
@@ -3709,14 +3709,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(N-Not surprised I caught his eyes when I’m dressed"
+                                "\\N<Shizune>(K-Không ngạc nhiên khi tôi bắt gặp ánh mắt của anh ấy khi tôi đang mặc quần áo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "like this...)"
+                                "như thế này...)"
                             ]
                         },
                         {
@@ -3752,7 +3752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Damn... ♡ What a busty slut you are...! ♡”"
+                                "\\N<Middle-Aged Man>“Chết tiệt... ♡ Cô đúng là một con đĩ ngực khủng...! ♡”"
                             ]
                         },
                         {
@@ -3769,14 +3769,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Hey. Let’s go to that hotel. ♡ From the looks of your"
+                                "\\N<Middle-Aged Man>“Này. Chúng ta hãy đến khách sạn đó. ♡ Từ vẻ ngoài của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "outfit, I assume you know what we’re going to do. ♡”"
+                                "trang phục, tôi cho rằng bạn biết chúng ta sẽ làm gì. ♡”"
                             ]
                         },
                         {
@@ -3834,8 +3834,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -3848,7 +3848,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)"
+                                "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)"
                             ]
                         },
                         {
@@ -3865,7 +3865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“S-Sounds good to me... ♡”"
+                                "\\N<Shizune>“S-Nghe có vẻ hay đấy... ♡”"
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oooh...! Seriously...? ♡”"
+                                "\\N<Middle-Aged Man>“Ồ...! Nghiêm túc...? ♡”"
                             ]
                         },
                         {
@@ -3899,7 +3899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Let’s get straight to it, then. ♡”"
+                                "\\N<Middle-Aged Man>“Vậy hãy đi thẳng vào vấn đề. ♡”"
                             ]
                         },
                         {
@@ -4006,7 +4006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Aaahn...! ♡ MN! ♡ MNNN! ♡”"
+                                "\\N<Shizune>“Aah...! ♡ MN! ♡ MNNN! ♡”"
                             ]
                         },
                         {
@@ -4023,21 +4023,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Hee-hee-hee! ♡ I didn’t expect to fuck such a young,"
+                                "\\N<Middle-Aged Man>“Hee-hee-hee! ♡ Tôi không ngờ lại được yêu một cô gái trẻ như vậy,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "busty woman raw... ♡ I was a fool for paying so much"
+                                "người phụ nữ ngực khủng... ♡ Tôi thật ngu ngốc khi trả quá nhiều tiền"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "for those other women. ♡”"
+                                "cho những người phụ nữ khác. ♡”"
                             ]
                         },
                         {
@@ -4054,14 +4054,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Y-You said... you were going to use a condom..."
+                                "\\N<Shizune>“Y-Bạn nói... bạn sẽ sử dụng bao cao su..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "MNNNNN! ♡ ♡”"
+                                "MNNNN! ♡ ♡”"
                             ]
                         },
                         {
@@ -4078,21 +4078,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Shut up! Sluts who play around with old men in this"
+                                "\\N<Middle-Aged Man>“Im đi! Những con điếm chơi đùa với những ông già trong phim này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "part of town don’t get to talk back to fully-fledged"
+                                "một phần của thị trấn không có cơ hội để nói chuyện lại với chính thức"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "adults like me. ♡”"
+                                "người lớn như tôi. ♡”"
                             ]
                         },
                         {
@@ -4109,14 +4109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’m going to fuck you raw all night long. Prepare"
+                                "\\N<Middle-Aged Man>“Tôi sẽ làm tình với bạn suốt đêm. Chuẩn bị"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "yourself...! ♡”"
+                                "bản thân bạn...! ♡”"
                             ]
                         },
                         {
@@ -4133,7 +4133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“St-Stop... F-Forgive me... ♡ AH! ♡ AAAAAH! ♡ ♡”"
+                                "\\N<Shizune>“Dừng lại... F-Tha lỗi cho tôi... ♡ AH! ♡ AAAAAH! ♡ ♡”"
                             ]
                         },
                         {
@@ -4243,7 +4243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Haaah...! Haaah...! Haaah...! ♡”"
+                                "\\N<Shizune>“Haaah...! Haa...! Haa...! ♡”"
                             ]
                         },
                         {
@@ -4260,7 +4260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’m just getting started... Get ready... ♡”"
+                                "\\N<Middle-Aged Man>“Tôi chỉ mới bắt đầu thôi... Hãy sẵn sàng... ♡\""
                             ]
                         },
                         {
@@ -4415,14 +4415,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’ve never fucked a pussy as good as yours. ♡ Let’s"
+                                "\\N<Middle-Aged Man>“Tôi chưa bao giờ đụ một cái âm hộ nào hay như của bạn. ♡ Hãy cùng nhau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "do this again sometime. ♡”"
+                                "làm điều này một lần nữa vào lúc nào đó. ♡”"
                             ]
                         },
                         {
@@ -4444,7 +4444,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -4529,14 +4529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’ve never fucked a pussy as good as yours. ♡ Let’s"
+                                "\\N<Middle-Aged Man>“Tôi chưa bao giờ đụ một cái âm hộ nào hay như của bạn. ♡ Hãy cùng nhau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "do this again sometime. ♡”"
+                                "làm điều này một lần nữa vào lúc nào đó. ♡”"
                             ]
                         },
                         {
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Oh...! ♡ A priestess with some huge tits. ♡”"
+                                "\\N<Old Man>“Ồ...! ♡ Một nữ tu sĩ với cặp vú khổng lồ. ♡”"
                             ]
                         },
                         {
@@ -4637,14 +4637,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Heh heh... How about we go enjoy ourselves together?"
+                                "\\N<Old Man>“Heh heh... Chúng ta cùng nhau đi tận hưởng nhé?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haha, just kidding... Unless... ♡”"
+                                "Haha, đùa thôi... Trừ khi... ♡”"
                             ]
                         },
                         {
@@ -4687,7 +4687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Whoa...! That’s quite a look. ♡”"
+                                "\\N<Old Man>“Ồ...! Đó là một cái nhìn khá. ♡”"
                             ]
                         },
                         {
@@ -4704,7 +4704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Are you here to have some fun with me? ♡”"
+                                "\\N<Old Man>“Bạn đến đây để vui vẻ với tôi phải không? ♡”"
                             ]
                         },
                         {
@@ -4747,7 +4747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Damn... ♡ What a busty slut you are...! ♡”"
+                                "\\N<Old Man>“Chết tiệt... ♡ Em đúng là một con đĩ ngực khủng...! ♡”"
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“If you’re dressed like that, then you must know what"
+                                "\\N<Old Man>“Nếu bạn ăn mặc như vậy thì bạn phải biết điều gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "you’re doing. ♡”"
+                                "bạn đang làm. ♡”"
                             ]
                         },
                         {
@@ -4789,8 +4789,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -4803,7 +4803,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)"
+                                "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)"
                             ]
                         },
                         {
@@ -4820,7 +4820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I would love to join you, if you don’t mind...”"
+                                "\\N<Kaori>“Tôi-tôi rất muốn tham gia cùng bạn, nếu bạn không phiền…”"
                             ]
                         },
                         {
@@ -4837,7 +4837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Huh!? S-Seriously...? ♡”"
+                                "\\N<Old Man>“Hả!? Đ-Nghiêm túc đấy...? ♡”"
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“What are we waiting for, then? ♡”"
+                                "\\N<Old Man>“Vậy thì chúng ta đang chờ đợi điều gì? ♡”"
                             ]
                         },
                         {
@@ -4871,7 +4871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“U-Umm...! Please be sure to use a condom...”"
+                                "\\N<Kaori>“U-Ừm...! Hãy nhớ sử dụng bao cao su…”"
                             ]
                         },
                         {
@@ -4888,14 +4888,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Yeah, yeah. I know. ♡ I’d never cum inside a woman I"
+                                "\\N<Old Man>“Ừ, ừ. Tôi biết. ♡ Tôi sẽ không bao giờ xuất tinh vào bên trong một người phụ nữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "don’t know. ♡”"
+                                "không biết. ♡”"
                             ]
                         },
                         {
@@ -5036,7 +5036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -5053,7 +5053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“MNN! ♡ AH! ♡ AH! ♡ MNNNNN! ♡”"
+                                "\\N<Kaori>“MNN! ♡ À! ♡ À! ♡ MNNNNNN! ♡”"
                             ]
                         },
                         {
@@ -5070,14 +5070,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Did you really think I’d use a condom when a woman"
+                                "\\N<Old Man>“Bạn có thực sự nghĩ rằng tôi sẽ sử dụng bao cao su khi một phụ nữ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "with gigantic tits comes to me for sex!? Take this! ♡"
+                                "với cặp vú khổng lồ đến với tôi để quan hệ tình dục!? Thực hiện việc này! ♡"
                             ]
                         },
                         {
@@ -5101,7 +5101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -5118,7 +5118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“NGH! ♡ MN! ♡ AHN! ♡ MNNNNN! ♡ ♡”"
+                                "\\N<Kaori>“NGH! ♡ MN! ♡ AHN! ♡ MNNNNNN! ♡ ♡”"
                             ]
                         },
                         {
@@ -5135,14 +5135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Here...! I’mma cum as deep inside you as"
+                                "\\N<Old Man>“Đây...! Tôi sẽ xuất tinh vào sâu bên trong bạn như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "possible...!!”"
+                                "khả thi...!!\""
                             ]
                         },
                         {
@@ -5220,7 +5220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -5296,7 +5296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -5313,14 +5313,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Phew... I got to cum inside a slutty babe with"
+                                "\\N<Old Man>“Phew... Tôi phải xuất tinh vào bên trong một cô bé đĩ với"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "badonkers...! ♡”"
+                                "đồ khốn nạn...! ♡”"
                             ]
                         },
                         {
@@ -5337,14 +5337,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Old Man>“Well, I’ll be taking my leave... I’ll also pay the"
+                                "\\N<Old Man>“Chà, tôi sẽ nghỉ phép… Tôi cũng sẽ trả tiền"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "hotel bill. ♡”"
+                                "hóa đơn khách sạn. ♡”"
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“O-Okay...! ♡ ♡”"
+                                "\\N<Kaori>“Đ-Được rồi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -5497,14 +5497,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’ve never fucked a pussy as good as yours. ♡ Let’s"
+                                "\\N<Middle-Aged Man>“Tôi chưa bao giờ đụ một cái âm hộ nào hay như của bạn. ♡ Hãy cùng nhau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "do this again sometime. ♡”"
+                                "làm điều này một lần nữa vào lúc nào đó. ♡”"
                             ]
                         },
                         {
@@ -5517,7 +5517,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -5602,14 +5602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I’ve never fucked a pussy as good as yours. ♡ Let’s"
+                                "\\N<Middle-Aged Man>“Tôi chưa bao giờ đụ một cái âm hộ nào hay như của bạn. ♡ Hãy cùng nhau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "do this again sometime. ♡”"
+                                "làm điều này một lần nữa vào lúc nào đó. ♡”"
                             ]
                         },
                         {
@@ -5651,7 +5651,7 @@
         null,
         {
             "id": 9,
-            "name": "Reaction NPC",
+            "name": "NPC phản ứng",
             "note": "",
             "pages": [
                 {
@@ -5673,7 +5673,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B2_seito",
+                        "characterName": "B2_onna",
                         "direction": 2,
                         "pattern": 1,
                         "characterIndex": 0

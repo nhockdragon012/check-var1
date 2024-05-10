@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "Wood2",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Force Field Interior",
+    "displayName": "Nội thất trường lực",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -3877,7 +3877,7 @@
         null,
         {
             "id": 1,
-            "name": "Sex Fiend",
+            "name": "Kẻ tình dục",
             "note": "",
             "pages": [
                 {
@@ -3937,7 +3937,7 @@
         },
         {
             "id": 2,
-            "name": "6th Chapter Story",
+            "name": "Câu chuyện chương 6",
             "note": "",
             "pages": [
                 {
@@ -4007,14 +4007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This demonic energy... This place is filled with"
+                                "\\N<Shizune>“Năng lượng ma quỷ này… Nơi này chứa đầy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "spiritual power.”"
+                                "Sức mạnh tinh thần.\""
                             ]
                         },
                         {
@@ -4038,14 +4038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Which means, an apparition or Sex Fiend may be lurking"
+                                "\\N<Shizune>“Có nghĩa là, một bóng ma hoặc Kẻ cuồng tình dục có thể đang rình rập"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "nearby...”"
+                                "gần đây…”"
                             ]
                         },
                         {
@@ -4116,7 +4116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Th-That’s...!”"
+                                "\\N<Shizune>“Đ-Đó là...!”"
                             ]
                         },
                         {
@@ -4185,14 +4185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This is one of the sigils Mother talked about... It’s"
+                                "\\N<Shizune>“Đây là một trong những dấu hiệu mà Mẹ đã nói đến... Đó là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "giving off an ominous feeling.”"
+                                "tạo ra một cảm giác đáng ngại.”"
                             ]
                         },
                         {
@@ -4209,14 +4209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’d better destroy it quickly before any more harm is"
+                                "\\N<Shizune>“Tốt nhất tôi nên tiêu diệt nó nhanh chóng trước khi có thêm bất kỳ tổn hại nào xảy ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "done.”"
+                                "xong.\""
                             ]
                         },
                         {
@@ -4352,14 +4352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Whew. That was easy... It was more fragile than I"
+                                "\\N<Shizune>“...Ồ. Điều đó thật dễ dàng... Nó còn mong manh hơn tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thought.”"
+                                "nghĩ.\""
                             ]
                         },
                         {
@@ -4421,21 +4421,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Now, why don’t you stop sneaking around and show"
+                                "\\N<Shizune>“...Bây giờ, tại sao bạn không ngừng lén lút và thể hiện"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yourself? The Obscenities you’re leaking out are giving"
+                                "bản thân bạn? Những lời tục tĩu mà bạn đang rò rỉ ra đang gây ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you away.”"
+                                "bạn cút đi.\""
                             ]
                         },
                         {
@@ -4476,14 +4476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>“Hahaha... As expected of a priestess of the Ayatsuji"
+                                "\\N<???>“Hahaha... Đúng như mong đợi về một nữ tu sĩ của Ayatsuji"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family...”"
+                                "gia đình...\""
                             ]
                         },
                         {
@@ -4544,7 +4544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A Sex Fiend with no body...?”"
+                                "\\N<Shizune>“Kẻ tình dục không có cơ thể…?”"
                             ]
                         },
                         {
@@ -4568,7 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You helped set up that sigil, didn’t you...?”"
+                                "\\N<Shizune>“Bạn đã giúp thiết lập dấu hiệu đó, phải không…?”"
                             ]
                         },
                         {
@@ -4585,14 +4585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“I finally thought all the townspeople would become"
+                                "\\N<Sex Fiend>“Cuối cùng tôi nghĩ tất cả người dân thị trấn sẽ trở thành"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "lewd and happy... but then you had to ruin the fun..."
+                                "dâm đãng và hạnh phúc... nhưng rồi bạn phải phá hỏng cuộc vui..."
                             ]
                         },
                         {
@@ -4623,14 +4623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph... You were just forcing them to deal with the"
+                                "\\N<Shizune>“Hmph... Bạn chỉ đang buộc họ phải đối phó với"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obscenities.”"
+                                "Những lời tục tĩu.”"
                             ]
                         },
                         {
@@ -4647,14 +4647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Also, it doesn’t bring me joy to know that people I"
+                                "\\N<Shizune>“Ngoài ra, tôi không vui khi biết rằng những người tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "don’t even like are eyeing me up all the time.”"
+                                "thậm chí còn không thích lúc nào cũng để mắt tới tôi.”"
                             ]
                         },
                         {
@@ -4678,7 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Deary me... How can you not be a fan of being ogled?”"
+                                "\\N<Sex Fiend>“Xin chào... Làm sao bạn có thể không thích được nhìn chằm chằm?”"
                             ]
                         },
                         {
@@ -4695,14 +4695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Haha... Well, with that body, you must get leered at"
+                                "\\N<Sex Fiend>“Haha... Chà, với thân hình đó, bạn chắc chắn sẽ bị nhìn chằm chằm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "on a daily basis... ♪”"
+                                "hàng ngày... ♪”"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Your body really is... nice... ♡”"
+                                "\\N<Sex Fiend>“Cơ thể của bạn thật sự rất... đẹp... ♡\""
                             ]
                         },
                         {
@@ -4743,7 +4743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah... Why must Sex Fiends be like this...?”"
+                                "\\N<Shizune>“Hah... Tại sao Sex Fiends lại phải như thế này…?”"
                             ]
                         },
                         {
@@ -4760,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Anyways, I’mma exterminate you... Get ready!”"
+                                "\\N<Shizune>“Dù sao thì, tôi sẽ tiêu diệt bạn… Hãy sẵn sàng!”"
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sex Fiend>“Haha... I’ll show you some love. ♡”"
+                                "\\N<Sex Fiend>“Haha... Tôi sẽ cho bạn thấy tình yêu thương. ♡”"
                             ]
                         },
                         {
@@ -4866,7 +4866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Phew... It’s over, I think.”"
+                                "\\N<Shizune>“Phew... Tôi nghĩ là mọi chuyện đã kết thúc rồi.”"
                             ]
                         },
                         {
@@ -4883,14 +4883,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“It seemed to be a type of Sex Fiend that could possess"
+                                "\\N<Shizune>“Nó dường như là một loại Sex Fiend có thể sở hữu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "people...”"
+                                "mọi người...\""
                             ]
                         },
                         {
@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Wonder what would’ve happened if I lost...”"
+                                "\\N<Shizune>“Tự hỏi điều gì sẽ xảy ra nếu tôi thua…”"
                             ]
                         },
                         {
@@ -4937,7 +4937,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Head Home & Check On Yui\""
+                                "\"Về nhà và kiểm tra Yui\""
                             ]
                         },
                         {
@@ -5012,14 +5012,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I already destroyed a sigil... so I should head home"
+                                "\\N<Shizune>“Tôi đã phá hủy một dấu hiệu... vì vậy tôi nên về nhà"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "soon.”"
+                                "sớm.\""
                             ]
                         },
                         {
@@ -5060,7 +5060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...I missed...!?”"
+                                "\\N<Shizune>“...Tôi trượt...!?”"
                             ]
                         },
                         {
@@ -5084,7 +5084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sex Fiend>“Now’s my chance! ♪”"
+                                "\\N<Sex Fiend>“Bây giờ là cơ hội của tôi! ♪”"
                             ]
                         },
                         {
@@ -5221,7 +5221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“What the...!? My... body...”"
+                                "\\N<Shizune>“Cái gì...!? Cơ thể của tôi...\""
                             ]
                         },
                         {
@@ -5238,7 +5238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Get out...!”"
+                                "\\N<Shizune>“Ra ngoài...!”"
                             ]
                         },
                         {
@@ -5310,14 +5310,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Haha...! ♪ So this is the body of a priestess of the"
+                                "\\N<Shizune>“Haha...! ♪ Vậy ra đây là cơ thể của một nữ tu sĩ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ayatsuji family... ♡”"
+                                "Gia đình Ayatsuji... ♡”"
                             ]
                         },
                         {
@@ -5334,14 +5334,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“What big titties... It’d be a waste not to let a lot"
+                                "\\N<Shizune>“Ngực to thế... Không để nhiều thì thật lãng phí"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "of men see it. ♡”"
+                                "của đàn ông nhìn thấy nó. ♡”"
                             ]
                         },
                         {
@@ -5409,7 +5409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...A few hours later..."
+                                "...Một vài tiếng sau..."
                             ]
                         },
                         {
@@ -5420,7 +5420,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Head Home & Check On Yui\""
+                                "\"Về nhà và kiểm tra Yui\""
                             ]
                         },
                         {
@@ -5505,7 +5505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“H-Huh...!? What... was I doing...?”"
+                                "\\N<Shizune>“H-Hả...!? Tôi... đang làm gì vậy...?\""
                             ]
                         },
                         {
@@ -5522,7 +5522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I remember fighting a Sex Fiend...”"
+                                "\\N<Shizune>“Tôi nhớ đã chiến đấu với một con quỷ tình dục…”"
                             ]
                         },
                         {
@@ -5577,7 +5577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...The demonic energy seems to be gone.”"
+                                "\\N<Shizune>“...Năng lượng ma quỷ dường như đã biến mất.”"
                             ]
                         },
                         {
@@ -5594,7 +5594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I broke the sigil, so I guess everything is alright.”"
+                                "\\N<Shizune>“Tôi đã phá vỡ dấu hiệu nên tôi đoán mọi thứ đều ổn.”"
                             ]
                         },
                         {
@@ -5618,14 +5618,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hmm... My memory is still fuzzy. Wonder what"
+                                "\\N<Shizune>“Hmm... Trí nhớ của tôi vẫn còn mờ. Ngạc nhiên điều gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "happened.”"
+                                "đã xảy ra.\""
                             ]
                         },
                         {
@@ -5649,7 +5649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Well, I accomplished my objective. Time to head home.”"
+                                "\\N<Shizune>“Chà, tôi đã hoàn thành mục tiêu của mình. Đã đến lúc về nhà rồi.”"
                             ]
                         },
                         {
@@ -5701,7 +5701,7 @@
         },
         {
             "id": 3,
-            "name": "Sigil & Sex Fiend",
+            "name": "Dấu hiệu & Kẻ tình dục",
             "note": "",
             "pages": [
                 {
@@ -5761,7 +5761,7 @@
         },
         {
             "id": 4,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
