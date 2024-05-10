@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Department Store 1F",
+    "displayName": "Cửa hàng bách hóa 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2743,7 +2743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome! Please take your time. ♪”"
+                                "\\N<Receptionist>“Chào mừng! Hãy dành thời gian của bạn. ♪”"
                             ]
                         },
                         {
@@ -2820,7 +2820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome! Please take your time. ♪”"
+                                "\\N<Receptionist>“Chào mừng! Hãy dành thời gian của bạn. ♪”"
                             ]
                         },
                         {
@@ -2879,7 +2879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Wha...!? Wha-What are you doing...!?”"
+                                "\\N<Receptionist>“Cái gì...!? C-Anh đang làm gì vậy...!?”"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Wha...!? Wha-What are you doing...!?”"
+                                "\\N<Receptionist>“Cái gì...!? C-Anh đang làm gì vậy...!?”"
                             ]
                         },
                         {
@@ -3073,14 +3073,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome. ♪ The second floor is currently under"
+                                "\\N<Receptionist>“Chào mừng. ♪ Tầng hai hiện đang ở dưới"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "renovation. Please be careful if you go up there. ♪”"
+                                "cải tạo. Hãy cẩn thận nếu bạn đi lên đó. ♪”"
                             ]
                         },
                         {
@@ -3139,7 +3139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Wha...!? Wha-What are you doing...!?”"
+                                "\\N<Receptionist>“Cái gì...!? C-Anh đang làm gì vậy...!?”"
                             ]
                         },
                         {
@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Wha...!? Wha-What are you doing...!?”"
+                                "\\N<Receptionist>“Cái gì...!? C-Anh đang làm gì vậy...!?”"
                             ]
                         },
                         {
@@ -3333,14 +3333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome. ♪ The second floor is currently under"
+                                "\\N<Receptionist>“Chào mừng. ♪ Tầng hai hiện đang ở dưới"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "renovation. Please be careful if you go up there. ♪”"
+                                "cải tạo. Hãy cẩn thận nếu bạn đi lên đó. ♪”"
                             ]
                         },
                         {
@@ -3417,14 +3417,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome. ♪ The second floor is currently under"
+                                "\\N<Receptionist>“Chào mừng. ♪ Tầng hai hiện đang ở dưới"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "renovation. Please be careful if you go up there. ♪”"
+                                "cải tạo. Hãy cẩn thận nếu bạn đi lên đó. ♪”"
                             ]
                         },
                         {
@@ -3483,7 +3483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“M-Ma’am... Please don’t wear that in the store...”"
+                                "\\N<Receptionist>“M-Ma'am... Làm ơn đừng mặc thứ đó trong cửa hàng…”"
                             ]
                         },
                         {
@@ -3500,7 +3500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“S-Sorry...”"
+                                "\\N<Shizune>“X-Xin lỗi…”"
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“M-Ma’am... Please don’t wear that in the store...”"
+                                "\\N<Receptionist>“M-Ma'am... Làm ơn đừng mặc thứ đó trong cửa hàng…”"
                             ]
                         },
                         {
@@ -3583,7 +3583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“S-Sorry...”"
+                                "\\N<Shizune>“X-Xin lỗi…”"
                             ]
                         },
                         {
@@ -3677,14 +3677,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome. ♪ The second floor is currently under"
+                                "\\N<Receptionist>“Chào mừng. ♪ Tầng hai hiện đang ở dưới"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "renovation. Please be careful if you go up there. ♪”"
+                                "cải tạo. Hãy cẩn thận nếu bạn đi lên đó. ♪”"
                             ]
                         },
                         {
@@ -3743,7 +3743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“M-Ma’am... Please don’t wear that in the store...”"
+                                "\\N<Receptionist>“M-Ma'am... Làm ơn đừng mặc thứ đó trong cửa hàng…”"
                             ]
                         },
                         {
@@ -3760,7 +3760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry...”"
+                                "\\N<Kaori>“X-Xin lỗi…”"
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“M-Ma’am... Please don’t wear that in the store...”"
+                                "\\N<Receptionist>“M-Ma'am... Làm ơn đừng mặc thứ đó trong cửa hàng…”"
                             ]
                         },
                         {
@@ -3843,7 +3843,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry...”"
+                                "\\N<Kaori>“X-Xin lỗi…”"
                             ]
                         },
                         {
@@ -3937,14 +3937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome! We have a wide range of jewelry and other"
+                                "\\N<Receptionist>“Chào mừng! Chúng tôi có nhiều loại đồ trang sức và các sản phẩm khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "products.”"
+                                "các sản phẩm.\""
                             ]
                         },
                         {
@@ -4021,14 +4021,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome! We have a wide range of jewelry and other"
+                                "\\N<Receptionist>“Chào mừng! Chúng tôi có nhiều loại đồ trang sức và các sản phẩm khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "products.”"
+                                "các sản phẩm.\""
                             ]
                         },
                         {
@@ -4087,7 +4087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Huh...!? I-Is everything all right...?”"
+                                "\\N<Receptionist>“Hả...!? T-Mọi chuyện ổn chứ...?”"
                             ]
                         },
                         {
@@ -4104,7 +4104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“W-Well... Uh... Um...”"
+                                "\\N<Shizune>“Ch-Chà... Uh... Ừm…”"
                             ]
                         },
                         {
@@ -4170,7 +4170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Huh...!? I-Is everything all right...?”"
+                                "\\N<Receptionist>“Hả...!? T-Mọi chuyện ổn chứ...?”"
                             ]
                         },
                         {
@@ -4187,7 +4187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“W-Well... Uh... Um...”"
+                                "\\N<Shizune>“Ch-Chà... Uh... Ừm…”"
                             ]
                         },
                         {
@@ -4281,14 +4281,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Welcome! We have a wide range of jewelry and other"
+                                "\\N<Receptionist>“Chào mừng! Chúng tôi có nhiều loại đồ trang sức và các sản phẩm khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "products.”"
+                                "các sản phẩm.\""
                             ]
                         },
                         {
@@ -4347,7 +4347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Huh...!? I-Is everything all right...?”"
+                                "\\N<Receptionist>“Hả...!? T-Mọi chuyện ổn chứ...?”"
                             ]
                         },
                         {
@@ -4364,7 +4364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I can explain...!”"
+                                "\\N<Kaori>“Tôi-tôi có thể giải thích...!”"
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Receptionist>“Huh...!? I-Is everything all right...?”"
+                                "\\N<Receptionist>“Hả...!? T-Mọi chuyện ổn chứ...?”"
                             ]
                         },
                         {
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I can explain...!”"
+                                "\\N<Kaori>“Tôi-tôi có thể giải thích...!”"
                             ]
                         },
                         {
@@ -4521,7 +4521,7 @@
                     "directionFix": true,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B3_sensei",
+                        "characterName": "B3_otona",
                         "direction": 4,
                         "pattern": 1,
                         "characterIndex": 6
@@ -4541,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Girl>“Mom! Hurry up!”"
+                                "\\N<Girl>“Mẹ ơi! Nhanh lên!\""
                             ]
                         },
                         {
@@ -4558,14 +4558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Let me look at it a little more... We still have some"
+                                "\\N<Female Customer>“Để tôi xem xét thêm một chút... Chúng tôi vẫn còn một số"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "time until the event starts...”"
+                                "thời gian cho đến khi sự kiện bắt đầu…”"
                             ]
                         },
                         {
@@ -4693,7 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Girl>“Mom! Hurry up!”"
+                                "\\N<Girl>“Mẹ ơi! Nhanh lên!\""
                             ]
                         },
                         {
@@ -4710,14 +4710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Let me look at it a little more... We still have some"
+                                "\\N<Female Customer>“Để tôi xem xét thêm một chút... Chúng tôi vẫn còn một số"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "time until the event starts...”"
+                                "thời gian cho đến khi sự kiện bắt đầu…”"
                             ]
                         },
                         {
@@ -4845,7 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Hey! Are you not done yet?”"
+                                "\\N<Male Customer>“Này! Cậu vẫn chưa xong à?”"
                             ]
                         },
                         {
@@ -4862,7 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Haaah...! Let me take a closer look at it.”"
+                                "\\N<Female Customer>“Haaah...! Hãy để tôi xem xét kỹ hơn về nó.”"
                             ]
                         },
                         {
@@ -4939,7 +4939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Haha. ♪ What should I have him get me? ♪”"
+                                "\\N<Female Customer>“Haha. ♪ Tôi nên nhờ anh ấy mua gì cho tôi? ♪”"
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -5015,7 +5015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay.”"
+                                "\\N<Shizune>“Được rồi.”"
                             ]
                         },
                         {
@@ -5081,7 +5081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -5098,7 +5098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay.”"
+                                "\\N<Shizune>“Được rồi.”"
                             ]
                         },
                         {
@@ -5192,7 +5192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Haha. ♪ What should I have him get me? ♪”"
+                                "\\N<Female Customer>“Haha. ♪ Tôi nên nhờ anh ấy mua gì cho tôi? ♪”"
                             ]
                         },
                         {
@@ -5251,7 +5251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -5268,7 +5268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I didn’t mean to... Sorry...”"
+                                "\\N<Kaori>“T-tôi không cố ý... Xin lỗi…”"
                             ]
                         },
                         {
@@ -5334,7 +5334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -5351,7 +5351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I didn’t mean to... Sorry...”"
+                                "\\N<Kaori>“T-tôi không cố ý... Xin lỗi…”"
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Hey! Are you not done yet?”"
+                                "\\N<Male Customer>“Này! Cậu vẫn chưa xong à?”"
                             ]
                         },
                         {
@@ -5513,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Haaah...! Let me take a closer look at it.”"
+                                "\\N<Female Customer>“Haaah...! Hãy để tôi xem xét kỹ hơn về nó.”"
                             ]
                         },
                         {
@@ -5597,7 +5597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>(Oh... Nice tits... ♡)"
+                                "\\N<Male Customer>(Ồ... Vú đẹp quá... ♡)"
                             ]
                         },
                         {
@@ -5614,7 +5614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey... What are you looking at?”"
+                                "\\N<Female Customer>“Này... Bạn đang nhìn gì thế?”"
                             ]
                         },
                         {
@@ -5631,7 +5631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Huh...!? Nothing...”"
+                                "\\N<Male Customer>“Hả...!? Không có gì...\""
                             ]
                         },
                         {
@@ -5690,7 +5690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wha...!? That outfit’s amazing...! ♡”"
+                                "\\N<Male Customer>“Cái gì...!? Bộ trang phục đó thật tuyệt vời...! ♡”"
                             ]
                         },
                         {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -5724,14 +5724,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Y-Yeah... You’re really rustling my jimmies... Heh"
+                                "\\N<Male Customer>“Y-Ừ... Bạn thực sự đang làm trò đùa của tôi... Heh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "heh. ♡”"
+                                "hê. ♡”"
                             ]
                         },
                         {
@@ -5790,7 +5790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wow...! S-Seriously...!? ♡”"
+                                "\\N<Male Customer>“Chà...! Đ-Nghiêm túc đấy...!? ♡”"
                             ]
                         },
                         {
@@ -5807,7 +5807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“HUH!? Wha-What are you doing!?”"
+                                "\\N<Female Customer>“Hả!? C-Anh đang làm gì vậy!?”"
                             ]
                         },
                         {
@@ -5824,7 +5824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“A-Amazing... So big... ♡”"
+                                "\\N<Male Customer>“A-Tuyệt vời... To quá... ♡”"
                             ]
                         },
                         {
@@ -5841,7 +5841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(He’s looking at me, isn’t he...?)"
+                                "\\N<Shizune>(Anh ấy đang nhìn tôi phải không...?)"
                             ]
                         },
                         {
@@ -5859,8 +5859,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>80)Purify ♡ (Needed Lewd: 80 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>80)Purify ♡ (Dâm dục cần thiết: 80 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -5873,7 +5873,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>80)Purify ♡ (Needed Lewd: 80 Or More)"
+                                "en(v[1]>80)Purify ♡ (Dâm dục cần thiết: 80 trở lên)"
                             ]
                         },
                         {
@@ -5890,7 +5890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(...I have to purify the Obscenities, so... ♡)"
+                                "\\N<Shizune>(...Tôi phải thanh tẩy Tục tĩu, nên... ♡)"
                             ]
                         },
                         {
@@ -6033,14 +6033,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hey, follow me for a sec... I need to talk to you in"
+                                "\\N<Shizune>“Này, theo tôi một chút... Tôi cần nói chuyện với bạn sau"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "private... ♡”"
+                                "riêng tư... ♡”"
                             ]
                         },
                         {
@@ -6057,7 +6057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Hold up... For real...? ♡”"
+                                "\\N<Male Customer>“Chờ đã... Thật sao...? ♡”"
                             ]
                         },
                         {
@@ -6081,14 +6081,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Where do you think you’re going...!? You’re"
+                                "\\N<Female Customer>“Này...! Bạn nghĩ bạn đang đi đâu...!? bạn là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "not following her, right!? RIGHT!?”"
+                                "không theo dõi cô ấy, phải không!? PHẢI!?\""
                             ]
                         },
                         {
@@ -6105,7 +6105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Huh? I’m not the type to turn down requests, so... ♡”"
+                                "\\N<Male Customer>“Hả? Tôi không phải là loại người từ chối yêu cầu, nên... ♡”"
                             ]
                         },
                         {
@@ -6122,14 +6122,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“...I’ll break up with you if you follow th-this"
+                                "\\N<Female Customer>“...Tôi sẽ chia tay với bạn nếu bạn làm theo điều này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "woman...!”"
+                                "đàn bà...!\""
                             ]
                         },
                         {
@@ -6146,7 +6146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wha...!? B-But...”"
+                                "\\N<Male Customer>“Cái gì...!? N-Nhưng…”"
                             ]
                         },
                         {
@@ -6289,7 +6289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Are you sure?”"
+                                "\\N<Shizune>“...Bạn có chắc không?”"
                             ]
                         },
                         {
@@ -6306,7 +6306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“What...!?”"
+                                "\\N<Male Customer>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -6323,14 +6323,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“This may be the last time a woman as BIG as me asks"
+                                "\\N<Shizune>“Đây có thể là lần cuối cùng một người phụ nữ LỚN như tôi hỏi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "for you, you know...? ♡”"
+                                "dành cho bạn, bạn biết không...? ♡”"
                             ]
                         },
                         {
@@ -6347,7 +6347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“...Y-You’re right...! ♡”"
+                                "\\N<Male Customer>“...C-Bạn nói đúng...! ♡”"
                             ]
                         },
                         {
@@ -6364,7 +6364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“H-HUH!!? What are you saying...!?”"
+                                "\\N<Female Customer>“H-HUH!!? Bạn đang nói gì vậy...!?\""
                             ]
                         },
                         {
@@ -6381,7 +6381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Come on. Let’s go. ♡”"
+                                "\\N<Shizune>“...Nào. Đi nào. ♡”"
                             ]
                         },
                         {
@@ -6405,7 +6405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“...”"
+                                "\\N<Male Customer>“…”"
                             ]
                         },
                         {
@@ -6422,7 +6422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“...S-Sorry... ♡”"
+                                "\\N<Male Customer>“...X-Xin lỗi... ♡”"
                             ]
                         },
                         {
@@ -6439,7 +6439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“...Wha-Whatever...!”"
+                                "\\N<Female Customer>“...Cái-Sao cũng được...!”"
                             ]
                         },
                         {
@@ -6509,7 +6509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -6573,7 +6573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Here... How’s my boobs for you...? ♡”"
+                                "\\N<Shizune>“Đây… cặp vú của tôi dành cho bạn thế nào…? ♡”"
                             ]
                         },
                         {
@@ -6590,7 +6590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Whoa... Th-They’re the best... ♡”"
+                                "\\N<Male Customer>“Ồ... Đ-Họ là tuyệt nhất... ♡\""
                             ]
                         },
                         {
@@ -6607,14 +6607,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Your girlfriend’s breasts don’t compare to these,"
+                                "\\N<Shizune>“...Ngực của bạn gái bạn không thể so sánh được với những thứ này,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "do they? ♡”"
+                                "họ có làm vậy không? ♡”"
                             ]
                         },
                         {
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“W-Well, yours are absurdly large... ♡”"
+                                "\\N<Male Customer>“Ch-Chà, của bạn lớn đến mức vô lý... ♡”"
                             ]
                         },
                         {
@@ -6677,7 +6677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squelch* ♡ *squelch* ♡ *squish* ♡ *squish* ♡"
+                                "*bụp* ♡ *bụp* ♡ *bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -6694,7 +6694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Oh...! Fuck... My cock’s gone numb...! ♡”"
+                                "\\N<Male Customer>“Ồ...! Mẹ kiếp... con cặc của tôi tê cứng rồi...! ♡”"
                             ]
                         },
                         {
@@ -6711,14 +6711,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“H-Heh heh... But man... Why are you even doing"
+                                "\\N<Male Customer>“H-Heh heh... Nhưng anh bạn... Tại sao bạn lại làm vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this...? ♡”"
+                                "cái này...? ♡”"
                             ]
                         },
                         {
@@ -6751,7 +6751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Hmm...”"
+                                "\\N<Shizune>“Hmm…”"
                             ]
                         },
                         {
@@ -6784,14 +6784,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I feel like it’s my responsibility to relieve the men"
+                                "\\N<Shizune>“Tôi cảm thấy mình có trách nhiệm giải tỏa cho những người đàn ông"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I turn on... ♡”"
+                                "Tôi bật... ♡”"
                             ]
                         },
                         {
@@ -6808,7 +6808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Or something like that... ♡”"
+                                "\\N<Shizune>“Hoặc đại loại như thế... ♡”"
                             ]
                         },
                         {
@@ -6825,7 +6825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“What the...!? You’re a total slut. ♡”"
+                                "\\N<Male Customer>“Cái gì...!? Bạn hoàn toàn là một con đĩ. ♡”"
                             ]
                         },
                         {
@@ -6842,7 +6842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rub* ♡ *rub* ♡ *boing* ♡ *boing* ♡"
+                                "*chà* ♡ *chà* ♡ *chà* ♡ *chà* ♡"
                             ]
                         },
                         {
@@ -6859,7 +6859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Ngh...! ♡ I-I’m about to... cum...! ♡”"
+                                "\\N<Male Customer>“Ngh...! ♡ T-tôi sắp... ra...! ♡”"
                             ]
                         },
                         {
@@ -6876,7 +6876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squelch* ♡ *boing* ♡ *rub* ♡ *rub* ♡"
+                                "*bụp* ♡ *boing* ♡ *chà* ♡ *chà* ♡"
                             ]
                         },
                         {
@@ -6942,7 +6942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -6959,7 +6959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...S-So much... ♡”"
+                                "\\N<Shizune>“...X-Rất nhiều... ♡”"
                             ]
                         },
                         {
@@ -7002,7 +7002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -7019,7 +7019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Aaah...! Th-This feels great...! ♡”"
+                                "\\N<Male Customer>“Aa...! Đ-Cảm giác này thật tuyệt...! ♡”"
                             ]
                         },
                         {
@@ -7062,7 +7062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -7105,7 +7105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -7122,7 +7122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Haaah...! Haaah...! ♡”"
+                                "\\N<Male Customer>“Haaah...! Haa...! ♡”"
                             ]
                         },
                         {
@@ -7139,7 +7139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“A-Awesome... ♡”"
+                                "\\N<Male Customer>“A-Tuyệt vời... ♡”"
                             ]
                         },
                         {
@@ -7156,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Mn... Glad to hear it... ♪”"
+                                "\\N<Shizune>“Mn... Rất vui được nghe điều đó... ♪\""
                             ]
                         },
                         {
@@ -7173,7 +7173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Heh heh... Can we do this again if I call out to you?"
+                                "\\N<Male Customer>“Heh heh... Chúng ta có thể làm lại điều này nếu tôi gọi bạn không?"
                             ]
                         },
                         {
@@ -7197,7 +7197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -7214,7 +7214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Who knows? ♡”"
+                                "\\N<Shizune>“...Ai biết được? ♡”"
                             ]
                         },
                         {
@@ -7280,7 +7280,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"The couple broke up because of what I did...\""
+                                "\"Cặp đôi chia tay vì những gì tôi đã làm...\""
                             ]
                         },
                         {
@@ -7291,7 +7291,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"I feel awfully naughty... ♡\""
+                                "\"Tôi cảm thấy thật nghịch ngợm... ♡\""
                             ]
                         },
                         {
@@ -7325,7 +7325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Hee-hee-hee... If only all women had huge breasts..."
+                                "\\N<Male Customer>“Hee-hee-hee... Giá như tất cả phụ nữ đều có cặp vú khủng..."
                             ]
                         },
                         {
@@ -7345,7 +7345,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -7446,7 +7446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>(Oh... ♡ They’re goddamn huge... ♡)"
+                                "\\N<Male Customer>(Ồ... ♡ Chúng to khủng khiếp... ♡)"
                             ]
                         },
                         {
@@ -7463,7 +7463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey... What are you looking at?”"
+                                "\\N<Female Customer>“Này... Bạn đang nhìn gì thế?”"
                             ]
                         },
                         {
@@ -7480,7 +7480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Huh...!? Nothing...”"
+                                "\\N<Male Customer>“Hả...!? Không có gì...\""
                             ]
                         },
                         {
@@ -7539,7 +7539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wha...!? That outfit’s amazing...! ♡”"
+                                "\\N<Male Customer>“Cái gì...!? Bộ trang phục đó thật tuyệt vời...! ♡”"
                             ]
                         },
                         {
@@ -7556,7 +7556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! Don’t go near my man dressed like that...!”"
+                                "\\N<Female Customer>“Này...! Đừng đến gần người đàn ông của tôi ăn mặc như thế...!”"
                             ]
                         },
                         {
@@ -7573,7 +7573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry...!”"
+                                "\\N<Kaori>“X-Xin lỗi...!”"
                             ]
                         },
                         {
@@ -7590,14 +7590,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Y-Yeah... You’re really rustling my jimmies... Heh"
+                                "\\N<Male Customer>“Y-Ừ... Bạn thực sự đang làm trò đùa của tôi... Heh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "heh. ♡”"
+                                "hê. ♡”"
                             ]
                         },
                         {
@@ -7656,7 +7656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wow...! S-Seriously...!? ♡”"
+                                "\\N<Male Customer>“Chà...! Đ-Nghiêm túc đấy...!? ♡”"
                             ]
                         },
                         {
@@ -7673,7 +7673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“HUH!? Wha-What are you doing!?”"
+                                "\\N<Female Customer>“Hả!? C-Anh đang làm gì vậy!?”"
                             ]
                         },
                         {
@@ -7690,7 +7690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“A-Amazing... So big... ♡”"
+                                "\\N<Male Customer>“A-Tuyệt vời... To quá... ♡”"
                             ]
                         },
                         {
@@ -7707,7 +7707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(A-As expected... he’s looking at me... ♡)"
+                                "\\N<Kaori>(A-Đúng như dự đoán... anh ấy đang nhìn mình... ♡)"
                             ]
                         },
                         {
@@ -7725,8 +7725,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[21]>80)Purify ♡ (Needed Lewd: 80 Or More)",
-                                    "Ignore"
+                                    "en(v[21]>80)Purify ♡ (Dâm dục cần thiết: 80 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -7739,7 +7739,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[21]>80)Purify ♡ (Needed Lewd: 80 Or More)"
+                                "en(v[21]>80)Purify ♡ (Dâm dục cần thiết: 80 trở lên)"
                             ]
                         },
                         {
@@ -7756,7 +7756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(...I must purify the Obscenities, so... ♡)"
+                                "\\N<Kaori>(...Tôi phải thanh lọc những Tục tĩu, nên... ♡)"
                             ]
                         },
                         {
@@ -7899,14 +7899,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Um... Could I have a bit of your time? I’d like to"
+                                "\\N<Kaori>“Ừm... Bạn có thể cho tôi một chút thời gian được không? Tôi muốn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "have a private chat with you... ♡”"
+                                "trò chuyện riêng với bạn... ♡”"
                             ]
                         },
                         {
@@ -7923,7 +7923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Hold up... For real...? ♡”"
+                                "\\N<Male Customer>“Chờ đã... Thật sao...? ♡”"
                             ]
                         },
                         {
@@ -7940,14 +7940,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“Hey...! What are you thinking...!? You’re not"
+                                "\\N<Female Customer>“Này...! Bạn đang nghĩ gì vậy...!? Bạn không phải"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "following her, right!? RIGHT!?”"
+                                "theo dõi cô ấy phải không!? PHẢI!?\""
                             ]
                         },
                         {
@@ -7964,7 +7964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Huh? I’m not the type to turn down requests, so... ♡”"
+                                "\\N<Male Customer>“Hả? Tôi không phải là loại người từ chối yêu cầu, nên... ♡”"
                             ]
                         },
                         {
@@ -7981,14 +7981,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“I’ll break up with you if you follow th-this"
+                                "\\N<Female Customer>“Tôi sẽ chia tay với bạn nếu bạn làm theo điều này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "woman...!”"
+                                "đàn bà...!\""
                             ]
                         },
                         {
@@ -8005,7 +8005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wha...!? B-But...”"
+                                "\\N<Male Customer>“Cái gì...!? N-Nhưng…”"
                             ]
                         },
                         {
@@ -8022,7 +8022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“S-Sorry. B-But... Um... ♡”"
+                                "\\N<Kaori>“X-Xin lỗi. N-Nhưng... Ừm... ♡”"
                             ]
                         },
                         {
@@ -8039,14 +8039,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“My boobs started feeling rather hot after I looked at"
+                                "\\N<Kaori>“Ngực của tôi bắt đầu cảm thấy khá nóng sau khi tôi nhìn vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "you... ♡”"
+                                "bạn... ♡”"
                             ]
                         },
                         {
@@ -8063,7 +8063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Wha...!? ♡”"
+                                "\\N<Male Customer>“Cái gì...!? ♡”"
                             ]
                         },
                         {
@@ -8080,7 +8080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“H-HUH!!? What are you saying...!?”"
+                                "\\N<Female Customer>“H-HUH!!? Bạn đang nói gì vậy...!?\""
                             ]
                         },
                         {
@@ -8097,7 +8097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“D-Do you mind... relieving me...? ♡”"
+                                "\\N<Kaori>“D-Bạn có phiền... giải tỏa cho tôi không...? ♡”"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“...”"
+                                "\\N<Male Customer>“…”"
                             ]
                         },
                         {
@@ -8131,7 +8131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“...S-Sorry... ♡”"
+                                "\\N<Male Customer>“...X-Xin lỗi... ♡”"
                             ]
                         },
                         {
@@ -8148,7 +8148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Customer>“...Wha-Whatever...!”"
+                                "\\N<Female Customer>“...Cái-Sao cũng được...!”"
                             ]
                         },
                         {
@@ -8218,7 +8218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -8282,7 +8282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Haha... ♡ Does this feel good...? ♡”"
+                                "\\N<Kaori>“Haha... ♡ Cảm giác này có ổn không...? ♡”"
                             ]
                         },
                         {
@@ -8299,7 +8299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Haaah... Good? Th-This feels amazing... ♡”"
+                                "\\N<Male Customer>“Haaah... Tốt à? Đ-Cảm giác này thật tuyệt vời... ♡”"
                             ]
                         },
                         {
@@ -8316,7 +8316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“I’ve never gotten a tit job like this...! ♡”"
+                                "\\N<Male Customer>“Tôi chưa bao giờ nhận được một công việc ăn miếng trả miếng như thế này…! ♡”"
                             ]
                         },
                         {
@@ -8333,7 +8333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Please thoroughly enjoy my boobs. ♡”"
+                                "\\N<Kaori>“Hãy tận hưởng cặp vú của tôi một cách triệt để. ♡”"
                             ]
                         },
                         {
@@ -8362,7 +8362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squelch* ♡ *squelch* ♡ *squish* ♡ *squish* ♡"
+                                "*bụp* ♡ *bụp* ♡ *bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -8379,7 +8379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Oh...! Fuck... My cock’s gone numb...! ♡”"
+                                "\\N<Male Customer>“Ồ...! Mẹ kiếp... con cặc của tôi tê cứng rồi...! ♡”"
                             ]
                         },
                         {
@@ -8396,14 +8396,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“H-Heh heh... But man... Why are you even doing"
+                                "\\N<Male Customer>“H-Heh heh... Nhưng anh bạn... Tại sao bạn lại làm vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "this...? ♡”"
+                                "cái này...? ♡”"
                             ]
                         },
                         {
@@ -8436,7 +8436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“U-Umm...”"
+                                "\\N<Kaori>“U-Ừm…”"
                             ]
                         },
                         {
@@ -8453,7 +8453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“It is my duty to ease men’s l-lust... I suppose. ♡”"
+                                "\\N<Kaori>“Nhiệm vụ của tôi là làm dịu đi ham muốn của đàn ông… Tôi cho là vậy. ♡”"
                             ]
                         },
                         {
@@ -8470,7 +8470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“What the...!? You’re a total slut. ♡”"
+                                "\\N<Male Customer>“Cái gì...!? Bạn hoàn toàn là một con đĩ. ♡”"
                             ]
                         },
                         {
@@ -8487,7 +8487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*rub* ♡ *rub* ♡ *boing* ♡ *boing* ♡"
+                                "*chà* ♡ *chà* ♡ *chà* ♡ *chà* ♡"
                             ]
                         },
                         {
@@ -8504,7 +8504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Ngh...! ♡ I-I’m about to... cum...! ♡”"
+                                "\\N<Male Customer>“Ngh...! ♡ T-tôi sắp... ra...! ♡”"
                             ]
                         },
                         {
@@ -8521,7 +8521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*squelch* ♡ *boing* ♡ *rub* ♡ *rub* ♡"
+                                "*bụp* ♡ *boing* ♡ *chà* ♡ *chà* ♡"
                             ]
                         },
                         {
@@ -8587,7 +8587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -8604,7 +8604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Mn...! ♡ Wha-What a rather large amount... ♡”"
+                                "\\N<Kaori>“Mn...! ♡ Cái-Thật là một số tiền khá lớn... ♡”"
                             ]
                         },
                         {
@@ -8647,7 +8647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -8664,7 +8664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Aaah...! Th-This feels great...! ♡”"
+                                "\\N<Male Customer>“Aa...! Đ-Cảm giác này thật tuyệt...! ♡”"
                             ]
                         },
                         {
@@ -8707,7 +8707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt* ♡"
+                                "*phóng* ♡"
                             ]
                         },
                         {
@@ -8750,7 +8750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -8767,7 +8767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Haaah...! Haaah...! ♡”"
+                                "\\N<Male Customer>“Haaah...! Haa...! ♡”"
                             ]
                         },
                         {
@@ -8784,7 +8784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“A-Awesome... ♡”"
+                                "\\N<Male Customer>“A-Tuyệt vời... ♡”"
                             ]
                         },
                         {
@@ -8801,14 +8801,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Heh heh... That was the best tit job I’ve ever"
+                                "\\N<Male Customer>“Heh heh... Đó là công việc ăn miếng trả miếng hay nhất mà tôi từng làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "gotten... ♡”"
+                                "đã nhận được... ♡”"
                             ]
                         },
                         {
@@ -8825,7 +8825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“C-Can I ask you for another one sometime...? ♡”"
+                                "\\N<Male Customer>“C-Tôi có thể hỏi bạn một lần nữa được không...? ♡”"
                             ]
                         },
                         {
@@ -8842,7 +8842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“U-Uh...”"
+                                "\\N<Kaori>“U-Ờ…”"
                             ]
                         },
                         {
@@ -8875,7 +8875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I’ll come to you... when I get the chance. ♡”"
+                                "\\N<Kaori>“Tôi sẽ đến với bạn… khi có cơ hội. ♡”"
                             ]
                         },
                         {
@@ -8941,7 +8941,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"I seduced someone who was in a relationship... ♡\""
+                                "\"Tôi đã quyến rũ một người đang có quan hệ tình cảm... ♡\""
                             ]
                         },
                         {
@@ -8952,7 +8952,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"H-How naughty of me... ♡\""
+                                "\"H-Tôi thật nghịch ngợm làm sao... ♡\""
                             ]
                         },
                         {
@@ -8986,7 +8986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Customer>“Hee-hee-hee... If only all women had huge breasts..."
+                                "\\N<Male Customer>“Hee-hee-hee... Giá như tất cả phụ nữ đều có cặp vú khủng..."
                             ]
                         },
                         {
@@ -9006,7 +9006,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -9091,7 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Customer>“Hee-hee-hee... If only all women had huge breasts..."
+                                "\\N<Male Customer>“Hee-hee-hee... Giá như tất cả phụ nữ đều có cặp vú khủng..."
                             ]
                         },
                         {
@@ -9175,7 +9175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“This may be a little too flashy for me.”"
+                                "\\N<Female Customer>“Điều này có thể hơi quá hào nhoáng đối với tôi.”"
                             ]
                         },
                         {
@@ -9192,14 +9192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>“Not at all! I’m sure it would suit a wonderful lady"
+                                "\\N<Receptionist>“Không hề! Tôi chắc chắn nó sẽ phù hợp với một quý cô tuyệt vời"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "such as yourself!”"
+                                "chẳng hạn như chính bạn!"
                             ]
                         },
                         {
@@ -9216,7 +9216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Oh my. Really? ♪”"
+                                "\\N<Female Customer>“Ôi trời. Thật sự? ♪”"
                             ]
                         },
                         {
@@ -9324,7 +9324,7 @@
                     "directionFix": true,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B3_sensei",
+                        "characterName": "B3_otona",
                         "direction": 8,
                         "pattern": 1,
                         "characterIndex": 4
@@ -9344,7 +9344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“This may be a little too flashy for me.”"
+                                "\\N<Female Customer>“Điều này có thể hơi quá hào nhoáng đối với tôi.”"
                             ]
                         },
                         {
@@ -9361,14 +9361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>“Not at all! I’m sure it would suit a wonderful lady"
+                                "\\N<Receptionist>“Không hề! Tôi chắc chắn nó sẽ phù hợp với một quý cô tuyệt vời"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "such as yourself!”"
+                                "chẳng hạn như chính bạn!"
                             ]
                         },
                         {
@@ -9385,7 +9385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female Customer>“Oh my. Really? ♪”"
+                                "\\N<Female Customer>“Ôi trời. Thật sự? ♪”"
                             ]
                         },
                         {
@@ -9471,7 +9471,7 @@
         },
         {
             "id": 16,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -9538,7 +9538,7 @@
         },
         {
             "id": 17,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

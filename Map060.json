@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -5566,14 +5566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“This place... has been coming off as suspicious to me"
+                                "\\N<Shizune>“Nơi này... đối với tôi ngày càng đáng ngờ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for a while now...”"
+                                "được một lúc rồi...\""
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I think... a fortune-teller... runs it...”"
+                                "\\N<Shizune>“Tôi nghĩ… một thầy bói… điều hành nó…”"
                             ]
                         },
                         {
@@ -5607,7 +5607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Might be worth checking out...”"
+                                "\\N<Shizune>“Có thể đáng để kiểm tra…”"
                             ]
                         },
                         {
@@ -5615,8 +5615,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Enter (♡)",
-                                    "Back"
+                                    "Nhập (♡)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -5629,7 +5629,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Enter (♡)"
+                                "Nhập (♡)"
                             ]
                         },
                         {
@@ -5646,7 +5646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Alright. I’ll see if I can find any clues...”"
+                                "\\N<Shizune>“Được rồi. Tôi sẽ xem liệu tôi có thể tìm thấy manh mối nào không…”"
                             ]
                         },
                         {
@@ -5812,7 +5812,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -5829,7 +5829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I’d rather not do this right now...”"
+                                "\\N<Shizune>“Tôi không muốn làm điều này ngay bây giờ…”"
                             ]
                         },
                         {
@@ -5914,7 +5914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I have no business here at the moment...”"
+                                "\\N<Shizune>“Hiện tại tôi không có việc gì ở đây…”"
                             ]
                         },
                         {
@@ -6013,7 +6013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "—CLOSED—"
+                                "—ĐÓNG CỬA—"
                             ]
                         },
                         {
@@ -6663,7 +6663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It’s locked..."
+                                "Nó bị khóa rồi..."
                             ]
                         },
                         {
@@ -6698,7 +6698,7 @@
         },
         {
             "id": 6,
-            "name": "Peeping Tom",
+            "name": "nhìn trộm Tom",
             "note": "",
             "pages": [
                 {
@@ -6758,7 +6758,7 @@
         },
         {
             "id": 7,
-            "name": "Man",
+            "name": "Người đàn ông",
             "note": "",
             "pages": [
                 {
@@ -6818,7 +6818,7 @@
         },
         {
             "id": 8,
-            "name": "Old Man",
+            "name": "Ông già",
             "note": "",
             "pages": [
                 {
@@ -6879,7 +6879,7 @@
         null,
         {
             "id": 10,
-            "name": "Lady",
+            "name": "Quý bà",
             "note": "",
             "pages": [
                 {
@@ -7079,7 +7079,7 @@
         },
         {
             "id": 12,
-            "name": "Young Woman",
+            "name": "Người phụ nữ trẻ",
             "note": "",
             "pages": [
                 {
@@ -7139,7 +7139,7 @@
         },
         {
             "id": 13,
-            "name": "Young Man",
+            "name": "Người đàn ông trẻ",
             "note": "",
             "pages": [
                 {
@@ -7199,7 +7199,7 @@
         },
         {
             "id": 14,
-            "name": "Damsel",
+            "name": "thiếu nữ",
             "note": "",
             "pages": [
                 {
@@ -7311,7 +7311,7 @@
         },
         {
             "id": 15,
-            "name": "Female",
+            "name": "Nữ giới",
             "note": "",
             "pages": [
                 {
@@ -7413,7 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hinoshita Hot Spring —Under Renovation—"
+                                "Suối nước nóng Hinoshita —Đang được cải tạo—"
                             ]
                         },
                         {
@@ -7636,7 +7636,7 @@
         },
         {
             "id": 17,
-            "name": "Senior",
+            "name": "Người lớn tuổi",
             "note": "",
             "pages": [
                 {
@@ -7696,7 +7696,7 @@
         },
         {
             "id": 18,
-            "name": "Kaori Voyeurism Event 1",
+            "name": "Sự kiện ngắm nhìn Kaori 1",
             "note": "",
             "pages": [
                 {
@@ -7795,7 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Now’s probably a good time...”"
+                                "\\N<Old Man>“Bây giờ có lẽ là thời điểm tốt…”"
                             ]
                         },
                         {
@@ -7812,14 +7812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“There’s not that many people around... This is my"
+                                "\\N<Old Man>“Không có nhiều người xung quanh… Đây là của tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "chance! ♪”"
+                                "cơ hội! ♪”"
                             ]
                         },
                         {
@@ -7931,7 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“...How’s the spy camera holding up...?”"
+                                "\\N<Old Man>“...Camera gián điệp sao rồi...?”"
                             ]
                         },
                         {
@@ -7948,7 +7948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“...Alright. It’s all set.”"
+                                "\\N<Old Man>“...Được rồi. Tất cả đều được thiết lập.\""
                             ]
                         },
                         {
@@ -7965,14 +7965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Hee-hee... I didn’t think there would be a mirror in"
+                                "\\N<Old Man>“Hee-hee... Tôi không nghĩ sẽ có gương trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the women’s baths that’s visible from the outside.”"
+                                "phòng tắm dành cho nữ có thể nhìn thấy từ bên ngoài.”"
                             ]
                         },
                         {
@@ -7989,14 +7989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“The owner of this place having the same fetish as me"
+                                "\\N<Old Man>“Chủ sở hữu của nơi này có cùng sở thích với tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "makes things easier. ♡”"
+                                "làm cho mọi việc dễ dàng hơn. ♡”"
                             ]
                         },
                         {
@@ -8013,7 +8013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Now to see who today’s catch will be...”"
+                                "\\N<Old Man>“Bây giờ để xem mẻ cá hôm nay sẽ là ai…”"
                             ]
                         },
                         {
@@ -8039,7 +8039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“WHOA!!! TH-THAT WOMAN!!!”"
+                                "\\N<Old Man>“ÔI!!! NGƯỜI PHỤ NỮ ĐÓ!!!”"
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“I-It’s the busty one I’ve seen around...”"
+                                "\\N<Old Man>“Đ-Đó là cô nàng có vòng một mà tôi từng thấy…”"
                             ]
                         },
                         {
@@ -8073,7 +8073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Here! Sit over here...! In front of the mirror...!”"
+                                "\\N<Old Man>“Đây! Ngồi lại đây...! Đằng trước cái gương...!\""
                             ]
                         },
                         {
@@ -8099,7 +8099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Whoa...! ♡ Th-They’re goddamn huge... ♡”"
+                                "\\N<Old Man>“Ồ...! ♡ Đ-Chúng to khủng khiếp... ♡”"
                             ]
                         },
                         {
@@ -8116,14 +8116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“She is packing some serious heat for a woman with such"
+                                "\\N<Old Man>“Cô ấy đang mang trong mình sức nóng nghiêm trọng đối với một người phụ nữ có tính cách như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "a cute face...! ♡”"
+                                "khuôn mặt dễ thương...! ♡”"
                             ]
                         },
                         {
@@ -8140,7 +8140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“G-Gotta turn the camera right away...!”"
+                                "\\N<Old Man>“G-Phải quay camera ngay lập tức…!”"
                             ]
                         },
                         {
@@ -8193,7 +8193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*beep*"
+                                "*tiếng kêu bíp*"
                             ]
                         },
                         {
@@ -8210,7 +8210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Alright. And recording. ♪”"
+                                "\\N<Old Man>“Được rồi. Và ghi âm. ♪”"
                             ]
                         },
                         {
@@ -8262,7 +8262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Damn... Amazing... ♡”"
+                                "\\N<Old Man>“Chết tiệt... Tuyệt vời... ♡\""
                             ]
                         },
                         {
@@ -8279,14 +8279,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“I knew they were big when I saw them in town, but I"
+                                "\\N<Old Man>“Tôi biết chúng to lớn khi nhìn thấy chúng trong thị trấn, nhưng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "didn’t think she’d be hiding such melons from me...”"
+                                "không ngờ cô ấy lại giấu tôi những quả dưa như vậy…”"
                             ]
                         },
                         {
@@ -8303,7 +8303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“She’s totally a slut. ♡”"
+                                "\\N<Old Man>“Cô ấy hoàn toàn là một con đĩ. ♡”"
                             ]
                         },
                         {
@@ -8320,7 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mm-hmm! Mm-hmm! ♪”"
+                                "\\N<Kaori>“Ừm-hmm! Ừm-hừm! ♪”"
                             ]
                         },
                         {
@@ -8337,7 +8337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Heh heh. The way she carefreely hums is so cute. ♡”"
+                                "\\N<Old Man>“Heh heh. Cách cô ấy vô tư ngân nga thật dễ thương. ♡”"
                             ]
                         },
                         {
@@ -8354,14 +8354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“If only she knew an old man was filming her tits"
+                                "\\N<Old Man>“Giá như cô ấy biết một ông già đang quay phim cặp vú của mình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jiggling perfectly. ♡”"
+                                "lắc lư một cách hoàn hảo. ♡”"
                             ]
                         },
                         {
@@ -8378,14 +8378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Now I have a video of a busty amateur... ♡ It would"
+                                "\\N<Old Man>“Bây giờ tôi có một video quay một em gái nghiệp dư ngực khủng... ♡ Sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "surely be a top-seller if I sold it on the internet."
+                                "chắc chắn sẽ là sản phẩm bán chạy nhất nếu tôi bán nó trên mạng."
                             ]
                         },
                         {
@@ -8409,14 +8409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Guess I should sell it to my regular customers... Then"
+                                "\\N<Old Man>“Đoán tôi nên bán nó cho khách hàng thường xuyên của mình... Sau đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "again, I feel like that would be a waste...”"
+                                "một lần nữa, tôi cảm thấy điều đó thật lãng phí…”"
                             ]
                         },
                         {
@@ -8433,7 +8433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“I want to keep something this good to myself...”"
+                                "\\N<Old Man>“Tôi muốn giữ điều gì đó tốt đẹp này cho riêng mình…”"
                             ]
                         },
                         {
@@ -8450,7 +8450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“...Well, I can just think about this later. ♡”"
+                                "\\N<Old Man>“...Chà, tôi có thể nghĩ về điều này sau. ♡”"
                             ]
                         },
                         {
@@ -8467,7 +8467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“I’ll enjoy this gorgeous view while I can. ♡”"
+                                "\\N<Old Man>“Tôi sẽ tận hưởng khung cảnh tuyệt đẹp này trong khi có thể. ♡”"
                             ]
                         },
                         {
@@ -8484,7 +8484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“My cock’s getting too hard to bear with... ♡”"
+                                "\\N<Old Man>“Con cặc của tôi ngày càng khó chịu đựng... ♡”"
                             ]
                         },
                         {
@@ -8501,7 +8501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -8518,7 +8518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“She’d better wash every inch of her breasts...”"
+                                "\\N<Kaori>“Tốt nhất cô ấy nên rửa sạch từng tấc ngực của mình…”"
                             ]
                         },
                         {
@@ -8547,7 +8547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -8564,7 +8564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Whoa! ♡ ♡ I could look at her forever. ♡ ♡”"
+                                "\\N<Old Man>“Ồ! ♡ ♡ Tôi có thể ngắm cô ấy mãi mãi. ♡ ♡”"
                             ]
                         },
                         {
@@ -8581,14 +8581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Her giant jugs are jiggling so much... Is she trying"
+                                "\\N<Old Man>“Cái bình khổng lồ của cô ấy lắc lư rất nhiều... Cô ấy đang cố gắng à"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to seduce me or something? ♡”"
+                                "để quyến rũ tôi hay gì đó? ♡”"
                             ]
                         },
                         {
@@ -8605,7 +8605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -8622,14 +8622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Heh heh... She never would’ve thought a stranger was"
+                                "\\N<Old Man>“Heh heh... Cô ấy chưa bao giờ nghĩ rằng một người lạ lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "filming her bathe and jacking off to her body. ♡”"
+                                "quay phim cảnh cô ấy tắm và cắm vào cơ thể cô ấy. ♡”"
                             ]
                         },
                         {
@@ -8646,14 +8646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Jerking off while looking at a clueless, nude woman"
+                                "\\N<Old Man>“Giật mình khi nhìn một người phụ nữ khỏa thân không biết gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "is the best... ♡”"
+                                "là tuyệt nhất... ♡”"
                             ]
                         },
                         {
@@ -8670,7 +8670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -8687,7 +8687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Damn...! I’m about to cum... ♡”"
+                                "\\N<Old Man>“Chết tiệt...! Tôi sắp xuất tinh rồi... ♡”"
                             ]
                         },
                         {
@@ -8704,14 +8704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Here... you busty woman! ♡ I’m going to cum all over"
+                                "\\N<Old Man>“Đây... đồ phụ nữ ngực khủng! ♡ Tôi sắp xuất tinh khắp nơi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your lewd jugs...! ♡ ♡”"
+                                "cái bình dâm dục của bạn...! ♡ ♡”"
                             ]
                         },
                         {
@@ -8728,7 +8728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*stroke*"
+                                "*đột quỵ*"
                             ]
                         },
                         {
@@ -8771,7 +8771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -8814,7 +8814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -8857,7 +8857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gush*"
+                                "*phun ra*"
                             ]
                         },
                         {
@@ -8874,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Phew... ♡ I came as much as I could... ♡”"
+                                "\\N<Old Man>“Phew... ♡ Tôi đã đến nhiều nhất có thể... ♡”"
                             ]
                         },
                         {
@@ -8891,7 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“I should tidy up before someone finds out...”"
+                                "\\N<Old Man>“Tôi nên dọn dẹp trước khi ai đó phát hiện ra…”"
                             ]
                         },
                         {
@@ -8908,7 +8908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -8958,7 +8958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Oh! ♡ She even looked at the camera! ♡ ♡”"
+                                "\\N<Old Man>“Ôi! ♡ Cô ấy thậm chí còn nhìn vào camera! ♡ ♡”"
                             ]
                         },
                         {
@@ -8975,7 +8975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...I feel like I heard something...)"
+                                "\\N<Kaori>(...Tôi cảm thấy như mình vừa nghe thấy điều gì đó...)"
                             ]
                         },
                         {
@@ -9008,7 +9008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...Must be my imagination.)"
+                                "\\N<Kaori>(...Chắc là do tôi tưởng tượng.)"
                             ]
                         },
                         {
@@ -9025,21 +9025,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“From the looks of her face, she doesn’t seem to"
+                                "\\N<Old Man>“Nhìn vẻ mặt của cô ấy, cô ấy có vẻ không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "suspect a thing... even though the other side of the"
+                                "nghi ngờ một điều gì đó... mặc dù phía bên kia của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mirror she’s looking at is covered with semen... ♡”"
+                                "Chiếc gương cô ấy đang nhìn đầy tinh dịch... ♡”"
                             ]
                         },
                         {
@@ -9056,7 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old Man>“Heh heh. Can’t wait to see her again. ♡”"
+                                "\\N<Old Man>“Heh heh. Nóng lòng muốn gặp lại cô ấy. ♡”"
                             ]
                         },
                         {
@@ -9112,7 +9112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {

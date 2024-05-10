@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -5281,7 +5281,7 @@
         },
         {
             "id": 4,
-            "name": "Gonzo Nursing Event Introduction",
+            "name": "Giới thiệu sự kiện điều dưỡng Gonzo",
             "note": "",
             "pages": [
                 {
@@ -5323,7 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Lady Shizune... Lady Shizune...”"
+                                "\\N<Gonzo>“Cô Shizune... Cô Shizune…”"
                             ]
                         },
                         {
@@ -5340,7 +5340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“M-Mmm...”"
+                                "\\N<Shizune>“M-Mmm…”"
                             ]
                         },
                         {
@@ -5390,7 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Y-You...!?”"
+                                "\\N<Shizune>“...C-Bạn...!?”"
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Why are you so close to me...? Ugh...!”"
+                                "\\N<Shizune>“Sao em lại thân thiết với anh thế…? Ờ...!”"
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hey. Careful now.”"
+                                "\\N<Gonzo>“Này. Bây giờ hãy cẩn thận.”"
                             ]
                         },
                         {
@@ -5455,21 +5455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You used up too much of your spiritual power in your"
+                                "\\N<Gonzo>“Bạn đã sử dụng quá nhiều sức mạnh tâm linh của mình trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "battle against Muramara. You ought to rest well and"
+                                "trận chiến chống lại Muramara. Bạn nên nghỉ ngơi thật tốt và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "take care of yourself...”"
+                                "chăm sóc bản thân...\""
                             ]
                         },
                         {
@@ -5500,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ugh... I guess you’re right...”"
+                                "\\N<Shizune>“Ugh... Tôi đoán bạn nói đúng…”"
                             ]
                         },
                         {
@@ -5517,14 +5517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I may have been too hard on him... He’s probably just"
+                                "\\N<Shizune>(Có lẽ tôi đã quá khắt khe với anh ấy... Có lẽ anh ấy chỉ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here to watch over me while I can’t move...)"
+                                "ở đây để trông chừng tôi khi tôi không thể di chuyển…)"
                             ]
                         },
                         {
@@ -5548,7 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Thirsty? Here. Have some tea. ♪”"
+                                "\\N<Gonzo>“Khát? Đây. Uống trà đi. ♪”"
                             ]
                         },
                         {
@@ -5565,14 +5565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You don’t have to drink it if you don’t want to. I’m"
+                                "\\N<Gonzo>“Bạn không cần phải uống nếu bạn không muốn. Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "aware of the grudge you have against me...”"
+                                "nhận thức được mối hận thù mà bạn có với tôi…”"
                             ]
                         },
                         {
@@ -5596,7 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I’ll drink it... Thank you.”"
+                                "\\N<Shizune>“Tôi-tôi sẽ uống nó... Cảm ơn bạn.”"
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Really? Thank goodness.”"
+                                "\\N<Gonzo>“Thật sao? Ơn Chúa.\""
                             ]
                         },
                         {
@@ -5637,14 +5637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I could help you if drinking it proves to be too"
+                                "\\N<Gonzo>“Tôi có thể giúp bạn nếu việc uống rượu chứng tỏ là quá"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "difficult for you... ♪”"
+                                "khó khăn cho bạn... ♪”"
                             ]
                         },
                         {
@@ -5668,7 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I can handle this much on my own.”"
+                                "\\N<Shizune>“T-tôi có thể tự mình giải quyết được việc này.”"
                             ]
                         },
                         {
@@ -5692,62 +5692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I doubt I can muster enough strength to walk... but I"
+                                "\\N<Shizune>“Tôi nghi ngờ mình có đủ sức để bước đi... nhưng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "can at least move my body a little bit.”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Gonzo>“Oh, I see...”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Shizune>“Well, down the hatch.”"
+                                "ít nhất có thể cử động cơ thể mình một chút.”"
                             ]
                         },
                         {
@@ -5771,7 +5723,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gulp*"
+                                "\\N<Gonzo>“Ồ, tôi hiểu rồi…”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shizune>“Chà, xuống cửa sập.”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "*nuốt chửng*"
                             ]
                         },
                         {
@@ -5812,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(It has a... somewhat weird flavor...)"
+                                "\\N<Shizune>(Nó có... hương vị hơi lạ...)"
                             ]
                         },
                         {
@@ -5829,7 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Hey. What sort of tea is this?”"
+                                "\\N<Shizune>“...Này. Đây là loại trà gì thế?”"
                             ]
                         },
                         {
@@ -5853,7 +5853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Is it a healthy herbal tea of some kind...?”"
+                                "\\N<Gonzo>“Đây có phải là loại trà thảo mộc tốt cho sức khỏe không...?”"
                             ]
                         },
                         {
@@ -5870,14 +5870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Yes. I hear it relieves fatigue caused by depletions"
+                                "\\N<Gonzo>“Có. Tôi nghe nói nó làm giảm mệt mỏi do suy kiệt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of spiritual power.”"
+                                "về sức mạnh tâm linh.”"
                             ]
                         },
                         {
@@ -5901,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmm... I didn’t know such a tea existed...”"
+                                "\\N<Shizune>“Hmm... Tôi không biết có loại trà như vậy tồn tại…”"
                             ]
                         },
                         {
@@ -5925,7 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gulp*"
+                                "*nuốt chửng*"
                             ]
                         },
                         {
@@ -5951,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>(Hee-hee... What a fool. ♡)"
+                                "\\N<Gonzo>(Hee-hee... Đúng là đồ ngốc. ♡)"
                             ]
                         },
                         {
@@ -5968,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>(Doesn’t even know that the tea is full of my sperm...!"
+                                "\\N<Gonzo>(Không biết trong trà có đầy tinh trùng của mình...!"
                             ]
                         },
                         {
@@ -5992,14 +5992,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>(The thought of Lady Shizune drinking my semen excites"
+                                "\\N<Gonzo>(Ý nghĩ về việc quý cô Shizune uống tinh dịch của tôi kích thích"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me more than anything has in years. ♡)"
+                                "tôi nhiều hơn bất cứ điều gì có được trong nhiều năm. ♡)"
                             ]
                         },
                         {
@@ -6023,14 +6023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>(She truly doesn’t seem able to move well... This is"
+                                "\\N<Gonzo>(Cô ấy thực sự không thể di chuyển tốt... Đây là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the perfect opportunity to use that Cursed Talisman."
+                                "cơ hội hoàn hảo để sử dụng Bùa nguyền rủa đó."
                             ]
                         },
                         {
@@ -6061,7 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew... So, where’s my mother?”"
+                                "\\N<Shizune>“Phew... Vậy mẹ tôi đâu?”"
                             ]
                         },
                         {
@@ -6085,7 +6085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Lady Kaori is on a mission.”"
+                                "\\N<Gonzo>“Quý cô Kaori đang thực hiện nhiệm vụ.”"
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“And has entrusted me to take care of you.”"
+                                "\\N<Gonzo>“Và đã giao cho tôi chăm sóc bạn.”"
                             ]
                         },
                         {
@@ -6126,7 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay.”"
+                                "\\N<Shizune>“...Được rồi.”"
                             ]
                         },
                         {
@@ -6143,7 +6143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Well, can you leave for a moment?”"
+                                "\\N<Shizune>“...Chà, bạn có thể rời đi một lát được không?”"
                             ]
                         },
                         {
@@ -6167,7 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oh. Do you want me to fetch something for you?”"
+                                "\\N<Gonzo>“Ồ. Bạn có muốn tôi lấy gì đó cho bạn không?”"
                             ]
                         },
                         {
@@ -6191,14 +6191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...You’re not very perceptive, I see... I’m going to"
+                                "\\N<Shizune>“...Bạn không nhạy bén lắm, tôi hiểu rồi... Tôi sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "get changed.”"
+                                "có được thay đổi.\""
                             ]
                         },
                         {
@@ -6222,7 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oh, pardon me...”"
+                                "\\N<Gonzo>“Ồ, thứ lỗi cho tôi…”"
                             ]
                         },
                         {
@@ -6239,14 +6239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“But... wouldn’t it be troublesome for you to get"
+                                "\\N<Gonzo>“Nhưng... chẳng phải sẽ rất rắc rối nếu bạn lấy được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "changed by yourself?”"
+                                "tự mình thay đổi à?”"
                             ]
                         },
                         {
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Not really...”"
+                                "\\N<Shizune>“Không thực sự…”"
                             ]
                         },
                         {
@@ -6294,14 +6294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Perhaps I should assist you with getting"
+                                "\\N<Gonzo>“Hee-hee! ♡ Có lẽ tôi nên giúp bạn có được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "dressed... ♡”"
+                                "mặc quần áo... ♡”"
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Huh...!? Not on your life...!”"
+                                "\\N<Shizune>“Hả...!? Không có trong cuộc sống của bạn ...!"
                             ]
                         },
                         {
@@ -6349,7 +6349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...Wh-Why do I feel dizzy...?)"
+                                "\\N<Shizune>(...T-Tại sao tôi lại cảm thấy chóng mặt...?)"
                             ]
                         },
                         {
@@ -6390,7 +6390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I still... can’t move...!)"
+                                "\\N<Shizune>(Tôi vẫn... không thể di chuyển...!)"
                             ]
                         },
                         {
@@ -6414,14 +6414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“My goodness. You mustn’t push yourself in such a"
+                                "\\N<Gonzo>“Chúa ơi. Bạn không được đẩy mình vào tình thế như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "state.”"
+                                "tình trạng.\""
                             ]
                         },
                         {
@@ -6438,7 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I shall take responsibility... and lend a hand. ♡”"
+                                "\\N<Gonzo>“Tôi sẽ chịu trách nhiệm... và giúp một tay. ♡”"
                             ]
                         },
                         {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“St-Stop...! Hey...!”"
+                                "\\N<Shizune>“Dừng lại...! Chào...!\""
                             ]
                         },
                         {
@@ -6486,21 +6486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I have been taking care of the Ayatsuji family for a"
+                                "\\N<Gonzo>“Tôi đã chăm sóc gia đình Ayatsuji được một thời gian rồi."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "very long time. Please rest assured that I will not"
+                                "Thời gian rất dài. Hãy yên tâm rằng tôi sẽ không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "cause any trouble. ♡”"
+                                "gây ra bất cứ rắc rối nào. ♡”"
                             ]
                         },
                         {
@@ -6529,7 +6529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6553,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Humph...! Let go...!”"
+                                "\\N<Shizune>“Hừm...! Đi thôi...!\""
                             ]
                         },
                         {
@@ -6577,14 +6577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now, now. You may harm yourself if you resist. ♡"
+                                "\\N<Gonzo>“Bây giờ, bây giờ. Bạn có thể làm hại chính mình nếu bạn chống lại. ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Behave yourself and let me undress you, please. ♡”"
+                                "Hãy cư xử đúng mực và để tôi cởi quần áo cho bạn nhé. ♡”"
                             ]
                         },
                         {
@@ -6629,7 +6629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ *squish* ♡"
+                                "*bụp* ♡ *bụp* ♡"
                             ]
                         },
                         {
@@ -6646,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha-What do you think you’re touching...!?”"
+                                "\\N<Shizune>“Cái-Mày nghĩ mày đang chạm vào cái gì vậy…!?”"
                             ]
                         },
                         {
@@ -6663,14 +6663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oops. ♡ My hands must’ve slipped. ♡ Though, it is"
+                                "\\N<Gonzo>“Rất tiếc. ♡ Tay tôi chắc trượt rồi. ♡ Mặc dù vậy, nó là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "quite hard to avoid touching such big breasts. ♡”"
+                                "khá khó để tránh chạm vào cặp vú lớn như vậy. ♡”"
                             ]
                         },
                         {
@@ -6687,14 +6687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“This is all for the sake of undressing you. I ask that"
+                                "\\N<Gonzo>“Tất cả là vì mục đích cởi quần áo cho bạn. tôi hỏi rằng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you forgive me... ♡”"
+                                "bạn tha thứ cho tôi... ♡”"
                             ]
                         },
                         {
@@ -6711,7 +6711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Qu-Quit it! You can’t do that...!”"
+                                "\\N<Shizune>“Qu-Bỏ nó đi! Bạn không thể làm điều đó ...!"
                             ]
                         },
                         {
@@ -6728,7 +6728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Here it is. ♡ Now to... ♡”"
+                                "\\N<Gonzo>“Đây rồi. ♡ Bây giờ đến... ♡”"
                             ]
                         },
                         {
@@ -6796,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -6830,7 +6830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee-hee! ♡ Now your body has some breathing room."
+                                "\\N<Gonzo>“Hee-hee-hee! ♡ Bây giờ cơ thể bạn đã có chút không gian để thở."
                             ]
                         },
                         {
@@ -6854,7 +6854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You are as voluptuous as ever... ♡”"
+                                "\\N<Gonzo>“Bạn vẫn khiêu gợi như ngày nào... ♡”"
                             ]
                         },
                         {
@@ -6878,7 +6878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I will never... forgive you for this...!”"
+                                "\\N<Shizune>“T-tôi sẽ không bao giờ… tha thứ cho bạn vì điều này…!”"
                             ]
                         },
                         {
@@ -6895,7 +6895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Why would you say such a thing? ♡”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Tại sao bạn lại nói như vậy? ♡”"
                             ]
                         },
                         {
@@ -6912,21 +6912,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I merely happened to catch a glimpse of your body"
+                                "\\N<Gonzo>“Tôi chỉ tình cờ nhìn thấy cơ thể của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "while assisting you with changing clothes and"
+                                "trong khi giúp bạn thay quần áo và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "looking after you. ♡”"
+                                "chăm sóc bạn. ♡”"
                             ]
                         },
                         {
@@ -6950,14 +6950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...You’re lucky I can’t beat the daylights out of"
+                                "\\N<Shizune>“...Bạn thật may mắn vì tôi không thể đánh bại ánh sáng ban ngày"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you!”"
+                                "Bạn!\""
                             ]
                         },
                         {
@@ -6974,14 +6974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Your breasts jiggle every time you move out of anger."
+                                "\\N<Gonzo>“Ngực của bạn rung lên mỗi khi bạn tỏ ra tức giận."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ Just look at them shake. ♡ Hee-hee! ♡”"
+                                "♡ Hãy nhìn họ lắc lư. ♡ Hee-hee! ♡”"
                             ]
                         },
                         {
@@ -6998,7 +6998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You... lowlife...!”"
+                                "\\N<Shizune>“A-Ngươi... đồ hạ đẳng...!”"
                             ]
                         },
                         {
@@ -7015,14 +7015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I may be old, but I’m still a man. Please forgive"
+                                "\\N<Gonzo>“Tôi có thể già nhưng tôi vẫn là đàn ông. Xin hãy tha thứ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me... ♡”"
+                                "tôi... ♡”"
                             ]
                         },
                         {
@@ -7039,7 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well... before we continue...”"
+                                "\\N<Gonzo>“Chà... trước khi chúng ta tiếp tục…”"
                             ]
                         },
                         {
@@ -7056,7 +7056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I must bring you something to wear.”"
+                                "\\N<Gonzo>“Tôi phải mang cho bạn thứ gì đó để mặc.”"
                             ]
                         },
                         {
@@ -7073,14 +7073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“It is hot today... Please try to cool off until I come"
+                                "\\N<Gonzo>“Hôm nay trời nóng quá... Hãy cố gắng giải nhiệt cho đến khi tôi đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "back. ♡”"
+                                "Quay lại. ♡”"
                             ]
                         },
                         {
@@ -7104,7 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!? Y-You’re just going to leave me like this!?”"
+                                "\\N<Shizune>“Cái gì...!? C-Anh định bỏ rơi tôi như thế này sao!?”"
                             ]
                         },
                         {
@@ -7121,14 +7121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hmm... You’ve been wearing this since yesterday, so I"
+                                "\\N<Gonzo>“Hmm... Bạn đã mặc cái này từ hôm qua, nên tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have to clean it up for you... ♡”"
+                                "phải dọn dẹp nó cho cậu... ♡”"
                             ]
                         },
                         {
@@ -7145,14 +7145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“So, until I prepare another set of clothes for you..."
+                                "\\N<Gonzo>“Vì vậy, cho đến khi tôi chuẩn bị một bộ quần áo khác cho bạn…"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you will stay like that... ♡”"
+                                "cậu sẽ mãi như vậy... ♡”"
                             ]
                         },
                         {
@@ -7169,14 +7169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I’d say this makes things more enjoyable..."
+                                "\\N<Gonzo>“Tôi muốn nói rằng điều này khiến mọi thứ trở nên thú vị hơn..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hee-hee-hee! ♡”"
+                                "Hee hee hee! ♡”"
                             ]
                         },
                         {
@@ -7193,7 +7193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Damn...! You pervert...!”"
+                                "\\N<Shizune>“Chết tiệt...! Đồ biến thái...!”"
                             ]
                         },
                         {
@@ -7217,7 +7217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(If only I could move... This bastard...!)"
+                                "\\N<Shizune>(Giá như tôi có thể di chuyển... Tên khốn này...!)"
                             ]
                         },
                         {
@@ -7234,7 +7234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now then, I have work to do... Please, get some rest."
+                                "\\N<Gonzo>“Bây giờ, tôi có việc phải làm… Xin hãy nghỉ ngơi đi."
                             ]
                         },
                         {
@@ -7265,7 +7265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha-What are you scheming...!?”"
+                                "\\N<Shizune>“C-Cậu đang âm mưu gì vậy…!?”"
                             ]
                         },
                         {
@@ -7282,7 +7282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee...! Just need to find some clothes...”"
+                                "\\N<Gonzo>“Hee-hee...! Chỉ cần tìm một ít quần áo thôi…”"
                             ]
                         },
                         {
@@ -7299,14 +7299,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I ask that you wait with your giant boobs exposed to"
+                                "\\N<Gonzo>“Tôi yêu cầu bạn đợi với cặp vú khổng lồ của mình để lộ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the best of your ability. ♡ ♡”"
+                                "khả năng tốt nhất của bạn. ♡ ♡”"
                             ]
                         },
                         {
@@ -7347,7 +7347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(G-Gotta get moving before he comes back...!)"
+                                "\\N<Shizune>(G-Phải di chuyển trước khi hắn quay lại...!)"
                             ]
                         },
                         {
@@ -7413,7 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hm, here’s the paralyzing Cursed Talisman...”"
+                                "\\N<Gonzo>“Hm, đây là Bùa nguyền rủa gây tê liệt…”"
                             ]
                         },
                         {
@@ -7430,7 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Everything here seems to be meant for combat.”"
+                                "\\N<Gonzo>“Mọi thứ ở đây dường như đều dành cho chiến đấu.”"
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Which means, it should be...”"
+                                "\\N<Gonzo>“Có nghĩa là, nó phải…”"
                             ]
                         },
                         {
@@ -7464,7 +7464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“...There it is. ♡”"
+                                "\\N<Gonzo>“...Nó đây rồi. ♡”"
                             ]
                         },
                         {
@@ -7481,7 +7481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“This is the Cursed Talisman of Bondage...”"
+                                "\\N<Gonzo>“Đây là lá bùa bị nguyền rủa…”"
                             ]
                         },
                         {
@@ -7498,14 +7498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I don’t know much about the Arts exorcists have..."
+                                "\\N<Gonzo>“Tôi không biết nhiều về nghệ thuật Trừ tà có..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "but I at least know about this charm. ♡”"
+                                "nhưng ít nhất tôi cũng biết về sự quyến rũ này. ♡”"
                             ]
                         },
                         {
@@ -7522,21 +7522,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Even if she is a powerful daughter of the Ayatsuji"
+                                "\\N<Gonzo>“Ngay cả khi cô ấy là con gái mạnh mẽ của Ayatsuji"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family, she’s been weakened too much to put up a"
+                                "gia đình, cô ấy đã suy yếu quá nhiều để có thể đưa ra một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fight.”"
+                                "trận đánh.\""
                             ]
                         },
                         {
@@ -7553,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now that cheeky, busty brat will... ♡ Hee-hee! ♡”"
+                                "\\N<Gonzo>“Bây giờ, cậu nhóc vú to táo bạo đó sẽ... ♡ Hee-hee! ♡”"
                             ]
                         },
                         {
@@ -7570,7 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I won’t miss this opportunity...! ♡”"
+                                "\\N<Gonzo>“Tôi sẽ không bỏ lỡ cơ hội này…! ♡”"
                             ]
                         },
                         {
@@ -7592,7 +7592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -7701,14 +7701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Shizune is still recovering... so maybe Gonzo put this"
+                                "\\N<Kaori>“Shizune vẫn đang hồi phục... nên có lẽ Gonzo đã đưa cái này vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here.”"
+                                "đây.\""
                             ]
                         },
                         {
@@ -7725,14 +7725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“He could’ve left it lying around while he was"
+                                "\\N<Kaori>“Anh ấy có thể để nó nằm xung quanh khi anh ấy đang"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "cleaning up...”"
+                                "dọn dẹp...\""
                             ]
                         },
                         {
@@ -7749,7 +7749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...I should ask him about it later.”"
+                                "\\N<Kaori>“...Tôi nên hỏi anh ấy về chuyện đó sau.”"
                             ]
                         },
                         {
@@ -7868,7 +7868,7 @@
         },
         {
             "id": 5,
-            "name": "3rd Chapter Gonzo",
+            "name": "Chương 3 Gonzo",
             "note": "",
             "pages": [
                 {
@@ -7910,7 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Stay on your guard...”"
+                                "\\N<Gonzo>“Hãy cảnh giác…”"
                             ]
                         },
                         {
@@ -7996,7 +7996,7 @@
         },
         {
             "id": 6,
-            "name": "Gonzo Event 2 Main",
+            "name": "Sự kiện Gonzo 2 chính",
             "note": "",
             "pages": [
                 {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now then... Time to have some fun... ♡”"
+                                "\\N<Gonzo>“Giờ thì... Đã đến lúc vui chơi một chút... ♡”"
                             ]
                         },
                         {
@@ -8200,7 +8200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I have returned, Lady Shizune.”"
+                                "\\N<Gonzo>“Tôi đã trở lại, thưa quý cô Shizune.”"
                             ]
                         },
                         {
@@ -8217,14 +8217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I see your breasts are still exposed... Your body"
+                                "\\N<Gonzo>“Tôi thấy ngực của bạn vẫn lộ ra ... Cơ thể của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "isn’t moving like you want it to yet, I assume. ♡”"
+                                "Tôi cho rằng nó vẫn chưa di chuyển như bạn mong muốn. ♡”"
                             ]
                         },
                         {
@@ -8248,14 +8248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...! You wouldn’t be standing there if I could"
+                                "\\N<Shizune>“Hừm...! Bạn sẽ không đứng đó nếu tôi có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "move...!”"
+                                "di chuyển...!\""
                             ]
                         },
                         {
@@ -8279,7 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ How cocky...”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Thật kiêu ngạo…”"
                             ]
                         },
                         {
@@ -8296,7 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Looks like I need to teach you some manners. ♡”"
+                                "\\N<Gonzo>“Có vẻ như tôi cần dạy bạn một số cách cư xử. ♡”"
                             ]
                         },
                         {
@@ -8320,7 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha-What do you plan on doing to me now...!?”"
+                                "\\N<Shizune> “Giờ-Anh định làm gì với tôi bây giờ…!?”"
                             ]
                         },
                         {
@@ -8344,14 +8344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“We’re the only ones here right now... Don’t waste your"
+                                "\\N<Gonzo>“Hiện tại chúng tôi là những người duy nhất ở đây... Đừng lãng phí thời gian của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "time calling out for help. ♡”"
+                                "đã đến lúc kêu cứu. ♡”"
                             ]
                         },
                         {
@@ -8368,7 +8368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“No one will come... even if I do this. ♡ ♡”"
+                                "\\N<Gonzo>“Sẽ không có ai đến... ngay cả khi tôi làm điều này. ♡ ♡”"
                             ]
                         },
                         {
@@ -8401,7 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡"
+                                "*cạch* ♡"
                             ]
                         },
                         {
@@ -8447,7 +8447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Mmm...! ♡ Hee-hee-hee! ♡ Wonderful! ♡”"
+                                "\\N<Gonzo>“Ừm...! ♡ Hee-hee-hee! ♡ Tuyệt vời! ♡”"
                             ]
                         },
                         {
@@ -8464,21 +8464,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“The jugs of my dreams! ♡ ♡ To think the day would"
+                                "\\N<Gonzo>“Những chiếc bình trong mơ của tôi! ♡ ♡ Nghĩ rằng ngày đó sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "come when I would be able to suck them...! ♡"
+                                "đến khi tôi có thể bú chúng...! ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm! ♡”"
+                                "Ừm! ♡”"
                             ]
                         },
                         {
@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“St-Stop...! ♡”"
+                                "\\N<Shizune>“Dừng lại...! ♡”"
                             ]
                         },
                         {
@@ -8528,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *suck* ♡ *suck* ♡"
+                                "*húp* ♡ *bụt* ♡ *bụt* ♡"
                             ]
                         },
                         {
@@ -8561,7 +8561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn...! Hah...! ♡”"
+                                "\\N<Shizune>“Mn...! Ha...! ♡”"
                             ]
                         },
                         {
@@ -8578,14 +8578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee... ♡ They’re even sensitive. You really are"
+                                "\\N<Gonzo>“Hee-hee... ♡ Họ thậm chí còn nhạy cảm nữa. Bạn thực sự là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "slutty. ♡”"
+                                "đĩ. ♡”"
                             ]
                         },
                         {
@@ -8602,14 +8602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You’re always trying to seduce me by making them"
+                                "\\N<Gonzo>“Bạn luôn cố gắng quyến rũ tôi bằng cách khiến họ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "jiggle. ♡ I’ll show them lots of love today. ♡”"
+                                "lắc lư. ♡ Hôm nay tôi sẽ thể hiện thật nhiều tình yêu với họ. ♡”"
                             ]
                         },
                         {
@@ -8642,7 +8642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“S-Seduce...? That’s just your imagination...! ♡”"
+                                "\\N<Shizune>“S-Quyến rũ...? Đó chỉ là trí tưởng tượng của bạn thôi...! ♡”"
                             ]
                         },
                         {
@@ -8659,7 +8659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡"
+                                "*cạch* ♡ *cúi* ♡"
                             ]
                         },
                         {
@@ -8692,7 +8692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ah! ♡ Ahn! ♡ Aaahn...! ♡”"
+                                "\\N<Shizune>“À! ♡ À! ♡ Aaaah...! ♡”"
                             ]
                         },
                         {
@@ -8714,7 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few minutes later..."
+                                "...Vai phut sau..."
                             ]
                         },
                         {
@@ -8736,7 +8736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Mnnn! ♡ Mn! ♡ Hah! ♡”"
+                                "\\N<Gonzo>“Trời! ♡ Ừm! ♡ Hả! ♡”"
                             ]
                         },
                         {
@@ -8783,7 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haaah...! ♡ Hah... ♡”"
+                                "\\N<Shizune>“Haaah...! ♡ Hả... ♡”"
                             ]
                         },
                         {
@@ -8807,7 +8807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oh, this won’t do. I’ve sucked on them for too long."
+                                "\\N<Gonzo>“Ồ, điều này không được. Tôi đã say mê chúng quá lâu."
                             ]
                         },
                         {
@@ -8831,14 +8831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“The thought of relishing the woman I’ve always jacked"
+                                "\\N<Gonzo>“Ý nghĩ thưởng thức người phụ nữ mà tôi luôn kích thích"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "off to was too exciting. ♡”"
+                                "off to quá thú vị. ♡”"
                             ]
                         },
                         {
@@ -8855,21 +8855,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I cannot tell you how long I’ve been waiting for this"
+                                "\\N<Gonzo>“Tôi không thể nói cho bạn biết tôi đã chờ đợi điều này bao lâu rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "moment since I peeked at these huge tits when you were"
+                                "khoảnh khắc kể từ khi tôi nhìn trộm cặp vú khổng lồ này khi bạn còn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "bathing... ♡”"
+                                "đang tắm... ♡”"
                             ]
                         },
                         {
@@ -8909,7 +8909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You committed such a cowardly act...!?”"
+                                "\\N<Shizune>“A-Anh đã phạm phải một hành động hèn nhát như vậy…!?”"
                             ]
                         },
                         {
@@ -8926,7 +8926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You really are lousy trash...!”"
+                                "\\N<Shizune>“Mày đúng là thứ rác rưởi tệ hại…!”"
                             ]
                         },
                         {
@@ -8950,14 +8950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Good grief... And you’re a cocky brat for insulting me"
+                                "\\N<Gonzo>“Thật tiếc... Và bạn là một cô gái tự mãn vì đã xúc phạm tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "while in this situation. ♡”"
+                                "trong khi ở trong tình huống này. ♡”"
                             ]
                         },
                         {
@@ -8974,7 +8974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Think you can resist this?”"
+                                "\\N<Gonzo>“Bạn nghĩ rằng bạn có thể chống lại điều này?”"
                             ]
                         },
                         {
@@ -8991,7 +8991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gonzo took out a piece of paper from his pocket..."
+                                "Gonzo lấy ra một mảnh giấy từ trong túi của mình..."
                             ]
                         },
                         {
@@ -9015,7 +9015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A charm...!? Where did you get that...!?”"
+                                "\\N<Shizune>“Một sự quyến rũ...!? Bạn lấy thứ đó ở đâu...!?\""
                             ]
                         },
                         {
@@ -9039,14 +9039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Borrowed it from Lady Kaori’s equipment"
+                                "\\N<Gonzo>“Hee-hee! ♡ Mượn nó từ trang bị của tiểu thư Kaori"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "cabinet. ♡”"
+                                "tủ. ♡”"
                             ]
                         },
                         {
@@ -9063,14 +9063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“It’s the Cursed Talisman of Bondage... and is said to"
+                                "\\N<Gonzo>“Đó là Bùa trói buộc bị nguyền rủa... và được cho là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "contain a powerful Sex Fiend’s magic... ♡”"
+                                "chứa đựng phép thuật mạnh mẽ của Sex Fiend... ♡”"
                             ]
                         },
                         {
@@ -9094,7 +9094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha-What do you intend to do with that...!?”"
+                                "\\N<Shizune>“Anh-Anh định làm gì với thứ đó...!?”"
                             ]
                         },
                         {
@@ -9118,7 +9118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ You know the answer to that. ♡”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Bạn biết câu trả lời cho điều đó. ♡”"
                             ]
                         },
                         {
@@ -9135,7 +9135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I’m going to use this to bind you. ♡”"
+                                "\\N<Gonzo>“Tôi sẽ dùng cái này để trói bạn. ♡”"
                             ]
                         },
                         {
@@ -9152,14 +9152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well, I say bind, but it’ll be more like forming a"
+                                "\\N<Gonzo>“Chà, tôi nói ràng buộc, nhưng nó sẽ giống như hình thành một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "contract with you.”"
+                                "ký hợp đồng với bạn.”"
                             ]
                         },
                         {
@@ -9176,14 +9176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“After I use this, you will lack the ability to resist"
+                                "\\N<Gonzo>“Sau khi tôi sử dụng thứ này, bạn sẽ mất khả năng chống cự"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me and won’t be able to ask anyone for help. ♡”"
+                                "tôi và sẽ không thể nhờ ai giúp đỡ. ♡”"
                             ]
                         },
                         {
@@ -9200,7 +9200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Convenient, wouldn’t you say...? ♪”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Thuận tiện, phải không...? ♪”"
                             ]
                         },
                         {
@@ -9224,7 +9224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...D-Don’t you dare...! You can still turn back...!”"
+                                "\\N<Shizune>“...Đ-Đừng có dám...! Bạn vẫn có thể quay lại ...!"
                             ]
                         },
                         {
@@ -9248,21 +9248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I’d rather not. This is a once-in-a-lifetime"
+                                "\\N<Gonzo>“Tôi không muốn. Đây là lần duy nhất trong đời"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "opportunity. ♡ I shall not back down, no matter what"
+                                "cơ hội. ♡ Tôi sẽ không lùi bước, dù thế nào đi chăng nữa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sort of verbal abuse you hurl at me. ♡”"
+                                "kiểu lạm dụng bằng lời nói mà bạn ném vào tôi. ♡”"
                             ]
                         },
                         {
@@ -9279,7 +9279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“If anything, your detest turns me on more. ♡”"
+                                "\\N<Gonzo>“Nếu có bất cứ điều gì, sự căm ghét của bạn khiến tôi càng thêm hứng thú. ♡”"
                             ]
                         },
                         {
@@ -9327,7 +9327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well then, here goes nothing... ♡”"
+                                "\\N<Gonzo>“Vậy thì, không có gì đâu... ♡”"
                             ]
                         },
                         {
@@ -9394,7 +9394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(My body... is so hot...!!)"
+                                "\\N<Shizune>(Cơ thể tôi... nóng quá...!!)"
                             ]
                         },
                         {
@@ -9435,7 +9435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Wonderful... I can already see it... ♡”"
+                                "\\N<Gonzo>“Tuyệt vời… Tôi có thể thấy nó rồi… ♡”"
                             ]
                         },
                         {
@@ -9452,7 +9452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Wha-What is this...!!?”"
+                                "\\N<Shizune>“...Cái-Cái gì thế này...!!?”"
                             ]
                         },
                         {
@@ -9537,14 +9537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ It’s proof of our bond... the Symbol of"
+                                "\\N<Gonzo>“Hee-hee! ♡ Đó là bằng chứng cho mối quan hệ của chúng ta... Biểu tượng của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bondage. ♡”"
+                                "Sự trói buộc. ♡”"
                             ]
                         },
                         {
@@ -9561,7 +9561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“As long as that is there, you cannot defy me. ♡”"
+                                "\\N<Gonzo>“Chỉ cần còn đó, ngươi không thể thách thức ta. ♡”"
                             ]
                         },
                         {
@@ -9594,14 +9594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-Are you out of your mind...!? Get rid of it this"
+                                "\\N<Shizune>“A-Anh mất trí rồi à…!? Loại bỏ nó đi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "instant!”"
+                                "lập tức!\""
                             ]
                         },
                         {
@@ -9618,7 +9618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“No can do. I don’t even know how to break the spell.”"
+                                "\\N<Gonzo>“Không thể làm được. Tôi thậm chí còn không biết làm thế nào để phá bỏ bùa chú.”"
                             ]
                         },
                         {
@@ -9635,7 +9635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You may stay like this for the rest of your life. ♡”"
+                                "\\N<Gonzo>“Bạn có thể sống như thế này đến hết đời. ♡”"
                             ]
                         },
                         {
@@ -9668,7 +9668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“N-No way...!”"
+                                "\\N<Shizune>“K-Không thể nào...!”"
                             ]
                         },
                         {
@@ -9685,14 +9685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ I get to feast my eyes on a young lady’s"
+                                "\\N<Gonzo>“Hee-hee! ♡ Tôi được ngắm nhìn một cô gái trẻ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "pussy... And not just any young lady’s... It’s yours..."
+                                "âm hộ... Và không chỉ của bất kỳ cô gái trẻ nào... Nó là của bạn..."
                             ]
                         },
                         {
@@ -9725,7 +9725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Gonzo>“You’ve got a good amount of pubic hair... ♡”"
+                                "\\N<Gonzo>“Bạn có nhiều lông mu quá... ♡”"
                             ]
                         },
                         {
@@ -9752,7 +9752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I cannot get enough of how pink it is. ♡”"
+                                "\\N<Gonzo>“Tôi không thể hiểu hết được màu hồng của nó. ♡”"
                             ]
                         },
                         {
@@ -9769,7 +9769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“St-Stop...! Don’t look...!”"
+                                "\\N<Shizune>“Dừng lại...! Đừng nhìn…!”"
                             ]
                         },
                         {
@@ -9786,14 +9786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You always glare at me whenever I merely leer at you a"
+                                "\\N<Gonzo>“Bạn luôn trừng mắt nhìn tôi bất cứ khi nào tôi chỉ nhìn chằm chằm vào bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "little... ♡”"
+                                "nhỏ... ♡”"
                             ]
                         },
                         {
@@ -9810,7 +9810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I’ll enjoy you as much as I want today. ♡”"
+                                "\\N<Gonzo>“Hôm nay tôi sẽ tận hưởng bạn nhiều như tôi muốn. ♡”"
                             ]
                         },
                         {
@@ -9843,7 +9843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“P-Pervert...!!”"
+                                "\\N<Shizune>“P-Biến thái…!!”"
                             ]
                         },
                         {
@@ -9860,21 +9860,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hey now. That’s not how you should talk to people. ♡"
+                                "\\N<Gonzo>“Này bây giờ. Đó không phải là cách bạn nên nói chuyện với mọi người. ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wish you were like your mother in personality as"
+                                "Tôi ước gì bạn giống mẹ bạn về tính cách"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "well...”"
+                                "Tốt...\""
                             ]
                         },
                         {
@@ -9891,14 +9891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“As someone who helped raise you, I need to discipline"
+                                "\\N<Gonzo>“Là người đã giúp nuôi dạy bạn, tôi cần phải kỷ luật"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you properly. ♡”"
+                                "bạn đúng cách. ♡”"
                             ]
                         },
                         {
@@ -9915,14 +9915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What do you mean, discipline? You just want to do"
+                                "\\N<Shizune>“Ý bạn là gì, kỷ luật? Bạn chỉ muốn làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "something obscene...!”"
+                                "thứ gì đó tục tĩu…!”"
                             ]
                         },
                         {
@@ -9939,7 +9939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oh, one more thing...”"
+                                "\\N<Gonzo>“Ồ, còn một điều nữa…”"
                             ]
                         },
                         {
@@ -9956,21 +9956,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Apparently, the more you feel pleasure, have the"
+                                "\\N<Gonzo>“Rõ ràng, bạn càng cảm thấy thích thú thì càng có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obscenities in you intensify, and surrender yourself to"
+                                "Những lời tục tĩu trong bạn ngày càng gia tăng và hãy đầu hàng trước"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me... the more bound we will become... ♡”"
+                                "tôi... chúng ta sẽ càng trở nên ràng buộc hơn... ♡”"
                             ]
                         },
                         {
@@ -9987,14 +9987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“In other words, you will fall in love with me if I"
+                                "\\N<Gonzo>“Nói cách khác, bạn sẽ yêu tôi nếu tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "continue to pleasure you... ♡”"
+                                "tiếp tục làm hài lòng bạn... ♡”"
                             ]
                         },
                         {
@@ -10027,7 +10027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Huh...!? What the hell are you thinking...!?”"
+                                "\\N<Shizune>“Hả...!? Bạn đang nghĩ cái quái gì vậy...!?\""
                             ]
                         },
                         {
@@ -10060,14 +10060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Under no circumstances... would I be in that kind of"
+                                "\\N<Shizune>“Trong mọi trường hợp... liệu tôi có rơi vào tình trạng đó không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "relationship with the likes of you...!”"
+                                "mối quan hệ với những người như bạn...!”"
                             ]
                         },
                         {
@@ -10084,14 +10084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Let’s see how long you will keep that"
+                                "\\N<Gonzo>“Hee-hee! ♡ Để xem bạn sẽ giữ được điều đó được bao lâu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "attitude. ♡”"
+                                "thái độ. ♡”"
                             ]
                         },
                         {
@@ -10108,7 +10108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well then, Lady Shizune... Or rather...”"
+                                "\\N<Gonzo>“Vậy thì, quý cô Shizune... Hay đúng hơn là…”"
                             ]
                         },
                         {
@@ -10125,7 +10125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Shizune, I shall help myself to your pussy. ♡”"
+                                "\\N<Gonzo>“Shizune, tôi sẽ giúp mình với âm hộ của bạn. ♡”"
                             ]
                         },
                         {
@@ -10172,7 +10172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ ♡"
+                                "*cạch* ♡ ♡"
                             ]
                         },
                         {
@@ -10237,7 +10237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *lick* ♡"
+                                "*sụt rè* ♡ *liếm* ♡"
                             ]
                         },
                         {
@@ -10289,7 +10289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mnnn...! Stop it...! ♡ D-Disgusting...! Aaahn! ♡”"
+                                "\\N<Shizune>“Ừm...! Dừng lại đi...! ♡ Đ-Kinh tởm...! Aaaah! ♡”"
                             ]
                         },
                         {
@@ -10306,21 +10306,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee-hee! ♡ I figured an inexperienced girl"
+                                "\\N<Gonzo>“Hee-hee-hee! ♡ Tôi đã nghĩ đến một cô gái thiếu kinh nghiệm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wouldn’t stand a chance against something this"
+                                "sẽ không có cơ hội chống lại thứ gì đó thế này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exciting. ♡”"
+                                "thú vị. ♡”"
                             ]
                         },
                         {
@@ -10337,7 +10337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You’re letting out lewd moans, you know... Mmm! ♡”"
+                                "\\N<Gonzo>“Bạn đang phát ra những tiếng rên rỉ dâm dục, bạn biết đấy… Mmm! ♡”"
                             ]
                         },
                         {
@@ -10370,7 +10370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-Ah...! ♡ Not from a man like you...!”"
+                                "\\N<Shizune>“A-À...! ♡ Không phải từ một người đàn ông như anh...!”"
                             ]
                         },
                         {
@@ -10387,7 +10387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡"
+                                "*cạch* ♡ *cúi* ♡"
                             ]
                         },
                         {
@@ -10420,7 +10420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mnnn...! Mn...! ♡”"
+                                "\\N<Shizune>“Ừm...! Ừm...! ♡”"
                             ]
                         },
                         {
@@ -10437,21 +10437,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I can see your outrageously huge tits out of the"
+                                "\\N<Gonzo>“Tôi có thể nhìn thấy cặp vú khổng lồ của bạn từ bên ngoài"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "corners of my eyes... ♡ And the pussy I’ve dreamed of"
+                                "khóe mắt tôi... ♡ Và con mèo tôi hằng mơ ước"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "is touching my mouth... ♡”"
+                                "đang chạm vào miệng tôi... ♡”"
                             ]
                         },
                         {
@@ -10468,14 +10468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“This is most certainly the best day of my life... ♡"
+                                "\\N<Gonzo>“Đây chắc chắn là ngày tuyệt vời nhất trong cuộc đời tôi... ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I’m so glad I serve the Ayatsuji family. ♡ Mmm! ♡”"
+                                "Tôi rất vui vì được phục vụ gia đình Ayatsuji. ♡ Ừm! ♡”"
                             ]
                         },
                         {
@@ -10492,7 +10492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...! ♡”"
+                                "\\N<Shizune>“Hừm...! ♡”"
                             ]
                         },
                         {
@@ -10509,7 +10509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Oh? ♡ The crest is more visible than before... ♡”"
+                                "\\N<Gonzo>“Ồ? ♡ Cái đỉnh hiện rõ hơn trước... ♡”"
                             ]
                         },
                         {
@@ -10526,14 +10526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Looks like you’re really enjoying this and even"
+                                "\\N<Gonzo>“Có vẻ như bạn thực sự thích điều này và thậm chí"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "opening up to me... ♡”"
+                                "hãy mở lòng với tôi... ♡”"
                             ]
                         },
                         {
@@ -10566,7 +10566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“N-No... I am... not...! ♡”"
+                                "\\N<Shizune>“K-Không... tôi... không phải...! ♡”"
                             ]
                         },
                         {
@@ -10583,14 +10583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hm... But I have been tasting some sort of clear fluid"
+                                "\\N<Gonzo>“Hm... Nhưng tôi vừa nếm được một loại chất lỏng trong suốt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for a while now... ♡”"
+                                "được một lúc rồi... ♡”"
                             ]
                         },
                         {
@@ -10607,14 +10607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Why would you be wet if you weren’t getting off on"
+                                "\\N<Gonzo>“Tại sao bạn lại bị ướt nếu bạn không xuống xe"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this...? Hee-hee! ♡”"
+                                "cái này...? Hi hi! ♡”"
                             ]
                         },
                         {
@@ -10664,14 +10664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You would feel more at ease if you just accepted it."
+                                "\\N<Gonzo>“Bạn sẽ cảm thấy thoải mái hơn nếu chấp nhận nó."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ Here you go. ♡”"
+                                "♡ Đây rồi. ♡”"
                             ]
                         },
                         {
@@ -10688,7 +10688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *slurp* ♡"
+                                "*cạch* ♡ *cạch* ♡ *cạch* ♡"
                             ]
                         },
                         {
@@ -10721,14 +10721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wh-Who’d accept something from a lowlife... like"
+                                "\\N<Shizune>“Ai-Ai lại chấp nhận thứ gì đó từ một kẻ hạ đẳng... như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you...!? ♡”"
+                                "Bạn...!? ♡”"
                             ]
                         },
                         {
@@ -10745,7 +10745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *lick* ♡"
+                                "*sụt rè* ♡ *sụt rè* ♡ *liếm* ♡"
                             ]
                         },
                         {
@@ -10778,7 +10778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mnnn...! Ngh...! Haaah...! ♡ ♡”"
+                                "\\N<Shizune>“Ừm...! Ngh...! Haa...! ♡ ♡”"
                             ]
                         },
                         {
@@ -10795,14 +10795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Mmm...! ♡ It’s overflowing now. ♡ At least your body"
+                                "\\N<Gonzo>“Ừm...! ♡ Bây giờ nó đang tràn ngập rồi. ♡ Ít nhất là cơ thể của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "is honest...! ♡ ♡”"
+                                "thật thà...! ♡ ♡”"
                             ]
                         },
                         {
@@ -10836,7 +10836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *slurp* ♡ ♡"
+                                "*cạch* ♡ *cạch* ♡ *cạch* ♡ ♡"
                             ]
                         },
                         {
@@ -10853,7 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ah! ♡ Wai— ♡ STO— AHN! ♡ ♡”"
+                                "\\N<Shizune>“À! ♡ Chờ— ♡ STO— AHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -10870,14 +10870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Your body’s twitching. ♡ Doubt you’ll"
+                                "\\N<Gonzo>“Hee-hee! ♡ Cơ thể bạn đang co giật. ♡ Nghi ngờ bạn sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "last much longer. ♡”"
+                                "kéo dài lâu hơn nhiều. ♡”"
                             ]
                         },
                         {
@@ -10894,7 +10894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now. ♡ Cum from my tongue! ♡ ♡”"
+                                "\\N<Gonzo>“Bây giờ. ♡ Xuất tinh từ lưỡi của tôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -10911,7 +10911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ ♡ *slurp* ♡ ♡ *slurp* ♡ ♡"
+                                "*cạch* ♡ ♡ *cục* ♡ ♡ *cục* ♡ ♡"
                             ]
                         },
                         {
@@ -10956,7 +10956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah...! AH! ♡ Ahn...! Mnnn! ♡ ♡ Hah... ♡”"
+                                "\\N<Shizune>“Hah...! AH! ♡ À...! Ừm! ♡ ♡ Hah... ♡”"
                             ]
                         },
                         {
@@ -10973,7 +10973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *slurp* ♡ *slurp* ♡ ♡"
+                                "*cạch* ♡ *cạch* ♡ *cạch* ♡ ♡"
                             ]
                         },
                         {
@@ -11006,7 +11006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“D-Don’t...! ♡ MN! ♡ Ahn...! ♡ ♡”"
+                                "\\N<Shizune>“Đ-Đừng...! ♡ MN! ♡ À...! ♡ ♡”"
                             ]
                         },
                         {
@@ -11101,7 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*quiver* ♡"
+                                "*run rẩy* ♡"
                             ]
                         },
                         {
@@ -11118,7 +11118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“...Hee-hee-hee! ♡ You’ve finally cummed. ♡”"
+                                "\\N<Gonzo>“...Hee-hee-hee! ♡ Cuối cùng bạn cũng đã xuất tinh. ♡”"
                             ]
                         },
                         {
@@ -11135,14 +11135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I, of all people, made you cum! ♡ An old man like me"
+                                "\\N<Gonzo>“Tôi, trong số tất cả mọi người, đã khiến bạn xuất tinh! ♡ Một ông già như tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "brought such a young lady pleasure...! ♡ ♡”"
+                                "mang đến cho bạn niềm vui...! ♡ ♡”"
                             ]
                         },
                         {
@@ -11159,7 +11159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Pretty impressive, if I do say so myself... Hee-hee!"
+                                "\\N<Gonzo>“Khá ấn tượng, nếu tôi tự nói như vậy... Hee-hee!"
                             ]
                         },
                         {
@@ -11206,7 +11206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hah...! Hah...!”"
+                                "\\N<Shizune>“Hah...! Ha...!”"
                             ]
                         },
                         {
@@ -11223,14 +11223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“From the looks of you, I don’t think you’ve ever"
+                                "\\N<Gonzo>“Nhìn vẻ ngoài của bạn, tôi không nghĩ bạn đã từng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "climaxed properly until now. ♡”"
+                                "đã lên đến đỉnh điểm cho đến tận bây giờ. ♡”"
                             ]
                         },
                         {
@@ -11247,14 +11247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now that you’re bound to me, I’ll make sure to teach"
+                                "\\N<Gonzo>“Bây giờ bạn đã ràng buộc với tôi, tôi chắc chắn sẽ dạy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you all sorts of dirty things. ♡”"
+                                "bạn đủ thứ bẩn thỉu. ♡”"
                             ]
                         },
                         {
@@ -11287,14 +11287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Hah...! ♡ T-Treating someone like your personal"
+                                "\\N<Shizune>(Hah...! ♡ Đ-Đối xử với ai đó như cá nhân của mình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "object...! ♡)"
+                                "sự vật...! ♡)"
                             ]
                         },
                         {
@@ -11311,14 +11311,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“My word... Feels like my cock is going to pop out of"
+                                "\\N<Gonzo>“Lời của tôi... Cảm giác như con cặc của tôi sắp bật ra khỏi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "my pants...”"
+                                "quần của tôi...\""
                             ]
                         },
                         {
@@ -11335,7 +11335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“It’s about time I took your virginity... ♡”"
+                                "\\N<Gonzo>“Đã đến lúc anh lấy đi trinh tiết của em rồi... ♡”"
                             ]
                         },
                         {
@@ -11368,7 +11368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“D-Don’t...!! Anything but that...!!!”"
+                                "\\N<Shizune>“Đ-Đừng...!! Bất cứ thứ gì nhưng...!!!\""
                             ]
                         },
                         {
@@ -11385,7 +11385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ Relax. ♡”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Thư giãn. ♡”"
                             ]
                         },
                         {
@@ -11402,14 +11402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Unfortunately, the bondage doesn’t seem developed"
+                                "\\N<Gonzo>“Thật không may, sự ràng buộc dường như không được phát triển"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "enough for me to do that just yet.”"
+                                "đủ để tôi làm điều đó rồi.”"
                             ]
                         },
                         {
@@ -11426,14 +11426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well, we’ll have to postpone our memorable first"
+                                "\\N<Gonzo>“Chà, trước tiên chúng ta sẽ phải hoãn lại khoảnh khắc đáng nhớ của mình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sex... for another time. ♡”"
+                                "tình dục... vào lúc khác. ♡”"
                             ]
                         },
                         {
@@ -11450,7 +11450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“M-Memorable...!? Are you stupid or something!?”"
+                                "\\N<Shizune>“M-Đáng nhớ...!? Bạn ngốc hay sao vậy!?\""
                             ]
                         },
                         {
@@ -11467,14 +11467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“As sad as it is, I must be patient until the Cursed"
+                                "\\N<Gonzo>“Thật đáng buồn, tôi phải kiên nhẫn cho đến khi bị nguyền rủa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Talisman intensifies... ♡”"
+                                "Bùa tăng cường... ♡”"
                             ]
                         },
                         {
@@ -11491,7 +11491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Slowly but surely... I’ll make you mine... ♡”"
+                                "\\N<Gonzo>“Chậm mà chắc… Anh sẽ biến em thành của anh… ♡”"
                             ]
                         },
                         {
@@ -11524,7 +11524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“My mother would never let that happen!!”"
+                                "\\N<Shizune>“Mẹ tôi sẽ không bao giờ để điều đó xảy ra!!”"
                             ]
                         },
                         {
@@ -11541,7 +11541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll definitely kick you out of this house...!”"
+                                "\\N<Shizune>“Tôi chắc chắn sẽ đuổi anh ra khỏi ngôi nhà này…!”"
                             ]
                         },
                         {
@@ -11558,14 +11558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee... Didn’t you hear about the effects of this"
+                                "\\N<Gonzo>“Hee-hee... Bạn chưa nghe nói về tác dụng của việc này à"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cursed Talisman?”"
+                                "Bùa nguyền rủa?”"
                             ]
                         },
                         {
@@ -11582,14 +11582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“As long as you’re bound to me... you cannot ask anyone"
+                                "\\N<Gonzo>“Chỉ cần bạn còn ràng buộc với tôi... bạn không thể hỏi ai"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for help. ♡”"
+                                "để được giúp đỡ. ♡”"
                             ]
                         },
                         {
@@ -11606,7 +11606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You also cannot harm me, of course. ♪”"
+                                "\\N<Gonzo>“Tất nhiên là bạn cũng không thể làm hại tôi. ♪”"
                             ]
                         },
                         {
@@ -11623,14 +11623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“But don’t just take my word for it. Just try to call"
+                                "\\N<Gonzo>“Nhưng đừng tin lời tôi. Chỉ cần cố gắng gọi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for help.”"
+                                "để được giúp đỡ.\""
                             ]
                         },
                         {
@@ -11663,7 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Hmph...! He’s so full of himself...!)"
+                                "\\N<Shizune>(Hmph...! Anh ấy tự cao quá...!)"
                             ]
                         },
                         {
@@ -11680,14 +11680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Such a charm should have no effect on a priestess of"
+                                "\\N<Shizune>(Sự quyến rũ như vậy sẽ không có tác dụng gì với một nữ tu sĩ của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the Ayatsuji family...!)"
+                                "gia đình Ayatsuji...!)"
                             ]
                         },
                         {
@@ -11704,7 +11704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -11737,7 +11737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Ah... Ah...!”"
+                                "\\N<Shizune>“...À... À...!”"
                             ]
                         },
                         {
@@ -11770,7 +11770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I can’t speak...! Don’t tell me...!)"
+                                "\\N<Shizune>(T-tôi không thể nói được...! Đừng nói với tôi là...!)"
                             ]
                         },
                         {
@@ -11820,14 +11820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ As expected, the Cursed Talisman seems to"
+                                "\\N<Gonzo>“Hee-hee! ♡ Đúng như dự đoán, Bùa Nguyền có vẻ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be in working order. ♡”"
+                                "ở trong tình trạng làm việc. ♡”"
                             ]
                         },
                         {
@@ -11844,7 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“It’s safe to say you’ve become my woman... ♡”"
+                                "\\N<Gonzo>“Thật an toàn khi nói rằng bạn đã trở thành người phụ nữ của tôi... ♡”"
                             ]
                         },
                         {
@@ -11861,7 +11861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Now, open your mouth! ♡”"
+                                "\\N<Gonzo>“Bây giờ, hãy mở miệng ra! ♡”"
                             ]
                         },
                         {
@@ -11885,7 +11885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You can’t be trying to...! N-No! N—”"
+                                "\\N<Shizune>“Bạn không thể cố gắng...! K-không! N-\""
                             ]
                         },
                         {
@@ -11918,7 +11918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squash* ♡ ♡"
+                                "*bíu* ♡ ♡"
                             ]
                         },
                         {
@@ -11964,14 +11964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(C-Can’t believe I had my first kiss with this"
+                                "\\N<Shizune>(C-Không thể tin được là tôi đã có nụ hôn đầu tiên với thứ này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "guy...!)"
+                                "chàng trai...!)"
                             ]
                         },
                         {
@@ -12004,7 +12004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(This is the absolute worst...!! Gross...!!!)"
+                                "\\N<Shizune>(Đây là điều tồi tệ nhất...!! Tệ hại...!!!)"
                             ]
                         },
                         {
@@ -12021,7 +12021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*suckle* ♡"
+                                "*bú* ♡"
                             ]
                         },
                         {
@@ -12069,7 +12069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“That was our first kiss of vows... ♡”"
+                                "\\N<Gonzo>“Đó là nụ hôn thề nguyện đầu tiên của chúng ta... ♡”"
                             ]
                         },
                         {
@@ -12086,14 +12086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“I’ll make you my wife someday... ♡ Let’s get along"
+                                "\\N<Gonzo>“Một ngày nào đó anh sẽ biến em thành vợ anh... ♡ Hãy hòa hợp với nhau nhé"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "nicely, you hear? ♡ ♡”"
+                                "tuyệt vời, bạn nghe thấy không? ♡ ♡”"
                             ]
                         },
                         {
@@ -12117,7 +12117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ew...! Disgusting...!!”"
+                                "\\N<Shizune>“Ối...! Kinh tởm...!!\""
                             ]
                         },
                         {
@@ -12141,14 +12141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Y-You’ve had your fill, haven’t you!? Get away from"
+                                "\\N<Shizune>“...Y-Bạn đã no rồi phải không!? Tránh xa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me already!!”"
+                                "tôi rồi!!”"
                             ]
                         },
                         {
@@ -12172,7 +12172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee! ♡ All right... ♡”"
+                                "\\N<Gonzo>“Hee-hee! ♡ Được rồi... ♡”"
                             ]
                         },
                         {
@@ -12224,7 +12224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -12241,7 +12241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Anyway...”"
+                                "\\N<Gonzo>“Dù sao thì…”"
                             ]
                         },
                         {
@@ -12263,7 +12263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Here’s some clothes for you.”"
+                                "\\N<Gonzo>“Đây là một số quần áo cho bạn.”"
                             ]
                         },
                         {
@@ -12287,7 +12287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Scumbag...!!”"
+                                "\\N<Shizune>“...Đồ cặn bã...!!”"
                             ]
                         },
                         {
@@ -12311,7 +12311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Hee-hee... Say what you like.”"
+                                "\\N<Gonzo>“Hee-hee... Nói những gì bạn thích.”"
                             ]
                         },
                         {
@@ -12328,14 +12328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“It won’t change the fact that you’re bound by the"
+                                "\\N<Gonzo>“Điều đó sẽ không thay đổi sự thật rằng bạn bị ràng buộc bởi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cursed Talisman. ♡”"
+                                "Bùa nguyền rủa. ♡”"
                             ]
                         },
                         {
@@ -12352,7 +12352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You cannot do any harm to me, nor move as you wish."
+                                "\\N<Gonzo>“Bạn không thể làm hại tôi hoặc di chuyển theo ý muốn của bạn."
                             ]
                         },
                         {
@@ -12383,7 +12383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...!”"
+                                "\\N<Shizune>“Hừm...!”"
                             ]
                         },
                         {
@@ -12407,14 +12407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“You ought to rest up again. ♡ I won’t do anything"
+                                "\\N<Gonzo>“Bạn nên nghỉ ngơi lại đi. ♡ Tôi sẽ không làm gì cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "else today. ♡”"
+                                "hôm nay khác. ♡”"
                             ]
                         },
                         {
@@ -12431,14 +12431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“And you don’t have to worry about that crest. It will"
+                                "\\N<Gonzo>“Và bạn không phải lo lắng về đỉnh đó. Nó sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "only become visible when I want it to. ♡”"
+                                "chỉ hiển thị khi tôi muốn. ♡”"
                             ]
                         },
                         {
@@ -12455,7 +12455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Gonzo>“Well, I’ll be going now... ♡”"
+                                "\\N<Gonzo>“Chà, tôi đi đây bây giờ... ♡”"
                             ]
                         },
                         {
@@ -12505,7 +12505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I hope that never happens again...)"
+                                "\\N<Shizune>(Tôi hy vọng điều đó sẽ không bao giờ xảy ra nữa...)"
                             ]
                         },
                         {
@@ -12529,7 +12529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(The guy I hate did that to me...)"
+                                "\\N<Shizune>(Kẻ tôi ghét đã làm điều đó với tôi...)"
                             ]
                         },
                         {
@@ -12553,7 +12553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(And admitted to leering at me all the time...)"
+                                "\\N<Shizune>(Và thừa nhận đã luôn nhìn chằm chằm vào tôi...)"
                             ]
                         },
                         {
@@ -12577,7 +12577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Why did I feel... so...?)"
+                                "\\N<Shizune>(Tại sao tôi lại cảm thấy... vậy...?)"
                             ]
                         },
                         {
@@ -12617,14 +12617,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Cr-Crap... The charm and Obscenities are making me"
+                                "\\N<Shizune>(Cr-Crap... Sự quyến rũ và Tục tĩu đang khiến tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have weird thoughts...)"
+                                "có những suy nghĩ kỳ lạ...)"
                             ]
                         },
                         {
@@ -12641,7 +12641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Anyways, I have to do something about this curse...)"
+                                "\\N<Shizune>(Dù sao thì, tôi phải làm gì đó với lời nguyền này...)"
                             ]
                         },
                         {
@@ -12658,14 +12658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(He said the Cursed Talisman of Bondage makes people"
+                                "\\N<Shizune>(Anh ấy nói Bùa trói buộc bị nguyền rủa khiến người ta"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "surrender themselves...)"
+                                "đầu hàng...)"
                             ]
                         },
                         {
@@ -12682,14 +12682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(But I’m pretty sure there’s a limit to how much it can"
+                                "\\N<Shizune>(Nhưng tôi khá chắc chắn rằng có giới hạn về mức độ có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be used per day.)"
+                                "được sử dụng mỗi ngày.)"
                             ]
                         },
                         {
@@ -12706,14 +12706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(So... he probably wasn’t lying when he said he"
+                                "\\N<Shizune>(Vậy... có lẽ anh ấy không nói dối khi nói rằng anh ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "wouldn’t do anything else today...)"
+                                "hôm nay sẽ không làm gì khác...)"
                             ]
                         },
                         {
@@ -12730,14 +12730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(But he’ll try to do something tomorrow... and the day"
+                                "\\N<Shizune>(Nhưng ngày mai anh ấy sẽ cố gắng làm điều gì đó... và ngày đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "after that... and the day after that...)"
+                                "sau đó... và ngày sau đó...)"
                             ]
                         },
                         {
@@ -12761,7 +12761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...I have no choice but to take care of this myself.)"
+                                "\\N<Shizune>(...Tôi không còn lựa chọn nào khác ngoài việc tự mình giải quyết việc này.)"
                             ]
                         },
                         {
@@ -12778,7 +12778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I can’t let that cowardly man have his way...!)"
+                                "\\N<Shizune>(Tôi không thể để tên hèn nhát đó làm theo ý mình...!)"
                             ]
                         },
                         {
@@ -12795,7 +12795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’ll never forgive him...! Revenge will be mine...!)"
+                                "\\N<Shizune>(Tôi sẽ không bao giờ tha thứ cho anh ta...! Sự trả thù sẽ là của tôi...!)"
                             ]
                         },
                         {
@@ -12851,7 +12851,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Can’t believe that man played with me...!\""
+                                "\"Không thể tin được người đàn ông đó đã chơi đùa với tôi...!\""
                             ]
                         },
                         {
@@ -12862,7 +12862,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Gross...! Absolutely disgusting...!\""
+                                "\"Tổng...! Hoàn toàn ghê tởm...!\""
                             ]
                         },
                         {
@@ -12879,7 +12879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -12974,7 +12974,7 @@
         },
         {
             "id": 7,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -13144,7 +13144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ugh...”"
+                                "\\N<Shizune>“Ờ…”"
                             ]
                         },
                         {
@@ -13212,7 +13212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ugh...”"
+                                "\\N<Shizune>“Ờ…”"
                             ]
                         },
                         {
