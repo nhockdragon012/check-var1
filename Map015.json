@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Fortune-Teller’s Shop",
+    "displayName": "Cửa hàng thầy bói",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It’s locked..."
+                                "Nó bị khóa rồi..."
                             ]
                         },
                         {
@@ -1596,7 +1596,7 @@
         },
         {
             "id": 3,
-            "name": "Fortune-Teller",
+            "name": "Thầy bói",
             "note": "",
             "pages": [
                 {
@@ -1707,7 +1707,7 @@
         },
         {
             "id": 4,
-            "name": "Fortune-Teller Event 0.5",
+            "name": "Sự Kiện Bói 0.5",
             "note": "",
             "pages": [
                 {
@@ -1883,21 +1883,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“The inside of this establishment looks like a"
+                                "\\N<Shizune>“Bên trong cơ sở này trông giống như một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "perfectly normal place for fortune-telling... but"
+                                "một nơi hoàn toàn bình thường để bói toán... nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fortune-telling itself is suspicious...”"
+                                "bản thân việc bói toán đã đáng nghi rồi…”"
                             ]
                         },
                         {
@@ -1921,14 +1921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hey, I can hear you, you know... Could you refrain"
+                                "\\N<Fortune-Teller>“Này, tôi có thể nghe thấy bạn, bạn biết đấy... Bạn có thể kiềm chế lại được không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "from making such comments in front of me...?”"
+                                "từ việc đưa ra những nhận xét như vậy trước mặt tôi…?”"
                             ]
                         },
                         {
@@ -1983,14 +1983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Okay, okay... Sorry, but I don’t believe in any kind"
+                                "\\N<Shizune>“Được rồi, được rồi... Xin lỗi, nhưng tôi không tin vào bất kỳ hình thức nào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "of fortune-telling...”"
+                                "về bói toán…”"
                             ]
                         },
                         {
@@ -2014,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hmm... A very honest lady, aren’t you...?”"
+                                "\\N<Fortune-Teller>“Hmm... Bạn là một người phụ nữ rất trung thực phải không...?”"
                             ]
                         },
                         {
@@ -2038,7 +2038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ve been through a lot lately...”"
+                                "\\N<Shizune>“Gần đây tôi đã trải qua rất nhiều chuyện…”"
                             ]
                         },
                         {
@@ -2055,93 +2055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...So, I’ve been asking people if they’ve seen or"
+                                "\\N<Shizune>“...Vì vậy, tôi đã hỏi mọi người xem họ có thấy hay không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "heard about anyone suspicious.”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Fortune-Teller>“Hmm... I’m simply doing some fortune-telling...”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Shizune>“You’re up to something, aren’t you...? You gotta"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "have at least one thing up your sleeve...”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Shizune>“Or maybe... your customers come here for a certain"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "kind of service.”"
+                                "nghe nói có người khả nghi.”"
                             ]
                         },
                         {
@@ -2165,7 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“...Under no circumstances would that be the case!”"
+                                "\\N<Fortune-Teller>“Hmm... Tôi chỉ đang bói thôi…”"
                             ]
                         },
                         {
@@ -2189,7 +2110,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Then...”"
+                                "\\N<Shizune>“Bạn đang làm gì đó phải không...? Bạn phải"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "có ít nhất một thứ trong tay của bạn…”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shizune>“Hoặc có thể... khách hàng của bạn đến đây vì một lý do nào đó"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "loại dịch vụ.”"
                             ]
                         },
                         {
@@ -2213,14 +2165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“...Sounds to me like you don’t have faith in my"
+                                "\\N<Fortune-Teller>“...Không bao giờ được như vậy!”"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 117,
                             "indent": 0,
                             "parameters": [
-                                "practices...”"
+                                2
                             ]
                         },
                         {
@@ -2237,14 +2189,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I have no reason to give such a person my clients’"
+                                "\\N<Shizune>“...Vậy thì…”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "personal information...”"
+                                "\\N<Fortune-Teller>“...Tôi nghe có vẻ như bạn không tin tưởng vào tôi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "thực hành…”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Fortune-Teller>“Tôi không có lý do gì để giao khách hàng cho một người như vậy"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "thông tin cá nhân...\""
                             ]
                         },
                         {
@@ -2268,7 +2268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“B-But...”"
+                                "\\N<Shizune>“N-Nhưng…”"
                             ]
                         },
                         {
@@ -2292,7 +2292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hmm... How about this...?”"
+                                "\\N<Fortune-Teller>“Hmm... Thế này thì sao…?”"
                             ]
                         },
                         {
@@ -2309,7 +2309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“...Let’s make a deal.”"
+                                "\\N<Fortune-Teller>“...Hãy thỏa thuận.”"
                             ]
                         },
                         {
@@ -2326,14 +2326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I will provide you with info depending on my mood..."
+                                "\\N<Fortune-Teller>“Tôi sẽ cung cấp cho bạn thông tin tùy theo tâm trạng của tôi..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "AFTER you experience my fortune-telling as a client.”"
+                                "SAU KHI bạn trải nghiệm bói toán của tôi với tư cách là một khách hàng."
                             ]
                         },
                         {
@@ -2357,7 +2357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Huh...!? I don’t know about that...”"
+                                "\\N<Shizune>“Hả...!? Tôi không biết về điều đó…”"
                             ]
                         },
                         {
@@ -2381,14 +2381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Goodness me. I’m only going to tell your future."
+                                "\\N<Fortune-Teller>“Chúa ơi. Tôi sẽ chỉ nói về tương lai của bạn."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That’s all.”"
+                                "Đó là tất cả.\""
                             ]
                         },
                         {
@@ -2405,21 +2405,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Perhaps you see fortune-telling as a way for someone"
+                                "\\N<Fortune-Teller>“Có lẽ bạn xem bói là một cách để ai đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to look into your soul, and you don’t want people to"
+                                "để nhìn vào tâm hồn của bạn và bạn không muốn mọi người"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "know what you’re really like... Hee-hee...!”"
+                                "biết bạn thực sự như thế nào... Hee-hee...!”"
                             ]
                         },
                         {
@@ -2443,7 +2443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“N-Not at all...”"
+                                "\\N<Shizune>“K-Không hề…”"
                             ]
                         },
                         {
@@ -2460,14 +2460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(This is my chance to get info about Muramara... I"
+                                "\\N<Shizune>(Đây là cơ hội để tôi có được thông tin về Muramara... Tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "can’t let it slip through my fingers...)"
+                                "không thể để nó tuột khỏi kẽ tay mình...)"
                             ]
                         },
                         {
@@ -2484,7 +2484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’ll go with the flow, I guess...)"
+                                "\\N<Shizune>(Tôi đoán là tôi sẽ đi theo dòng chảy...)"
                             ]
                         },
                         {
@@ -2501,14 +2501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Sure. We’re stopping the moment you try to do"
+                                "\\N<Shizune>“...Chắc chắn rồi. Chúng tôi đang dừng lại ngay lúc bạn cố gắng làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anything even remotely weird, though.”"
+                                "mặc dù vậy, bất cứ điều gì thậm chí còn kỳ lạ hơn một chút.”"
                             ]
                         },
                         {
@@ -2532,7 +2532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Yes... Yes... Of course... ♪”"
+                                "\\N<Fortune-Teller>“Có... Có... Tất nhiên rồi... ♪”"
                             ]
                         },
                         {
@@ -2549,7 +2549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Then... please have a seat.”"
+                                "\\N<Fortune-Teller>“Vậy... mời ngồi.”"
                             ]
                         },
                         {
@@ -2573,7 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’m getting a bad feeling about this...)"
+                                "\\N<Shizune>(Tôi có linh cảm xấu về điều này...)"
                             ]
                         },
                         {
@@ -2662,7 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "........."
+                                "........"
                             ]
                         },
                         {
@@ -2679,7 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*snap*"
+                                "*chụp*"
                             ]
                         },
                         {
@@ -2701,21 +2701,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! That’s the end of the fortune-telling"
+                                "\\N<Fortune-Teller>“Hee-hee...! Đó là sự kết thúc của việc bói toán"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "session... Looks to me like you have a very long road"
+                                "phiên... Đối với tôi, có vẻ như bạn có một chặng đường rất dài"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ahead of you. ♡”"
+                                "đi trước bạn. ♡”"
                             ]
                         },
                         {
@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...H-Huh...?”"
+                                "\\N<Shizune>“...H-Hả...?”"
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I... came to get my fortune told...?”"
+                                "\\N<Shizune>“Tôi-tôi... đến để xem bói…?”"
                             ]
                         },
                         {
@@ -2798,7 +2798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...My memory...”"
+                                "\\N<Shizune>“...Bộ nhớ của tôi…”"
                             ]
                         },
                         {
@@ -2822,21 +2822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“My goodness... Seems as though having your fortune"
+                                "\\N<Fortune-Teller>“Chúa ơi... Có vẻ như bạn đang có vận may"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "told for the first time has you feeling a bit under the"
+                                "kể lần đầu tiên bạn có cảm thấy hơi khó chịu không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "weather... ♪”"
+                                "thời tiết... ♪”"
                             ]
                         },
                         {
@@ -2853,7 +2853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I suggest you head home and get some rest...”"
+                                "\\N<Fortune-Teller>“Tôi khuyên bạn nên về nhà và nghỉ ngơi một chút…”"
                             ]
                         },
                         {
@@ -2877,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay... I will...”"
+                                "\\N<Shizune>“O-Được rồi... tôi sẽ…”"
                             ]
                         },
                         {
@@ -2894,7 +2894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“G-Goodbye...”"
+                                "\\N<Shizune>“T-Tạm biệt…”"
                             ]
                         },
                         {
@@ -2918,7 +2918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I await your next visit... ♪”"
+                                "\\N<Fortune-Teller>“Tôi đợi chuyến thăm tiếp theo của bạn... ♪”"
                             ]
                         },
                         {
@@ -3009,14 +3009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Something fishy must’ve happened... Feels like my"
+                                "\\N<Shizune>“Chắc hẳn đã có điều gì đó đáng nghi xảy ra... Cảm giác như của tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "memory is foggy...”"
+                                "ký ức mờ mịt…”"
                             ]
                         },
                         {
@@ -3049,14 +3049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What’s happening to... me...? Why am I so"
+                                "\\N<Shizune>“Chuyện gì đang xảy ra với... tôi...? Tại sao tôi lại thế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exhausted...?”"
+                                "kiệt sức...?\""
                             ]
                         },
                         {
@@ -3080,14 +3080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Well, I should keep this place in mind, just in"
+                                "\\N<Shizune>“...Chà, tôi nên ghi nhớ địa điểm này, chỉ trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "case...”"
+                                "trường hợp...\""
                             ]
                         },
                         {
@@ -3111,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“He was, like, eyeing me up...”"
+                                "\\N<Shizune>“Anh ấy, giống như, đang để ý đến tôi…”"
                             ]
                         },
                         {
@@ -3135,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Anyways, I’ll head home for today.”"
+                                "\\N<Shizune>“Dù sao thì hôm nay tôi sẽ về nhà.”"
                             ]
                         },
                         {
@@ -3152,7 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’m pooped for some reason...”"
+                                "\\N<Shizune>“Tôi đang ị vì lý do nào đó…”"
                             ]
                         },
                         {
@@ -3240,7 +3240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...My clothes smell like...”"
+                                "\\N<Shizune>“...Quần áo của tôi có mùi như…”"
                             ]
                         },
                         {
@@ -3264,7 +3264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Must be my imagination.”"
+                                "\\N<Shizune>“...Chắc là do tôi tưởng tượng.”"
                             ]
                         },
                         {
@@ -3383,7 +3383,7 @@
         },
         {
             "id": 5,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -3450,7 +3450,7 @@
         },
         {
             "id": 6,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {
@@ -3575,7 +3575,7 @@
         },
         {
             "id": 7,
-            "name": "Fortune-Teller Sex Event 2",
+            "name": "Sự kiện tình dục thầy bói 2",
             "note": "",
             "pages": [
                 {
@@ -3652,14 +3652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...How many times must I repeat myself? Something"
+                                "\\N<Shizune>“...Tôi phải lặp lại bao nhiêu lần? Thứ gì đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "weird happened after I came here.”"
+                                "điều kỳ lạ đã xảy ra sau khi tôi đến đây.”"
                             ]
                         },
                         {
@@ -3683,7 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh... what exactly happened?”"
+                                "\\N<Fortune-Teller>“Ồ... chính xác thì chuyện gì đã xảy ra vậy?”"
                             ]
                         },
                         {
@@ -3723,7 +3723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“U-Uh... Um...”"
+                                "\\N<Shizune>“U-Ờ... Ừm…”"
                             ]
                         },
                         {
@@ -3747,7 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I got a w-weird photo...”"
+                                "\\N<Shizune>“Tôi có một bức ảnh kỳ lạ…”"
                             ]
                         },
                         {
@@ -3771,7 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Weird photo... Can you be more specific...? ♪”"
+                                "\\N<Fortune-Teller>“Hình ảnh kỳ lạ... Bạn có thể nói cụ thể hơn được không...? ♪”"
                             ]
                         },
                         {
@@ -3811,7 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -3835,7 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-It’s a photo... of my breasts... being... Um...”"
+                                "\\N<Shizune>“Đ-Đó là bức ảnh... ngực của tôi... đang... Ừm…”"
                             ]
                         },
                         {
@@ -3859,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“A-Anyways! I received an obscene composite photo.”"
+                                "\\N<Shizune>“A-Dù sao đi nữa! Tôi đã nhận được một bức ảnh tổng hợp tục tĩu.”"
                             ]
                         },
                         {
@@ -3883,14 +3883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“No way would something like that actually happen to"
+                                "\\N<Shizune>“Không thể nào chuyện như thế lại thực sự xảy ra với"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me...!”"
+                                "Tôi...!\""
                             ]
                         },
                         {
@@ -3907,21 +3907,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“But I don’t know why someone would put a composite"
+                                "\\N<Shizune>“Nhưng tôi không biết tại sao ai đó lại đặt tổng hợp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "photo in my mailbox. That’s why I came to this shady"
+                                "ảnh trong hộp thư của tôi. Đó là lý do tại sao tôi đến nơi mờ ám này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "place.”"
+                                "địa điểm.\""
                             ]
                         },
                         {
@@ -3945,7 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh... Is that so?”"
+                                "\\N<Fortune-Teller>“Ồ... vậy à?”"
                             ]
                         },
                         {
@@ -3962,7 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“...This might give you some clues...”"
+                                "\\N<Fortune-Teller>“...Điều này có thể cung cấp cho bạn một số manh mối…”"
                             ]
                         },
                         {
@@ -3979,14 +3979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“It’s a special kind of video... Please take a look..."
+                                "\\N<Fortune-Teller>“Đây là một loại video đặc biệt... Xin hãy xem..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hee-hee...! ♪”"
+                                "Hi hi...! ♪”"
                             ]
                         },
                         {
@@ -4010,7 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Video...? Why would a video...?”"
+                                "\\N<Shizune>“Video...? Tại sao một đoạn video lại...?”"
                             ]
                         },
                         {
@@ -4043,7 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!?”"
+                                "\\N<Shizune>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -4079,7 +4079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...A few days ago..."
+                                "...Một vài ngày trước..."
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“...Alright.”"
+                                "\\N<Fortune-Teller>“...Được rồi.”"
                             ]
                         },
                         {
@@ -4130,7 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee. ♪ How do you feel?”"
+                                "\\N<Fortune-Teller>“Hee-hee. ♪ Bạn cảm thấy thế nào?”"
                             ]
                         },
                         {
@@ -4154,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hm... Uh... Normal...”"
+                                "\\N<Shizune>“Hm... Uh... Bình thường…”"
                             ]
                         },
                         {
@@ -4178,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Really now...? Then, I’d like to ask you one thing..."
+                                "\\N<Fortune-Teller>“Thật sao bây giờ...? Vậy thì tôi muốn hỏi bạn một điều..."
                             ]
                         },
                         {
@@ -4209,7 +4209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What is it?”"
+                                "\\N<Shizune>“Cái gì vậy?”"
                             ]
                         },
                         {
@@ -4233,14 +4233,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“That indecent body of yours... lights a fire within me"
+                                "\\N<Fortune-Teller>“Thân thể không đứng đắn đó của em... thắp lên ngọn lửa trong tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "whenever I look at it... ♡”"
+                                "bất cứ khi nào tôi nhìn vào nó... ♡”"
                             ]
                         },
                         {
@@ -4257,14 +4257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“So we can get to know each other better... I’d like to"
+                                "\\N<Fortune-Teller>“Để chúng ta có thể hiểu nhau hơn... Tôi muốn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ask what your bust-waist-hip measurements are... ♡”"
+                                "hỏi số đo ngực-eo-hông của bạn là bao nhiêu... ♡”"
                             ]
                         },
                         {
@@ -4281,14 +4281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“O-Of course, you don’t have to answer if you don’t"
+                                "\\N<Fortune-Teller>“O-Tất nhiên, bạn không cần phải trả lời nếu không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "want to...”"
+                                "muốn...\""
                             ]
                         },
                         {
@@ -4312,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“H-Huh...?”"
+                                "\\N<Shizune>“H-Hả...?”"
                             ]
                         },
                         {
@@ -4352,21 +4352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Isn’t it obvious for a woman to tell her"
+                                "\\N<Shizune>“...Không phải việc một người phụ nữ nói với cô ấy là điều hiển nhiên sao"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "bust-waist-hip measurements when she meets someone?"
+                                "số đo vòng ngực-eo-hông khi gặp ai đó?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mind not wasting my time with such a question?”"
+                                "Đừng lãng phí thời gian của tôi với một câu hỏi như vậy được không?”"
                             ]
                         },
                         {
@@ -4390,14 +4390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! Oh, yeah. ♡ Let me just make sure"
+                                "\\N<Fortune-Teller>“Hee-hee...! Ồ, vâng. ♡ Hãy để tôi đảm bảo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "everything is in frame. ♡”"
+                                "mọi thứ đều ở trong khung. ♡”"
                             ]
                         },
                         {
@@ -4437,7 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’m Shizune, an eighteen-year-old schoolgirl.”"
+                                "\\N<Shizune>“Tôi là Shizune.”"
                             ]
                         },
                         {
@@ -4454,21 +4454,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“My bra size is M Cup, and my three sizes are 110, 61,"
+                                "\\N<Shizune>“Cỡ áo ngực của tôi là M Cup và ba cỡ của tôi là 110, 61,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and 93. My breasts have gotten bigger again in the last"
+                                "và 93. Gần đây ngực của tôi đã to trở lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "year, and they will probably continue to grow...”"
+                                "năm, và chúng có thể sẽ tiếp tục phát triển…”"
                             ]
                         },
                         {
@@ -4492,14 +4492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee-hee! ♡ Thank you very much. ♡ I’ve got all"
+                                "\\N<Fortune-Teller>“Hee-hee-hee! ♡ Cảm ơn bạn rất nhiều. ♡ Tôi có tất cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "that on camera... ♡”"
+                                "điều đó trên máy ảnh... ♡”"
                             ]
                         },
                         {
@@ -4648,14 +4648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I ask that you allow me to enjoy your big, big tits..."
+                                "\\N<Fortune-Teller>“Tôi yêu cầu bạn cho phép tôi tận hưởng cặp vú to, lớn của bạn ..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "as a way for us to feel close to one another... ♡”"
+                                "như một cách để chúng ta cảm thấy gần gũi với nhau... ♡”"
                             ]
                         },
                         {
@@ -4695,7 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“T-Tits...?”"
+                                "\\N<Shizune>“T-Ngực...?”"
                             ]
                         },
                         {
@@ -4719,14 +4719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Yes. This is standard procedure... It is only polite"
+                                "\\N<Fortune-Teller>“Có. Đây là thủ tục tiêu chuẩn... Nó chỉ lịch sự thôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for women with large breasts to let men squeeze them."
+                                "dành cho những phụ nữ có cặp vú lớn để đàn ông bóp."
                             ]
                         },
                         {
@@ -4750,14 +4750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’d prefer it if you took off your clothes once you’re"
+                                "\\N<Fortune-Teller>“Tôi sẽ thích hơn nếu bạn cởi bỏ quần áo sau khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ready... ♡”"
+                                "sẵn sàng... ♡”"
                             ]
                         },
                         {
@@ -4797,14 +4797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Alright. I guess it would be easier for you to rub"
+                                "\\N<Shizune>“...Được rồi. Tôi đoán nó sẽ dễ dàng hơn cho bạn để chà"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "them if I got undressed.”"
+                                "chúng nếu tôi cởi quần áo.”"
                             ]
                         },
                         {
@@ -4828,7 +4828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -4856,7 +4856,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Nude Image Breasts Only Cut-In Display"
+                                "Hình Ảnh Khỏa Thân Vú Chỉ Cut-In Hiển Thị"
                             ]
                         },
                         {
@@ -4901,7 +4901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -4918,14 +4918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Here... Now you should be able to squeeze them"
+                                "\\N<Shizune>“Đây... Bây giờ bạn có thể bóp chúng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "easily.”"
+                                "một cách dễ dàng.\""
                             ]
                         },
                         {
@@ -4942,14 +4942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! Rarely ever see ones this big... ♡ Your"
+                                "\\N<Fortune-Teller>“Hee-hee...! Hiếm khi thấy cái nào to thế này... ♡ Của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "areolas are bright pink and awfully huge... ♡”"
+                                "quầng vú có màu hồng sáng và cực kỳ to... ♡”"
                             ]
                         },
                         {
@@ -4966,7 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Squeezing them seems worthwhile...! ♡”"
+                                "\\N<Fortune-Teller>“Việc ép chúng có vẻ đáng giá...! ♡”"
                             ]
                         },
                         {
@@ -4983,7 +4983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Well then, pardon me... ♡”"
+                                "\\N<Fortune-Teller>“Vậy thì thứ lỗi cho tôi... ♡”"
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -5062,14 +5062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh, boy...! ♡ I can’t even see my palms anymore, let"
+                                "\\N<Fortune-Teller>“Ôi trời...! ♡ Tôi thậm chí không thể nhìn thấy lòng bàn tay của mình nữa, hãy để"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "alone my fingers... ♡”"
+                                "một mình ngón tay của tôi... ♡”"
                             ]
                         },
                         {
@@ -5086,14 +5086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“These goods are off the rails... ♡ This video will"
+                                "\\N<Fortune-Teller>“Những hàng hóa này đã bị chệch khỏi đường ray... ♡ Video này sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "certainly outsell the rest... ♡”"
+                                "chắc chắn bán chạy hơn phần còn lại... ♡”"
                             ]
                         },
                         {
@@ -5110,7 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Maybe I should just keep it to myself...”"
+                                "\\N<Fortune-Teller>“Có lẽ tôi nên giữ nó cho riêng mình…”"
                             ]
                         },
                         {
@@ -5127,14 +5127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“In any case, I’ll just focus on hogging these tits"
+                                "\\N<Fortune-Teller>“Trong mọi trường hợp, tôi sẽ chỉ tập trung vào việc ôm những cặp vú này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for now. ♡”"
+                                "bây giờ. ♡”"
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡"
+                                "*bụp* ♡"
                             ]
                         },
                         {
@@ -5175,7 +5175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Ever had someone else touch these...?”"
+                                "\\N<Fortune-Teller>“Đã bao giờ có người khác chạm vào những thứ này...?”"
                             ]
                         },
                         {
@@ -5192,14 +5192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I haven’t given people permission, but a few guys have"
+                                "\\N<Shizune>“Tôi chưa cho phép mọi người, nhưng một số người đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tried to touch me and played it off.”"
+                                "đã cố gắng chạm vào tôi và chơi đùa."
                             ]
                         },
                         {
@@ -5216,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“How about licking? Has anyone ever sucked on them...?”"
+                                "\\N<Fortune-Teller>“Liếm thì sao? Đã có ai từng bú chúng chưa...?”"
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Of course not.”"
+                                "\\N<Shizune>“Tất nhiên là không.”"
                             ]
                         },
                         {
@@ -5250,14 +5250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I see... ♪ Then, I will be the first one to suck on"
+                                "\\N<Fortune-Teller>“Tôi hiểu rồi... ♪ Vậy thì tôi sẽ là người đầu tiên mút tay"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "these titties... ♡”"
+                                "những cặp vú này... ♡”"
                             ]
                         },
                         {
@@ -5274,21 +5274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“It would be rude not to lick and suck such"
+                                "\\N<Fortune-Teller>“Sẽ thật thô lỗ nếu không liếm và mút như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "delicious-looking tits... ♡ I shall help myself to"
+                                "cặp vú trông ngon quá... ♡ Tôi sẽ cố gắng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "them in full... ♡”"
+                                "chúng đầy đủ... ♡”"
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn... If it brings us closer, so be it.”"
+                                "\\N<Shizune>“Mn... Nếu nó đưa chúng ta đến gần nhau hơn thì cứ vậy đi.”"
                             ]
                         },
                         {
@@ -5322,7 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“All right. Excuse me... ♡”"
+                                "\\N<Fortune-Teller>“Được rồi. Xin lỗi... ♡”"
                             ]
                         },
                         {
@@ -5355,7 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡"
+                                "*cạch* ♡"
                             ]
                         },
                         {
@@ -5401,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh... Mmm! ♡ Your nipples are quite sensitive. ♡”"
+                                "\\N<Fortune-Teller>“Ồ... Ừm! ♡ Núm vú của bạn khá nhạy cảm. ♡”"
                             ]
                         },
                         {
@@ -5418,7 +5418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ *lick* ♡ *suckle* ♡"
+                                "*ngậm* ♡ *liếm* ♡ *ngậm* ♡"
                             ]
                         },
                         {
@@ -5459,7 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hah...! ♡ Thanks for the tasty goodness. ♡”"
+                                "\\N<Fortune-Teller>“Hah...! ♡ Cảm ơn vì sự ngon lành. ♡”"
                             ]
                         },
                         {
@@ -5476,14 +5476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Sucking on the tits of a hypnotized, busty lady is as"
+                                "\\N<Fortune-Teller>“Hút vú của một quý cô ngực khủng bị thôi miên cũng giống như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exciting as I thought it’d be...! ♡”"
+                                "thú vị như tôi nghĩ nó sẽ xảy ra...! ♡”"
                             ]
                         },
                         {
@@ -5500,21 +5500,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’d love to enjoy this a bit more, but the hypnosis is"
+                                "\\N<Fortune-Teller>“Tôi muốn tận hưởng điều này nhiều hơn một chút, nhưng thôi miên thì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "about to wear off... I’ll leave it at that for today, I"
+                                "sắp hết... Hôm nay tôi sẽ để việc đó ở đó, tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "suppose.”"
+                                "giả định.\""
                             ]
                         },
                         {
@@ -5531,21 +5531,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“After you have dried your breasts and dressed up..."
+                                "\\N<Fortune-Teller>“Sau khi bạn lau khô ngực và mặc quần áo..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "please forget everything that has happened here once I"
+                                "xin hãy quên mọi chuyện đã xảy ra ở đây một khi tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "snap my fingers... ♪”"
+                                "búng ngón tay của tôi... ♪”"
                             ]
                         },
                         {
@@ -5569,7 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mn... Okay.”"
+                                "\\N<Shizune>“Ừm... Được rồi.”"
                             ]
                         },
                         {
@@ -5593,7 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee-hee... Dumb bitch... ♡”"
+                                "\\N<Fortune-Teller>“Hee-hee-hee... Con khốn ngu ngốc... ♡\""
                             ]
                         },
                         {
@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Now then... ♪”"
+                                "\\N<Fortune-Teller>“Giờ thì... ♪”"
                             ]
                         },
                         {
@@ -5654,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*snap*"
+                                "*chụp*"
                             ]
                         },
                         {
@@ -5725,7 +5725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hey... What’s the deal with this video...!?”"
+                                "\\N<Shizune>“Này... Video này có vấn đề gì vậy...!?”"
                             ]
                         },
                         {
@@ -5749,14 +5749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! Well... you see... when women walk into"
+                                "\\N<Fortune-Teller>“Hee-hee...! À... bạn thấy đấy... khi phụ nữ bước vào"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this so-called shady establishment...”"
+                                "cái gọi là cơ sở mờ ám này…”"
                             ]
                         },
                         {
@@ -5773,14 +5773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Especially women with sexy bodies like yourself; I"
+                                "\\N<Fortune-Teller>“Đặc biệt là những phụ nữ có thân hình gợi cảm như mình; TÔI"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hypnotize them and record interesting videos of them."
+                                "thôi miên họ và ghi lại những video thú vị về họ."
                             ]
                         },
                         {
@@ -5804,7 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’m even selling some of the videos on porn sites. ♡”"
+                                "\\N<Fortune-Teller>“Tôi thậm chí còn bán một số video trên các trang web khiêu dâm. ♡”"
                             ]
                         },
                         {
@@ -5844,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!?”"
+                                "\\N<Shizune>“Cái gì...!?”"
                             ]
                         },
                         {
@@ -5884,14 +5884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You’re joking! This is just one of those deep"
+                                "\\N<Shizune>“C-Bạn đang nói đùa đấy! Đây chỉ là một trong những điều sâu sắc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "fakes...”"
+                                "đồ giả…”"
                             ]
                         },
                         {
@@ -5915,14 +5915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“My, my. I feel like you, of all people, would"
+                                "\\N<Fortune-Teller>“Ôi trời. Tôi cảm thấy như bạn, trong số tất cả mọi người, sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "recognize your own body.”"
+                                "nhận ra cơ thể của chính mình.”"
                             ]
                         },
                         {
@@ -5939,21 +5939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“It’s not every day I see tits as big as yours... ♡ No"
+                                "\\N<Fortune-Teller>“Không phải ngày nào tôi cũng thấy ngực to như của bạn... ♡ Không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "matter how you look at it, only someone of your build"
+                                "dù bạn nhìn thế nào đi chăng nữa, chỉ có ai đó cùng vóc dáng với bạn thôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "can be the person performing such tomfoolery. ♡”"
+                                "có thể là người thực hiện hành vi ngu ngốc đó. ♡”"
                             ]
                         },
                         {
@@ -5993,14 +5993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hmph...! Y-You’re dead! How dare you do that to"
+                                "\\N<Shizune>“Hừm...! A-Anh chết rồi! Sao bạn dám làm vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me...!?”"
+                                "Tôi...!?\""
                             ]
                         },
                         {
@@ -6024,14 +6024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You’ve even toyed with other women. I’m going to take"
+                                "\\N<Shizune>“Bạn thậm chí còn đùa giỡn với những người phụ nữ khác. Tôi sẽ lấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you down, right here, right no—”"
+                                "cậu xuống, ngay đây, phải không—”"
                             ]
                         },
                         {
@@ -6096,7 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“What’s the matter? Why are you getting so emotional?"
+                                "\\N<Fortune-Teller>“Có chuyện gì vậy? Tại sao bạn lại trở nên xúc động như vậy?"
                             ]
                         },
                         {
@@ -6127,7 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I... can’t move...!)"
+                                "\\N<Shizune>(T-tôi... không thể di chuyển...!)"
                             ]
                         },
                         {
@@ -6144,7 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(What’s happening...!?)"
+                                "\\N<Shizune>(Chuyện gì đang xảy ra vậy...!?)"
                             ]
                         },
                         {
@@ -6168,14 +6168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! Ever since I showed you the video, you’ve"
+                                "\\N<Fortune-Teller>“Hee-hee...! Kể từ khi tôi cho bạn xem video, bạn đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "been slightly under a spell... ♡”"
+                                "hơi bị mê hoặc rồi... ♡”"
                             ]
                         },
                         {
@@ -6192,7 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You came here to star in a porn video... didn’t you?"
+                                "\\N<Fortune-Teller>“Bạn đến đây để đóng một video khiêu dâm... phải không?"
                             ]
                         },
                         {
@@ -6277,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Tsk... No...! Who’d ever do that...!?”"
+                                "\\N<Shizune>“Tsk... Không...! Ai đã từng làm điều đó...!?”"
                             ]
                         },
                         {
@@ -6301,14 +6301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh, the hypnosis already seems to be working... but"
+                                "\\N<Fortune-Teller>“Ồ, thôi miên có vẻ đã hoạt động rồi... nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you’re strangely still able to resist...”"
+                                "kỳ lạ là cậu vẫn có thể chống cự được…”"
                             ]
                         },
                         {
@@ -6325,14 +6325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I can do this...! I’m still conscious. Now to just"
+                                "\\N<Shizune>(Tôi có thể làm điều này...! Tôi vẫn còn tỉnh táo. Bây giờ chỉ cần"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "regain control over my body...!)"
+                                "lấy lại quyền kiểm soát cơ thể của mình...!)"
                             ]
                         },
                         {
@@ -6356,21 +6356,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“No matter. Judging by how you’re unable to move your"
+                                "\\N<Fortune-Teller>“Không sao đâu. Đánh giá bằng cách bạn không thể di chuyển"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "body at will... your movements must be under my"
+                                "cơ thể theo ý muốn... chuyển động của bạn phải dưới sự kiểm soát của tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "control. ♡”"
+                                "điều khiển. ♡”"
                             ]
                         },
                         {
@@ -6387,7 +6387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Which means... ♡”"
+                                "\\N<Fortune-Teller>“Có nghĩa là... ♡”"
                             ]
                         },
                         {
@@ -6404,7 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I can have you take off those... hindering clothes."
+                                "\\N<Fortune-Teller>“Tôi có thể yêu cầu bạn cởi bỏ... bộ quần áo cản trở đó."
                             ]
                         },
                         {
@@ -6451,7 +6451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“L-Like I’d ever do tha—”"
+                                "\\N<Shizune>“L-Giống như tôi đã từng làm vậy—”"
                             ]
                         },
                         {
@@ -6492,7 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(What the...!? My body’s... moving on its own...!)"
+                                "\\N<Shizune>(Cái quái gì...!? Cơ thể tôi... đang... tự chuyển động...!)"
                             ]
                         },
                         {
@@ -6523,7 +6523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
@@ -6540,21 +6540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee! ♡ So much for voicing your hatred... ♡ You"
+                                "\\N<Fortune-Teller>“Hee-hee! ♡ Quá nhiều để bày tỏ sự căm ghét của mình... ♡ Bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "should have told me you were into this sort of"
+                                "đáng lẽ phải nói với tôi rằng bạn thích kiểu này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "role-play. ♡”"
+                                "đóng vai. ♡”"
                             ]
                         },
                         {
@@ -6594,14 +6594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I’m not role-playing...! This is because you did"
+                                "\\N<Shizune>“T-Tôi không nhập vai…! Đó là vì bạn đã làm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "something weird...!”"
+                                "có gì đó kì lạ...!”"
                             ]
                         },
                         {
@@ -6618,7 +6618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Release me this instant! You pervert...!”"
+                                "\\N<Shizune>“Thả tôi ra ngay lập tức! Đồ biến thái...!”"
                             ]
                         },
                         {
@@ -6642,14 +6642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hmm... I’ll consider that after capturing your"
+                                "\\N<Fortune-Teller>“Hmm... Tôi sẽ cân nhắc điều đó sau khi bắt được bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tomfoolery on camera again... ♡”"
+                                "lại làm trò ngu ngốc trước máy quay nữa... ♡”"
                             ]
                         },
                         {
@@ -6689,7 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...You lowlife...!”"
+                                "\\N<Shizune>“...Đồ hèn hạ...!”"
                             ]
                         },
                         {
@@ -6718,14 +6718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*rustle*"
+                                "*xào xạc*"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Covered Chest Picture Display (Image)"
+                                "Hiển thị hình ảnh che ngực (Hình ảnh)"
                             ]
                         },
                         {
@@ -6796,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*boing* ♡"
+                                "*bùm* ♡"
                             ]
                         },
                         {
@@ -6830,14 +6830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I managed to move a little to cover myself... but I’m"
+                                "\\N<Shizune>(Tôi đã cố gắng di chuyển một chút để che thân... nhưng tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "still like this in front of him...!)"
+                                "trước mặt anh vẫn thế này...!)"
                             ]
                         },
                         {
@@ -6854,14 +6854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh... Who would’ve thought you’d be able to resist the"
+                                "\\N<Fortune-Teller>“Ồ... Ai mà ngờ được bạn có thể chống lại được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hypnosis enough to cover your body...?”"
+                                "thôi miên đủ để bao phủ cơ thể bạn…?”"
                             ]
                         },
                         {
@@ -6878,21 +6878,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Then again, with breasts that large, I feel like you"
+                                "\\N<Fortune-Teller>“Rồi nữa, với cặp vú lớn như vậy, tôi có cảm giác giống bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "only added to the sexiness of the situation..."
+                                "chỉ làm tăng thêm sự gợi cảm của tình huống này..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hee-hee-hee! ♡”"
+                                "Hee hee hee! ♡”"
                             ]
                         },
                         {
@@ -6909,7 +6909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Creep...! Quit filming and hypnotizing me...!!”"
+                                "\\N<Shizune>“...leo...! Đừng quay phim và thôi miên tôi nữa...!!”"
                             ]
                         },
                         {
@@ -6926,14 +6926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Good grief... If you have time to say that, you should"
+                                "\\N<Fortune-Teller>“Thật tiếc... Nếu bạn có thời gian để nói điều đó, bạn nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be doing something else, don’t you think?”"
+                                "bạn đang làm việc khác, bạn có nghĩ vậy không?”"
                             ]
                         },
                         {
@@ -6950,7 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hurry up. Show me your tits, please. ♡”"
+                                "\\N<Fortune-Teller>“Nhanh lên. Cho tôi xem ngực của bạn đi, làm ơn. ♡”"
                             ]
                         },
                         {
@@ -6967,7 +6967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I don’t want to...! Why do I have t—”"
+                                "\\N<Shizune>“T-tôi không muốn…! Tại sao tôi lại có t—”"
                             ]
                         },
                         {
@@ -7001,7 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Cr-Crap... My body...!)"
+                                "\\N<Shizune>(Cr-Crap... Cơ thể của tôi...!)"
                             ]
                         },
                         {
@@ -7018,7 +7018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Why must... I be naked... in front of this guy...!?)"
+                                "\\N<Shizune>(Tại sao phải... tôi khỏa thân... trước mặt anh chàng này...!?)"
                             ]
                         },
                         {
@@ -7035,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(And to make matters worse... he’s recording this...!"
+                                "\\N<Shizune>(Và tệ hơn nữa... anh ấy đang ghi lại cái này...!"
                             ]
                         },
                         {
@@ -7059,7 +7059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...I-I can’t... anymore...!)"
+                                "\\N<Shizune>(...T-tôi không thể... được nữa...!)"
                             ]
                         },
                         {
@@ -7085,7 +7085,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Sideview Blow Job Picture (Shizune Only) Display"
+                                "Hiển thị hình ảnh công việc thổi bên (chỉ dành cho Shizune)"
                             ]
                         },
                         {
@@ -7123,14 +7123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee-hee...! You’ve finally given me a full view of"
+                                "\\N<Fortune-Teller>“Hee-hee-hee...! Cuối cùng bạn đã cho tôi cái nhìn đầy đủ về"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your tits... Their greatness never ceases... ♡”"
+                                "ngực của bạn... Sự vĩ đại của chúng không bao giờ ngừng nghỉ... ♡”"
                             ]
                         },
                         {
@@ -7147,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...I’ll never ever forgive you...!!”"
+                                "\\N<Shizune>“...Tôi sẽ không bao giờ tha thứ cho bạn...!!\""
                             ]
                         },
                         {
@@ -7164,21 +7164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Whatever you say. ♪ No matter what you think of me,"
+                                "\\N<Fortune-Teller>“Dù bạn nói gì đi nữa. ♪ Dù bạn nghĩ gì về tôi,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I’m able to have my fill with your body as much as I"
+                                "Tôi có thể lấp đầy cơ thể của bạn nhiều như tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "please... ♡”"
+                                "làm ơn... ♡”"
                             ]
                         },
                         {
@@ -7211,14 +7211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I gotta do something... or else... I’m going to"
+                                "\\N<Shizune>(Tôi phải làm gì đó... nếu không... tôi sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "be...!)"
+                                "là...!)"
                             ]
                         },
                         {
@@ -7235,7 +7235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Well, time is money... Let’s get started, shall we...?"
+                                "\\N<Fortune-Teller>“Chà, thời gian là tiền bạc... Chúng ta hãy bắt đầu nhé...?"
                             ]
                         },
                         {
@@ -7259,7 +7259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Started...? What do you plan on doing now...!?”"
+                                "\\N<Shizune>“Đã bắt đầu...? Giờ cậu định làm gì đây...!?”"
                             ]
                         },
                         {
@@ -7297,7 +7297,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Penis (Shaft) Display"
+                                "Hiển thị dương vật (trục)"
                             ]
                         },
                         {
@@ -7342,7 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*sproing* ♡"
+                                "*nhảy lên* ♡"
                             ]
                         },
                         {
@@ -7376,14 +7376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! What else would I do...? There’s only one"
+                                "\\N<Fortune-Teller>“Hee-hee...! Tôi sẽ làm gì nữa...? Chỉ có một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "thing to do when those tits are dangling near me... ♡”"
+                                "điều cần làm khi cặp vú đó lủng lẳng gần tôi... ♡”"
                             ]
                         },
                         {
@@ -7400,14 +7400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’m going to record a video of you reluctantly blowing"
+                                "\\N<Fortune-Teller>“Tôi sẽ quay video bạn bất đắc dĩ thổi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "me until I’m perfectly satisfied... ♡”"
+                                "tôi cho đến khi tôi hoàn toàn hài lòng... ♡”"
                             ]
                         },
                         {
@@ -7424,7 +7424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Eek...! D-Don’t...!!”"
+                                "\\N<Shizune>“Ế...! Đ-Đừng...!!”"
                             ]
                         },
                         {
@@ -7457,14 +7457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Th-Things won’t end well for you if you do that...!"
+                                "\\N<Shizune>“Những điều đó sẽ không có kết quả tốt đẹp cho bạn nếu bạn làm điều đó…!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I’ll make sure you regret it...!”"
+                                "Tôi chắc chắn rằng bạn sẽ hối hận...!\""
                             ]
                         },
                         {
@@ -7481,14 +7481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’m going to have to plug that loud mouth of yours"
+                                "\\N<Fortune-Teller>“Tôi sẽ phải bịt cái miệng ồn ào đó của bạn lại"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with my cock, won’t I? ♡”"
+                                "với con cặc của tôi phải không? ♡”"
                             ]
                         },
                         {
@@ -7505,7 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Open wide...”"
+                                "\\N<Fortune-Teller>“Mở rộng…”"
                             ]
                         },
                         {
@@ -7522,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(No...! A-Anything but this...!)"
+                                "\\N<Shizune>(Không...! Đ-Bất cứ điều gì ngoại trừ điều này...!)"
                             ]
                         },
                         {
@@ -7543,7 +7543,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Blow Job Variation Display"
+                                "Hiển thị biến thể công việc thổi"
                             ]
                         },
                         {
@@ -7588,7 +7588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*slurp* ♡ ♡"
+                                "*cạch* ♡ ♡"
                             ]
                         },
                         {
@@ -7622,7 +7622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Whew... So warm...! ♡ Please don’t bite down... ♡”"
+                                "\\N<Fortune-Teller>“Chà... Ấm áp quá...! ♡ Xin đừng cắn... ♡”"
                             ]
                         },
                         {
@@ -7639,7 +7639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(D-Dammit... Why am I...!?)"
+                                "\\N<Shizune>(Đ-Chết tiệt... Tại sao tôi lại...!?)"
                             ]
                         },
                         {
@@ -7672,7 +7672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ngh...! Mmm...! Mmmmm... Mmmmm... ♡”"
+                                "\\N<Shizune>“Ngh...! Ừm...! Mmmmm... Mmmmm... ♡”"
                             ]
                         },
                         {
@@ -7689,14 +7689,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(O-Once my body is set free... this guy will be done"
+                                "\\N<Shizune>(O-Một khi cơ thể tôi được tự do... tên này sẽ xong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "for...!)"
+                                "vì...!)"
                             ]
                         },
                         {
@@ -7713,21 +7713,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Squeezing giant tits while getting a blow job is the"
+                                "\\N<Fortune-Teller>“Ép cặp vú khổng lồ trong khi được bú cặc là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "absolute best. ♡ The softness and pleasure are making"
+                                "tuyệt đối tốt nhất. ♡ Sự mềm mại và khoái cảm đang tạo nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "my cock go numb. ♡”"
+                                "cặc tôi tê cứng. ♡”"
                             ]
                         },
                         {
@@ -7744,14 +7744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Come on. Can’t you be more thorough...? Stick out your"
+                                "\\N<Fortune-Teller>“Nào. Bạn không thể kỹ lưỡng hơn được sao...? Hãy đứng ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tongue and lick all over it... ♡”"
+                                "lưỡi và liếm khắp nơi... ♡”"
                             ]
                         },
                         {
@@ -7784,7 +7784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ngh...! MMM! ♡ MMM! ♡ Mnnn...! Mnnn...! ♡”"
+                                "\\N<Shizune>“Ngh...! MMM! ♡ Ừm! ♡ Ừm...! Ừm...! ♡”"
                             ]
                         },
                         {
@@ -7801,7 +7801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Aaah...! ♡ Nice... ♡”"
+                                "\\N<Fortune-Teller>“Aaah...! ♡ Tốt lắm... ♡”"
                             ]
                         },
                         {
@@ -7818,14 +7818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“This is all getting caught on camera... ♡ Now I’ve"
+                                "\\N<Fortune-Teller>“Tất cả đều được ghi lại trên camera... ♡ Bây giờ tôi đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "got a video of you giving a blow job like a slut... ♡”"
+                                "có một video quay cảnh em bú cặc như một con đĩ... ♡”"
                             ]
                         },
                         {
@@ -7842,7 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Th-This guy...! Pointing everything out...!)"
+                                "\\N<Shizune>(Th-Anh chàng này...! Chỉ ra mọi thứ...!)"
                             ]
                         },
                         {
@@ -7859,7 +7859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“MNNN! ♡ Mnnn! ♡ Mnnn! ♡ MMM! ♡”"
+                                "\\N<Shizune>“MNNN! ♡ Ừm! ♡ Ừm! ♡ Ừm! ♡”"
                             ]
                         },
                         {
@@ -7876,7 +7876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Your glare makes this all the better... ♡ Mmm...! ♡”"
+                                "\\N<Fortune-Teller>“Ánh nhìn chói lóa của bạn khiến chuyện này trở nên tốt hơn... ♡ Mmm...! ♡”"
                             ]
                         },
                         {
@@ -7893,7 +7893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mnnn...! Mnnnnnnn...! Mn... MMM! MMMMM! ♡”"
+                                "\\N<Shizune>“Ừm...! Mnnnnnnn...! Ừm... MMM! MMMMM! ♡”"
                             ]
                         },
                         {
@@ -7910,7 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hah...! ♡ I could cum at any moment...! ♡”"
+                                "\\N<Fortune-Teller>“Hah...! ♡ Tôi có thể xuất tinh bất cứ lúc nào...! ♡”"
                             ]
                         },
                         {
@@ -7944,7 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(H-He’s trying to cum in my mouth...!?)"
+                                "\\N<Shizune>(H-Anh ấy đang cố xuất tinh vào miệng tôi...!?)"
                             ]
                         },
                         {
@@ -7961,7 +7961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(G-Gotta get away...!)"
+                                "\\N<Shizune>(G-Phải tránh xa...!)"
                             ]
                         },
                         {
@@ -7995,14 +7995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh...! ♡ You suck even harder when you try to pull"
+                                "\\N<Fortune-Teller>“Ồ...! ♡ Bạn càng hút mạnh hơn khi cố gắng kéo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "away...! ♡”"
+                                "xa...! ♡”"
                             ]
                         },
                         {
@@ -8019,14 +8019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You must really not want me to cum in your mouth. ♡"
+                                "\\N<Fortune-Teller>“Chắc hẳn bạn không muốn tôi xuất tinh vào miệng bạn. ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now I definitely have to dump it in there... ♡”"
+                                "Bây giờ tôi chắc chắn phải đổ nó vào đó... ♡”"
                             ]
                         },
                         {
@@ -8076,7 +8076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(N-No... At this rate, he’ll actually...!)"
+                                "\\N<Shizune>(K-Không... Với tốc độ này, anh ấy thực sự sẽ...!)"
                             ]
                         },
                         {
@@ -8093,7 +8093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Pulling away only brings him more pleasure...!)"
+                                "\\N<Shizune>(Rút ra chỉ khiến anh thêm khoái cảm mà thôi...!)"
                             ]
                         },
                         {
@@ -8110,14 +8110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Hee-hee...! After I have you give me a proper blow job"
+                                "\\N<Fortune-Teller>“Hee-hee...! Sau khi tôi có bạn hãy cho tôi một công việc bú cặc thích hợp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and milk me...”"
+                                "và vắt sữa cho tôi…”"
                             ]
                         },
                         {
@@ -8134,7 +8134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’ll have you swallow... all of my cum. ♡”"
+                                "\\N<Fortune-Teller>“Tôi sẽ bắt bạn nuốt... hết tinh dịch của tôi. ♡”"
                             ]
                         },
                         {
@@ -8151,7 +8151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’ll release you for today if you do... Hee-hee! ♡”"
+                                "\\N<Fortune-Teller>“Hôm nay tôi sẽ thả bạn nếu bạn làm vậy... Hee-hee! ♡”"
                             ]
                         },
                         {
@@ -8184,7 +8184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Sw-Swallow...!?)"
+                                "\\N<Shizune>(Vu-Nuốt...!?)"
                             ]
                         },
                         {
@@ -8201,21 +8201,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Getting cummed in my mouth was already going to be bad"
+                                "\\N<Shizune>(Bị bắn tinh vào miệng đã tệ lắm rồi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "enough, but now he’s going to force me to swallow"
+                                "đủ rồi, nhưng bây giờ anh ấy sẽ ép tôi nuốt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it...!)"
+                                "Nó...!)"
                             ]
                         },
                         {
@@ -8232,7 +8232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Here you go. Please squeeze out... every last drop!"
+                                "\\N<Fortune-Teller>“Đây rồi. Hãy vắt ra…từng giọt cuối cùng!"
                             ]
                         },
                         {
@@ -8273,7 +8273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“MMM! ♡ MNNNNN! ♡ Mnnn! ♡ Mnnn! ♡”"
+                                "\\N<Shizune>“MMM! ♡ MNNNNNN! ♡ Ừm! ♡ Ừm! ♡”"
                             ]
                         },
                         {
@@ -8290,7 +8290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oooh! ♡ Oh yeah. ♡ That’s the stuff... ♡”"
+                                "\\N<Fortune-Teller>“Ồ! ♡ Ồ vâng. ♡ Đó là vấn đề... ♡”"
                             ]
                         },
                         {
@@ -8324,7 +8324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Ah... Aaah... I’m cumming...! ♡ ♡”"
+                                "\\N<Fortune-Teller>“À... Aaah... Tôi xuất tinh rồi...! ♡ ♡”"
                             ]
                         },
                         {
@@ -8341,7 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(N-No...! STOP!!)"
+                                "\\N<Shizune>(K-Không...! DỪNG!!)"
                             ]
                         },
                         {
@@ -8362,7 +8362,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "Ejaculation Image"
+                                "Hình ảnh xuất tinh"
                             ]
                         },
                         {
@@ -8426,7 +8426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ *spurt* ♡ *spurt* ♡"
+                                "*phóng* ♡ *phun* ♡ *phun* ♡"
                             ]
                         },
                         {
@@ -8443,7 +8443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“NNNGH! Mmm... Mmm... MMMMM!!”"
+                                "\\N<Shizune>“NNNGH! Ừm... Ầm... MMMMM!!”"
                             ]
                         },
                         {
@@ -8460,7 +8460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh, wow! ♡ I’m being wrung! ♡ ♡”"
+                                "\\N<Fortune-Teller>“Ồ, ôi! ♡ Tôi đang bị vắt kiệt sức! ♡ ♡”"
                             ]
                         },
                         {
@@ -8503,7 +8503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt* ♡ *spurt* ♡ *spurt* ♡"
+                                "*phóng* ♡ *phun* ♡ *phun* ♡"
                             ]
                         },
                         {
@@ -8520,7 +8520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Come on. You’d better swallow it, or else...! ♡”"
+                                "\\N<Fortune-Teller>“Nào. Tốt nhất là bạn nên nuốt nó đi, nếu không thì...! ♡”"
                             ]
                         },
                         {
@@ -8537,7 +8537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Ugh...! This is gross... but my body...!!!)"
+                                "\\N<Shizune>(Ugh...! Điều này thật kinh tởm... nhưng cơ thể của tôi...!!!)"
                             ]
                         },
                         {
@@ -8554,7 +8554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Ngh... Mn... Mmm...! Mmmmm...! ♡ ♡”"
+                                "\\N<Shizune>“Ngh... ừm... Ừm...! Ừmmm...! ♡ ♡”"
                             ]
                         },
                         {
@@ -8597,7 +8597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -8619,7 +8619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gush* ♡"
+                                "*phù* ♡"
                             ]
                         },
                         {
@@ -8700,7 +8700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You... coward...!”"
+                                "\\N<Shizune>“Ngươi... đồ hèn nhát…!”"
                             ]
                         },
                         {
@@ -8717,7 +8717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll never... ever forgive you...!!”"
+                                "\\N<Shizune>“Tôi sẽ không bao giờ… tha thứ cho anh…!!”"
                             ]
                         },
                         {
@@ -8741,7 +8741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You’re dead meat...!!”"
+                                "\\N<Shizune>“Mày chết rồi…!!”"
                             ]
                         },
                         {
@@ -8765,14 +8765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“I’m not scared of a woman with her tits fully"
+                                "\\N<Fortune-Teller>“Tôi không sợ một người phụ nữ có cặp vú đầy đặn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "exposed... ♡”"
+                                "bị lộ... ♡”"
                             ]
                         },
                         {
@@ -8836,21 +8836,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Don’t you worry... I’ll erase your memories for you."
+                                "\\N<Fortune-Teller>“Bạn đừng lo lắng... Tôi sẽ xóa ký ức cho bạn."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then I’ll send you the video I recorded to lure you"
+                                "Sau đó tôi sẽ gửi cho bạn đoạn video tôi đã quay để dụ bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "back here. ♡”"
+                                "quay lại đây. ♡”"
                             ]
                         },
                         {
@@ -8867,14 +8867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You’ll come back to my place without a care in the"
+                                "\\N<Fortune-Teller>“Bạn sẽ quay lại chỗ của tôi mà không cần quan tâm đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "world... and we will finally have sex... ♡”"
+                                "thế giới... và cuối cùng chúng ta sẽ quan hệ tình dục... ♡”"
                             ]
                         },
                         {
@@ -8914,7 +8914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Y-You think I’m just going to let you do that...!?”"
+                                "\\N<Shizune>“A-Anh nghĩ tôi sẽ để anh làm điều đó à...!?”"
                             ]
                         },
                         {
@@ -8938,14 +8938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Don’t bother trying. It’s pointless. ♡ This hypnosis"
+                                "\\N<Fortune-Teller>“Đừng bận tâm thử. Nó là vô nghĩa. ♡ Sự thôi miên này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "is quite powerful... ♡”"
+                                "khá mạnh mẽ... ♡”"
                             ]
                         },
                         {
@@ -8962,21 +8962,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Now, please forget all about this and come back later."
+                                "\\N<Fortune-Teller>“Bây giờ, xin hãy quên tất cả chuyện này đi và quay lại sau."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "♡ My hypnotism will make you the bustiest porn actress"
+                                "♡ Khả năng thôi miên của tôi sẽ khiến bạn trở thành nữ diễn viên khiêu dâm ngực nhất"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ever, Shizune Ayatsuji... ♡”"
+                                "chưa bao giờ, Shizune Ayatsuji... ♡”"
                             ]
                         },
                         {
@@ -9016,14 +9016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I can’t let this man get away with this...! He"
+                                "\\N<Shizune>(T-tôi không thể để người đàn ông này thoát khỏi chuyện này được...! Anh ta"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "deceives and preys on women...!)"
+                                "lừa dối và săn lùng phụ nữ...!)"
                             ]
                         },
                         {
@@ -9040,7 +9040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I will have my revenge...!)"
+                                "\\N<Shizune>(Tôi sẽ trả thù...!)"
                             ]
                         },
                         {
@@ -9064,7 +9064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’d like to see him try to erase my memories...)"
+                                "\\N<Shizune>(Tôi muốn thấy anh ấy cố gắng xóa ký ức của tôi...)"
                             ]
                         },
                         {
@@ -9081,7 +9081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(As long as I concentrate, I can surely avoid be—)"
+                                "\\N<Shizune>(Chỉ cần tôi tập trung, tôi chắc chắn có thể tránh được—)"
                             ]
                         },
                         {
@@ -9193,7 +9193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*snap*"
+                                "*chụp*"
                             ]
                         },
                         {
@@ -9222,7 +9222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Huh? What am I doing here...?”"
+                                "\\N<Shizune>“Hả? Tôi đang làm gì ở đây…?”"
                             ]
                         },
                         {
@@ -9246,7 +9246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“Oh, you’re finally awake...”"
+                                "\\N<Fortune-Teller>“Ồ, cuối cùng thì bạn cũng tỉnh rồi…”"
                             ]
                         },
                         {
@@ -9263,14 +9263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You fell asleep after you sat down. I was really"
+                                "\\N<Fortune-Teller>“Bạn đã ngủ quên sau khi ngồi xuống. tôi đã thực sự"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "worried, you know?”"
+                                "đang lo lắng, cậu biết không?”"
                             ]
                         },
                         {
@@ -9287,7 +9287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You were even moaning in your sleep... ♡”"
+                                "\\N<Fortune-Teller>“Bạn thậm chí còn rên rỉ trong khi ngủ... ♡”"
                             ]
                         },
                         {
@@ -9311,7 +9311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wha...!? Unbelievable...”"
+                                "\\N<Shizune>“Cái gì...!? Không thể tin được...\""
                             ]
                         },
                         {
@@ -9335,14 +9335,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You may be awfully tired... but I ask that you rest at"
+                                "\\N<Fortune-Teller>“Bạn có thể cực kỳ mệt mỏi... nhưng tôi yêu cầu bạn nghỉ ngơi lúc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your home.”"
+                                "nhà của bạn.\""
                             ]
                         },
                         {
@@ -9359,14 +9359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Fortune-Teller>“You never know when you might end up as someone’s"
+                                "\\N<Fortune-Teller>“Bạn không bao giờ biết khi nào bạn có thể trở thành của ai đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "prey... Hee-hee-hee...! ♡”"
+                                "con mồi... Hee-hee-hee...! ♡”"
                             ]
                         },
                         {
@@ -9390,7 +9390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(He really is a shady man...)"
+                                "\\N<Shizune>(Anh ta thực sự là một kẻ mờ ám...)"
                             ]
                         },
                         {
@@ -9407,7 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(But my head does feel kinda fuzzy...)"
+                                "\\N<Shizune>(Nhưng đầu tôi hơi choáng váng...)"
                             ]
                         },
                         {
@@ -9431,7 +9431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Okay. I’ll head back for the day.”"
+                                "\\N<Shizune>“...Được rồi. Tôi sẽ quay lại trong ngày.”"
                             ]
                         },
                         {
@@ -9448,7 +9448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Bye.”"
+                                "\\N<Shizune>“Tạm biệt.”"
                             ]
                         },
                         {
@@ -9524,14 +9524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I knew it. My memories become foggy when I come"
+                                "\\N<Shizune>“Tôi biết điều đó. Ký ức của tôi trở nên mờ mịt khi tôi đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here...”"
+                                "đây...\""
                             ]
                         },
                         {
@@ -9548,14 +9548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I could be tired because I just got back from the"
+                                "\\N<Shizune>“Tôi có thể mệt vì tôi vừa trở về từ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "training ground...”"
+                                "sân tập…”"
                             ]
                         },
                         {
@@ -9572,14 +9572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll just keep a close eye on this place... and call"
+                                "\\N<Shizune>“Tôi sẽ để ý kỹ nơi này... và gọi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it a day.”"
+                                "đó là một ngày.”"
                             ]
                         },
                         {
@@ -9622,7 +9622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shizune’s Lewd rose by 6..."
+                                "Dâm dục của Shizune tăng 6..."
                             ]
                         },
                         {
@@ -9675,7 +9675,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Huh? The times I’ve been sexually harassed increased...\""
+                                "\"Huh? Số lần tôi bị quấy rối tình dục ngày càng tăng...\""
                             ]
                         },
                         {
@@ -9686,7 +9686,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"And I feel like a lot of other numbers rose sharply...\""
+                                "\"Và tôi cảm thấy như có nhiều con số khác tăng mạnh...\""
                             ]
                         },
                         {

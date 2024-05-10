@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -3301,7 +3301,7 @@
         },
         {
             "id": 7,
-            "name": "Boy 1",
+            "name": "Cậu bé 1",
             "note": "",
             "pages": [
                 {
@@ -4656,7 +4656,7 @@
         },
         {
             "id": 8,
-            "name": "Mother",
+            "name": "Mẹ",
             "note": "",
             "pages": [
                 {
@@ -4866,7 +4866,7 @@
         },
         {
             "id": 9,
-            "name": "Girl 1",
+            "name": "Cô gái 1",
             "note": "",
             "pages": [
                 {
@@ -5665,7 +5665,7 @@
         },
         {
             "id": 10,
-            "name": "Married Woman",
+            "name": "Người phụ nữ đã lập gia đình",
             "note": "",
             "pages": [
                 {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“Haaah... Meeting people is never easy...”"
+                                "\\N<Married Woman>“Haaah... Gặp gỡ mọi người chưa bao giờ là dễ dàng…”"
                             ]
                         },
                         {
@@ -5724,7 +5724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“My husband is very kind to me and a great father...”"
+                                "\\N<Married Woman>“Chồng tôi rất tốt với tôi và là một người cha tuyệt vời…”"
                             ]
                         },
                         {
@@ -5741,14 +5741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“But sometimes, I want someone who can absolutely fuck"
+                                "\\N<Married Woman>“Nhưng đôi khi, tôi muốn một người hoàn toàn có thể làm tình"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the living shit out of me...”"
+                                "thứ chết tiệt sống trong tôi…”"
                             ]
                         },
                         {
@@ -5765,7 +5765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“...Oh, my apologies. Did I say that out loud...?”"
+                                "\\N<Married Woman>“...Ồ, tôi xin lỗi. Tôi đã nói lớn tiếng phải không...?\""
                             ]
                         },
                         {
@@ -5789,7 +5789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...I heard everything.”"
+                                "\\N<Shizune>“...Tôi đã nghe thấy mọi thứ.”"
                             ]
                         },
                         {
@@ -5813,7 +5813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“Oh dear. Please pretend you didn’t.”"
+                                "\\N<Married Woman>“Ôi trời. Hãy giả vờ như bạn không làm vậy.”"
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay...”"
+                                "\\N<Shizune>“O-Được rồi…”"
                             ]
                         },
                         {
@@ -5863,14 +5863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I thought women like her only existed in shows... but"
+                                "\\N<Shizune>(Tôi tưởng phụ nữ như cô ấy chỉ tồn tại trên phim... nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I guess there really are ones like her...)"
+                                "Tôi đoán thực sự có những người như cô ấy...)"
                             ]
                         },
                         {
@@ -5953,14 +5953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“...I don’t care how old a man is as long as he can"
+                                "\\N<Married Woman>“...Tôi không quan tâm ai có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "give a good time...”"
+                                "cho ta một khoảng thời gian vui vẻ…”"
                             ]
                         },
                         {
@@ -5984,7 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Um... I think you should care a little...)"
+                                "\\N<Shizune>(Ừm... Tôi nghĩ bạn nên quan tâm một chút...)"
                             ]
                         },
                         {
@@ -6059,21 +6059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Married Woman>“I met up with a young, sexy muscleman who was the"
+                                "\\N<Married Woman>“Tôi đã gặp một anh chàng cơ bắp trẻ trung, quyến rũ, người"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "absolute best! ♡ I can’t wait to meet that pretty boy"
+                                "tuyệt đối tốt nhất! ♡ Tôi nóng lòng được gặp chàng trai xinh đẹp đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "again! ♡”"
+                                "lại! ♡”"
                             ]
                         },
                         {
@@ -6157,7 +6157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Wow... You’ve got style... Sure is great to be young.”"
+                                "\\N<Married Woman>“Chà... Bạn có phong cách... Tuổi trẻ chắc chắn là tuyệt vời.”"
                             ]
                         },
                         {
@@ -6216,14 +6216,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Th-Those clothes are a little... Actually, I could"
+                                "\\N<Married Woman>“Đ-Bộ quần áo đó hơi... Thực ra, tôi có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "wear something like that to attract men...”"
+                                "mặc thứ như thế để thu hút đàn ông…”"
                             ]
                         },
                         {
@@ -6299,21 +6299,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Wow...! Th-That outfit is a bit out there... Then"
+                                "\\N<Married Woman>“Chà...! Đ-Bộ đồ đó hơi ngoài kia một chút... Thế thì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "again, I may not get the man I want if I don’t take an"
+                                "một lần nữa, tôi có thể không có được người đàn ông tôi muốn nếu tôi không lấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "approach as aggressive as that...”"
+                                "tiếp cận hung hãn như thế…”"
                             ]
                         },
                         {
@@ -6330,14 +6330,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(I-I don’t think anyone but me should try to pull this"
+                                "\\N<Shizune>(Tôi-tôi không nghĩ có ai ngoài tôi nên thử kéo cái này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "off... ♡)"
+                                "tắt... ♡)"
                             ]
                         },
                         {
@@ -6438,14 +6438,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Whoa...! Those are rather big... Don’t they cause a"
+                                "\\N<Married Woman>“Ồ...! Chúng khá lớn... Chúng không gây ra một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "lot of trouble for you?”"
+                                "có nhiều rắc rối cho bạn à?”"
                             ]
                         },
                         {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Th-They do... They do quite a lot, actually.”"
+                                "\\N<Kaori>“Đ-Họ làm… Thực ra họ làm khá nhiều việc.”"
                             ]
                         },
                         {
@@ -6521,14 +6521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Th-Those clothes are a little... Actually, I could"
+                                "\\N<Married Woman>“Đ-Bộ quần áo đó hơi... Thực ra, tôi có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "wear something like that to attract men...”"
+                                "mặc thứ như thế để thu hút đàn ông…”"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Wh-Who knows...? ♡”"
+                                "\\N<Kaori>“Ai biết được...? ♡”"
                             ]
                         },
                         {
@@ -6604,21 +6604,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Married Woman>“Wow...! I-I don’t know about that outfit... Then"
+                                "\\N<Married Woman>“Chà...! Tôi-tôi không biết về bộ trang phục đó... Thế thì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "again, I may not get the man I want if I don’t take an"
+                                "một lần nữa, tôi có thể không có được người đàn ông tôi muốn nếu tôi không lấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "approach as aggressive as that...”"
+                                "tiếp cận hung hãn như thế…”"
                             ]
                         },
                         {
@@ -6635,7 +6635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I-I believe this outfit may be a bit much as well..."
+                                "\\N<Kaori>(Tôi-tôi tin bộ trang phục này cũng có thể hơi quá..."
                             ]
                         },
                         {
@@ -6694,7 +6694,7 @@
         },
         {
             "id": 11,
-            "name": "Middle-Aged Man",
+            "name": "Người đàn ông trung niên",
             "note": "",
             "pages": [
                 {
@@ -6736,7 +6736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Gah... Ugh... Fuck this shit...”"
+                                "\\N<Middle-Aged Man>“Gah... Ugh... Chết tiệt cái thứ chết tiệt này…”"
                             ]
                         },
                         {
@@ -6753,14 +6753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“How is it even possible for a boss to replace his"
+                                "\\N<Middle-Aged Man>“Làm sao mà một ông chủ có thể thay thế được ông ấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "employee with a cat...?”"
+                                "nhân viên với một con mèo...?”"
                             ]
                         },
                         {
@@ -6784,7 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I-I feel sorry for him...)"
+                                "\\N<Shizune>(T-tôi cảm thấy tiếc cho anh ấy...)"
                             ]
                         },
                         {
@@ -6859,14 +6859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Alright! I got a new job!! This one gives me a lot"
+                                "\\N<Middle-Aged Man>“Được rồi! Tôi có một công việc mới!! Điều này mang lại cho tôi rất nhiều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "more money and days off!!”"
+                                "nhiều tiền hơn và nhiều ngày nghỉ hơn!!”"
                             ]
                         },
                         {
@@ -6890,7 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Oh, I’m happy to hear that. Hang in there. ♪”"
+                                "\\N<Kaori>“Ồ, tôi rất vui khi nghe điều đó. Đợi ở đó. ♪”"
                             ]
                         },
                         {
@@ -6914,14 +6914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You betcha! I’m never drinking alcohol ever again!"
+                                "\\N<Middle-Aged Man>“Chắc chắn rồi! Tôi không bao giờ uống rượu nữa!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I’ve decided to take my life seriously!”"
+                                "Tôi đã quyết định coi trọng cuộc sống của mình!”"
                             ]
                         },
                         {
@@ -6938,14 +6938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“But man, I didn’t think I could make a living from"
+                                "\\N<Middle-Aged Man>“Nhưng anh bạn, tôi không nghĩ mình có thể kiếm sống từ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "taking care of cats...”"
+                                "chăm sóc mèo…”"
                             ]
                         },
                         {
@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Taking care of cats... I’m a little curious.)"
+                                "\\N<Kaori>(Chăm sóc mèo...Tôi hơi tò mò.)"
                             ]
                         },
                         {
@@ -7052,21 +7052,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“To think I would lose my job to a cat and then get a"
+                                "\\N<Middle-Aged Man>“Nghĩ rằng tôi sẽ mất việc vì một con mèo và sau đó nhận được một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "new one because of cats... Doubt anyone else has ever"
+                                "cái mới vì mèo... Chắc có ai khác đã từng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "experienced that...”"
+                                "đã trải qua chuyện đó…”"
                             ]
                         },
                         {
@@ -7150,14 +7150,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Man... Cats sure are soothing... I’ll live on for"
+                                "\\N<Middle-Aged Man>“Trời... Mèo chắc chắn rất dễ chịu... Tôi sẽ sống tiếp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "them...”"
+                                "họ...\""
                             ]
                         },
                         {
@@ -7174,7 +7174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(...I’ll say. Cats are cute.)"
+                                "\\N<Shizune>(...Tôi sẽ nói. Mèo rất dễ thương.)"
                             ]
                         },
                         {
@@ -7233,7 +7233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Wha-What’s with that outfit...!?”"
+                                "\\N<Middle-Aged Man>“Bộ-trang phục đó là sao vậy...!?”"
                             ]
                         },
                         {
@@ -7250,7 +7250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“You’re still young! Take care of yourself!”"
+                                "\\N<Middle-Aged Man>“Bạn vẫn còn trẻ! Chăm sóc bản thân!\""
                             ]
                         },
                         {
@@ -7267,7 +7267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(H-He scolded me...)"
+                                "\\N<Shizune>(H-Anh ấy mắng tôi...)"
                             ]
                         },
                         {
@@ -7326,7 +7326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“H-Hey...! Put on some decent clothes...!”"
+                                "\\N<Middle-Aged Man>“H-Này...! Mặc quần áo tử tế vào đi…!”"
                             ]
                         },
                         {
@@ -7343,7 +7343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Even cats wear clothes sometimes nowadays.”"
+                                "\\N<Middle-Aged Man>“Ngày nay ngay cả mèo cũng mặc quần áo.”"
                             ]
                         },
                         {
@@ -7360,7 +7360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I-I guess so...”"
+                                "\\N<Shizune>“Tôi-tôi đoán vậy…”"
                             ]
                         },
                         {
@@ -7461,14 +7461,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Man... Cats sure are soothing... I’ll live on for"
+                                "\\N<Middle-Aged Man>“Trời... Mèo chắc chắn rất dễ chịu... Tôi sẽ sống tiếp"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "them...”"
+                                "họ...\""
                             ]
                         },
                         {
@@ -7485,7 +7485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Cats truly are adorable... ♪”"
+                                "\\N<Kaori>“Mèo thực sự đáng yêu... ♪”"
                             ]
                         },
                         {
@@ -7544,7 +7544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Wha-What’s with that outfit...!?”"
+                                "\\N<Middle-Aged Man>“Bộ-trang phục đó là sao vậy...!?”"
                             ]
                         },
                         {
@@ -7561,14 +7561,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Aren’t you cold in those clothes...? I can bring you"
+                                "\\N<Middle-Aged Man>“Mặc bộ đồ đó không thấy lạnh sao…? Tôi có thể đưa bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "something to wear over them if you want.”"
+                                "thứ gì đó để mặc bên ngoài nếu bạn muốn.”"
                             ]
                         },
                         {
@@ -7585,7 +7585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“N-No thank you... I appreciate the concern.”"
+                                "\\N<Kaori>“K-Không, cảm ơn bạn... Tôi đánh giá cao sự quan tâm.”"
                             ]
                         },
                         {
@@ -7644,7 +7644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“H-Hey...! Put on some decent clothes...!”"
+                                "\\N<Middle-Aged Man>“H-Này...! Mặc quần áo tử tế vào đi…!”"
                             ]
                         },
                         {
@@ -7661,7 +7661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Even cats wear clothes sometimes nowadays.”"
+                                "\\N<Middle-Aged Man>“Ngày nay ngay cả mèo cũng mặc quần áo.”"
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I guess so...”"
+                                "\\N<Kaori>“Tôi-tôi đoán vậy…”"
                             ]
                         },
                         {
@@ -7730,7 +7730,7 @@
         },
         {
             "id": 12,
-            "name": "Boy",
+            "name": "Con trai",
             "note": "",
             "pages": [
                 {
@@ -7772,7 +7772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>“YAY! YAY!”"
+                                "\\N<Boy>“YAY! CÓ!”"
                             ]
                         },
                         {
@@ -7890,7 +7890,7 @@
         },
         {
             "id": 13,
-            "name": "Homeless Person",
+            "name": "Người vô gia cư",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1248>",
             "pages": [
                 {
@@ -7932,7 +7932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“...Whatcha want? This ain’t a show.”"
+                                "\\N<Homeless Person>“...Bạn muốn gì? Đây không phải là một buổi biểu diễn.”"
                             ]
                         },
                         {
@@ -7956,7 +7956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Uh... Nothing...”"
+                                "\\N<Shizune>“Ờ... Không có gì…”"
                             ]
                         },
                         {
@@ -7980,7 +7980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“...Heh heh! Did you come to comfort me? ♪”"
+                                "\\N<Homeless Person>“...He heh! Anh đến an ủi tôi à? ♪”"
                             ]
                         },
                         {
@@ -7997,14 +7997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“I haven’t fucked a woman in a long time... Bet getting"
+                                "\\N<Homeless Person>“Đã lâu rồi tôi không làm tình với phụ nữ… Đặt cược"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it on with a thicc girl like you would feel amazing..."
+                                "ở bên một cô gái thicc như bạn sẽ cảm thấy tuyệt vời..."
                             ]
                         },
                         {
@@ -8035,7 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...D-Disgusting...”"
+                                "\\N<Shizune>“...D-kinh tởm…”"
                             ]
                         },
                         {
@@ -8059,14 +8059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh, look who’s here. A priestess has blessed me with"
+                                "\\N<Homeless Person>“Ồ, nhìn xem ai ở đây. Một nữ tu sĩ đã ban phước cho tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "her presence.”"
+                                "sự hiện diện của cô ấy.”"
                             ]
                         },
                         {
@@ -8090,7 +8090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I see you know me...”"
+                                "\\N<Shizune>“Tôi thấy bạn biết tôi…”"
                             ]
                         },
                         {
@@ -8107,14 +8107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Unfortunately, helping good-for-nothing bums such as"
+                                "\\N<Shizune>“Thật không may, lại giúp đỡ những kẻ vô tích sự như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yourself is not one of my duties as a priestess.”"
+                                "bản thân bạn không phải là một trong những nhiệm vụ của tôi với tư cách là một nữ tu sĩ."
                             ]
                         },
                         {
@@ -8138,7 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh! That hurt.”"
+                                "\\N<Homeless Person>“Heh heh! Đau quá.”"
                             ]
                         },
                         {
@@ -8155,7 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Donate your pussy to me, Busty Priestess. ♡”"
+                                "\\N<Homeless Person>“Hãy quyên góp âm hộ của bạn cho tôi, Nữ tu sĩ vú to. ♡”"
                             ]
                         },
                         {
@@ -8179,14 +8179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(...No point in dealing with him. I’ll just get out of"
+                                "\\N<Shizune>(...Không có ích gì khi đối phó với anh ta. Tôi sẽ thoát ra khỏi đây"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "here.)"
+                                "đây.)"
                             ]
                         },
                         {
@@ -8269,14 +8269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“C’mon. C’mon. Do me a service by setting those huge"
+                                "\\N<Homeless Person>“Nào. Thôi nào. Hãy giúp tôi một dịch vụ bằng cách thiết lập những thứ khổng lồ đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "tits free... ♡”"
+                                "không có ngực... ♡”"
                             ]
                         },
                         {
@@ -8300,7 +8300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -8375,7 +8375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh, wow! ♡ You have some big titties. ♡”"
+                                "\\N<Homeless Person>“Ồ, ôi! ♡ Bạn có cặp vú lớn. ♡”"
                             ]
                         },
                         {
@@ -8392,7 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“I’ve been too horny for my own good lately.”"
+                                "\\N<Homeless Person>\"Gần đây tôi đã quá ham mê vì lợi ích của mình.\""
                             ]
                         },
                         {
@@ -8409,14 +8409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“And I pray at the shrine you live in, so you shouldn’t"
+                                "\\N<Homeless Person>“Và tôi cầu nguyện tại ngôi đền bạn sống, vì vậy bạn không nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mind showing me those gigantic melons. ♡”"
+                                "tâm trí cho tôi xem những quả dưa khổng lồ đó. ♡”"
                             ]
                         },
                         {
@@ -8456,7 +8456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“P-Please refrain from making those comments...”"
+                                "\\N<Kaori>“P-Xin vui lòng không đưa ra những nhận xét đó…”"
                             ]
                         },
                         {
@@ -8492,7 +8492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This Event requires Lewd to be 5 or more to occur."
+                                "Sự kiện này yêu cầu Dâm dục phải từ 5 trở lên mới xảy ra."
                             ]
                         },
                         {
@@ -8560,7 +8560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh, wow! ♡ You have some big titties. ♡”"
+                                "\\N<Homeless Person>“Ồ, ôi! ♡ Bạn có cặp vú lớn. ♡”"
                             ]
                         },
                         {
@@ -8584,7 +8584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“A-Ahaha...”"
+                                "\\N<Kaori>“A-Ahaha…”"
                             ]
                         },
                         {
@@ -8608,7 +8608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(...I can sense the Obscenities in this person.)"
+                                "\\N<Kaori>(...Tôi có thể cảm nhận được Tục tĩu ở người này.)"
                             ]
                         },
                         {
@@ -8632,7 +8632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Hey! Those clothes... You’re a priestess, aren’t you?”"
+                                "\\N<Homeless Person>“Này! Bộ quần áo đó… Cô là nữ tu sĩ phải không?”"
                             ]
                         },
                         {
@@ -8656,7 +8656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Why, yes, I am...”"
+                                "\\N<Kaori>“Tại sao, vâng, tôi…”"
                             ]
                         },
                         {
@@ -8680,7 +8680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“I’ve been too horny for my own good lately.”"
+                                "\\N<Homeless Person>\"Gần đây tôi đã quá ham mê vì lợi ích của mình.\""
                             ]
                         },
                         {
@@ -8697,14 +8697,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“And I pray at the shrine you live in, so you shouldn’t"
+                                "\\N<Homeless Person>“Và tôi cầu nguyện tại ngôi đền bạn sống, vì vậy bạn không nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "mind showing me those gigantic melons. ♡”"
+                                "tâm trí cho tôi xem những quả dưa khổng lồ đó. ♡”"
                             ]
                         },
                         {
@@ -8744,7 +8744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“P-Please refrain from making those comments...”"
+                                "\\N<Kaori>“P-Xin vui lòng không đưa ra những nhận xét đó…”"
                             ]
                         },
                         {
@@ -8768,14 +8768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Why not? I don’t have a home or money. The least you"
+                                "\\N<Homeless Person>“Tại sao không? Tôi không có nhà hay tiền. Ít nhất bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "can do is show me your tits. ♪”"
+                                "có thể làm là cho tôi xem ngực của bạn. ♪”"
                             ]
                         },
                         {
@@ -8815,7 +8815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I mustn’t...!”"
+                                "\\N<Kaori>“T-tôi không được…!”"
                             ]
                         },
                         {
@@ -8839,7 +8839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Tsk...! You’re a hard nut to crack.”"
+                                "\\N<Homeless Person>“Tsk...! Bạn là một kẻ khó giải quyết.”"
                             ]
                         },
                         {
@@ -8856,14 +8856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Well, it’s not like I’m gonna force myself on you or"
+                                "\\N<Homeless Person>“Chà, không phải là tôi sẽ ép buộc bạn hay"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "anything.”"
+                                "bất cứ điều gì.\""
                             ]
                         },
                         {
@@ -8880,7 +8880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“I’ll just have to ask the next lady who comes by. ♪”"
+                                "\\N<Homeless Person>“Tôi chỉ cần hỏi người phụ nữ tiếp theo ghé qua thôi. ♪”"
                             ]
                         },
                         {
@@ -8904,7 +8904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“U-Umm...”"
+                                "\\N<Kaori>“U-Ừm…”"
                             ]
                         },
                         {
@@ -8928,7 +8928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I-If I leave this person to his own devices...)"
+                                "\\N<Kaori>(N-Nếu tôi để người này tự lo liệu thiết bị của mình...)"
                             ]
                         },
                         {
@@ -8945,7 +8945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(He may cause problems for other women...)"
+                                "\\N<Kaori>(Anh ấy có thể gây rắc rối cho những người phụ nữ khác...)"
                             ]
                         },
                         {
@@ -8978,7 +8978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(St-Still... I don’t know if I can bring myself to...)"
+                                "\\N<Kaori>(St-Vẫn... Tôi không biết liệu mình có thể tự mình đến được không...)"
                             ]
                         },
                         {
@@ -9002,14 +9002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh... The mom over there looks like my type..."
+                                "\\N<Homeless Person>“Heh heh... Mẹ đằng kia trông giống mẫu người của tôi quá..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bet she would get embarrassed and blush real nice..."
+                                "Cá là cô ấy sẽ xấu hổ và đỏ mặt thật xinh đẹp..."
                             ]
                         },
                         {
@@ -9056,7 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -9080,21 +9080,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(I only slightly sense the Obscenities... so he will"
+                                "\\N<Kaori>(Tôi chỉ hơi cảm nhận được những điều Tục tĩu... nên anh ấy sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "probably be back to normal eventually, even if I don’t"
+                                "có lẽ cuối cùng sẽ trở lại bình thường, ngay cả khi tôi không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "take action...)"
+                                "hãy hành động...)"
                             ]
                         },
                         {
@@ -9111,7 +9111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Wha-What should I do...?)"
+                                "\\N<Kaori>(Tôi nên làm gì...?)"
                             ]
                         },
                         {
@@ -9119,8 +9119,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Show Boobs (♡)",
-                                    "Back"
+                                    "Khoe ngực (♡)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -9133,7 +9133,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Show Boobs (♡)"
+                                "Khoe ngực (♡)"
                             ]
                         },
                         {
@@ -9150,7 +9150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“U-Um...”"
+                                "\\N<Kaori>“Ư-Ừm…”"
                             ]
                         },
                         {
@@ -9174,7 +9174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Hm? You still need something?”"
+                                "\\N<Homeless Person>“Hả? Bạn vẫn cần thứ gì đó à?”"
                             ]
                         },
                         {
@@ -9214,7 +9214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I wouldn’t mind showing them... somewhere hidden...”"
+                                "\\N<Kaori>“T-Tôi không ngại cho họ xem... ở đâu đó ẩn…”"
                             ]
                         },
                         {
@@ -9247,7 +9247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Wha...!? S-Seriously!?”"
+                                "\\N<Homeless Person>“Cái gì...!? Đ-Nghiêm túc đấy!?”"
                             ]
                         },
                         {
@@ -9264,7 +9264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You’ll really show me them...!?”"
+                                "\\N<Homeless Person>“Bạn thực sự sẽ cho tôi xem chúng…!?”"
                             ]
                         },
                         {
@@ -9304,7 +9304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Y-Yes...”"
+                                "\\N<Kaori>“V-Có…”"
                             ]
                         },
                         {
@@ -9321,14 +9321,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“As long as it keeps you satisfied enough not to"
+                                "\\N<Kaori>“Miễn là nó khiến bạn đủ hài lòng để không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "inconvenience others, that is...”"
+                                "làm phiền người khác, đó là…”"
                             ]
                         },
                         {
@@ -9352,14 +9352,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“I-I won’t bother anyone ever again!! Just show me"
+                                "\\N<Homeless Person>“T-tôi sẽ không làm phiền ai nữa!! Hãy cho tôi thấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "them!”"
+                                "họ!\""
                             ]
                         },
                         {
@@ -9399,7 +9399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“D-Do you promise?”"
+                                "\\N<Kaori>“D-Bạn có hứa không?”"
                             ]
                         },
                         {
@@ -9423,7 +9423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“I promise!!”"
+                                "\\N<Homeless Person>“Tôi hứa!!”"
                             ]
                         },
                         {
@@ -9440,7 +9440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“L-Look! There’s some shade over there!”"
+                                "\\N<Homeless Person>“L-Nhìn kìa! Có chút bóng râm ở đằng kia!”"
                             ]
                         },
                         {
@@ -9457,7 +9457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Qu-Quick! Follow me!”"
+                                "\\N<Homeless Person>“Nhanh lên! Theo tôi!\""
                             ]
                         },
                         {
@@ -9497,7 +9497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“O-Okay...!”"
+                                "\\N<Kaori>“O-Được rồi...!”"
                             ]
                         },
                         {
@@ -9526,7 +9526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Hee-hee...! ♡ Hurry up and show me the goods. ♡”"
+                                "\\N<Homeless Person>“Hee-hee...! ♡ Nhanh tay cho mình xem hàng nhé. ♡”"
                             ]
                         },
                         {
@@ -9543,7 +9543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“I-I could take your clothes off myself if you want."
+                                "\\N<Homeless Person>“Tôi-tôi có thể tự cởi quần áo của bạn nếu bạn muốn."
                             ]
                         },
                         {
@@ -9567,7 +9567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I can handle that all on my own...”"
+                                "\\N<Kaori>“Tôi-tôi có thể tự mình giải quyết tất cả…”"
                             ]
                         },
                         {
@@ -9584,7 +9584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“H-Here you go...”"
+                                "\\N<Kaori>“H-Của bạn đây…”"
                             ]
                         },
                         {
@@ -9660,7 +9660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -9694,7 +9694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“WHOOOA!! Nice! ♡ ♡”"
+                                "\\N<Homeless Person>“ÔI!! Đẹp! ♡ ♡”"
                             ]
                         },
                         {
@@ -9711,14 +9711,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Your areolas are huge! ♡ I could look at them all"
+                                "\\N<Homeless Person>“Quầng vú của bạn rất lớn! ♡ Tôi có thể xem tất cả"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "day... ♡ ♡”"
+                                "ngày... ♡ ♡”"
                             ]
                         },
                         {
@@ -9735,7 +9735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Ugh... He is really eyeing me up...! ♡)"
+                                "\\N<Kaori>(Ugh... Anh ấy thực sự đang để ý tới mình...! ♡)"
                             ]
                         },
                         {
@@ -9752,7 +9752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Damn...! I didn’t think I’d see something like this."
+                                "\\N<Homeless Person>“Chết tiệt...! Tôi không nghĩ mình sẽ thấy thứ gì đó như thế này."
                             ]
                         },
                         {
@@ -9776,14 +9776,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“I wanna suck them so badly... They’re just that"
+                                "\\N<Homeless Person>“Tôi muốn hút chúng quá… Chúng chỉ thế thôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "sexy...! ♡”"
+                                "gợi cảm...! ♡”"
                             ]
                         },
                         {
@@ -9800,7 +9800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Y-You cannot! You can only look... ♡”"
+                                "\\N<Kaori>“C-Bạn không thể! Bạn chỉ có thể nhìn... ♡”"
                             ]
                         },
                         {
@@ -9817,7 +9817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh. ♡ I know. I know. ♡”"
+                                "\\N<Homeless Person>“Heh heh. ♡ Tôi biết. Tôi biết. ♡”"
                             ]
                         },
                         {
@@ -9834,7 +9834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Gotta burn this into my memory... ♡”"
+                                "\\N<Homeless Person>“Phải ghi nó vào trí nhớ của tôi... ♡”"
                             ]
                         },
                         {
@@ -9851,7 +9851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Ugh... Does he enjoy looking at them... that much...?"
+                                "\\N<Kaori>(Ugh... Anh ấy có thích nhìn họ không... nhiều đến vậy sao...?"
                             ]
                         },
                         {
@@ -9909,7 +9909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I’m ending it here...! ♡”"
+                                "\\N<Kaori>“T-tôi kết thúc nó ở đây…! ♡”"
                             ]
                         },
                         {
@@ -9962,7 +9962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Wh-Why!? It hasn’t been that long at all!”"
+                                "\\N<Homeless Person>“T-Tại sao!? Cũng đâu có lâu đến thế đâu!”"
                             ]
                         },
                         {
@@ -10002,7 +10002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I fulfilled my end of the bargain...”"
+                                "\\N<Kaori>“T-Tôi đã hoàn thành thỏa thuận của mình…”"
                             ]
                         },
                         {
@@ -10019,7 +10019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Besides... this is embarrassing...! ♡”"
+                                "\\N<Kaori>“Hơn nữa… điều này thật đáng xấu hổ…! ♡”"
                             ]
                         },
                         {
@@ -10043,14 +10043,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Haaah... Well, fine. I got to see something nice,"
+                                "\\N<Homeless Person>“Haaah... Được rồi. Tôi đã thấy một điều gì đó hay ho,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "anyways. ♡”"
+                                "dù sao đi nữa. ♡”"
                             ]
                         },
                         {
@@ -10067,14 +10067,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“I’mma jack off to your bare titties and cum a bunch of"
+                                "\\N<Homeless Person>“Tôi sẽ chọc vào cặp vú trần của bạn và xuất hiện một loạt"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "times today. ♡”"
+                                "lần hôm nay. ♡”"
                             ]
                         },
                         {
@@ -10114,7 +10114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“You did not need to tell me that...!”"
+                                "\\N<Kaori>“Bạn không cần phải nói với tôi điều đó…!”"
                             ]
                         },
                         {
@@ -10138,7 +10138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“W-Well then, I’ll be taking my leave...”"
+                                "\\N<Kaori>“V-Vậy thì, tôi sẽ nghỉ phép…”"
                             ]
                         },
                         {
@@ -10162,7 +10162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh... Thanks a bunch, Priestess. ♡”"
+                                "\\N<Homeless Person>“Heh heh... Cảm ơn rất nhiều, Nữ tư tế. ♡”"
                             ]
                         },
                         {
@@ -10179,7 +10179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Come back to show me your tits again sometime. ♡”"
+                                "\\N<Homeless Person>“Khi nào đó hãy quay lại để cho tôi xem cặp vú của bạn một lần nữa. ♡”"
                             ]
                         },
                         {
@@ -10219,7 +10219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...”"
+                                "\\N<Kaori>“…”"
                             ]
                         },
                         {
@@ -10236,7 +10236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Seems as though the Obscenities have subsided...)"
+                                "\\N<Kaori>(Có vẻ như những điều tục tĩu đã giảm bớt...)"
                             ]
                         },
                         {
@@ -10253,7 +10253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(But... was it really worth it in the end...? ♡)"
+                                "\\N<Kaori>(Nhưng... cuối cùng thì nó có thực sự xứng đáng không...? ♡)"
                             ]
                         },
                         {
@@ -10312,7 +10312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kaori’s Lewd rose by 2..."
+                                "Dâm dục của Kaori tăng 2..."
                             ]
                         },
                         {
@@ -10356,7 +10356,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"I don’t know if I should’ve done th-that...\""
+                                "\"Tôi không biết liệu tôi có nên làm việc đó không...\""
                             ]
                         },
                         {
@@ -10367,7 +10367,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"Even to purify, I shouldn’t show a stranger my breasts.\""
+                                "\"Kể cả để thanh tẩy, tôi cũng không nên cho người lạ xem ngực của mình.\""
                             ]
                         },
                         {
@@ -10397,7 +10397,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -10421,21 +10421,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I seriously doubt he would actually do something like"
+                                "\\N<Kaori>(Tôi thực sự nghi ngờ rằng anh ấy sẽ thực sự làm điều gì đó như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "that... Things will be all right as they are..."
+                                "rằng... Mọi chuyện sẽ ổn như hiện tại..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "maybe...)"
+                                "Có lẽ...)"
                             ]
                         },
                         {
@@ -10520,7 +10520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh... They’re jiggling so much. ♡”"
+                                "\\N<Homeless Person>“Heh heh... Họ cười khúc khích quá. ♡”"
                             ]
                         },
                         {
@@ -10537,14 +10537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Just thinking that I saw them uncovered riles me up a"
+                                "\\N<Homeless Person>“Chỉ nghĩ đến việc tôi nhìn thấy chúng không che đậy đã khiến tôi nổi giận"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "lot. ♡”"
+                                "nhiều. ♡”"
                             ]
                         },
                         {
@@ -10584,7 +10584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Mmm... ♡”"
+                                "\\N<Kaori>“Ừm... ♡”"
                             ]
                         },
                         {
@@ -10675,7 +10675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh...! Here comes the busty priestess. ♡”"
+                                "\\N<Homeless Person>“Ồ...! Nữ tu sĩ ngực khủng đây rồi. ♡”"
                             ]
                         },
                         {
@@ -10692,7 +10692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Come to donate your pussy to me? ♡”"
+                                "\\N<Homeless Person>“Đến tặng âm hộ của bạn cho tôi? ♡”"
                             ]
                         },
                         {
@@ -10751,7 +10751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oooh... I can’t believe my eyes...! ♡”"
+                                "\\N<Homeless Person>“Ôi... Tôi không thể tin vào mắt mình…! ♡”"
                             ]
                         },
                         {
@@ -10768,14 +10768,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You knew exactly what you were doing when you chose to"
+                                "\\N<Homeless Person>“Bạn biết chính xác mình đang làm gì khi chọn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "wear that outfit... ♡”"
+                                "mặc bộ trang phục đó... ♡”"
                             ]
                         },
                         {
@@ -10792,7 +10792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(S-So many Obscenities...! ♡)"
+                                "\\N<Shizune>(S-Thật nhiều lời tục tĩu...! ♡)"
                             ]
                         },
                         {
@@ -10851,14 +10851,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“The hell...!? I-I didn’t know you were such a dirty"
+                                "\\N<Homeless Person>“Cái quái gì thế...!? Tôi-tôi không biết bạn lại bẩn thỉu đến thế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "whore! ♡”"
+                                "con điếm! ♡”"
                             ]
                         },
                         {
@@ -10875,14 +10875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You knew exactly what you were doing when you chose to"
+                                "\\N<Homeless Person>“Bạn biết chính xác mình đang làm gì khi chọn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "wear that outfit... ♡”"
+                                "mặc bộ trang phục đó... ♡”"
                             ]
                         },
                         {
@@ -10899,7 +10899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(S-So many Obscenities...! ♡)"
+                                "\\N<Shizune>(S-Thật nhiều lời tục tĩu...! ♡)"
                             ]
                         },
                         {
@@ -10917,8 +10917,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -10931,7 +10931,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>74)Purify ♡ (Needed Lewd: 75 Or More)"
+                                "en(v[1]>74)Purify ♡ (Cần dâm dục: 75 trở lên)"
                             ]
                         },
                         {
@@ -10948,7 +10948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...W-Well... Sure... ♡”"
+                                "\\N<Shizune>“...Ch-Chà... Chắc chắn rồi... ♡”"
                             ]
                         },
                         {
@@ -10965,7 +10965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh...! F-For real...? ♡”"
+                                "\\N<Homeless Person>“Ồ...! F-Thật sao...? ♡”"
                             ]
                         },
                         {
@@ -10982,7 +10982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“What a dirty slut you are... ♡ ♡”"
+                                "\\N<Homeless Person>“Em đúng là một con đĩ bẩn thỉu... ♡ ♡”"
                             ]
                         },
                         {
@@ -10999,7 +10999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Alright... Come into my tent...! ♡”"
+                                "\\N<Homeless Person>“Được rồi... Vào lều của tôi đi…! ♡”"
                             ]
                         },
                         {
@@ -11119,7 +11119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -11136,7 +11136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“MNNN! ♡ AH! ♡ AAAHN! ♡ ♡”"
+                                "\\N<Shizune>“MNNN! ♡ À! ♡ AAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -11174,14 +11174,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Goddamn... You even enjoy getting plowed by a bottom"
+                                "\\N<Homeless Person>“Chết tiệt... Bạn thậm chí còn thích bị cày dưới đáy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "feeder like me, you masochist bitch...! ♡ ♡”"
+                                "kẻ ăn bám như tôi, đồ khổ dâm...! ♡ ♡”"
                             ]
                         },
                         {
@@ -11198,7 +11198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -11231,7 +11231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“AAAHN! ♡ AH! ♡ MNNNN! ♡ AAAAAH! ♡ ♡”"
+                                "\\N<Shizune>“AAAHN! ♡ À! ♡ MNNNN! ♡ AAAAAH! ♡ ♡”"
                             ]
                         },
                         {
@@ -11248,7 +11248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“...Now for another load...! ♡”"
+                                "\\N<Homeless Person>“...Bây giờ tải tiếp...! ♡”"
                             ]
                         },
                         {
@@ -11326,7 +11326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -11372,14 +11372,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Don’t go soft on me now...! You’re gonna get pregnant"
+                                "\\N<Homeless Person>“Đừng mềm lòng với tôi bây giờ…! Bạn sắp có thai"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "if you don’t take my cock out, y’know...! ♡”"
+                                "nếu bạn không lấy cặc của tôi ra, bạn biết đấy...! ♡”"
                             ]
                         },
                         {
@@ -11403,7 +11403,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "Crouching Creampie Picture Display"
+                                "Ngọai Creampie Hiển Thị Hình Ảnh"
                             ]
                         },
                         {
@@ -11467,7 +11467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“MNNN! Ngh...! Haaah...! ♡ ♡”"
+                                "\\N<Shizune>“MNNN! Ngh...! Haa...! ♡ ♡”"
                             ]
                         },
                         {
@@ -11484,7 +11484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Phew... I’ve got the best view ever... ♡”"
+                                "\\N<Homeless Person>“Phew... Tôi có góc nhìn đẹp nhất từ ​​trước đến giờ... ♡\""
                             ]
                         },
                         {
@@ -11501,7 +11501,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(A mere homeless man... did this to me...! ♡)"
+                                "\\N<Shizune>(Một kẻ vô gia cư... đã làm điều này với tôi...! ♡)"
                             ]
                         },
                         {
@@ -11597,7 +11597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh boy. Dreams really do come true. ♡”"
+                                "\\N<Homeless Person>“Ôi trời. Những giấc mơ thực sự trở thành sự thật. ♡”"
                             ]
                         },
                         {
@@ -11614,7 +11614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You’ll do this with me again, won’t you? ♡”"
+                                "\\N<Homeless Person>“Bạn sẽ làm điều này với tôi một lần nữa phải không? ♡”"
                             ]
                         },
                         {
@@ -11674,7 +11674,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"I was banged... by the likes of a homeless man...\""
+                                "\"Tôi đã bị... đánh đập bởi một kẻ vô gia cư...\""
                             ]
                         },
                         {
@@ -11685,7 +11685,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"He just had his way with me...! ♡\""
+                                "\"Anh ấy vừa có ý với tôi rồi...! ♡\""
                             ]
                         },
                         {
@@ -11714,7 +11714,7 @@
                                 2,
                                 0,
                                 4,
-                                "\"Homeless Person\""
+                                "\"Người vô gia cư\""
                             ]
                         },
                         {
@@ -11737,7 +11737,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -11854,7 +11854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh...! Here comes the busty priestess. ♡”"
+                                "\\N<Homeless Person>“Ồ...! Nữ tu sĩ ngực khủng đây rồi. ♡”"
                             ]
                         },
                         {
@@ -11871,7 +11871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Come to donate your pussy to me? ♡”"
+                                "\\N<Homeless Person>“Đến tặng âm hộ của bạn cho tôi? ♡”"
                             ]
                         },
                         {
@@ -11930,7 +11930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oooh... I can’t believe my eyes...! ♡”"
+                                "\\N<Homeless Person>“Ôi... Tôi không thể tin vào mắt mình…! ♡”"
                             ]
                         },
                         {
@@ -11947,21 +11947,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You must be planning on getting down and dirty if you"
+                                "\\N<Homeless Person>“Chắc hẳn bạn đang có ý định xuống xe và làm bẩn nếu bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "came here dressed like that... if you know what I"
+                                "đến đây ăn mặc như thế... nếu bạn biết tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "mean... ♡”"
+                                "nghĩa là... ♡”"
                             ]
                         },
                         {
@@ -11978,7 +11978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Th-The Obscenities are off the charts...! ♡)"
+                                "\\N<Kaori>(Th-Những điều tục tĩu nằm ngoài bảng xếp hạng...! ♡)"
                             ]
                         },
                         {
@@ -12037,7 +12037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“The hell...!? Y-You’re wearing that in public...!? ♡”"
+                                "\\N<Homeless Person>“Cái quái gì vậy...!? C-Anh đang mặc nó ở nơi công cộng...!? ♡”"
                             ]
                         },
                         {
@@ -12054,7 +12054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Come here... you slut! ♡”"
+                                "\\N<Homeless Person>“Lại đây... đồ khốn! ♡”"
                             ]
                         },
                         {
@@ -12071,7 +12071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Th-The Obscenities are off the charts...! ♡)"
+                                "\\N<Kaori>(Th-Những điều tục tĩu nằm ngoài bảng xếp hạng...! ♡)"
                             ]
                         },
                         {
@@ -12089,8 +12089,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[21]>74)Purify ♡ (Needed Lewd: 75 Or More)",
-                                    "Ignore"
+                                    "en(v[21]>74)Purify ♡ (Cần dâm dục: 75 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -12103,7 +12103,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[21]>74)Purify ♡ (Needed Lewd: 75 Or More)"
+                                "en(v[21]>74)Purify ♡ (Cần dâm dục: 75 trở lên)"
                             ]
                         },
                         {
@@ -12120,7 +12120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I... understand... ♡”"
+                                "\\N<Kaori>“T-tôi... hiểu rồi... ♡”"
                             ]
                         },
                         {
@@ -12137,7 +12137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh...! F-For real...? ♡”"
+                                "\\N<Homeless Person>“Ồ...! F-Thật sao...? ♡”"
                             ]
                         },
                         {
@@ -12154,7 +12154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh...! Can’t wait to have at those jugs. ♡ ♡”"
+                                "\\N<Homeless Person>“Heh heh...! Nóng lòng muốn có những chiếc bình đó. ♡ ♡”"
                             ]
                         },
                         {
@@ -12171,7 +12171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Quick... To the tent...! ♡”"
+                                "\\N<Homeless Person>“Nhanh lên... vào lều...! ♡”"
                             ]
                         },
                         {
@@ -12272,7 +12272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -12301,7 +12301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“MNNNN! ♡ ♡ AH! ♡ AAAHN! ♡ ♡”"
+                                "\\N<Kaori>“MNNNN! ♡ ♡ À! ♡ AAAHN! ♡ ♡”"
                             ]
                         },
                         {
@@ -12339,14 +12339,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Goddamn... You even enjoy getting plowed by a bottom"
+                                "\\N<Homeless Person>“Chết tiệt... Bạn thậm chí còn thích bị cày dưới đáy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "feeder like me, you busty, masochist bitch...! ♡ ♡”"
+                                "người trung chuyển như tôi, đồ khốn kiếp, con khốn khổ dâm...! ♡ ♡”"
                             ]
                         },
                         {
@@ -12363,7 +12363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*bang*"
+                                "*đổ*"
                             ]
                         },
                         {
@@ -12380,7 +12380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“MNNNN! ♡ AH! ♡ AAAHN! ♡ AAAH! ♡ ♡”"
+                                "\\N<Kaori>“MNNNN! ♡ À! ♡ AAAHN! ♡ Ôi! ♡ ♡”"
                             ]
                         },
                         {
@@ -12397,14 +12397,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“How’s this for ya!? ♡ I’ll dump the cum I’ve been"
+                                "\\N<Homeless Person>“Cái này thế nào với bạn!? ♡ Tôi sẽ vứt bỏ thứ tôi đã có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "storing up for days in you...! ♡ ♡”"
+                                "tích trữ bao ngày trong anh...! ♡ ♡”"
                             ]
                         },
                         {
@@ -12482,7 +12482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*spurt*"
+                                "*phóng*"
                             ]
                         },
                         {
@@ -12521,7 +12521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Whew... I came so many times. ♡”"
+                                "\\N<Homeless Person>“Chà... Tôi đã đến rất nhiều lần. ♡”"
                             ]
                         },
                         {
@@ -12538,7 +12538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Look sharp...! I’ll show you your cum-filled pussy...!"
+                                "\\N<Homeless Person>“Nhìn sắc nét...! Tôi sẽ cho bạn thấy âm hộ đầy tinh dịch của bạn...!"
                             ]
                         },
                         {
@@ -12614,7 +12614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“MNNN! Ngh...! Haaah...! ♡ ♡”"
+                                "\\N<Kaori>“MNNN! Ngh...! Haa...! ♡ ♡”"
                             ]
                         },
                         {
@@ -12631,14 +12631,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Heh heh heh! ♡ My semen’s deep inside a curvy"
+                                "\\N<Homeless Person>“He he he he! ♡ Tinh dịch của tôi nằm sâu trong một đường cong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "woman... ♡”"
+                                "người phụ nữ... ♡”"
                             ]
                         },
                         {
@@ -12655,14 +12655,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You might get pregnant ‘cause of this... ♡ I’ll drink"
+                                "\\N<Homeless Person>“Vì chuyện này mà bạn có thể có thai... ♡ Tôi sẽ uống"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "your milk if you do... ♡”"
+                                "sữa của bạn nếu bạn làm vậy... ♡”"
                             ]
                         },
                         {
@@ -12679,7 +12679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(S-Such a man... did this to my body...! ♡)"
+                                "\\N<Kaori>(S-Người đàn ông đó... đã làm điều này với cơ thể của tôi...! ♡)"
                             ]
                         },
                         {
@@ -12766,7 +12766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“Man, my cock feels great now. ♡”"
+                                "\\N<Homeless Person>“Trời ạ, con cặc của tôi bây giờ cảm thấy tuyệt vời. ♡”"
                             ]
                         },
                         {
@@ -12783,7 +12783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Homeless Person>“You’ll do this with me again, won’t you? ♡”"
+                                "\\N<Homeless Person>“Bạn sẽ làm điều này với tôi một lần nữa phải không? ♡”"
                             ]
                         },
                         {
@@ -12867,7 +12867,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"This sort of man... did that to me...\""
+                                "\"Loại đàn ông này... đã làm điều đó với tôi...\""
                             ]
                         },
                         {
@@ -12878,7 +12878,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"How could I let him do whatever he wanted to me? ♡\""
+                                "\"Làm sao tôi có thể để anh ấy làm bất cứ điều gì anh ấy muốn với tôi? ♡\""
                             ]
                         },
                         {
@@ -12916,7 +12916,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -13001,7 +13001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“Oh boy. Dreams really do come true. ♡”"
+                                "\\N<Homeless Person>“Ôi trời. Những giấc mơ thực sự trở thành sự thật. ♡”"
                             ]
                         },
                         {
@@ -13018,7 +13018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Homeless Person>“You’ll do this with me again, won’t you? ♡”"
+                                "\\N<Homeless Person>“Bạn sẽ làm điều này với tôi một lần nữa phải không? ♡”"
                             ]
                         },
                         {
@@ -13053,7 +13053,7 @@
         },
         {
             "id": 14,
-            "name": "Girl",
+            "name": "Con gái",
             "note": "",
             "pages": [
                 {
@@ -13213,7 +13213,7 @@
         },
         {
             "id": 15,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -13280,7 +13280,7 @@
         },
         {
             "id": 16,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {
@@ -13347,7 +13347,7 @@
         },
         {
             "id": 17,
-            "name": "Free Event Young Man",
+            "name": "Sự kiện miễn phí Chàng trai trẻ",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1243>",
             "pages": [
                 {
@@ -13405,7 +13405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Wow...! ♡ Doubt those clothes will last very long..."
+                                "\\N<Young Man>“Chà...! ♡ Không ngờ những bộ quần áo đó sẽ bền lâu..."
                             ]
                         },
                         {
@@ -13429,7 +13429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...What do you think you’re looking at...? ♡”"
+                                "\\N<Shizune>“...Bạn nghĩ bạn đang nhìn thấy gì...? ♡”"
                             ]
                         },
                         {
@@ -13505,14 +13505,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(H-He’s looking at me... Should’ve known dressing up"
+                                "\\N<Shizune>(H-Anh ấy đang nhìn mình... Lẽ ra phải biết việc ăn diện chứ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "like this would’ve caused this...)"
+                                "như thế này sẽ gây ra chuyện này...)"
                             ]
                         },
                         {
@@ -13571,7 +13571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Holy smokes... That outfit’s sexy... ♡ Heh heh... ♡”"
+                                "\\N<Young Man>“Thánh hút thuốc... Bộ trang phục đó thật quyến rũ... ♡ Heh heh... ♡\""
                             ]
                         },
                         {
@@ -13588,7 +13588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(H-He can’t keep his eyes off me... ♡)"
+                                "\\N<Shizune>(H-Anh ấy không thể rời mắt khỏi tôi... ♡)"
                             ]
                         },
                         {
@@ -13606,8 +13606,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[1]>19)Purify ♡ (Needed Lewd: 20 Or More)",
-                                    "Ignore"
+                                    "en(v[1]>19)Purify ♡ (Cần dâm dục: 20 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -13620,7 +13620,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[1]>19)Purify ♡ (Needed Lewd: 20 Or More)"
+                                "en(v[1]>19)Purify ♡ (Cần dâm dục: 20 trở lên)"
                             ]
                         },
                         {
@@ -13637,7 +13637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(This guy is being affected by the Obscenities...)"
+                                "\\N<Shizune>(Anh chàng này đang bị ảnh hưởng bởi Tục tĩu...)"
                             ]
                         },
                         {
@@ -13666,7 +13666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Come here for a second...”"
+                                "\\N<Shizune>“...Đến đây một chút…”"
                             ]
                         },
                         {
@@ -13683,7 +13683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Huh...!? What’s up...!?”"
+                                "\\N<Young Man>“Hả...!? Có chuyện gì vậy...!?\""
                             ]
                         },
                         {
@@ -13814,7 +13814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -13831,14 +13831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Woohoo...! ♡ I-I don’t know why you’re showing me"
+                                "\\N<Young Man>“Woohoo...! ♡ Tôi-tôi không biết tại sao bạn lại cho tôi xem"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "your boobs for free... but I ain’t complaining...! ♡”"
+                                "cặp vú của bạn miễn phí... nhưng tôi không phàn nàn...! ♡”"
                             ]
                         },
                         {
@@ -13855,7 +13855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“C-Can I take a picture...? ♡”"
+                                "\\N<Young Man>“C-Tôi có thể chụp ảnh được không...? ♡”"
                             ]
                         },
                         {
@@ -13872,7 +13872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“U-Umm...”"
+                                "\\N<Shizune>“U-Ừm…”"
                             ]
                         },
                         {
@@ -13905,7 +13905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“...Do what you want...! ♡”"
+                                "\\N<Shizune>“...Hãy làm những gì bạn muốn...! ♡”"
                             ]
                         },
                         {
@@ -13922,14 +13922,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(Can’t believe I have to do this just to purify the"
+                                "\\N<Shizune>(Không thể tin được là tôi phải làm điều này chỉ để thanh lọc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Obscenities...! ♡)"
+                                "Những lời tục tĩu...! ♡)"
                             ]
                         },
                         {
@@ -13991,7 +13991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -14041,14 +14041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“I gotta get good pics of those huge boobs... that"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "pretty pussy... and everything else...! ♡ ♡”"
+                                "\\N<Young Man>“C-Tôi có thể chụp ảnh được không...? ♡”"
                             ]
                         },
                         {
@@ -14110,7 +14103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -14127,7 +14120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(D-Don’t get so close to me...! ♡)"
+                                "\\N<Shizune>(Đ-Đừng đến gần tôi quá...! ♡)"
                             ]
                         },
                         {
@@ -14144,14 +14137,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Haaah...! This is the best! ♡ I could jack off to"
+                                "\\N<Young Man>“Haaah...! Đây là thứ tốt nhất! ♡ Tôi có thể thủ dâm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "these forever. ♡”"
+                                "những điều này mãi mãi. ♡”"
                             ]
                         },
                         {
@@ -14168,14 +14161,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“You don’t mind if I use these pics to jerk off,"
+                                "\\N<Young Man>“Bạn không phiền nếu tôi dùng những bức ảnh này để thủ dâm,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "right!? ♡ ♡”"
+                                "Phải!? ♡ ♡”"
                             ]
                         },
                         {
@@ -14208,7 +14201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“I-I don’t care... Do as you please...! ♡”"
+                                "\\N<Shizune>“T-tôi không quan tâm... Cứ làm theo ý bạn đi...! ♡”"
                             ]
                         },
                         {
@@ -14225,7 +14218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>(The Obscenities in him are waning...)"
+                                "\\N<Shizune>(Sự tục tĩu trong anh ta đang giảm dần...)"
                             ]
                         },
                         {
@@ -14336,7 +14329,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"He’ll have th-those pictures for the rest of his life.\""
+                                "\"Anh ấy sẽ giữ những bức ảnh đó suốt đời.\""
                             ]
                         },
                         {
@@ -14347,7 +14340,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"I-I may have taken things too far... ♡\""
+                                "\"Có lẽ tôi đã đi quá xa rồi... ♡\""
                             ]
                         },
                         {
@@ -14381,7 +14374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“I’ll treasure these forever, really... Heh heh...! ♡”"
+                                "\\N<Young Man>“Tôi sẽ trân trọng những thứ này mãi mãi, thật đấy... Heh heh...! ♡”"
                             ]
                         },
                         {
@@ -14394,7 +14387,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -14511,14 +14504,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Oooh...! Miss Priestess...! ♡ Your tits are as big"
+                                "\\N<Young Man>“Ồ...! Nữ tu sĩ...! ♡ Ngực em to quá"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "and beautiful as ever...! ♡”"
+                                "và đẹp hơn bao giờ hết...! ♡”"
                             ]
                         },
                         {
@@ -14594,7 +14587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Whoa...! A-Amazing...! ♡”"
+                                "\\N<Young Man>“Ồ...! Đ-Tuyệt vời...! ♡”"
                             ]
                         },
                         {
@@ -14611,14 +14604,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(He’s eyeing me up... I suspected something of this"
+                                "\\N<Kaori>(Anh ấy đang để ý đến tôi... Tôi nghi ngờ điều gì đó về điều này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "degree would happen when I chose this outfit...)"
+                                "mức độ sẽ xảy ra khi mình chọn trang phục này...)"
                             ]
                         },
                         {
@@ -14677,7 +14670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“WOW! Wha-What a sexy outfit... ♡ Heh heh... ♡”"
+                                "\\N<Young Man>“Chà! Cái-Bộ trang phục thật quyến rũ... ♡ Heh heh... ♡”"
                             ]
                         },
                         {
@@ -14694,7 +14687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(H-He cannot keep his eyes off me... ♡)"
+                                "\\N<Kaori>(H-Anh ấy không thể rời mắt khỏi tôi... ♡)"
                             ]
                         },
                         {
@@ -14712,8 +14705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[21]>19)Purify ♡ (Needed Lewd: 20 Or More)",
-                                    "Ignore"
+                                    "en(v[21]>19)Purify ♡ (Cần dâm dục: 20 trở lên)",
+                                    "Phớt lờ"
                                 ],
                                 1,
                                 0,
@@ -14726,7 +14719,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "en(v[21]>19)Purify ♡ (Needed Lewd: 20 Or More)"
+                                "en(v[21]>19)Purify ♡ (Cần dâm dục: 20 trở lên)"
                             ]
                         },
                         {
@@ -14743,14 +14736,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(H-He does seem to be affected by the Obscenities,"
+                                "\\N<Kaori>(H-Anh ta có vẻ bị ảnh hưởng bởi những lời tục tĩu,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "though...)"
+                                "mặc dù...)"
                             ]
                         },
                         {
@@ -14767,7 +14760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(I must help him... ♡)"
+                                "\\N<Kaori>(Tôi phải giúp anh ấy... ♡)"
                             ]
                         },
                         {
@@ -14796,7 +14789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“U-Uh... Could you please follow me...? ♡”"
+                                "\\N<Kaori>“U-Uh... Bạn có thể theo tôi được không...? ♡”"
                             ]
                         },
                         {
@@ -14813,7 +14806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Huh...!? D-Don’t tell me... ♡”"
+                                "\\N<Young Man>“Hả...!? Đ-Đừng nói với tôi là... ♡”"
                             ]
                         },
                         {
@@ -14923,7 +14916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*boing* ♡ ♡"
+                                "*bùm* ♡ ♡"
                             ]
                         },
                         {
@@ -14940,14 +14933,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Woohoo...! ♡ I-I don’t know why you’re showing me"
+                                "\\N<Young Man>“Woohoo...! ♡ Tôi-tôi không biết tại sao bạn lại cho tôi xem"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "your boobs for free... but I ain’t complaining...! ♡”"
+                                "cặp vú của bạn miễn phí... nhưng tôi không phàn nàn...! ♡”"
                             ]
                         },
                         {
@@ -14964,7 +14957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“C-Can I take a picture...? ♡”"
+                                "\\N<Young Man>“C-Tôi có thể chụp ảnh được không...? ♡”"
                             ]
                         },
                         {
@@ -14981,7 +14974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“Y-Yes... ♡ It’s exactly what you think. ♡”"
+                                "\\N<Kaori>“V-Ừ... ♡ Đúng như những gì bạn nghĩ. ♡”"
                             ]
                         },
                         {
@@ -14998,7 +14991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(This is for the sake of purifying the Obscenities..."
+                                "\\N<Kaori>(Điều này nhằm mục đích thanh lọc những Tục tĩu..."
                             ]
                         },
                         {
@@ -15029,7 +15022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -15046,7 +15039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(Oh...! H-He’s taking... quite a lot of photos... ♡)"
+                                "\\N<Kaori>(Ồ...! H-Anh ấy đang chụp... khá nhiều ảnh... ♡)"
                             ]
                         },
                         {
@@ -15063,14 +15056,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“A-Alright! ♡ I get to see such a big pair of"
+                                "\\N<Young Man>“Đ-Được rồi! ♡ Tôi được nhìn thấy một cặp lớn như vậy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "titties... From a priestess, no less...! ♡ ♡”"
+                                "ngực... Từ một nữ tu sĩ, không hơn không kém...! ♡ ♡”"
                             ]
                         },
                         {
@@ -15094,7 +15087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*click*"
+                                "*nhấp chuột*"
                             ]
                         },
                         {
@@ -15111,7 +15104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(D-Don’t get so close to me...! ♡)"
+                                "\\N<Kaori>(Đ-Đừng đến gần tôi quá...! ♡)"
                             ]
                         },
                         {
@@ -15128,14 +15121,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“Haaah...! This is the best! ♡ I could jack off to"
+                                "\\N<Young Man>“Haaah...! Đây là thứ tốt nhất! ♡ Tôi có thể thủ dâm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "these forever. ♡”"
+                                "những điều này mãi mãi. ♡”"
                             ]
                         },
                         {
@@ -15152,14 +15145,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“You don’t mind if I use these pics to jerk off! ♡"
+                                "\\N<Young Man>“Bạn không phiền nếu tôi dùng những bức ảnh này để thủ dâm! ♡"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Right? ♡”"
+                                "Phải? ♡”"
                             ]
                         },
                         {
@@ -15176,7 +15169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“...I-I don’t... Do whatever you deem best... ♡”"
+                                "\\N<Kaori>“...T-tôi không... Làm bất cứ điều gì bạn cho là tốt nhất... ♡\""
                             ]
                         },
                         {
@@ -15198,14 +15191,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>(The Obscenities have waned... I’m glad I could be of"
+                                "\\N<Kaori>(Sự tục tĩu đã giảm dần... Tôi rất vui vì mình có thể tham gia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "assistance... ♡)"
+                                "hỗ trợ... ♡)"
                             ]
                         },
                         {
@@ -15318,7 +15311,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"As shameful as it was to have my boobs photographed...\""
+                                "\"Thật đáng xấu hổ khi phải chụp ảnh bộ ngực của mình...\""
                             ]
                         },
                         {
@@ -15329,7 +15322,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"If it helps people, I wouldn’t mind doing it again. ♡\""
+                                "\"Nếu nó giúp ích được cho mọi người, tôi sẽ không ngại làm lại. ♡\""
                             ]
                         },
                         {
@@ -15363,7 +15356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Young Man>“I’ll treasure these forever, really... Heh heh...! ♡”"
+                                "\\N<Young Man>“Tôi sẽ trân trọng những thứ này mãi mãi, thật đấy... Heh heh...! ♡”"
                             ]
                         },
                         {
@@ -15376,7 +15369,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Ignore"
+                                "Phớt lờ"
                             ]
                         },
                         {
@@ -15461,7 +15454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Young Man>“I’ll treasure these forever, really... Heh heh...! ♡”"
+                                "\\N<Young Man>“Tôi sẽ trân trọng những thứ này mãi mãi, thật đấy... Heh heh...! ♡”"
                             ]
                         },
                         {
@@ -15496,7 +15489,7 @@
         },
         {
             "id": 18,
-            "name": "Fog",
+            "name": "Sương mù",
             "note": "<NESフキダシ対象:1> <NESスイッチ:1048>",
             "pages": [
                 {
@@ -15545,14 +15538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I sense a lot of Obscenities coming from up"
+                                "\\N<Shizune>“Tôi-tôi cảm nhận được rất nhiều lời tục tĩu đến từ phía trên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ahead...”"
+                                "phía trước...\""
                             ]
                         },
                         {
@@ -15569,7 +15562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Might find a sigil over there...”"
+                                "\\N<Shizune>“Có thể tìm thấy một dấu hiệu ở đằng kia…”"
                             ]
                         },
                         {
@@ -15586,14 +15579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“That said, anything can be out there. I’d better be"
+                                "\\N<Shizune>“Điều đó nói lên rằng, bất cứ thứ gì cũng có thể ở ngoài đó. Tốt hơn là tôi nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "careful.”"
+                                "cẩn thận.\""
                             ]
                         },
                         {
@@ -15610,7 +15603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Shall I go check it out?”"
+                                "\\N<Shizune>“Tôi đi kiểm tra nhé?”"
                             ]
                         },
                         {
@@ -15618,8 +15611,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Enter (Battle With Defeat Sex Scene Ahead)",
-                                    "Back"
+                                    "Enter (Trận chiến với cảnh sex thất bại phía trước)",
+                                    "Quay lại"
                                 ],
                                 1,
                                 0,
@@ -15632,7 +15625,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Enter (Battle With Defeat Sex Scene Ahead)"
+                                "Enter (Trận chiến với cảnh sex thất bại phía trước)"
                             ]
                         },
                         {
@@ -15708,7 +15701,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {

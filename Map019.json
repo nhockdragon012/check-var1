@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "House",
+    "displayName": "Căn nhà",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4231,7 +4231,7 @@
         },
         {
             "id": 6,
-            "name": "Lady",
+            "name": "Quý bà",
             "note": "",
             "pages": [
                 {
@@ -4543,7 +4543,7 @@
         },
         {
             "id": 7,
-            "name": "Student",
+            "name": "Người đàn ông trẻ",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1244>",
             "pages": [
                 {
@@ -4565,7 +4565,7 @@
                     "directionFix": true,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B1_seito",
+                        "characterName": "B1_otoko",
                         "direction": 8,
                         "pattern": 1,
                         "characterIndex": 2
@@ -4941,60 +4941,12 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "B1_seito",
+                        "characterName": "B1_otoko",
                         "direction": 8,
                         "pattern": 1,
                         "characterIndex": 2
                     },
                     "list": [
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Student>(N-Now that I take a closer look... Akari... looks a"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "lot like Shizune...)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Student>(But...! Shizune’s boobs are on a whole ‘nother"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "level... ♡)"
-                            ]
-                        },
                         {
                             "code": 0,
                             "indent": 0,
@@ -8090,7 +8042,7 @@
         },
         {
             "id": 8,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -8157,7 +8109,7 @@
         },
         {
             "id": 9,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

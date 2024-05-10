@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Apparition Forest",
+    "displayName": "Rừng hiện hình",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Gotta exterminate the apparitions.”"
+                                "\\N<Shizune>“Phải tiêu diệt những hiện thân.”"
                             ]
                         },
                         {
@@ -3559,7 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Gotta exterminate the apparitions.”"
+                                "\\N<Shizune>“Phải tiêu diệt những hiện thân.”"
                             ]
                         },
                         {
@@ -3756,7 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Gotta exterminate the apparitions.”"
+                                "\\N<Shizune>“Phải tiêu diệt những hiện thân.”"
                             ]
                         },
                         {
@@ -3953,7 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Gotta exterminate the apparitions.”"
+                                "\\N<Shizune>“Phải tiêu diệt những hiện thân.”"
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
         },
         {
             "id": 7,
-            "name": "STORY 1 OP",
+            "name": "CÂU CHUYỆN 1 OP",
             "note": "",
             "pages": [
                 {
@@ -4311,7 +4311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Within a dark forest on the outskirts of a city..."
+                                "Trong một khu rừng tối tăm ở ngoại ô thành phố..."
                             ]
                         },
                         {
@@ -4356,7 +4356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Oh! Shizune! You’re here!”"
+                                "\\N<Male Exorcist>“Ồ! Shizune! Bạn ở đây!\""
                             ]
                         },
                         {
@@ -4380,14 +4380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Yes... I can’t very well overlook something as"
+                                "\\N<Shizune>“Có... Tôi không thể bỏ qua điều gì đó vì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "important as a massive outbreak of apparitions.”"
+                                "quan trọng như một đợt bùng phát lớn các cuộc hiện ra.”"
                             ]
                         },
                         {
@@ -4404,117 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“So, what’s the current situation?”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Male Exorcist>“Oh... Umm...”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Male Exorcist>“This was reported to be an ordinary forest, but for"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "some reason, tons of apparitions popped up all of"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "a sudden...”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Male Exorcist>“We’ve all been trying to get rid of the weak"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "apparitions, but it seems that a powerful one is in the"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "inner shrine.”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Shizune>“I see. That’s why you’re glad I’m here, I assume...”"
+                                "\\N<Shizune>“Vậy tình hình hiện tại thế nào?”"
                             ]
                         },
                         {
@@ -4538,14 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Exactly! A priestess of the Ayatsuji family has the"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "power of a hundred men!”"
+                                "\\N<Male Exorcist>“Ồ... Ừm…”"
                             ]
                         },
                         {
@@ -4562,7 +4445,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Well, we’re counting on you!”"
+                                "\\N<Male Exorcist>“Đây được báo cáo là một khu rừng bình thường, nhưng đối với"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "vì lý do nào đó, có rất nhiều lần hiện ra"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "đột nhiên…”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Male Exorcist>“Tất cả chúng ta đều đang cố gắng loại bỏ những kẻ yếu"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sự xuất hiện, nhưng có vẻ như một kẻ mạnh mẽ đang ở trong"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "điện thờ bên trong.”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shizune>“Tôi hiểu rồi. Đó là lý do tại sao bạn vui mừng vì tôi ở đây, tôi cho là…”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Male Exorcist>“Chính xác! Một nữ tư tế của gia đình Ayatsuji có"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sức mạnh của trăm người!”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Male Exorcist>“Chà, chúng tôi trông cậy vào bạn!”"
                             ]
                         },
                         {
@@ -4623,14 +4623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Great... There are so many men here, and yet none of"
+                                "\\N<Shizune>“Tuyệt vời... Có rất nhiều đàn ông ở đây, nhưng không ai trong số họ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "them are of help...”"
+                                "chúng giúp ích…”"
                             ]
                         },
                         {
@@ -4661,14 +4661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(That said, I certainly do sense a strong spiritual"
+                                "\\N<Shizune>(Điều đó nói lên rằng, tôi chắc chắn cảm nhận được một sức mạnh tinh thần mạnh mẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "power deep within the forest...)"
+                                "sức mạnh sâu thẳm trong rừng...)"
                             ]
                         },
                         {
@@ -4685,14 +4685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(It should be no match for a priestess of the Ayatsuji"
+                                "\\N<Shizune>(Nó không thể sánh được với một nữ tư tế của Ayatsuji"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family, though, of course.)"
+                                "tất nhiên là gia đình.)"
                             ]
                         },
                         {
@@ -4709,14 +4709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I’d better rush toward the shrine and get this over"
+                                "\\N<Shizune>(Tốt nhất là tôi nên chạy nhanh tới đền thờ và giải quyết chuyện này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "with quickly...)"
+                                "nhanh chóng...)"
                             ]
                         },
                         {
@@ -4751,7 +4751,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Investigate Inner Shrine\""
+                                "\"Điều tra nội điện\""
                             ]
                         },
                         {
@@ -4981,7 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Why do apparitions look so ugly?”"
+                                "\\N<Male Exorcist>\"Tại sao các lần xuất hiện trông xấu xí như vậy?\""
                             ]
                         },
                         {
@@ -5005,14 +5005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“These are definitely unattractive... but some of the"
+                                "\\N<Shizune>“Những thứ này chắc chắn không hấp dẫn... nhưng một số"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "stronger ones do appear human.”"
+                                "những người mạnh hơn có vẻ là con người.”"
                             ]
                         },
                         {
@@ -5036,14 +5036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“S-Seriously...!? Does that mean there could be a"
+                                "\\N<Male Exorcist>“S-Nghiêm túc đấy...!? Phải chăng điều đó có nghĩa là có thể có một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "succubus-like one too!?”"
+                                "giống succubus nữa à!?”"
                             ]
                         },
                         {
@@ -5067,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I don’t know, and I don’t care...”"
+                                "\\N<Shizune>“Tôi không biết và tôi không quan tâm…”"
                             ]
                         },
                         {
@@ -5091,7 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Whoooa! I gotta hunt as many apparitions as I can!”"
+                                "\\N<Male Exorcist>“Ồ! Tôi phải săn càng nhiều ma càng tốt!”"
                             ]
                         },
                         {
@@ -5115,7 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Men are so simple...)"
+                                "\\N<Shizune>(Đàn ông thật đơn giản...)"
                             ]
                         },
                         {
@@ -5198,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“I hope I can meet a cute succubus someday...”"
+                                "\\N<Male Exorcist>“Tôi hy vọng một ngày nào đó tôi có thể gặp một succubus dễ thương…”"
                             ]
                         },
                         {
@@ -5284,7 +5284,7 @@
         },
         {
             "id": 9,
-            "name": "Guard",
+            "name": "Bảo vệ",
             "note": "",
             "pages": [
                 {
@@ -5326,14 +5326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“As we are currently investigating this area, entry is"
+                                "\\N<Male Exorcist>“Vì chúng tôi hiện đang điều tra lĩnh vực này, mục nhập là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "forbidden. You especially shouldn’t be let in here...”"
+                                "cấm. Đặc biệt là bạn không nên được phép vào đây…”"
                             ]
                         },
                         {
@@ -5401,21 +5401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“No one is allowed past this point. We are"
+                                "\\N<Male Exorcist>“Không ai được phép vượt qua điểm này. Chúng tôi là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "investigating the area. Please take care of your other"
+                                "điều tra khu vực. Hãy chăm sóc người khác của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "business, Kaori.”"
+                                "công việc thôi, Kaori.”"
                             ]
                         },
                         {
@@ -5450,7 +5450,7 @@
         },
         {
             "id": 10,
-            "name": "Exorcist 2",
+            "name": "Trừ tà 2",
             "note": "",
             "pages": [
                 {
@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Whoa...!! The real Shizune Ayatsuji...!”"
+                                "\\N<Male Exorcist>“Ồ...!! Shizune Ayatsuji thật sự…!”"
                             ]
                         },
                         {
@@ -5516,62 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Are you really that surprised?”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Male Exorcist>“Well, the priestesses of the Ayatsuji family are"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "well-known... for various reasons.”"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Shizune>“Various?”"
+                                "\\N<Shizune>“Bạn thực sự ngạc nhiên đến thế à?”"
                             ]
                         },
                         {
@@ -5595,7 +5540,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“Yes... Heh heh heh... ♡”"
+                                "\\N<Male Exorcist>“Chà, các nữ tu sĩ của gia đình Ayatsuji là"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "nổi tiếng... vì nhiều lý do.”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Shizune>“Khác nhau?”"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Male Exorcist>“Ừ... Heh heh... ♡”"
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“The rumors are true... ♪”"
+                                "\\N<Male Exorcist>“Tin đồn là sự thật... ♪”"
                             ]
                         },
                         {
@@ -5726,7 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I don’t like the way he’s looking at me...)"
+                                "\\N<Shizune>(Tôi không thích cách anh ấy nhìn tôi...)"
                             ]
                         },
                         {
@@ -5819,7 +5819,7 @@
         },
         {
             "id": 11,
-            "name": "Exorcist 3",
+            "name": "Trừ tà 3",
             "note": "",
             "pages": [
                 {
@@ -5861,14 +5861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“This is the third one already... Good grief. What’s"
+                                "\\N<Male Exorcist>“Đây đã là cái thứ ba rồi… Thật tiếc. Cái gì"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "going on?”"
+                                "đang xảy ra?\""
                             ]
                         },
                         {
@@ -5954,7 +5954,7 @@
         },
         {
             "id": 12,
-            "name": "Apparition",
+            "name": "Hiện ra",
             "note": "",
             "pages": [
                 {
@@ -6087,7 +6087,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "A4_shotamiko",
+                        "characterName": "A4_miko",
                         "direction": 2,
                         "pattern": 1,
                         "characterIndex": 0
@@ -6107,7 +6107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>“E-Everybody’s so amazing...”"
+                                "\\N<Tooru>“E-Mọi người thật tuyệt vời…”"
                             ]
                         },
                         {
@@ -6124,14 +6124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>“And then there’s me... I can only use talismans a"
+                                "\\N<Tooru>“Và còn có tôi... Tôi chỉ có thể sử dụng bùa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "little...”"
+                                "nhỏ bé...\""
                             ]
                         },
                         {
@@ -6155,14 +6155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Cheer up. Not many people your age become exorcists,"
+                                "\\N<Shizune>“Vui lên. Không có nhiều người ở độ tuổi của bạn trở thành nhà Trừ tà,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you know?”"
+                                "Bạn biết?\""
                             ]
                         },
                         {
@@ -6179,7 +6179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“You might grow up to rival me in a few more years.”"
+                                "\\N<Shizune>“Bạn có thể lớn lên để cạnh tranh với tôi trong vài năm nữa.”"
                             ]
                         },
                         {
@@ -6203,7 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>“R-Rival you?”"
+                                "\\N<Tooru>“R-Đối thủ của bạn?”"
                             ]
                         },
                         {
@@ -6227,7 +6227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Mm-hmm.”"
+                                "\\N<Shizune>“Ừm-hmm.”"
                             ]
                         },
                         {
@@ -6251,7 +6251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>“Th-That sounds difficult...”"
+                                "\\N<Tooru>“Th-Nghe có vẻ khó…”"
                             ]
                         },
                         {
@@ -6268,14 +6268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>“...But I’ll give it a shot! I want to help others like"
+                                "\\N<Tooru>“...Nhưng tôi sẽ thử! Tôi muốn giúp đỡ người khác như"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you do!”"
+                                "bạn làm!\""
                             ]
                         },
                         {
@@ -6299,7 +6299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha! That’s the spirit. ♪”"
+                                "\\N<Shizune>“Haha! Đó là tinh thần. ♪”"
                             ]
                         },
                         {
@@ -6362,7 +6362,7 @@
                     "directionFix": false,
                     "image": {
                         "tileId": 0,
-                        "characterName": "A4_shotamiko",
+                        "characterName": "A4_miko",
                         "direction": 2,
                         "pattern": 1,
                         "characterIndex": 0
@@ -6382,7 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Tooru>(I want to be a cool exorcist like Shizune one day...)"
+                                "\\N<Tooru>(Một ngày nào đó tôi muốn trở thành một nhà Trừ tà ngầu như Shizune...)"
                             ]
                         },
                         {
@@ -6468,7 +6468,7 @@
         },
         {
             "id": 14,
-            "name": "Apparition",
+            "name": "Hiện ra",
             "note": "",
             "pages": [
                 {
@@ -6579,7 +6579,7 @@
         },
         {
             "id": 15,
-            "name": "Guard",
+            "name": "Bảo vệ",
             "note": "",
             "pages": [
                 {
@@ -6621,14 +6621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“As we are currently investigating this area, entry is"
+                                "\\N<Male Exorcist>“Vì chúng tôi hiện đang điều tra lĩnh vực này, mục nhập là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "forbidden. You especially shouldn’t be let in here...”"
+                                "cấm. Đặc biệt là bạn không nên được phép vào đây…”"
                             ]
                         },
                         {
@@ -6696,21 +6696,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male Exorcist>“No one is allowed past this point. We are"
+                                "\\N<Male Exorcist>“Không ai được phép vượt qua điểm này. Chúng tôi là"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "investigating the area. Please take care of your other"
+                                "điều tra khu vực. Hãy chăm sóc người khác của bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "business, Kaori.”"
+                                "công việc thôi, Kaori.”"
                             ]
                         },
                         {
@@ -6745,7 +6745,7 @@
         },
         {
             "id": 16,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {

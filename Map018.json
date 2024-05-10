@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": false,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "House",
+    "displayName": "Căn nhà",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4356,7 +4356,7 @@
         },
         {
             "id": 5,
-            "name": "Middle-Aged Man",
+            "name": "Người đàn ông trung niên",
             "note": "<NESフキダシ対象:4> <NESスイッチ:1016>",
             "pages": [
                 {
@@ -4398,14 +4398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oh... you’re here...! Wha...!? They’re much bigger"
+                                "\\N<Middle-Aged Man>“Ồ... bạn đến rồi...! Gì...!? Chúng lớn hơn nhiều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "than they looked in the picture...! ♡”"
+                                "hơn những gì họ nhìn thấy trong hình...! ♡”"
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“H-Huh...?”"
+                                "\\N<Shizune>“H-Hả...?”"
                             ]
                         },
                         {
@@ -4453,14 +4453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“A-Alright... I’d like you to give me a tit job and"
+                                "\\N<Middle-Aged Man>“A-Được rồi... Tôi muốn bạn giao cho tôi một công việc ăn miếng trả miếng và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "suck me off as soon as you can...”"
+                                "hãy bú tôi ngay khi có thể…”"
                             ]
                         },
                         {
@@ -4500,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Hey...! Wait...!! What the hell...!?”"
+                                "\\N<Shizune>“Này...! Chờ đợi...!! Cái quái gì vậy...!?\""
                             ]
                         },
                         {
@@ -4517,14 +4517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Wha-What...? I’m pretty sure I requested we do it"
+                                "\\N<Middle-Aged Man>“Cái-Cái gì...? Tôi khá chắc chắn rằng tôi đã yêu cầu chúng tôi làm điều đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "lickety-split...”"
+                                "chia rẽ…”"
                             ]
                         },
                         {
@@ -4564,7 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“D-Do it...? What are you talking about...?”"
+                                "\\N<Shizune>“D-Làm đi...? Bạn đang nói về cái gì vậy...?\""
                             ]
                         },
                         {
@@ -4588,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“...Wait a second... you’re not the girl I called...”"
+                                "\\N<Middle-Aged Man>“...Đợi chút...bạn không phải là cô gái mà tôi gọi…”"
                             ]
                         },
                         {
@@ -4628,7 +4628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I... simply entered this house by mistake...!”"
+                                "\\N<Shizune>“T-tôi... vừa vào nhầm ngôi nhà này...!”"
                             ]
                         },
                         {
@@ -4652,7 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“O-Oh... my bad...”"
+                                "\\N<Middle-Aged Man>“O-Ồ... lỗi của tôi…”"
                             ]
                         },
                         {
@@ -4669,7 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>(D-Damn her...! Making things so confusing...)"
+                                "\\N<Middle-Aged Man>(Đ-Chết tiệt cô ta...! Làm mọi chuyện trở nên khó hiểu quá...)"
                             ]
                         },
                         {
@@ -4686,14 +4686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>(I thought I could get this sexy woman to give me a tit"
+                                "\\N<Middle-Aged Man>(Tôi nghĩ tôi có thể khiến người phụ nữ gợi cảm này cho tôi bú vú"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "job...)"
+                                "công việc...)"
                             ]
                         },
                         {
@@ -4733,7 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(Haaah... That was a surprise... What’s with him...?)"
+                                "\\N<Shizune>(Haaah... Thật là bất ngờ... Anh ta bị sao vậy...?)"
                             ]
                         },
                         {
@@ -4816,14 +4816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Tsk...! Can’t she hurry the hell up...? I’m hornier"
+                                "\\N<Middle-Aged Man>“Tsk...! Cô ấy không thể nhanh lên được sao...? Tôi sừng hơn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "than I’ve ever been...”"
+                                "hơn bao giờ hết…”"
                             ]
                         },
                         {
@@ -4891,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oh! ♡ You’re finally here. ♡”"
+                                "\\N<Middle-Aged Man>“Ôi! ♡ Cuối cùng thì bạn cũng đã ở đây. ♡”"
                             ]
                         },
                         {
@@ -4915,7 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“...Do you need someth—”"
+                                "\\N<Kaori>“...Bạn có cần thứ gì không—”"
                             ]
                         },
                         {
@@ -4997,7 +4997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*squish* ♡ ♡"
+                                "*bụp* ♡ ♡"
                             ]
                         },
                         {
@@ -5043,14 +5043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Oooh! ♡ They’re way bigger than they looked in the"
+                                "\\N<Middle-Aged Man>“Ồ! ♡ Chúng lớn hơn nhiều so với vẻ ngoài của chúng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "photo. ♡ I hit the jackpot, for real. ♡”"
+                                "hình chụp. ♡ Tôi đã trúng số độc đắc, thực sự đấy. ♡”"
                             ]
                         },
                         {
@@ -5099,7 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“U-Umm...! Please stop!”"
+                                "\\N<Kaori>“U-Ừm...! Làm ơn dừng lại!\""
                             ]
                         },
                         {
@@ -5116,14 +5116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Hm? I didn’t request that kind of role-play. Try"
+                                "\\N<Middle-Aged Man>“Hả? Tôi không yêu cầu kiểu nhập vai đó. Thử"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "not to turn me off, okay?”"
+                                "đừng làm tôi tắt máy, được chứ?”"
                             ]
                         },
                         {
@@ -5184,7 +5184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“What are you talking about...? Hya! ♡”"
+                                "\\N<Kaori>“Bạn đang nói về cái gì vậy...? Hya! ♡”"
                             ]
                         },
                         {
@@ -5201,7 +5201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Heh heh! ♡ Sounds like your nips are sensitive. ♡”"
+                                "\\N<Middle-Aged Man>“Heh heh! ♡ Có vẻ như núm vú của bạn rất nhạy cảm. ♡”"
                             ]
                         },
                         {
@@ -5218,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“St-Stop, please...”"
+                                "\\N<Kaori>“Dừng lại, làm ơn…”"
                             ]
                         },
                         {
@@ -5235,7 +5235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Why are you...? Hm?”"
+                                "\\N<Middle-Aged Man>“Tại sao bạn lại...? Ừm?”"
                             ]
                         },
                         {
@@ -5252,7 +5252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Huh...!? You don’t look like the girl in the picture.”"
+                                "\\N<Middle-Aged Man>“Hả...!? Trông bạn không giống cô gái trong ảnh.”"
                             ]
                         },
                         {
@@ -5269,14 +5269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Y-You’re not the woman I ordered a happy ending from,"
+                                "\\N<Middle-Aged Man>“Y-Em không phải là người phụ nữ mà anh đã yêu cầu một kết thúc có hậu,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "are you?”"
+                                "Bạn có phải?\""
                             ]
                         },
                         {
@@ -5293,7 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“H-Happy ending...?”"
+                                "\\N<Kaori>“H-Kết thúc có hậu...?”"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“The hell...? I’ve got the wrong girl again!”"
+                                "\\N<Middle-Aged Man>“Cái quái gì vậy...? Tôi lại nhầm nhầm cô gái rồi!”"
                             ]
                         },
                         {
@@ -5327,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“Just let go of me, please!”"
+                                "\\N<Kaori>“Làm ơn thả tôi ra đi!”"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“Wh-Whoops! Sorry. ♡”"
+                                "\\N<Middle-Aged Man>“Ôi trời! Lấy làm tiếc. ♡”"
                             ]
                         },
                         {
@@ -5391,7 +5391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“C-Cannot believe you just touched me...”"
+                                "\\N<Kaori>“C-Không thể tin được là anh vừa chạm vào tôi…”"
                             ]
                         },
                         {
@@ -5415,7 +5415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“I said, I’m sorry... I mistook you for someone else.”"
+                                "\\N<Middle-Aged Man>“Tôi đã nói, tôi xin lỗi... tôi đã nhầm bạn với người khác.”"
                             ]
                         },
                         {
@@ -5432,14 +5432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“B-But, you know...! You happened to come here after I"
+                                "\\N<Middle-Aged Man>“N-Nhưng, bạn biết đấy…! Bạn tình cờ đến đây sau khi tôi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "requested an escort cosplaying as a priestess...”"
+                                "đã yêu cầu một người hộ tống cosplay thành nữ tu sĩ…”"
                             ]
                         },
                         {
@@ -5479,14 +5479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“I-I’m not sure what you’re talking about... but please"
+                                "\\N<Kaori>“Tôi-tôi không chắc bạn đang nói về điều gì... nhưng làm ơn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "don’t do that again.”"
+                                "đừng làm thế nữa.”"
                             ]
                         },
                         {
@@ -5535,7 +5535,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"Being mistaken for someone else led to that...\""
+                                "\"Bị nhầm với người khác dẫn đến việc đó...\""
                             ]
                         },
                         {
@@ -5546,7 +5546,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I know the gentleman didn’t mean to... but... Mmm...\""
+                                "\"Tôi biết quý ông đó không cố ý... nhưng... Mmm...\""
                             ]
                         },
                         {
@@ -5600,7 +5600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kaori’s Lewd rose by 2..."
+                                "Dâm dục của Kaori tăng 2..."
                             ]
                         },
                         {
@@ -5676,7 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Middle-Aged Man>“M-Man, you’ve got some nice tits. ♡”"
+                                "\\N<Middle-Aged Man>“M-Man, bạn có cặp vú đẹp đấy. ♡”"
                             ]
                         },
                         {
@@ -5716,7 +5716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>“P-Please stop...!”"
+                                "\\N<Kaori>“P-Xin hãy dừng lại...!”"
                             ]
                         },
                         {
@@ -5809,7 +5809,7 @@
         },
         {
             "id": 6,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -5876,7 +5876,7 @@
         },
         {
             "id": 7,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

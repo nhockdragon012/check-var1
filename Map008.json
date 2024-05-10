@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "Cobblestones5",
@@ -2917,7 +2917,7 @@
         null,
         {
             "id": 1,
-            "name": "Monster",
+            "name": "Quái vật",
             "note": "",
             "pages": [
                 {
@@ -2975,14 +2975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“There’s one...! It must be the apparition reported to"
+                                "\\N<Shizune>“Có một...! Đó chắc chắn là sự hiện ra được báo cáo cho"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "have been seen.”"
+                                "đã được nhìn thấy.\""
                             ]
                         },
                         {
@@ -2999,7 +2999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I should exorcise it before it harms someone.”"
+                                "\\N<Shizune>“Tôi nên Trừ tà cho nó trước khi nó làm hại ai đó.”"
                             ]
                         },
                         {
@@ -3067,7 +3067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Apparition>“Gue... Gue...”"
+                                "\\N<Apparition>“Gue... Gue…”"
                             ]
                         },
                         {
@@ -3144,7 +3144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Damn...! I let my guard down...!”"
+                                "\\N<Shizune>“Chết tiệt...! Tôi đã mất cảnh giác...!”"
                             ]
                         },
                         {
@@ -3161,7 +3161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Gotta shape up...”"
+                                "\\N<Shizune>“Phải định hình…”"
                             ]
                         },
                         {
@@ -3207,7 +3207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There is no Defeat Sex Event for this Event."
+                                "Không có Sự kiện Tình dục Đánh bại cho Sự kiện này."
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew. All done.”"
+                                "\\N<Shizune>“Phew. Tất cả đã được làm xong.\""
                             ]
                         },
                         {
@@ -3383,7 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“But man, those flames...”"
+                                "\\N<Shizune>“Nhưng anh bạn, những ngọn lửa đó…”"
                             ]
                         },
                         {
@@ -3400,21 +3400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“They caught me off guard when they suddenly circled"
+                                "\\N<Shizune>“Họ khiến tôi mất cảnh giác khi bất ngờ đi vòng quanh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "around toward me after flying off in random"
+                                "vòng về phía tôi sau khi bay ngẫu nhiên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "directions.”"
+                                "hướng.\""
                             ]
                         },
                         {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It was one troublesome yet effective technique.”"
+                                "\\N<Shizune>“Đó là một kỹ thuật rắc rối nhưng hiệu quả.”"
                             ]
                         },
                         {
@@ -3448,14 +3448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’m also skilled at using Arts that have to do with"
+                                "\\N<Shizune>“Tôi cũng có kỹ năng sử dụng Nghệ thuật liên quan đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "flames... Maybe I can use it too...”"
+                                "ngọn lửa… Có lẽ tôi cũng có thể sử dụng nó…”"
                             ]
                         },
                         {
@@ -3488,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll give it a try...”"
+                                "\\N<Shizune>“Tôi sẽ thử…”"
                             ]
                         },
                         {
@@ -3512,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Is this it!?”"
+                                "\\N<Shizune>“...Đây có phải là nó không!?”"
                             ]
                         },
                         {
@@ -3561,7 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Alright! I did it. ♪”"
+                                "\\N<Shizune>“Được rồi! Tôi đã làm nó. ♪”"
                             ]
                         },
                         {
@@ -3585,14 +3585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I gotta gain more and more experience to become a"
+                                "\\N<Shizune>“Tôi phải ngày càng tích lũy nhiều kinh nghiệm hơn để trở thành một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "great exorcist like Mother...!”"
+                                "nhà diệt quỷ vĩ đại như Mẹ…!”"
                             ]
                         },
                         {
@@ -3631,7 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shizune learned a new Art: Blaze Ring Surprise!"
+                                "Shizune đã học được một nghệ thuật mới: Chiếc nhẫn rực lửa bất ngờ!"
                             ]
                         },
                         {
@@ -3662,14 +3662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now then, I don’t sense the presence of any more"
+                                "\\N<Shizune>“Giờ thì, tôi không còn cảm nhận được sự hiện diện của nữa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "apparitions in this area...”"
+                                "sự hiện ra ở khu vực này…”"
                             ]
                         },
                         {
@@ -3693,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“No need to stick around. I’d better skedaddle.”"
+                                "\\N<Shizune>“Không cần phải ở lại. Tốt nhất là tôi nên trượt ván.”"
                             ]
                         },
                         {
@@ -3867,7 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I-I won’t fail this time...!”"
+                                "\\N<Shizune>“T-tôi sẽ không thất bại lần này…!”"
                             ]
                         },
                         {
@@ -3923,7 +3923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Apparition>“Gue... Gue...”"
+                                "\\N<Apparition>“Gue... Gue…”"
                             ]
                         },
                         {
@@ -3989,7 +3989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Damn...! I let my guard down...!”"
+                                "\\N<Shizune>“Chết tiệt...! Tôi đã mất cảnh giác...!”"
                             ]
                         },
                         {
@@ -4006,7 +4006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“Gotta shape up...”"
+                                "\\N<Shizune>“Phải định hình…”"
                             ]
                         },
                         {
@@ -4040,7 +4040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There is no Defeat Sex Event for this Event."
+                                "Không có Sự kiện Tình dục Đánh bại cho Sự kiện này."
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Phew. All done.”"
+                                "\\N<Shizune>“Phew. Tất cả đã được làm xong.\""
                             ]
                         },
                         {
@@ -4216,7 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“But man, those flames...”"
+                                "\\N<Shizune>“Nhưng anh bạn, những ngọn lửa đó…”"
                             ]
                         },
                         {
@@ -4233,21 +4233,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“They caught me off guard when they suddenly circled"
+                                "\\N<Shizune>“Họ khiến tôi mất cảnh giác khi bất ngờ đi vòng quanh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "around toward me after flying off in random"
+                                "vòng về phía tôi sau khi bay ngẫu nhiên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "directions.”"
+                                "hướng.\""
                             ]
                         },
                         {
@@ -4264,7 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It was one troublesome yet effective technique.”"
+                                "\\N<Shizune>“Đó là một kỹ thuật rắc rối nhưng hiệu quả.”"
                             ]
                         },
                         {
@@ -4281,14 +4281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’m also skilled at using Arts that have to do with"
+                                "\\N<Shizune>“Tôi cũng có kỹ năng sử dụng Nghệ thuật liên quan đến"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "flames... Maybe I can use it too...”"
+                                "ngọn lửa… Có lẽ tôi cũng có thể sử dụng nó…”"
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll give it a try...”"
+                                "\\N<Shizune>“Tôi sẽ thử…”"
                             ]
                         },
                         {
@@ -4345,7 +4345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Is this it!?”"
+                                "\\N<Shizune>“...Đây có phải là nó không!?”"
                             ]
                         },
                         {
@@ -4394,7 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Alright! I did it. ♪”"
+                                "\\N<Shizune>“Được rồi! Tôi đã làm nó. ♪”"
                             ]
                         },
                         {
@@ -4418,14 +4418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I gotta gain more and more experience to become a"
+                                "\\N<Shizune>“Tôi phải ngày càng tích lũy nhiều kinh nghiệm hơn để trở thành một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "great exorcist like Mother...!”"
+                                "nhà diệt quỷ vĩ đại như Mẹ…!”"
                             ]
                         },
                         {
@@ -4464,7 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shizune learned a new Art: Blaze Ring Surprise!"
+                                "Shizune đã học được một nghệ thuật mới: Chiếc nhẫn rực lửa bất ngờ!"
                             ]
                         },
                         {
@@ -4495,14 +4495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Now then, I don’t sense the presence of any more"
+                                "\\N<Shizune>“Giờ thì, tôi không còn cảm nhận được sự hiện diện của nữa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "apparitions in this area...”"
+                                "sự hiện ra ở khu vực này…”"
                             ]
                         },
                         {
@@ -4526,7 +4526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“No need to stick around. I’d better skedaddle.”"
+                                "\\N<Shizune>“Không cần phải ở lại. Tốt nhất là tôi nên trượt ván.”"
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
         },
         {
             "id": 2,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -4751,7 +4751,7 @@
         },
         {
             "id": 3,
-            "name": "Dude",
+            "name": "Anh bạn",
             "note": "",
             "pages": [
                 {
@@ -4793,7 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“Morning. Beautiful day, isn’t it?”"
+                                "\\N<Dude>“Chào buổi sáng. Một ngày đẹp trời phải không?”"
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Good morning. The sunshine sure feels great.”"
+                                "\\N<Shizune>“Chào buổi sáng. Ánh nắng chắc chắn sẽ rất tuyệt.”"
                             ]
                         },
                         {
@@ -4900,14 +4900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“I wish my son could go outside and play while the"
+                                "\\N<Dude>“Tôi ước con trai tôi có thể ra ngoài chơi trong khi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "weather is this nice...”"
+                                "thời tiết đẹp thế này…”"
                             ]
                         },
                         {
@@ -4975,14 +4975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“The sunlight is intense today... Be careful not to get"
+                                "\\N<Dude>“Hôm nay nắng gắt quá... Cẩn thận đừng để bị"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sunburned.”"
+                                "bị cháy nắng.”"
                             ]
                         },
                         {
@@ -4999,14 +4999,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Dude>“...I think my son should at least play under the sun a"
+                                "\\N<Dude>“...Tôi nghĩ con trai tôi ít nhất nên chơi dưới ánh mặt trời một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "little...”"
+                                "nhỏ bé...\""
                             ]
                         },
                         {
@@ -5090,14 +5090,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“He’s been getting too lively lately... I’m not sure"
+                                "\\N<Dude>“Gần đây anh ấy trở nên sôi nổi quá… Tôi không chắc lắm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "what to do...”"
+                                "phải làm gì…”"
                             ]
                         },
                         {
@@ -5156,7 +5156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Wha...!? You know better than to dress like that...”"
+                                "\\N<Dude>“Cái gì...!? Bạn biết rõ hơn là không nên ăn mặc như vậy…”"
                             ]
                         },
                         {
@@ -5173,7 +5173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“S-Sorry...”"
+                                "\\N<Shizune>“X-Xin lỗi…”"
                             ]
                         },
                         {
@@ -5232,14 +5232,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Wh-Why are you wearing that...!? ♡ Get changed this"
+                                "\\N<Dude>“Sao-Sao cậu lại mặc cái đó...!? ♡ Hãy thay đổi điều này"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "instant...!”"
+                                "lập tức...!\""
                             ]
                         },
                         {
@@ -5256,7 +5256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shizune>“O-Okay... Sorry.”"
+                                "\\N<Shizune>“O-Được rồi... Xin lỗi.”"
                             ]
                         },
                         {
@@ -5350,14 +5350,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“He’s been getting too lively lately... I’m not sure"
+                                "\\N<Dude>“Gần đây anh ấy trở nên sôi nổi quá… Tôi không chắc lắm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "what to do...”"
+                                "phải làm gì…”"
                             ]
                         },
                         {
@@ -5416,7 +5416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“Wha...!? M-Ma’am, why are you dressed like that...?”"
+                                "\\N<Dude>“Cái gì...!? M-Thưa cô, tại sao cô lại ăn mặc như vậy...?”"
                             ]
                         },
                         {
@@ -5433,7 +5433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I-I have my reasons...”"
+                                "\\N<Kaori>“T-tôi có lý do của mình…”"
                             ]
                         },
                         {
@@ -5492,14 +5492,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Dude>“How could you walk around the city dressed like"
+                                "\\N<Dude>“Làm sao bạn có thể đi dạo quanh thành phố trong trang phục như thế"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "th-that...!?”"
+                                "đ-cái đó...!?”"
                             ]
                         },
                         {
@@ -5516,7 +5516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Kaori>“I apologize. I’ll get changed right away...! ♡”"
+                                "\\N<Kaori>“Tôi xin lỗi. Tôi sẽ thay đồ ngay...! ♡”"
                             ]
                         },
                         {
@@ -5568,7 +5568,7 @@
         },
         {
             "id": 4,
-            "name": "Housewife A",
+            "name": "Bà nội trợ A",
             "note": "",
             "pages": [
                 {
@@ -5610,21 +5610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“I thought a young woman who recently moved here had"
+                                "\\N<Housewife>“Tôi nghĩ một phụ nữ trẻ mới chuyển đến đây đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "been living alone... but I see her with a boy"
+                                "đang sống một mình... nhưng tôi thấy cô ấy đi cùng một chàng trai trẻ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sometimes.”"
+                                "Thỉnh thoảng.\""
                             ]
                         },
                         {
@@ -5641,7 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“I’ve seen him too... Maybe she’s a single mom.”"
+                                "\\N<Housewife>“Tôi cũng đã gặp anh ấy rồi… Có lẽ cô ấy là một bà mẹ đơn thân.”"
                             ]
                         },
                         {
@@ -5665,14 +5665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I don’t think you should poke your nose in other"
+                                "\\N<Shizune>(Tôi không nghĩ bạn nên chõ mũi vào chỗ khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "people’s family affairs...)"
+                                "chuyện gia đình của mọi người...)"
                             ]
                         },
                         {
@@ -5747,21 +5747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“Hey... About that woman we talked about the other"
+                                "\\N<Housewife>“Này... Về người phụ nữ đó chúng ta đã nói về người kia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "day... I saw her bring a different boy with her"
+                                "ngày hôm nay... tôi thấy cô ấy mang theo một người đàn ông khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yesterday...”"
+                                "Hôm qua...\""
                             ]
                         },
                         {
@@ -5778,7 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“What? She must be up to something, then...”"
+                                "\\N<Housewife>“Cái gì? Vậy chắc cô ấy đang có chuyện gì đó…”"
                             ]
                         },
                         {
@@ -5802,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Couldn’t she just be playing with him...?)"
+                                "\\N<Kaori>(Không phải cô ấy chỉ chơi với anh ấy sao...?)"
                             ]
                         },
                         {
@@ -6189,7 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It’s locked..."
+                                "Nó bị khóa rồi..."
                             ]
                         },
                         {
@@ -6492,7 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tenants Wanted"
+                                "Cần người thuê nhà"
                             ]
                         },
                         {
@@ -6837,7 +6837,7 @@
         },
         {
             "id": 13,
-            "name": "Housewife B",
+            "name": "Bà nội trợ B",
             "note": "",
             "pages": [
                 {
@@ -6879,21 +6879,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“I thought a young woman who recently moved here had"
+                                "\\N<Housewife>“Tôi nghĩ một phụ nữ trẻ mới chuyển đến đây đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "been living alone... but I see her with a boy"
+                                "đang sống một mình... nhưng tôi thấy cô ấy đi cùng một chàng trai trẻ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sometimes.”"
+                                "Thỉnh thoảng.\""
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“I’ve seen him too... Maybe she’s a single mom.”"
+                                "\\N<Housewife>“Tôi cũng đã gặp anh ấy rồi… Có lẽ cô ấy là một bà mẹ đơn thân.”"
                             ]
                         },
                         {
@@ -6934,14 +6934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(I don’t think you should poke your nose in other"
+                                "\\N<Shizune>(Tôi không nghĩ bạn nên chõ mũi vào chỗ khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "people’s family affairs...)"
+                                "chuyện gia đình của mọi người...)"
                             ]
                         },
                         {
@@ -7016,21 +7016,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“Hey... About that woman we talked about the other"
+                                "\\N<Housewife>“Này... Về người phụ nữ đó chúng ta đã nói về người kia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "day... I saw her bring a different boy with her"
+                                "ngày hôm nay... tôi thấy cô ấy mang theo một người đàn ông khác"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "yesterday...”"
+                                "Hôm qua...\""
                             ]
                         },
                         {
@@ -7047,7 +7047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Housewife>“What? She must be up to something, then...”"
+                                "\\N<Housewife>“Cái gì? Vậy chắc cô ấy đang có chuyện gì đó…”"
                             ]
                         },
                         {
@@ -7071,7 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Kaori>(Couldn’t she just be playing with him...?)"
+                                "\\N<Kaori>(Không phải cô ấy chỉ chơi với anh ấy sao...?)"
                             ]
                         },
                         {
@@ -7164,7 +7164,7 @@
         },
         {
             "id": 14,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {

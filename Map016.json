@@ -1,4 +1,4 @@
-{
+﻿{
     "autoplayBgm": true,
     "autoplayBgs": false,
     "battleback1Name": "",
@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Equipment Shop",
+    "displayName": "Cửa hàng thiết bị",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1519,7 +1519,7 @@
         },
         {
             "id": 2,
-            "name": "Cat",
+            "name": "Con mèo",
             "note": "",
             "pages": [
                 {
@@ -1561,7 +1561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow? You’re back already?”"
+                                "\\N<Cat>“Meo meo? Cậu đã về rồi à?”"
                             ]
                         },
                         {
@@ -1647,7 +1647,7 @@
         },
         {
             "id": 3,
-            "name": "Introduction 3 Cat Event",
+            "name": "Giới Thiệu Sự Kiện 3 Mèo",
             "note": "",
             "pages": [
                 {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What’s this place...? An antique store?”"
+                                "\\N<Shizune>“Đây là nơi nào...? Cửa hàng đồ cổ à?”"
                             ]
                         },
                         {
@@ -1848,7 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Maybe it was built recently...”"
+                                "\\N<Shizune>“Có lẽ nó được xây dựng gần đây…”"
                             ]
                         },
                         {
@@ -1915,7 +1915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow!”"
+                                "\\N<Cat>“Meo meo!”"
                             ]
                         },
                         {
@@ -1948,7 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...A-A cat...?”"
+                                "\\N<Shizune>“...A-A con mèo...?”"
                             ]
                         },
                         {
@@ -1965,7 +1965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wonder if the store’s unattended...”"
+                                "\\N<Shizune>“Tự hỏi liệu cửa hàng có bị giám sát không…”"
                             ]
                         },
                         {
@@ -2037,14 +2037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Do my eyes deceive me...? Those clothes belong to the"
+                                "\\N<Cat>“Mắt tôi có đánh lừa tôi không...? Bộ quần áo đó thuộc về"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ayatsuji family!!”"
+                                "Gia đình Ayatsuji!!”"
                             ]
                         },
                         {
@@ -2068,7 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“HUH!?”"
+                                "\\N<Shizune>“Hả!?”"
                             ]
                         },
                         {
@@ -2085,7 +2085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Th-The cat... talked...!”"
+                                "\\N<Shizune>“Th-Con mèo... nói chuyện...!”"
                             ]
                         },
                         {
@@ -2109,14 +2109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow? This should come as no surprise if you’re a"
+                                "\\N<Cat>“Meo meo? Điều này sẽ không có gì ngạc nhiên nếu bạn là một"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "priestess of the Ayatsuji family...”"
+                                "nữ tư tế của gia đình Ayatsuji…”"
                             ]
                         },
                         {
@@ -2133,14 +2133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Your family’s newest members have been more purr-one"
+                                "\\N<Cat>“Các thành viên mới nhất của gia đình bạn đã trở nên thân thiện hơn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to surprises as of late...”"
+                                "đến những điều ngạc nhiên gần đây…”"
                             ]
                         },
                         {
@@ -2164,7 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What...? I’ve never heard of a talking cat...”"
+                                "\\N<Shizune>“Cái gì...? Tôi chưa bao giờ nghe nói đến một con mèo biết nói…”"
                             ]
                         },
                         {
@@ -2188,7 +2188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Could you be... some kind of apparition...!!!?”"
+                                "\\N<Shizune>“...Có thể nào bạn là... một loại ma quỷ nào đó...!!!?\""
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Hmm... Suppose you could call me that...”"
+                                "\\N<Cat>“Hmm... Giả sử bạn có thể gọi tôi như vậy…”"
                             ]
                         },
                         {
@@ -2229,7 +2229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“...But Meow assists humans, and humans assist Meow.”"
+                                "\\N<Cat>“...Nhưng Meow hỗ trợ con người và con người hỗ trợ Meow.”"
                             ]
                         },
                         {
@@ -2253,7 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Meow assists... What...?”"
+                                "\\N<Shizune>“Meo hỗ trợ... Cái gì...?”"
                             ]
                         },
                         {
@@ -2277,7 +2277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow is my name. Meow is referring to myself.”"
+                                "\\N<Cat>“Meo là tên tôi. Meow đang đề cập đến chính tôi.”"
                             ]
                         },
                         {
@@ -2301,7 +2301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“O-Oh... okay...”"
+                                "\\N<Shizune>“O-Ồ... được rồi…”"
                             ]
                         },
                         {
@@ -2318,7 +2318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“...You don’t seem to trust me very much.”"
+                                "\\N<Cat>“...Có vẻ như bạn không tin tưởng tôi lắm.”"
                             ]
                         },
                         {
@@ -2342,7 +2342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“C-Can you blame me...? You’re a talking cat...!”"
+                                "\\N<Shizune>“C-Bạn có thể đổ lỗi cho tôi không…? Cậu là một con mèo biết nói...!”"
                             ]
                         },
                         {
@@ -2366,7 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Hmm...”"
+                                "\\N<Cat>“Ừm…”"
                             ]
                         },
                         {
@@ -2383,14 +2383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow’d purr-fer getting along with the priestesses of"
+                                "\\N<Cat>“Meow'd gừ gừ hòa hợp với các nữ tu sĩ của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the Ayatsuji family...”"
+                                "gia đình Ayatsuji…”"
                             ]
                         },
                         {
@@ -2414,14 +2414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...H-Hmm... You can’t expect me to just act as if"
+                                "\\N<Shizune>“...H-Hmm... Bạn không thể mong đợi tôi hành động như thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "nothing is out of the ordinary...”"
+                                "không có gì bất thường cả…”"
                             ]
                         },
                         {
@@ -2438,7 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>(To be honest... it is really cute, though...)"
+                                "\\N<Shizune>(Thành thật mà nói... nó thực sự rất dễ thương...)"
                             ]
                         },
                         {
@@ -2462,7 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“How troublesome...”"
+                                "\\N<Cat>“Thật rắc rối…”"
                             ]
                         },
                         {
@@ -2479,14 +2479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Then... Meow’ll give you one thing fur free to make"
+                                "\\N<Cat>“Vậy thì... Meow sẽ cho bạn một thứ để làm miễn phí"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your acquaintance.”"
+                                "người quen của bạn.”"
                             ]
                         },
                         {
@@ -2510,14 +2510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...It’s just going to be something weird, isn’t"
+                                "\\N<Shizune>“...Sẽ có điều gì đó kỳ lạ phải không"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it...?”"
+                                "Nó...?\""
                             ]
                         },
                         {
@@ -2541,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“No, no!”"
+                                "\\N<Cat>“Không, không!”"
                             ]
                         },
                         {
@@ -2558,7 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Umm, Meow’s pretty sure it’s over here...”"
+                                "\\N<Cat>“Umm, Meow khá chắc là nó ở đằng này…”"
                             ]
                         },
                         {
@@ -2575,21 +2575,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“It is a box that holds ten talismans, protective"
+                                "\\N<Cat>“Đó là một chiếc hộp chứa mười lá bùa, bảo vệ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "charms that resist the spiritual power of"
+                                "sự quyến rũ chống lại sức mạnh tinh thần của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "apparitions...”"
+                                "sự xuất hiện…”"
                             ]
                         },
                         {
@@ -2606,14 +2606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“It also contains a brush that can detect spiritual"
+                                "\\N<Cat>“Nó cũng chứa một bàn chải có thể phát hiện tâm linh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "power.”"
+                                "quyền lực.\""
                             ]
                         },
                         {
@@ -2637,7 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Y-You have such a thing...!!?”"
+                                "\\N<Shizune>“...Y-Anh có thứ như vậy...!!?”"
                             ]
                         },
                         {
@@ -2654,7 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...What a coincidence... I’d like them all...”"
+                                "\\N<Shizune>“...Thật là trùng hợp... Tôi muốn tất cả…”"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Fur real? You can have them fur free, then!”"
+                                "\\N<Cat>“Lông thú thật à? Vậy thì bạn có thể cho chúng sạch lông rồi!”"
                             ]
                         },
                         {
@@ -2711,7 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What!? You sure...?”"
+                                "\\N<Shizune>“Cái gì!? Bạn chắc chắn...?\""
                             ]
                         },
                         {
@@ -2735,7 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Absolutely.”"
+                                "\\N<Cat>“Chắc chắn rồi.”"
                             ]
                         },
                         {
@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow wants to be friends with humans.”"
+                                "\\N<Cat>“Meo muốn làm bạn với con người.”"
                             ]
                         },
                         {
@@ -2776,7 +2776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“W-Well... I’ll take them, I guess...”"
+                                "\\N<Shizune>“Ch-Chà... tôi đoán là tôi sẽ lấy chúng…”"
                             ]
                         },
                         {
@@ -2800,14 +2800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Go ahead. Meow’ll bring the box to you now. Wait fur"
+                                "\\N<Cat>“Tiếp tục đi. Meow sẽ mang hộp đến cho bạn ngay bây giờ. Đợi lông"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "a meow-ment.”"
+                                "một tiếng meo meo.”"
                             ]
                         },
                         {
@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Here it is.”"
+                                "\\N<Cat>“Đây rồi.”"
                             ]
                         },
                         {
@@ -2895,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Wow... It’s neater than I thought...”"
+                                "\\N<Shizune>“Chà... Nó gọn gàng hơn tôi nghĩ…”"
                             ]
                         },
                         {
@@ -2919,14 +2919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow would never hand over junk to a priestess of the"
+                                "\\N<Cat>“Meow sẽ không bao giờ giao rác cho một nữ tu sĩ của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ayatsuji family.”"
+                                "Gia đình Ayatsuji.”"
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Thanks. I really appreciate it.”"
+                                "\\N<Shizune>“...Cảm ơn. Tôi rất trân trọng điều này.\""
                             ]
                         },
                         {
@@ -2974,7 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“You’re welcome.”"
+                                "\\N<Cat>“Không có gì.”"
                             ]
                         },
                         {
@@ -2998,7 +2998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Alright. I should be going now.”"
+                                "\\N<Shizune>“...Được rồi. Tôi nên đi bây giờ.”"
                             ]
                         },
                         {
@@ -3022,7 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Leaving already? We haven’t had a proper chat yet...”"
+                                "\\N<Cat>“Đã rời đi rồi à? Chúng ta vẫn chưa có một cuộc trò chuyện đàng hoàng…”"
                             ]
                         },
                         {
@@ -3046,7 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll come back when I have some spare time...”"
+                                "\\N<Shizune>“Khi nào rảnh tôi sẽ quay lại…”"
                             ]
                         },
                         {
@@ -3070,7 +3070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Sounds purr-fect. Meow is patient, so Meow will wait.”"
+                                "\\N<Cat>“Nghe có vẻ tuyệt vời. Meow kiên nhẫn nên Meow sẽ đợi.”"
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Be careful out there.”"
+                                "\\N<Cat>“Hãy cẩn thận khi ở ngoài đó.”"
                             ]
                         },
                         {
@@ -3111,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I will. Thanks. See you...”"
+                                "\\N<Shizune>“Tôi sẽ làm vậy. Cảm ơn. Thấy bạn...\""
                             ]
                         },
                         {
@@ -3164,14 +3164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...I started talking to it as if it was a person, but"
+                                "\\N<Shizune>“...Tôi bắt đầu nói chuyện với nó như thể nó là một người, nhưng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was caught off guard completely...”"
+                                "Tôi đã hoàn toàn mất cảnh giác…”"
                             ]
                         },
                         {
@@ -3188,7 +3188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Better make good use of the stuff I got.”"
+                                "\\N<Shizune>“Tốt hơn hết hãy tận dụng tốt những thứ tôi có.”"
                             ]
                         },
                         {
@@ -3205,14 +3205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...That said, it’s already late... I need to get"
+                                "\\N<Shizune>“...Nói vậy là đã muộn rồi... Tôi cần phải lấy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "home...”"
+                                "trang chủ...\""
                             ]
                         },
                         {
@@ -3229,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“And then... look for a lead on that fiend tomorrow.”"
+                                "\\N<Shizune>“Và sau đó... tìm kiếm manh mối về tên quái vật đó vào ngày mai.”"
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Go Home And Wait Until The Next Day\""
+                                "\"Về nhà và đợi đến ngày hôm sau\""
                             ]
                         },
                         {
@@ -3401,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow? You’re back already?”"
+                                "\\N<Cat>“Meo meo? Cậu đã về rồi à?”"
                             ]
                         },
                         {
@@ -3469,7 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow. Meow hasn’t seen you since yesterday.”"
+                                "\\N<Cat>“Meo. Meow đã không gặp bạn kể từ hôm qua."
                             ]
                         },
                         {
@@ -3486,14 +3486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow sincerely apologizes fur fur-getting to give you"
+                                "\\N<Cat>“Meo chân thành xin lỗi lông thú đã đưa cho bạn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "this item.”"
+                                "vật phẩm này.\""
                             ]
                         },
                         {
@@ -3517,14 +3517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Well, not like I absolutely needed it then. Don’t"
+                                "\\N<Shizune>“Chà, lúc đó tôi không thực sự cần nó. Đừng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "worry about it.”"
+                                "lo lắng về nó.\""
                             ]
                         },
                         {
@@ -3541,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“So, what sort of item is it?”"
+                                "\\N<Shizune>“Vậy, nó là loại vật phẩm gì?”"
                             ]
                         },
                         {
@@ -3565,14 +3565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“It is a very important valuable fur priestesses of"
+                                "\\N<Cat>“Đây là một nữ tu sĩ lông thú có giá trị rất quan trọng của"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the Ayatsuji family.”"
+                                "gia đình Ayatsuji.”"
                             ]
                         },
                         {
@@ -3596,21 +3596,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Haha...! Is it a hidden Art handed down in the"
+                                "\\N<Shizune>“Haha...! Đó có phải là một Nghệ thuật ẩn giấu được truyền lại trong"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ayatsuji family... or a talisman once used to seal away"
+                                "Gia đình Ayatsuji... hay một lá bùa từng được dùng để phong ấn"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "an almighty apparition...!?”"
+                                "một sự xuất hiện toàn năng...!?”"
                             ]
                         },
                         {
@@ -3634,7 +3634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’m dying to know. ♪”"
+                                "\\N<Shizune>“Tôi rất muốn biết. ♪”"
                             ]
                         },
                         {
@@ -3658,7 +3658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Uh, it’s nothing like that at all.”"
+                                "\\N<Cat>“Ừm, không hề như vậy chút nào.”"
                             ]
                         },
                         {
@@ -3682,7 +3682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Aww... Then, what on earth is it?”"
+                                "\\N<Shizune>“Aww... Thế thì, cái quái gì vậy?”"
                             ]
                         },
                         {
@@ -3706,14 +3706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“It’s an item purr-fect fur priestesses of the Ayatsuji"
+                                "\\N<Cat>“Đó là một món đồ có lông thú tuyệt vời dành cho các nữ tu sĩ của Ayatsuji"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family who take on Muramara.”"
+                                "gia đình tiếp quản Muramara.”"
                             ]
                         },
                         {
@@ -3753,7 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“G-Give it to me now! I need that...!”"
+                                "\\N<Shizune>“G-Đưa nó cho tôi ngay! Tôi cần nó...!\""
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Okay, okay. Settle down.”"
+                                "\\N<Cat>“Được rồi, được rồi. Ổn định.\""
                             ]
                         },
                         {
@@ -3794,14 +3794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The cat used her small paws to hand something squarish"
+                                "Con mèo dùng bàn chân nhỏ của mình để đưa một vật gì đó vuông vức"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "to Shizune..."
+                                "tới Shizune..."
                             ]
                         },
                         {
@@ -3818,7 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Here you go. This is the item.”"
+                                "\\N<Cat>“Đây rồi. Đây là món đồ này.”"
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What is this? Looks fishy.”"
+                                "\\N<Shizune>“Đây là cái gì? Có vẻ tanh.”"
                             ]
                         },
                         {
@@ -3866,14 +3866,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“It is a tool that indicates its user’s sexual"
+                                "\\N<Cat>“Đây là một công cụ cho biết giới tính của người dùng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "experiences in full detail.”"
+                                "trải nghiệm đầy đủ chi tiết.”"
                             ]
                         },
                         {
@@ -3913,7 +3913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“HUH!? S-Sexual experiences...!”"
+                                "\\N<Shizune>“Hả!? C-Trải nghiệm tình dục…!”"
                             ]
                         },
                         {
@@ -3930,7 +3930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“H-How is this going to be of any help!?”"
+                                "\\N<Shizune>“H-Cái này sẽ giúp ích được gì đây!?”"
                             ]
                         },
                         {
@@ -3954,7 +3954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Paw-lease. This is a very important item.”"
+                                "\\N<Cat>“Cho thuê chân. Đây là một hạng mục rất quan trọng.”"
                             ]
                         },
                         {
@@ -3971,14 +3971,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“No matter how strong a priestess of the Ayatsuji"
+                                "\\N<Cat>“Cho dù nữ tu sĩ của Ayatsuji có mạnh đến đâu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "family is...”"
+                                "gia đình là...\""
                             ]
                         },
                         {
@@ -3995,14 +3995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“If they end up doing something sexual, they will be"
+                                "\\N<Cat>“Nếu họ làm điều gì đó liên quan đến tình dục, họ sẽ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "affected by Muramara’s Obscenities.”"
+                                "bị ảnh hưởng bởi Tục tĩu của Muramara.”"
                             ]
                         },
                         {
@@ -4019,14 +4019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“And it is very difficult fur someone to get a sense of"
+                                "\\N<Cat>“Và rất khó để ai đó có thể hiểu được"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "how much they’re being affected...”"
+                                "họ bị ảnh hưởng đến mức nào…”"
                             ]
                         },
                         {
@@ -4043,14 +4043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“But no need to fear! This item will quantify your"
+                                "\\N<Cat>“Nhưng không cần phải sợ! Mục này sẽ định lượng"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sexual experiences fur you!”"
+                                "trải nghiệm tình dục làm bạn thích thú!”"
                             ]
                         },
                         {
@@ -4067,14 +4067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“With it, Meow believes you will have a much easier"
+                                "\\N<Cat>“Với nó, Meow tin rằng bạn sẽ dễ dàng hơn nhiều"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "time dealing with that fiend.”"
+                                "đã đến lúc phải đối phó với tên ác quỷ đó rồi.”"
                             ]
                         },
                         {
@@ -4114,7 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“B-But...!!”"
+                                "\\N<Shizune>“N-Nhưng...!!”"
                             ]
                         },
                         {
@@ -4131,21 +4131,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“It even keeps track of how many times I’ve been"
+                                "\\N<Shizune>“Nó thậm chí còn theo dõi số lần tôi đã"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sexually harassed... a-and will note who I lose my"
+                                "quấy rối tình dục... a-và sẽ lưu ý ai là người tôi đã mất"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "v-virginity to... That has nothing to do with this!”"
+                                "v-trinh đến... Chuyện đó không liên quan gì đến chuyện này cả!”"
                             ]
                         },
                         {
@@ -4169,7 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Hmm... It may have some sort of relation.”"
+                                "\\N<Cat>“Hmm... Nó có thể có mối quan hệ nào đó.”"
                             ]
                         },
                         {
@@ -4186,14 +4186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Meow didn’t make it, so Meow doesn’t know fur sure..."
+                                "\\N<Cat>“Meow không làm được nên Meow không biết chắc chắn..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then again...”"
+                                "Sau đó một lần nữa...\""
                             ]
                         },
                         {
@@ -4210,7 +4210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“...It could just be the fetish of its creator.”"
+                                "\\N<Cat>“...Nó có thể chỉ là sự tôn sùng của người tạo ra nó.”"
                             ]
                         },
                         {
@@ -4259,7 +4259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What an unpleasant item...!”"
+                                "\\N<Shizune>“Thật là một món đồ khó chịu…!”"
                             ]
                         },
                         {
@@ -4283,14 +4283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“The creator had to have been a man... Only a man would"
+                                "\\N<Shizune>“Người sáng tạo phải là một người đàn ông... Chỉ có một người đàn ông mới"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "make something like this...!”"
+                                "làm một cái gì đó như thế này...!”"
                             ]
                         },
                         {
@@ -4314,21 +4314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“...At any rate, Meow suggests you take a peek at it"
+                                "\\N<Cat>“...Dù sao đi nữa, Meow khuyên bạn nên xem qua nó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "from time to time after you per-fur-m some kind of sex"
+                                "thỉnh thoảng sau khi bạn quan hệ tình dục một kiểu nào đó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "act.”"
+                                "hành động.\""
                             ]
                         },
                         {
@@ -4368,7 +4368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“What do you mean, WHEN!?”"
+                                "\\N<Shizune>“Ý bạn là gì, KHI NÀO!?”"
                             ]
                         },
                         {
@@ -4392,7 +4392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“N-Never mind.”"
+                                "\\N<Cat>“K-Không sao đâu.”"
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“One more thing...”"
+                                "\\N<Cat>“Còn một điều nữa…”"
                             ]
                         },
                         {
@@ -4426,14 +4426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Apparently, an a-paw-lling amount of Obscenities have"
+                                "\\N<Cat>“Rõ ràng, có rất nhiều nội dung tục tĩu có"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "been sensed at a nearby school recently.”"
+                                "gần đây đã được cảm nhận ở ngôi trường bỏ hoang gần đó.”"
                             ]
                         },
                         {
@@ -4457,7 +4457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“School...!? You mean the one I go to!?”"
+                                "\\N<Shizune>“Trường học bị bỏ hoang...!? Ý bạn là cái ở trong thị trấn!?”"
                             ]
                         },
                         {
@@ -4474,14 +4474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“How are there still so many after I was assaulted"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "after class...?”"
+                                "\\N<Shizune>“…”"
                             ]
                         },
                         {
@@ -4505,7 +4498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Hmm... Purr-haps, it’s the other way around.”"
+                                "\\N<Cat>“Hmm... Purr-có lẽ, ngược lại.”"
                             ]
                         },
                         {
@@ -4522,21 +4515,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“The Obscenities there may be severe enough to cause"
+                                "\\N<Cat>“Những hành vi tục tĩu ở đó có thể nghiêm trọng đến mức gây ra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "humans to lose their minds. Such Obscenities can only"
+                                "con người mất trí. Những lời tục tĩu như vậy chỉ có thể"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "belong to a Sex Fiend of unbelievable power.”"
+                                "thuộc về một Sex Fiend có sức mạnh không thể tin nổi.”"
                             ]
                         },
                         {
@@ -4560,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“That means...”"
+                                "\\N<Shizune>“Điều đó có nghĩa là…”"
                             ]
                         },
                         {
@@ -4584,7 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“There might be a Sex Fiend in my school.”"
+                                "\\N<Shizune>“Có thể có Kẻ cuồng tình dục ở đó.”"
                             ]
                         },
                         {
@@ -4608,14 +4601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Indeed. It’s either a random, fur-midable Sex Fiend,"
+                                "\\N<Cat>“Thật vậy. Đó là một Kẻ tình dục ngẫu nhiên, đáng yêu,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "or...”"
+                                "hoặc...\""
                             ]
                         },
                         {
@@ -4663,7 +4656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“That’s what one would come to believe.”"
+                                "\\N<Cat>“Đó là điều người ta sẽ tin tưởng.”"
                             ]
                         },
                         {
@@ -4680,14 +4673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Sex Fiends are more active at night. Meow recommends"
+                                "\\N<Cat>“Quỷ tình dục hoạt động mạnh hơn vào ban đêm. Meow đề nghị"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "going there after sundown.”"
+                                "đến đó sau khi mặt trời lặn.”"
                             ]
                         },
                         {
@@ -4711,7 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Alright... Thanks for all you’ve done today.”"
+                                "\\N<Shizune>“Được rồi... Cảm ơn vì tất cả những gì bạn đã làm ngày hôm nay.”"
                             ]
                         },
                         {
@@ -4751,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“B-But... I don’t think I’m going to use this item...”"
+                                "\\N<Shizune>“N-Nhưng... tôi không nghĩ mình sẽ sử dụng vật phẩm này…”"
                             ]
                         },
                         {
@@ -4775,14 +4768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Well, just give it a try when you think the time is"
+                                "\\N<Cat>“Chà, hãy thử khi bạn nghĩ đã đến lúc"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "right.”"
+                                "Phải.\""
                             ]
                         },
                         {
@@ -4822,7 +4815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“O-Only if it will actually be of help...”"
+                                "\\N<Shizune>“O-Chỉ khi nó thực sự có ích…”"
                             ]
                         },
                         {
@@ -4869,7 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“...Well, it’s about time I left.”"
+                                "\\N<Shizune>“...Chà, đã đến lúc tôi phải rời đi rồi.”"
                             ]
                         },
                         {
@@ -4893,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“I’ll come back in the near future.”"
+                                "\\N<Shizune>“Tôi sẽ quay lại trong thời gian tới.”"
                             ]
                         },
                         {
@@ -4917,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Haha... Meow looks fur-ward to it.”"
+                                "\\N<Cat>“Haha... Meow trông có vẻ thích thú với nó.”"
                             ]
                         },
                         {
@@ -4970,7 +4963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Investigating the school at night... huh...?”"
+                                "\\N<Shizune>“Điều tra một ngôi trường bỏ hoang vào ban đêm… hả…?”"
                             ]
                         },
                         {
@@ -4987,14 +4980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Anything could be in store for me there, so I should"
+                                "\\N<Shizune>“Mọi thứ đều có thể sẵn sàng cho tôi ở đó, vì vậy tôi nên"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "prepare and rest up until nightfall.”"
+                                "chuẩn bị và nghỉ ngơi cho đến khi màn đêm buông xuống.”"
                             ]
                         },
                         {
@@ -5011,7 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Might as well take this item with me...”"
+                                "\\N<Shizune>“Có lẽ tôi nên mang theo món đồ này…”"
                             ]
                         },
                         {
@@ -5067,7 +5060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“Not like I’m ever going to use it, though...”"
+                                "\\N<Shizune>“Tuy nhiên, có vẻ như tôi sẽ không bao giờ sử dụng nó…”"
                             ]
                         },
                         {
@@ -5123,14 +5116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shizune>“J-Just want to put it away... and never look at it"
+                                "\\N<Shizune>“J-Chỉ muốn cất nó đi… và không bao giờ nhìn vào nó"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "again...”"
+                                "lại...\""
                             ]
                         },
                         {
@@ -5186,21 +5179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "State Display has been unlocked. Checking Shizune’s and"
+                                "Hiển thị trạng thái đã được mở khóa. Kiểm tra Shizune và"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kaori’s sexual experiences is now possible from the"
+                                "Trải nghiệm tình dục của Kaori giờ đây có thể thực hiện được từ"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Menu."
+                                "Thực đơn."
                             ]
                         },
                         {
@@ -5322,7 +5315,7 @@
                                 15,
                                 0,
                                 4,
-                                "\"Wh-Why does this even exist...?\""
+                                "\"T-Tại sao thứ này lại tồn tại...?\""
                             ]
                         },
                         {
@@ -5333,7 +5326,7 @@
                                 16,
                                 0,
                                 4,
-                                "\"Nothing but creepy details are on it...\""
+                                "\"Không có gì ngoài những chi tiết rùng rợn trên đó...\""
                             ]
                         },
                         {
@@ -5344,7 +5337,7 @@
                                 17,
                                 0,
                                 4,
-                                "\"Hates men who eye up her thicc body.\""
+                                "\"Ghét những người đàn ông để mắt tới thân hình săn chắc của cô.\""
                             ]
                         },
                         {
@@ -5355,7 +5348,7 @@
                                 18,
                                 0,
                                 4,
-                                "\"Like, really, really hates them.\""
+                                "\"Giống như, thực sự, thực sự ghét họ.\""
                             ]
                         },
                         {
@@ -5377,7 +5370,7 @@
                                 22,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -5388,7 +5381,7 @@
                                 24,
                                 0,
                                 4,
-                                "\"Husband\""
+                                "\"Chồng\""
                             ]
                         },
                         {
@@ -5487,7 +5480,7 @@
                                 35,
                                 0,
                                 4,
-                                "\"M-My numbers must be visible to Shizune as well...\""
+                                "\"M-Số của tôi chắc chắn cũng được Shizune nhìn thấy...\""
                             ]
                         },
                         {
@@ -5498,7 +5491,7 @@
                                 36,
                                 0,
                                 4,
-                                "\"I know it’s needed info, but it’s still embarrassing...\""
+                                "\"Tôi biết đó là thông tin cần thiết, nhưng vẫn thấy xấu hổ...\""
                             ]
                         },
                         {
@@ -5509,7 +5502,7 @@
                                 37,
                                 0,
                                 4,
-                                "\"Loves her husband, who has left the world before her.\""
+                                "\"Yêu chồng, người đã rời bỏ thế giới trước cô.\""
                             ]
                         },
                         {
@@ -5520,7 +5513,7 @@
                                 38,
                                 0,
                                 4,
-                                "\"Never thought about dating another man.\""
+                                "\"Chưa bao giờ nghĩ đến việc hẹn hò với người đàn ông khác.\""
                             ]
                         },
                         {
@@ -5531,7 +5524,7 @@
                                 41,
                                 0,
                                 4,
-                                "\"Return To The Bedroom At The Shrine & Wait Until Night\""
+                                "\"Trở về phòng ngủ ở đền thờ và đợi đến đêm\""
                             ]
                         },
                         {
@@ -5630,7 +5623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Cat>“Seems as though a Sex Fiend is targeting a school.”"
+                                "\\N<Cat>“Có vẻ như Sex Fiend đang nhắm mục tiêu vào một trường học.”"
                             ]
                         },
                         {
@@ -5809,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Increase Lewd?"
+                                "Tăng dâm dục?"
                             ]
                         },
                         {
@@ -5817,9 +5810,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Increase Shizune’s Lewd By 20",
-                                    "Increase Kaori’s Lewd By 20",
-                                    "Back"
+                                    "Tăng mức độ dâm ô của Shizune lên 20",
+                                    "Tăng mức độ dâm ô của Kaori lên 20",
+                                    "Quay lại"
                                 ],
                                 2,
                                 0,
@@ -5832,7 +5825,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Increase Shizune’s Lewd By 20"
+                                "Tăng mức độ dâm ô của Shizune lên 20"
                             ]
                         },
                         {
@@ -5861,7 +5854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Shizune’s Lewd increased by 20"
+                                "Sự dâm đãng của Shizune tăng thêm 20"
                             ]
                         },
                         {
@@ -5885,7 +5878,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Increase Kaori’s Lewd By 20"
+                                "Tăng mức độ dâm ô của Kaori lên 20"
                             ]
                         },
                         {
@@ -5914,7 +5907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kaori’s Lewd increased by 20"
+                                "Sự dâm đãng của Kaori tăng thêm 20"
                             ]
                         },
                         {
@@ -5938,7 +5931,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Back"
+                                "Quay lại"
                             ]
                         },
                         {
@@ -5983,7 +5976,7 @@
         },
         {
             "id": 6,
-            "name": "Shizune Script",
+            "name": "Kịch bản Shizune",
             "note": "",
             "pages": [
                 {
@@ -6050,7 +6043,7 @@
         },
         {
             "id": 7,
-            "name": "Kaori Script",
+            "name": "Chữ viết Kaori",
             "note": "",
             "pages": [
                 {
